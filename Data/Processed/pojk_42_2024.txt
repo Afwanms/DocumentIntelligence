@@ -1,0 +1,4646 @@
+=== Halaman 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SALINAN 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 42 TAHUN 2024 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI LEMBAGA PEMBIAYAAN, 
+PERUSAHAAN MODAL VENTURA, LEMBAGA KEUANGAN MIKRO, DAN 
+LEMBAGA JASA KEUANGAN LAINNYA 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN, 
+ 
+ 
+ 
+Menimbang  :  bahwa untuk melaksanakan amanat Pasal 122 ayat (3) dan 
+Pasal 269 Undang-Undang Nomor 4 Tahun 2023 tentang 
+Pengembangan dan Penguatan Sektor Keuangan, perlu 
+menetapkan Peraturan Otoritas Jasa Keuangan tentang 
+Penerapan Manajemen Risiko bagi Lembaga Pembiayaan, 
+Perusahaan Modal Ventura, Lembaga Keuangan Mikro, dan 
+Lembaga Jasa Keuangan Lainnya; 
+ 
+Mengingat 
+: 1. 
+Undang-Undang Nomor 21 Tahun 2011 tentang 
+Otoritas Jasa Keuangan (Lembaran Negara Republik 
+Indonesia 
+Tahun 
+2011 
+Nomor 
+111, 
+Tambahan 
+Lembaran Negara Republik Indonesia Nomor 5253) 
+sebagaimana telah diubah dengan Undang-Undang 
+Nomor 4 Tahun 2023 tentang Pengembangan dan 
+Penguatan 
+Sektor 
+Keuangan 
+(Lembaran 
+Negara 
+Republik Indonesia Tahun 2023 Nomor 4, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6845); 
+ 
+ 
+2.  Undang-Undang 
+Nomor 
+4 
+Tahun 
+2023 
+tentang 
+Pengembangan 
+dan 
+Penguatan 
+Sektor 
+Keuangan 
+(Lembaran Negara Republik Indonesia Tahun 2023 
+Nomor 4, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6845);  
+ 
+MEMUTUSKAN: 
+ 
+Menetapkan : PERATURAN 
+OTORITAS 
+JASA 
+KEUANGAN 
+TENTANG 
+PENERAPAN 
+MANAJEMEN 
+RISIKO 
+BAGI 
+LEMBAGA 
+PEMBIAYAAN, PERUSAHAAN MODAL VENTURA, LEMBAGA 
+KEUANGAN MIKRO, DAN LEMBAGA JASA KEUANGAN 
+LAINNYA. 
+ 
+ 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 2 ===
+ 
+- 2 -  
+BAB I 
+KETENTUAN UMUM 
+ 
+Pasal 1 
+Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud 
+dengan: 
+1. 
+Lembaga Pembiayaan, Perusahaan Modal Ventura, 
+Lembaga 
+Keuangan 
+Mikro, 
+dan 
+Lembaga 
+Jasa 
+Keuangan Lainnya yang selanjutnya disebut PVML 
+adalah 
+lembaga 
+jasa 
+keuangan 
+yang 
+meliputi 
+perusahaan pembiayaan, perusahaan pembiayaan 
+infrastruktur, perusahaan modal ventura, lembaga 
+keuangan 
+mikro, 
+perusahaan 
+pergadaian, 
+penyelenggara layanan pendanaan bersama berbasis 
+teknologi informasi, Lembaga Pembiayaan Ekspor 
+Indonesia, 
+perusahaan 
+pembiayaan 
+sekunder 
+perumahan, PT Permodalan Nasional Madani, Badan 
+Pengelola Tabungan Perumahan Rakyat, PT Sarana 
+Multi 
+Infrastruktur 
+(Persero), 
+dan 
+lembaga 
+jasa 
+keuangan lainnya. 
+2. 
+Perusahaan Pembiayaan adalah badan hukum yang 
+melakukan kegiatan pembiayaan barang dan/atau jasa 
+kepada masyarakat, termasuk yang menyelenggarakan 
+kegiatan usahanya berdasarkan prinsip syariah. 
+3. 
+Perusahaan Pembiayaan Infrastruktur adalah badan 
+hukum yang khusus didirikan untuk melakukan 
+kegiatan pembiayaan dalam bentuk penyediaan dana 
+pada proyek infrastruktur dan/atau pelaksanaan 
+kegiatan 
+atau 
+fasilitas 
+lainnya 
+dalam 
+rangka 
+mendukung pembiayaan infrastruktur, termasuk yang 
+menyelenggarakan kegiatan usahanya berdasarkan 
+prinsip syariah. 
+4. 
+Perusahaan Modal Ventura adalah badan hukum yang 
+melakukan kegiatan usaha modal ventura, termasuk 
+yang 
+menyelenggarakan 
+kegiatan 
+usahanya 
+berdasarkan prinsip syariah. 
+5. 
+Lembaga Keuangan Mikro adalah lembaga keuangan 
+yang khusus didirikan untuk memberikan jasa 
+pengembangan usaha dan pemberdayaan masyarakat, 
+baik melalui pinjaman atau pembiayaan dalam usaha 
+skala 
+mikro 
+kepada 
+anggota 
+dan 
+masyarakat, 
+pengelolaan 
+simpanan, 
+maupun 
+pemberian 
+jasa 
+konsultasi pengembangan usaha yang tidak semata-
+mata 
+mencari 
+keuntungan, 
+termasuk 
+yang 
+menyelenggarakan kegiatan usahanya berdasarkan 
+prinsip syariah. 
+6. 
+Perusahaan Pergadaian adalah badan hukum yang 
+melakukan 
+kegiatan 
+usaha 
+pemberian 
+pinjaman 
+dengan jaminan benda bergerak, termasuk yang 
+menyelenggarakan kegiatan usahanya berdasarkan 
+prinsip syariah. 
+7. 
+Penyelenggara Layanan Pendanaan Bersama Berbasis 
+Teknologi 
+Informasi 
+yang 
+selanjutnya 
+disebut 
+Penyelenggara LPBBTI adalah badan hukum Indonesia 
+yang menyediakan, mengelola, dan mengoperasikan 
+penyelenggaraan 
+layanan 
+jasa 
+keuangan 
+untuk 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 3 ===
+ 
+- 3 -  
+mempertemukan pemberi dana dengan penerima dana 
+dalam melakukan pendanaan baik secara konvensional 
+maupun berdasarkan prinsip syariah secara langsung 
+melalui 
+sistem 
+elektronik 
+dengan 
+menggunakan 
+internet. 
+8. 
+Perusahaan Pembiayaan Sekunder Perumahan adalah 
+perusahaan yang didirikan oleh Pemerintah Republik 
+Indonesia untuk melakukan pembiayaan sekunder 
+perumahan dan kegiatan lain yang terkait dengan 
+pengembangan 
+pasar 
+pembiayaan 
+sekunder 
+perumahan. 
+9. 
+Lembaga 
+Pembiayaan 
+Ekspor 
+Indonesia 
+yang 
+selanjutnya 
+disingkat 
+LPEI 
+adalah 
+Lembaga 
+Pembiayaan Ekspor Indonesia sebagaimana dimaksud 
+dalam Undang-Undang mengenai Lembaga Pembiayaan 
+Ekspor Indonesia. 
+10. PT Permodalan Nasional Madani yang selanjutnya 
+disebut PT PNM adalah perusahaan yang didirikan 
+berdasarkan Peraturan Pemerintah Republik Indonesia 
+Nomor 38 Tahun 1999 tentang Penyertaan Modal 
+Negara 
+Republik 
+Indonesia 
+untuk 
+Pendirian 
+Perusahaan 
+Perseroan 
+(Persero) 
+dalam 
+rangka 
+Pengembangan Koperasi, Usaha Kecil dan Menengah. 
+11. Badan Pengelola Tabungan Perumahan Rakyat yang 
+selanjutnya disebut BP Tapera adalah badan hukum 
+yang dibentuk untuk mengelola tabungan perumahan 
+rakyat. 
+12. PT 
+Sarana 
+Multi 
+Infrastruktur 
+(Persero) 
+yang 
+selanjutnya disebut PT SMI (Persero) adalah badan 
+usaha milik negara yang didirikan berdasarkan 
+Peraturan Pemerintah Nomor 66 Tahun 2007 tentang 
+Penyertaan Modal Negara Republik Indonesia untuk 
+Pendirian Perusahaan Perseroan (Persero) di Bidang 
+Pembiayaan Infrastruktur sebagaimana telah diubah 
+terakhir dengan Peraturan Pemerintah Nomor 53 Tahun 
+2020 tentang Perubahan Kedua atas Peraturan 
+Pemerintah Nomor 66 Tahun 2007 tentang Penyertaan 
+Modal Negara Republik Indonesia untuk Pendirian 
+Perusahaan Perseroan (Persero) di Bidang Pembiayaan 
+Infrastruktur. 
+13. Risiko adalah potensi kerugian yang tidak dapat 
+dikendalikan dan/atau dapat dikendalikan akibat 
+terjadinya suatu peristiwa tertentu. 
+14. Manajemen Risiko adalah serangkaian prosedur dan 
+metodologi yang digunakan untuk mengidentifikasi, 
+mengukur, mengendalikan, dan memantau Risiko yang 
+timbul dari seluruh kegiatan usaha PVML. 
+15. Risiko Kredit adalah Risiko akibat kegagalan pihak lain 
+dalam memenuhi kewajiban kepada PVML. 
+16. Risiko Pasar adalah Risiko pada posisi aset, liabilitas, 
+ekuitas, dan/atau rekening administratif termasuk 
+transaksi 
+derivatif 
+akibat 
+perubahan 
+secara 
+keseluruhan dari kondisi pasar. 
+17. Risiko 
+Operasional 
+adalah 
+Risiko 
+akibat 
+ketidakcukupan dan/atau tidak berfungsinya proses 
+internal, 
+kesalahan 
+manusia, 
+kegagalan 
+sistem, 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 4 ===
+ 
+- 4 -  
+dan/atau 
+adanya 
+kejadian 
+eksternal 
+yang 
+memengaruhi operasional PVML. 
+18. Risiko Strategis adalah Risiko akibat ketidaktepatan 
+dalam pengambilan dan/atau pelaksanaan suatu 
+keputusan 
+strategis 
+serta 
+kegagalan 
+dalam 
+mengantisipasi perubahan lingkungan bisnis. 
+19. Risiko 
+Likuiditas 
+adalah 
+Risiko 
+akibat 
+ketidakmampuan PVML untuk memenuhi liabilitas 
+yang jatuh tempo dari sumber pendanaan arus kas 
+dan/atau dari aset likuid yang dapat dengan mudah 
+dikonversi menjadi kas, tanpa mengganggu aktivitas 
+dan kondisi keuangan PVML. 
+20. Risiko Hukum adalah Risiko yang timbul akibat 
+tuntutan hukum dan/atau kelemahan aspek hukum. 
+21. Risiko Kepatuhan adalah Risiko akibat PVML tidak 
+mematuhi dan/atau tidak melaksanakan peraturan 
+perundang-undangan dan ketentuan yang berlaku bagi 
+PVML. 
+22. Risiko Reputasi adalah Risiko akibat menurunnya 
+tingkat kepercayaan pemangku kepentingan yang 
+bersumber dari persepsi negatif terhadap PVML. 
+23. Risiko Asuransi adalah Risiko kegagalan LPEI untuk 
+memenuhi 
+kewajiban 
+kepada 
+pemegang 
+polis, 
+tertanggung, 
+atau 
+peserta 
+sebagai 
+akibat 
+dari 
+ketidakcukupan proses seleksi Risiko (underwriting), 
+penetapan 
+premi 
+atau 
+kontribusi, 
+penggunaan 
+reasuransi, dan/atau penanganan klaim. 
+24. Direksi adalah organ PVML yang berwenang dan 
+bertanggung jawab penuh atas pengurusan PVML 
+untuk kepentingan PVML, sesuai dengan maksud dan 
+tujuan PVML serta mewakili PVML, baik di dalam 
+maupun di luar pengadilan sesuai dengan ketentuan 
+anggaran dasar bagi PVML yang berbentuk badan 
+hukum perseroan terbatas, atau yang setara dengan 
+Direksi bagi PVML yang berbentuk badan hukum 
+koperasi, LPEI, atau BP Tapera. 
+25. Pengelola adalah pihak yang diangkat oleh Direksi yang 
+berbadan hukum koperasi dan diberi wewenang serta 
+kuasa untuk mengelola usaha PVML yang berbadan 
+hukum koperasi. 
+26. Dewan Komisaris adalah organ PVML yang bertugas 
+melakukan 
+pengawasan 
+secara 
+umum 
+dan/atau 
+khusus sesuai dengan anggaran dasar serta memberi 
+nasihat kepada Direksi bagi PVML yang berbentuk 
+badan hukum perseroan terbatas, atau yang setara 
+dengan Dewan Komisaris bagi PVML yang berbentuk 
+badan hukum koperasi, LPEI, atau BP Tapera. 
+27. Dewan Pengawas Syariah yang selanjutnya disingkat 
+DPS adalah pihak yang memiliki tugas dan fungsi 
+pengawasan terhadap penyelenggaraan kegiatan PVML 
+agar sesuai dengan prinsip syariah.  
+28. Prinsip 
+Syariah 
+adalah 
+prinsip 
+hukum 
+Islam 
+berdasarkan fatwa dan/atau pernyataan kesesuaian 
+syariah yang dikeluarkan oleh lembaga yang memiliki 
+kewenangan dalam penetapan fatwa di bidang syariah. 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 5 ===
+ 
+- 5 -  
+BAB II 
+PENERAPAN MANAJEMEN RISIKO 
+ 
+Pasal 2 
+(1) 
+PVML wajib menerapkan Manajemen Risiko secara 
+efektif. 
+(2) 
+Penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) paling sedikit mencakup: 
+a. 
+pengawasan aktif Direksi, Dewan Komisaris, DPS, 
+dan Pengelola; 
+b. 
+kecukupan kebijakan, prosedur, dan penetapan 
+limit Risiko; 
+c. 
+kecukupan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko, serta 
+sistem informasi Manajemen Risiko; dan 
+d. 
+sistem pengendalian internal yang menyeluruh. 
+(3) 
+Dalam menerapkan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1), PVML wajib memiliki pedoman 
+penerapan Manajemen Risiko. 
+(4) 
+Ketentuan 
+lebih 
+lanjut 
+mengenai 
+penerapan 
+Manajemen Risiko sebagaimana dimaksud pada ayat (1) 
+ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Pasal 3 
+Penerapan Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 2 wajib disesuaikan dengan tujuan, kebijakan, usaha, 
+ukuran, kompleksitas usaha, dan kemampuan PVML. 
+ 
+Pasal 4 
+(1) 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 
+2 ayat (1) bagi Perusahaan Pembiayaan, Perusahaan 
+Pembiayaan Infrastruktur, Perusahaan Modal Ventura, 
+Perusahaan 
+Pembiayaan 
+Sekunder 
+Perumahan,  
+PT PNM, BP Tapera, dan PT SMI (Persero) wajib 
+diterapkan untuk: 
+a. 
+Risiko Kredit; 
+b. 
+Risiko Pasar; 
+c. 
+Risiko Operasional; 
+d. 
+Risiko Strategis; 
+e. 
+Risiko Likuiditas; 
+f. 
+Risiko Hukum; 
+g. 
+Risiko Kepatuhan; dan 
+h. 
+Risiko Reputasi. 
+(2) 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 
+2 ayat (1) bagi LPEI wajib diterapkan untuk: 
+a. 
+Risiko Kredit; 
+b. 
+Risiko Pasar; 
+c. 
+Risiko Operasional; 
+d. 
+Risiko Strategis; 
+e. 
+Risiko Likuiditas; 
+f. 
+Risiko Hukum; 
+g. 
+Risiko Kepatuhan; 
+h. 
+Risiko Reputasi; dan 
+i. 
+Risiko Asuransi. 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 6 ===
+ 
+- 6 -  
+(3) 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 
+2 ayat (1) bagi Penyelenggara LPBBTI wajib diterapkan 
+paling sedikit untuk: 
+a. 
+Risiko Kredit; 
+b. 
+Risiko Operasional; 
+c. 
+Risiko Strategis; 
+d. 
+Risiko Hukum; 
+e. 
+Risiko Kepatuhan; dan 
+f. 
+Risiko Reputasi. 
+(4) 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 
+2 ayat (1) bagi Perusahaan Pergadaian:  
+a. 
+dengan lingkup wilayah usaha nasional wajib 
+diterapkan paling sedikit untuk: 
+1. 
+Risiko Kredit; 
+2. 
+Risiko Pasar; 
+3. 
+Risiko Operasional; 
+4. 
+Risiko Strategis; 
+5. 
+Risiko Likuiditas; 
+6. 
+Risiko Hukum; 
+7. 
+Risiko Kepatuhan; dan 
+8. 
+Risiko Reputasi; 
+b. 
+dengan lingkup wilayah usaha provinsi wajib 
+diterapkan paling sedikit untuk: 
+1. 
+Risiko Kredit; 
+2. 
+Risiko Pasar; 
+3. 
+Risiko Operasional; 
+4. 
+Risiko Strategis; 
+5. 
+Risiko Likuiditas; 
+6. 
+Risiko Hukum; 
+7. 
+Risiko Kepatuhan; dan 
+8. 
+Risiko Reputasi; dan 
+c. 
+dengan lingkup wilayah usaha kabupaten/kota 
+wajib diterapkan paling sedikit untuk: 
+1. 
+Risiko Kredit; 
+2. 
+Risiko Operasional; 
+3. 
+Risiko Strategis; 
+4. 
+Risiko Likuiditas;  
+5. 
+Risiko Hukum;  
+6. 
+Risiko Kepatuhan; dan 
+7. 
+Risiko Reputasi. 
+(5) 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 
+2 ayat (1) bagi Lembaga Keuangan Mikro: 
+a. 
+dengan skala usaha besar wajib diterapkan untuk: 
+1. 
+Risiko Kredit; 
+2. 
+Risiko Operasional; 
+3. 
+Risiko Likuiditas; 
+4. 
+Risiko Hukum;  
+5. 
+Risiko Kepatuhan; dan 
+6. 
+Risiko Reputasi; 
+b. 
+dengan skala usaha menengah wajib diterapkan 
+untuk: 
+1. 
+Risiko Kredit;  
+2. 
+Risiko Operasional; dan 
+3. 
+Risiko Likuiditas; dan 
+c. 
+dengan skala usaha kecil wajib diterapkan untuk: 
+1. 
+Risiko Kredit;  
+https://jdih.ojk.go.id/
+
+
+=== Halaman 7 ===
+ 
+- 7 -  
+2. 
+Risiko Operasional; dan 
+3. 
+Risiko Likuiditas. 
+ 
+Pasal 5 
+(1) 
+PVML dapat menetapkan Risiko lain di luar Risiko 
+sebagaimana dimaksud dalam Pasal 4 yang timbul dari 
+pelaksanaan kegiatan usaha PVML setelah mendapat 
+persetujuan dari Otoritas Jasa Keuangan. 
+(2) 
+Otoritas Jasa Keuangan dapat meminta PVML untuk 
+menetapkan Risiko lain di luar Risiko sebagaimana 
+dimaksud dalam Pasal 4 yang timbul dari pelaksanaan 
+kegiatan usaha PVML, termasuk risiko terkait Prinsip 
+Syariah. 
+(3) 
+PVML wajib memenuhi permintaan Otoritas Jasa 
+Keuangan untuk menetapkan Risiko lain sebagaimana 
+dimaksud pada ayat (2). 
+(4) 
+Ketentuan lebih lanjut mengenai tata cara penetapan 
+Risiko lain di luar Risiko sebagaimana dimaksud pada 
+ayat (1) dan tata cara Otoritas Jasa Keuangan meminta 
+PVML untuk menetapkan Risiko lain sebagaimana 
+dimaksud pada ayat (2) ditetapkan oleh Otoritas Jasa 
+Keuangan. 
+ 
+Pasal 6 
+(1) 
+PVML 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 2 ayat (1), ayat (3), Pasal 3, Pasal 
+4, 
+dan/atau 
+Pasal 
+5 
+ayat 
+(3), 
+dikenai 
+sanksi 
+administratif berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembekuan 
+sebagian 
+atau 
+seluruh 
+kegiatan 
+usaha; 
+c. 
+pembatasan kegiatan usaha tertentu; 
+d. 
+penurunan hasil penilaian tingkat Risiko; 
+e. 
+pembatalan persetujuan; 
+f. 
+larangan menjadi pemegang saham pengendali, 
+Direksi, 
+Dewan 
+Komisaris, 
+DPS, 
+dan/atau 
+Pengelola; dan/atau 
+g. 
+denda administratif. 
+(2) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b dan huruf c dikecualikan bagi Perusahaan 
+Pembiayaan Sekunder Perumahan, LPEI, BP Tapera,  
+PT PNM, dan PT SMI (Persero). 
+(3) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b sampai dengan huruf g dapat dikenakan 
+dengan atau tanpa didahului pengenaan sanksi 
+administratif berupa peringatan tertulis sebagaimana 
+dimaksud pada ayat (1) huruf a. 
+(4) 
+Sanksi 
+administratif 
+berupa 
+denda 
+administratif 
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan 
+paling banyak Rp50.000.000,00 (lima puluh juta 
+rupiah). 
+(5) 
+Dalam 
+hal 
+PVML 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi administratif. 
+(6) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 8 ===
+ 
+- 8 -  
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+administratif berupa peringatan tertulis yang berakhir 
+dengan sendirinya. 
+(7) 
+Selain sanksi administratif sebagaimana dimaksud 
+pada ayat (1), Otoritas Jasa Keuangan berwenang: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan; 
+b. 
+melakukan penilaian kembali terhadap pihak 
+utama 
+yang 
+menyebabkan 
+PVML 
+melanggar 
+ketentuan sebagaimana dimaksud pada ayat (1), 
+dan/atau 
+c. 
+melakukan pencatatan rekam jejak terhadap pihak 
+yang menyebabkan PVML melanggar ketentuan 
+sebagaimana dimaksud pada ayat (1) dalam sistem 
+elektronik Otoritas Jasa Keuangan. 
+ 
+BAB III 
+PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, 
+DEWAN PENGAWAS SYARIAH, DAN PENGELOLA 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 7 
+PVML wajib menetapkan wewenang dan tanggung jawab 
+pada setiap jenjang jabatan yang terkait dengan penerapan 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 2. 
+ 
+Bagian Kedua 
+Wewenang dan Tanggung Jawab Direksi dan Pengelola 
+ 
+Pasal 8 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 7 bagi Direksi dan Pengelola paling sedikit: 
+a. 
+menyusun kebijakan dan strategi Manajemen 
+Risiko secara tertulis dan komprehensif; 
+b. 
+bertanggung jawab atas pelaksanaan kebijakan 
+Manajemen Risiko dan eksposur Risiko yang 
+diambil oleh PVML secara keseluruhan; 
+c. 
+mengevaluasi dan memutuskan transaksi dan 
+limit Risiko yang memerlukan persetujuan Direksi 
+dan Pengelola; 
+d. 
+mengembangkan budaya Manajemen Risiko pada 
+seluruh jenjang organisasi; 
+e. 
+memastikan peningkatan kompetensi sumber daya 
+manusia yang terkait dengan Manajemen Risiko; 
+f. 
+memastikan bahwa fungsi Manajemen Risiko telah 
+beroperasi secara independen; dan 
+g. 
+melaksanakan kaji ulang secara berkala untuk 
+memastikan: 
+1. 
+keakuratan metodologi penilaian Risiko; 
+2. 
+kecukupan implementasi sistem informasi 
+Manajemen Risiko; dan 
+3. 
+ketepatan 
+kebijakan 
+dan 
+prosedur 
+Manajemen Risiko serta penetapan limit 
+Risiko. 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 9 ===
+ 
+- 9 -  
+(2) 
+Wewenang dan tanggung jawab Direksi dan Pengelola 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1) 
+huruf 
+a 
+dikecualikan bagi LPEI. 
+(3) 
+Wewenang dan tanggung jawab Direksi dan Pengelola 
+sebagaimana dimaksud pada ayat (1) huruf e dan huruf 
+g dapat dikecualikan bagi Lembaga Keuangan Mikro 
+skala usaha besar dan Perusahaan Pergadaian dengan 
+lingkup wilayah usaha provinsi. 
+(4) 
+Wewenang dan tanggung jawab Direksi dan Pengelola 
+sebagaimana dimaksud pada ayat (1) huruf e, huruf f, 
+dan huruf g dapat dikecualikan bagi Lembaga 
+Keuangan 
+Mikro 
+skala 
+usaha 
+menengah 
+dan 
+Perusahaan Pergadaian dengan lingkup wilayah usaha 
+kabupaten/kota. 
+(5) 
+Wewenang dan tanggung jawab Direksi dan Pengelola 
+sebagaimana dimaksud pada ayat (1) huruf d, huruf e, 
+huruf f, dan huruf g dapat dikecualikan bagi Lembaga 
+Keuangan Mikro skala usaha kecil. 
+(6) 
+Kebijakan dan strategi Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dievaluasi secara 
+berkala paling sedikit 1 (satu) kali dalam 1 (satu) tahun 
+dan setiap saat dalam hal terdapat faktor yang 
+memengaruhi kegiatan usaha PVML secara signifikan. 
+(7) 
+Tanggung 
+jawab 
+Direksi 
+dan 
+Pengelola 
+atas 
+pelaksanaan kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf b termasuk: 
+a. 
+mengevaluasi 
+dan 
+memberikan 
+arahan 
+berdasarkan laporan yang disampaikan oleh 
+fungsi Manajemen Risiko; dan 
+b. 
+penyampaian 
+laporan 
+pertanggungjawaban 
+kepada Dewan Komisaris dan DPS:  
+1. 
+paling sedikit 1 (satu) kali dalam 1 (satu) 
+tahun, bagi PVML selain LPEI; atau 
+2. 
+paling sedikit 1 (satu) kali dalam 6 (enam) 
+bulan, bagi LPEI. 
+(8) 
+Dalam rangka melaksanakan wewenang dan tanggung 
+jawab sebagaimana dimaksud pada ayat (1), Direksi 
+dan Pengelola wajib memiliki pemahaman mengenai 
+Risiko yang melekat pada seluruh aktivitas fungsional 
+PVML 
+dan 
+mampu 
+mengambil 
+tindakan 
+yang 
+diperlukan sesuai dengan profil Risiko PVML. 
+ 
+Bagian Ketiga 
+Wewenang dan Tanggung Jawab Dewan Komisaris 
+ 
+Pasal 9 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 7 bagi Dewan Komisaris paling sedikit: 
+a. 
+menyetujui 
+dan 
+mengevaluasi 
+kebijakan 
+Manajemen Risiko; 
+b. 
+mengevaluasi pertanggungjawaban Direksi dan 
+Pengelola atas pelaksanaan kebijakan Manajemen 
+Risiko sebagaimana dimaksud dalam huruf a; dan 
+c. 
+mengevaluasi 
+dan 
+memutuskan 
+permohonan 
+Direksi yang berkaitan dengan transaksi dan limit 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 10 ===
+ 
+- 10 -  
+Risiko yang memerlukan persetujuan Dewan 
+Komisaris. 
+(2) 
+Selain wewenang dan tanggung jawab sebagaimana 
+dimaksud pada ayat (1), Dewan Komisaris bagi LPEI 
+memiliki kewenangan dan tanggung jawab untuk 
+menyusun kebijakan dan strategi Manajemen Risiko 
+secara tertulis dan komprehensif. 
+(3) 
+Wewenang dan tanggung jawab Dewan Komisaris 
+sebagaimana dimaksud pada ayat (1) huruf b dapat 
+dikecualikan bagi Lembaga Keuangan Mikro skala 
+usaha menengah dan Perusahaan Pergadaian dengan 
+lingkup wilayah usaha kabupaten/kota. 
+(4) 
+Wewenang dan tanggung jawab Dewan Komisaris 
+sebagaimana dimaksud pada ayat (1) huruf b dan huruf 
+c dapat dikecualikan bagi Lembaga Keuangan Mikro 
+skala usaha kecil. 
+(5) 
+Evaluasi kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dilakukan paling sedikit 
+1 (satu) kali dalam 1 (satu) tahun dan setiap saat dalam 
+hal terdapat faktor yang memengaruhi kegiatan usaha 
+PVML secara signifikan. 
+(6) 
+Evaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf b dilakukan:  
+a. 
+paling sedikit 1 (satu) kali dalam 1 (satu) tahun, 
+bagi PVML selain LPEI; atau 
+b. 
+paling sedikit 1 (satu) kali dalam 6 (enam) bulan, 
+bagi LPEI. 
+ 
+Bagian Keempat 
+Wewenang dan Tanggung Jawab Dewan Pengawas Syariah 
+ 
+Pasal 10 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 7 bagi DPS paling sedikit: 
+a. 
+mengevaluasi kebijakan Manajemen Risiko yang 
+terkait dengan pemenuhan Prinsip Syariah; dan 
+b. 
+mengevaluasi pertanggungjawaban Direksi dan 
+Pengelola atas pelaksanaan kebijakan Manajemen 
+Risiko yang terkait dengan pemenuhan Prinsip 
+Syariah sebagaimana dimaksud dalam huruf a. 
+(2) 
+Evaluasi kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dilakukan paling sedikit 
+1 (satu) kali dalam 1 (satu) tahun dan setiap saat dalam 
+hal terdapat faktor yang memengaruhi kegiatan usaha 
+PVML secara signifikan. 
+(3) 
+Evaluasi pertanggungjawaban Direksi dan Pengelola 
+atas pelaksanaan kebijakan Manajemen Risiko yang 
+terkait 
+dengan 
+pemenuhan 
+Prinsip 
+Syariah 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1) 
+huruf 
+b 
+dilakukan: 
+a. 
+paling sedikit 1 (satu) kali dalam 1 (satu) tahun, 
+bagi PVML selain LPEI; atau 
+b. 
+paling sedikit 1 (satu) kali dalam 6 (enam) bulan, 
+bagi LPEI. 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 11 ===
+ 
+- 11 -  
+Pasal 11 
+(1) 
+PVML 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 7 dan/atau Pasal 8 ayat (8) 
+dikenai sanksi administratif berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembekuan 
+sebagian 
+atau 
+seluruh 
+kegiatan 
+usaha; 
+c. 
+pembatasan kegiatan usaha tertentu; 
+d. 
+penurunan hasil penilaian tingkat Risiko; 
+e. 
+pembatalan persetujuan; 
+f. 
+larangan menjadi pemegang saham pengendali, 
+Direksi, 
+Dewan 
+Komisaris, 
+DPS, 
+dan/atau 
+Pengelola; dan/atau 
+g. 
+denda administratif. 
+(2) 
+Sanksi sebagaimana dimaksud pada ayat (1) huruf b 
+dan huruf c dikecualikan bagi Perusahaan Pembiayaan 
+Sekunder Perumahan, LPEI, BP Tapera, PT PNM, dan 
+PT SMI (Persero). 
+(3) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b sampai dengan huruf g dapat dikenakan 
+dengan atau tanpa didahului pengenaan sanksi 
+administratif berupa peringatan tertulis sebagaimana 
+dimaksud pada ayat (1) huruf a. 
+(4) 
+Sanksi 
+administratif 
+berupa 
+denda 
+administratif 
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan 
+paling banyak Rp50.000.000,00 (lima puluh juta 
+rupiah). 
+(5) 
+Dalam 
+hal 
+PVML 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi administratif. 
+(6) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+administratif berupa peringatan tertulis yang berakhir 
+dengan sendirinya. 
+(7) 
+Selain sanksi administratif sebagaimana dimaksud 
+pada 
+ayat 
+(1), 
+Otoritas 
+Jasa 
+Keuangan              
+berwenang: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan; 
+b. 
+melakukan penilaian kembali terhadap pihak 
+utama 
+yang 
+menyebabkan 
+PVML 
+melanggar 
+ketentuan sebagaimana dimaksud pada ayat (1); 
+dan/atau 
+c. 
+melakukan pencatatan rekam jejak terhadap  
+pihak 
+yang 
+menyebabkan 
+PVML 
+melanggar 
+ketentuan sebagaimana dimaksud pada ayat        
+(1) 
+dalam 
+sistem 
+elektronik 
+Otoritas 
+Jasa 
+Keuangan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 12 ===
+ 
+- 12 -  
+BAB IV 
+KECUKUPAN KEBIJAKAN, PROSEDUR,  
+DAN PENETAPAN LIMIT RISIKO 
+ 
+Bagian Kesatu  
+Kecukupan Kebijakan Manajemen Risiko 
+ 
+Pasal 12 
+(1) 
+Kecukupan Kebijakan Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 2 ayat (2) huruf b paling sedikit 
+memuat: 
+a. 
+penetapan Risiko yang terkait dengan kegiatan 
+usaha PVML; 
+b. 
+penetapan penggunaan metode pengukuran dan 
+sistem informasi Manajemen Risiko; 
+c. 
+penetapan tingkat Risiko yang akan diambil, 
+penetapan toleransi Risiko, dan penentuan limit 
+Risiko; 
+d. 
+penetapan penilaian peringkat Risiko; 
+e. 
+penyusunan rencana darurat dalam kondisi 
+terburuk; dan 
+f. 
+penetapan sistem pengendalian internal dalam 
+penerapan Manajemen Risiko. 
+(2) 
+Kebijakan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) huruf b dan huruf d dapat dikecualikan 
+bagi Lembaga Keuangan Mikro skala usaha menengah 
+dan Perusahaan Pergadaian dengan lingkup wilayah 
+usaha kabupaten/kota. 
+(3) 
+Kebijakan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) huruf b, huruf d, dan huruf f dikecualikan 
+bagi Lembaga Keuangan Mikro skala usaha kecil. 
+ 
+Bagian Kedua 
+Prosedur Manajemen Risiko dan Penetapan Limit Risiko 
+ 
+Pasal 13 
+(1) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf b 
+wajib disesuaikan dengan tingkat Risiko yang akan 
+diambil terhadap Risiko PVML. 
+(2) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud pada ayat (1) paling sedikit 
+memuat: 
+a. 
+akuntabilitas dan jenjang delegasi wewenang; 
+b. 
+pelaksanaan 
+kaji 
+ulang 
+terhadap 
+prosedur 
+Manajemen Risiko dan penetapan limit Risiko 
+secara berkala paling sedikit 1 (satu) kali dalam 1 
+(satu) tahun; dan 
+c. 
+dokumentasi prosedur Manajemen Risiko dan 
+penetapan limit Risiko secara memadai. 
+(3) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud pada ayat (2) huruf b dapat 
+dikecualikan bagi Lembaga Keuangan Mikro skala 
+usaha menengah dan Perusahaan Pergadaian dengan 
+lingkup wilayah usaha kabupaten/kota. 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 13 ===
+ 
+- 13 -  
+(4) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud pada ayat (2) huruf b dan huruf 
+c dapat dikecualikan bagi Lembaga Keuangan Mikro 
+skala usaha kecil. 
+(5) 
+Penetapan limit Risiko sebagaimana dimaksud pada 
+ayat (2) wajib mencakup: 
+a. 
+limit secara keseluruhan; 
+b. 
+limit per jenis Risiko; dan 
+c. 
+limit per aktivitas fungsional dan transaksi 
+tertentu yang memiliki eksposur Risiko. 
+(6) 
+Penetapan limit Risiko sebagaimana dimaksud pada 
+ayat (5) huruf b dan huruf c dapat dikecualikan bagi 
+Lembaga Keuangan Mikro skala usaha kecil. 
+ 
+Pasal 14 
+(1) 
+PVML 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 13 ayat (1) dan/atau ayat (5) 
+dikenai sanksi administratif berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembekuan 
+sebagian 
+atau 
+seluruh 
+kegiatan 
+usaha; 
+c. 
+pembatasan kegiatan usaha tertentu; 
+d. 
+penurunan hasil penilaian tingkat Risiko; 
+e. 
+pembatalan persetujuan; 
+f. 
+larangan menjadi pemegang saham pengendali, 
+Direksi, 
+Dewan 
+Komisaris, 
+DPS, 
+dan/atau 
+Pengelola; dan/atau 
+g. 
+denda administratif. 
+(2) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b dan huruf c dikecualikan bagi Perusahaan 
+Pembiayaan Sekunder Perumahan, LPEI, BP Tapera,  
+PT PNM, dan PT SMI (Persero). 
+(3) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b sampai dengan huruf g dapat dikenakan 
+dengan atau tanpa didahului pengenaan sanksi 
+administratif berupa peringatan tertulis sebagaimana 
+dimaksud pada ayat (1) huruf a. 
+(4) 
+Sanksi 
+administratif 
+berupa 
+denda 
+administratif 
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan 
+paling banyak Rp50.000.000,00 (lima puluh juta 
+rupiah). 
+(5) 
+Dalam 
+hal 
+PVML 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi administratif. 
+(6) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+administratif berupa peringatan tertulis yang berakhir 
+dengan sendirinya. 
+(7) 
+Selain sanksi administratif sebagaimana dimaksud 
+pada ayat (1), Otoritas Jasa Keuangan berwenang: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan; 
+b. 
+melakukan penilaian kembali terhadap pihak 
+utama 
+yang 
+menyebabkan 
+PVML 
+melanggar 
+ketentuan sebagaimana dimaksud pada ayat (1); 
+dan/atau 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 14 ===
+ 
+- 14 -  
+c. 
+melakukan pencatatan rekam jejak terhadap pihak 
+yang menyebabkan PVML melanggar ketentuan 
+sebagaimana dimaksud pada ayat (1) dalam sistem 
+elektronik Otoritas Jasa Keuangan. 
+ 
+BAB V 
+KECUKUPAN PROSES IDENTIFIKASI, PENGUKURAN, 
+PEMANTAUAN, DAN PENGENDALIAN RISIKO, SERTA 
+SISTEM INFORMASI MANAJEMEN RISIKO 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 15 
+(1) 
+PVML 
+wajib 
+melakukan 
+proses 
+identifikasi, 
+pengukuran, pemantauan, dan pengendalian Risiko 
+sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf c 
+terhadap faktor Risiko yang bersifat material. 
+(2) 
+Pelaksanaan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko sebagaimana 
+dimaksud pada ayat (1) wajib didukung oleh: 
+a. 
+sistem informasi manajemen yang andal dan tepat 
+waktu; 
+b. 
+laporan yang akurat dan informatif mengenai 
+kondisi keuangan, kinerja aktivitas fungsional, 
+dan eksposur Risiko PVML; dan 
+c. 
+sumber daya manusia yang memiliki kompetensi 
+di bidang Manajemen Risiko. 
+(3) 
+Pelaksanaan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko sebagaimana 
+dimaksud pada ayat (2) huruf c dapat dikecualikan bagi 
+Lembaga Keuangan Mikro skala usaha menengah dan 
+Perusahaan Pergadaian dengan lingkup wilayah usaha 
+kabupaten/kota. 
+(4) 
+Pelaksanaan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko sebagaimana 
+dimaksud pada ayat (2) huruf a dan huruf c dapat 
+dikecualikan bagi Lembaga Keuangan Mikro skala 
+usaha kecil. 
+ 
+Bagian Kedua 
+Proses Identifikasi, Pengukuran, Pemantauan, dan 
+Pengendalian Risiko 
+ 
+Pasal 16 
+(1) 
+Untuk melaksanakan proses identifikasi Risiko, PVML 
+wajib melakukan analisis paling sedikit terhadap: 
+a. 
+karakteristik Risiko yang melekat pada PVML; dan 
+b. 
+Risiko dari kegiatan usaha PVML. 
+(2) 
+Untuk melaksanakan pengukuran Risiko, PVML wajib 
+melakukan paling sedikit: 
+a. 
+evaluasi secara berkala paling sedikit: 
+1. 
+1 (satu) kali dalam 1 (satu) tahun, bagi PVML 
+selain LPEI; atau  
+2. 
+1 (satu) kali dalam 6 (enam) bulan, bagi LPEI, 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 15 ===
+ 
+- 15 -  
+terhadap kesesuaian asumsi, sumber data, dan 
+prosedur yang digunakan untuk mengukur Risiko; 
+dan 
+b. 
+penyesuaian terhadap proses pengukuran Risiko 
+dalam hal terdapat perubahan kegiatan usaha 
+PVML dan faktor Risiko yang bersifat material. 
+(3) 
+Untuk melaksanakan pemantauan Risiko, PVML wajib 
+melakukan paling sedikit: 
+a. 
+evaluasi terhadap eksposur Risiko; dan 
+b. 
+penyesuaian proses pelaporan atas perubahan 
+yang bersifat material terhadap: 
+1. 
+kegiatan usaha; 
+2. 
+faktor Risiko; 
+3. 
+teknologi informasi; dan 
+4. 
+sistem informasi Manajemen Risiko PVML. 
+(4) 
+PVML wajib melaksanakan proses pengendalian Risiko 
+untuk 
+mengelola 
+Risiko 
+tertentu 
+yang 
+dapat 
+membahayakan kelangsungan usaha PVML. 
+ 
+Bagian Ketiga 
+Sistem Informasi Manajemen Risiko 
+ 
+Pasal 17 
+(1) 
+Sistem informasi Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 2 ayat (2) huruf c wajib 
+didukung oleh sumber daya manusia yang memiliki 
+kompetensi di bidang sistem informasi Manajemen 
+Risiko. 
+(2) 
+Kewajiban dukungan sumber daya manusia yang 
+memiliki kompetensi di bidang sistem informasi 
+Manajemen Risiko sebagaimana dimaksud pada ayat (1) 
+dapat dikecualikan bagi Lembaga Keuangan Mikro 
+skala usaha menengah dan kecil serta Perusahaan 
+Pergadaian 
+dengan 
+lingkup 
+wilayah 
+usaha 
+kabupaten/kota. 
+(3) 
+Sistem informasi Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 2 ayat (2) huruf c, mencakup 
+laporan atau informasi paling sedikit mengenai: 
+a. 
+eksposur Risiko; 
+b. 
+kepatuhan terhadap kebijakan Manajemen Risiko 
+sebagaimana dimaksud dalam Pasal 12 serta 
+prosedur Manajemen Risiko dan penetapan limit 
+Risiko sebagaimana dimaksud dalam Pasal 13; dan 
+c. 
+realisasi 
+pelaksanaan 
+Manajemen 
+Risiko 
+dibandingkan dengan target yang ditetapkan. 
+(4) 
+Laporan atau informasi yang dihasilkan dari sistem 
+informasi Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) harus disampaikan secara rutin kepada 
+Direksi atau Pengelola. 
+ 
+Pasal 18 
+(1) 
+PVML 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 15 ayat (1), ayat (2), Pasal 16, 
+dan/atau Pasal 17 ayat (1) dikenai sanksi administratif 
+berupa: 
+a. 
+peringatan tertulis; 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 16 ===
+ 
+- 16 -  
+b. 
+pembekuan 
+sebagian 
+atau 
+seluruh 
+kegiatan 
+usaha; 
+c. 
+pembatasan kegiatan usaha tertentu; 
+d. 
+penurunan hasil penilaian tingkat Risiko; 
+e. 
+pembatalan persetujuan; 
+f. 
+larangan menjadi pemegang saham pengendali, 
+Direksi, 
+Dewan 
+Komisaris, 
+DPS, 
+dan/atau 
+Pengelola; dan/atau 
+g. 
+denda administratif. 
+(2) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b dan huruf c dikecualikan bagi Perusahaan 
+Pembiayaan Sekunder Perumahan, LPEI, BP Tapera,  
+PT PNM, dan PT SMI (Persero). 
+(3) 
+Sanksi administratif sebagaimana pada ayat (1) huruf b 
+sampai dengan huruf g dapat dikenakan dengan atau 
+tanpa didahului pengenaan sanksi administratif berupa 
+peringatan tertulis sebagaimana dimaksud pada ayat 
+(1) huruf a. 
+(4) 
+Sanksi 
+administratif 
+berupa 
+denda 
+administratif 
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan 
+paling banyak Rp50.000.000,00 (lima puluh juta 
+rupiah). 
+(5) 
+Dalam 
+hal 
+PVML 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi administratif. 
+(6) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+administratif berupa peringatan tertulis yang berakhir 
+dengan sendirinya. 
+(7) 
+Selain sanksi administratif sebagaimana dimaksud 
+pada ayat (1), Otoritas Jasa Keuangan berwenang: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan; 
+b. 
+melakukan penilaian kembali terhadap pihak 
+utama 
+yang 
+menyebabkan 
+PVML 
+melanggar 
+ketentuan sebagaimana dimaksud pada ayat (1); 
+dan/atau 
+c. 
+melakukan pencatatan rekam jejak terhadap pihak 
+yang menyebabkan PVML melanggar ketentuan 
+sebagaimana dimaksud pada ayat (1) dalam sistem 
+elektronik Otoritas Jasa Keuangan. 
+ 
+BAB VI 
+SISTEM PENGENDALIAN INTERNAL 
+ 
+Bagian Kesatu  
+Umum 
+ 
+Pasal 19 
+PVML wajib melaksanakan sistem pengendalian internal 
+secara 
+efektif 
+terhadap 
+Risiko 
+yang 
+melekat 
+dalam 
+pelaksanaan kegiatan usaha dan operasional pada seluruh 
+jenjang organisasi PVML. 
+ 
+ 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 17 ===
+ 
+- 17 -  
+Pasal 20 
+(1) 
+Pelaksanaan 
+sistem 
+pengendalian 
+internal 
+sebagaimana dimaksud dalam Pasal 19 paling sedikit 
+mampu secara tepat waktu mendeteksi kelemahan dan 
+penyimpangan yang menyebabkan atau memengaruhi 
+eksposur Risiko. 
+(2) 
+Sistem pengendalian internal sebagaimana dimaksud 
+pada ayat (1) wajib memastikan: 
+a. 
+kepatuhan level manajemen PVML terhadap 
+kebijakan 
+dan 
+prosedur 
+Manajemen 
+Risiko, 
+ketentuan peraturan perundang-undangan, serta 
+kebijakan atau ketentuan internal PVML; 
+b. 
+kepatuhan dan efektivitas fungsi Manajemen 
+Risiko dalam merancang dan menerapkan strategi 
+dan kebijakan Manajemen Risiko; 
+c. 
+tersedianya informasi keuangan dan manajemen 
+yang lengkap, akurat, tepat guna, dan tepat waktu; 
+d. 
+efektivitas dan efisiensi dalam kegiatan bisnis dan 
+operasional; dan 
+e. 
+efektivitas budaya Risiko pada organisasi PVML 
+secara menyeluruh. 
+(3) 
+Sistem pengendalian internal sebagaimana dimaksud 
+pada ayat (2) huruf e dapat dikecualikan bagi Lembaga 
+Keuangan Mikro skala usaha besar dan Perusahaan 
+Pergadaian dengan lingkup wilayah usaha provinsi. 
+(4) 
+Sistem pengendalian internal sebagaimana dimaksud 
+pada ayat (2) huruf b dan huruf e dapat dikecualikan 
+bagi Lembaga Keuangan Mikro skala usaha menengah 
+dan Perusahaan Pergadaian dengan lingkup wilayah 
+usaha kabupaten/kota. 
+(5) 
+Sistem pengendalian internal sebagaimana dimaksud 
+pada ayat (2) huruf b, huruf c, dan huruf e dapat 
+dikecualikan bagi Lembaga Keuangan Mikro skala 
+usaha kecil. 
+ 
+Bagian Kedua 
+Sistem Pengendalian Internal dalam 
+Penerapan Manajemen Risiko 
+ 
+Pasal 21 
+(1) 
+Sistem 
+pengendalian 
+internal 
+yang 
+menyeluruh 
+sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf d 
+dalam penerapan Manajemen Risiko paling sedikit 
+memuat: 
+a. 
+kesesuaian sistem pengendalian internal dengan 
+jenis dan tingkat Risiko yang melekat pada 
+kegiatan usaha PVML; 
+b. 
+penetapan wewenang dan tanggung jawab untuk 
+pemantauan kepatuhan kecukupan kebijakan 
+Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 12, serta prosedur Manajemen Risiko dan 
+penetapan limit Risiko sebagaimana dimaksud 
+dalam Pasal 13; 
+c. 
+penetapan jalur pelaporan dan pemisahan fungsi 
+yang jelas dari fungsi operasional kepada fungsi 
+pengendalian Risiko; 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 18 ===
+ 
+- 18 -  
+d. 
+struktur organisasi yang menggambarkan secara 
+jelas kegiatan usaha PVML; 
+e. 
+pelaporan keuangan dan kegiatan operasional 
+yang akurat dan tepat waktu; 
+f. 
+kecukupan 
+prosedur 
+untuk 
+memastikan 
+kepatuhan PVML terhadap ketentuan perundang-
+undangan dan ketentuan yang berlaku bagi PVML; 
+g. 
+kaji ulang yang efektif, independen, dan obyektif 
+terhadap prosedur penilaian kegiatan operasional 
+PVML; 
+h. 
+pengujian dan kaji ulang yang memadai terhadap 
+sistem informasi Manajemen Risiko; 
+i. 
+dokumentasi 
+secara 
+lengkap 
+dan 
+memadai 
+terhadap prosedur operasional, cakupan, dan 
+temuan audit, serta tanggapan Direksi, Dewan 
+Komisaris, DPS, dan Pengelola PVML berdasarkan 
+hasil audit; dan 
+j. 
+verifikasi dan kaji ulang secara berkala dan 
+berkesinambungan 
+terhadap 
+penanganan 
+kelemahan PVML yang bersifat material dan 
+tindakan Direksi, Dewan Komisaris, DPS dan 
+Pengelola 
+PVML 
+untuk 
+memperbaiki 
+penyimpangan yang terjadi.  
+(2) 
+Penilaian terhadap sistem pengendalian internal dalam 
+penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) wajib dilakukan oleh fungsi audit internal. 
+(3) 
+Sistem 
+pengendalian 
+internal 
+dalam 
+penerapan 
+Manajemen Risiko sebagaimana dimaksud pada ayat (1) 
+huruf c, huruf g, huruf h, dan huruf j dapat 
+dikecualikan bagi Lembaga Keuangan Mikro skala 
+usaha besar dan Perusahaan Pergadaian dengan 
+lingkup wilayah usaha provinsi. 
+(4) 
+Sistem pengendalian terhadap sistem pengendalian 
+internal 
+dalam 
+penerapan 
+Manajemen 
+Risiko 
+sebagaimana dimaksud pada ayat (1) huruf c, huruf g, 
+huruf h, huruf i, dan huruf j dapat dikecualikan bagi 
+Lembaga Keuangan Mikro skala usaha menengah dan 
+Perusahaan Pergadaian dengan lingkup wilayah usaha 
+kabupaten/kota. 
+(5) 
+Sistem pengendalian terhadap sistem pengendalian 
+internal 
+dalam 
+penerapan 
+Manajemen 
+Risiko 
+sebagaimana dimaksud pada ayat (1) huruf b, huruf c, 
+huruf f, huruf g, huruf h, huruf i, dan huruf j dapat 
+dikecualikan bagi Lembaga Keuangan Mikro skala 
+usaha kecil. 
+ 
+Pasal 22 
+(1) 
+PVML 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 19, Pasal 20 ayat (2), dan/atau 
+Pasal 21 ayat (2) dikenai sanksi administratif berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembekuan 
+sebagian 
+atau 
+seluruh 
+kegiatan 
+usaha; 
+c. 
+pembatasan kegiatan usaha tertentu; 
+d. 
+penurunan hasil penilaian tingkat Risiko; 
+e. 
+pembatalan persetujuan; 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 19 ===
+ 
+- 19 -  
+f. 
+larangan menjadi pemegang saham pengendali, 
+Direksi, 
+Dewan 
+Komisaris, 
+DPS, 
+dan/atau 
+Pengelola; dan/atau 
+g. 
+denda administratif. 
+(2) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b dan huruf c dikecualikan bagi Perusahaan 
+Pembiayaan Sekunder Perumahan, LPEI, BP Tapera,  
+PT PNM, dan PT SMI (Persero). 
+(3) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b sampai dengan huruf g dapat dikenakan 
+dengan atau tanpa didahului pengenaan sanksi 
+administratif berupa peringatan tertulis sebagaimana 
+dimaksud pada ayat (1) huruf a. 
+(4) 
+Sanksi 
+administratif 
+berupa 
+denda 
+administratif 
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan 
+paling banyak Rp50.000.000,00 (lima puluh juta 
+rupiah). 
+(5) 
+Dalam 
+hal 
+PVML 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi administratif. 
+(6) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+administratif berupa peringatan tertulis yang berakhir 
+dengan sendirinya. 
+(7) 
+Selain sanksi administratif sebagaimana dimaksud 
+pada ayat (1), Otoritas Jasa Keuangan berwenang: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan; 
+b. 
+melakukan penilaian kembali terhadap pihak 
+utama 
+yang 
+menyebabkan 
+PVML 
+melanggar 
+ketentuan sebagaimana dimaksud pada ayat (1); 
+dan/atau 
+c. 
+melakukan pencatatan rekam jejak terhadap pihak 
+yang menyebabkan PVML melanggar ketentuan 
+sebagaimana dimaksud pada ayat (1) dalam sistem 
+elektronik Otoritas Jasa Keuangan. 
+ 
+BAB VII 
+ORGANISASI DAN FUNGSI MANAJEMEN RISIKO 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 23 
+Untuk pelaksanaan proses dan sistem Manajemen Risiko 
+yang efektif sebagaimana dimaksud dalam Pasal 2, PVML  
+membentuk: 
+a. 
+komite Manajemen Risiko;  
+b. 
+satuan kerja Manajemen Risiko; dan 
+c. 
+fungsi Manajemen Risiko, 
+berdasarkan total aset PVML. 
+ 
+ 
+ 
+ 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 20 ===
+ 
+- 20 -  
+Pasal 24 
+(1) 
+PVML 
+dengan 
+total 
+aset 
+lebih 
+dari 
+Rp250.000.000.000,00  (dua ratus lima puluh miliar 
+rupiah) wajib membentuk: 
+a. 
+komite Manajemen Risiko; dan 
+b. 
+satuan kerja Manajemen Risiko. 
+(2) 
+PVML 
+dengan 
+total 
+aset 
+sampai 
+dengan 
+Rp250.000.000.000,00 (dua ratus lima puluh miliar 
+rupiah) wajib membentuk fungsi Manajemen Risiko. 
+(3) 
+PVML 
+dengan 
+total 
+aset 
+sampai 
+dengan 
+Rp250.000.000.000,00  (dua ratus lima puluh miliar 
+rupiah) dapat membentuk satuan kerja Manajemen 
+Risiko dan/atau komite Manajemen Risiko. 
+(4) 
+Total aset sebagaimana dimaksud pada ayat (1) sampai 
+dengan ayat (3) ditentukan berdasarkan:  
+a. 
+laporan keuangan tahunan PVML yang telah 
+diaudit oleh akuntan publik, bagi PVML yang 
+diwajibkan untuk menyusun laporan keuangan 
+tahunan yang diaudit oleh akuntan publik; atau 
+b. 
+laporan keuangan periode bulan Desember, bagi 
+PVML yang tidak diwajibkan untuk menyusun 
+laporan keuangan tahunan yang diaudit oleh 
+akuntan publik. 
+(5) 
+PVML yang berdasarkan: 
+a. 
+laporan keuangan tahunan PVML yang telah 
+diaudit oleh akuntan publik, bagi PVML yang 
+diwajibkan untuk menyusun laporan keuangan 
+tahunan yang diaudit oleh akuntan publik; atau 
+b. 
+laporan keuangan periode bulan Desember, bagi 
+PVML yang tidak diwajibkan untuk menyusun 
+laporan keuangan tahunan yang diaudit oleh 
+akuntan publik, 
+mengalami peningkatan total aset sehingga menjadi 
+lebih dari Rp250.000.000.000,00 (dua ratus lima puluh 
+miliar rupiah) wajib melakukan penyesuaian untuk 
+memenuhi ketentuan berdasarkan total aset yang baru 
+sebagaimana diatur Peraturan Otoritas Jasa Keuangan 
+ini paling lama 1 (satu) tahun setelah tanggal laporan 
+keuangan PVML. 
+(6) 
+PVML yang berdasarkan: 
+a. 
+laporan keuangan tahunan PVML yang telah 
+diaudit oleh akuntan publik, bagi PVML yang 
+diwajibkan untuk menyusun laporan keuangan 
+tahunan yang diaudit oleh akuntan publik; atau 
+b. 
+laporan keuangan periode bulan Desember, bagi 
+PVML yang tidak diwajibkan untuk menyusun 
+laporan keuangan tahunan yang diaudit oleh 
+akuntan publik, 
+mengalami penurunan total aset sehingga menjadi 
+kurang dari atau sama dengan Rp250.000.000.000,00 
+(dua ratus lima puluh miliar rupiah) dapat melakukan 
+penyesuaian 
+pemenuhan 
+terhadap 
+ketentuan 
+berdasarkan total aset yang baru sebagaimana diatur 
+Peraturan Otoritas Jasa Keuangan ini. 
+ 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 21 ===
+ 
+- 21 -  
+Bagian Kedua 
+Komite Manajemen Risiko 
+ 
+Pasal 25 
+(1) 
+Komite Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 24 ayat (1) huruf a dan ayat (3) paling 
+sedikit terdiri atas: 
+a. 
+separuh dari anggota Direksi; dan 
+b. 
+pejabat eksekutif terkait. 
+(2) 
+Salah satu anggota Direksi sebagaimana dimaksud 
+pada ayat (1) huruf a merupakan anggota Direksi yang 
+membawahkan fungsi Manajemen Risiko. 
+(3) 
+Wewenang dan tanggung jawab komite Manajemen 
+Risiko 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1) 
+memberikan rekomendasi kepada direktur utama atau 
+yang setara, paling sedikit memuat: 
+a. 
+penyusunan kebijakan, strategi, dan pedoman 
+penerapan Manajemen Risiko; 
+b. 
+perbaikan 
+atau 
+penyesuaian 
+pelaksanaan 
+Manajemen Risiko berdasarkan hasil evaluasi 
+pelaksanaan Manajemen Risiko; dan 
+c. 
+penetapan hal yang terkait dengan keputusan 
+bisnis yang menyimpang dari prosedur normal. 
+(4) 
+Ketentuan lebih lanjut mengenai struktur organisasi 
+komite Manajemen Risiko sebagaimana dimaksud pada 
+ayat (1) ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Bagian Ketiga 
+Satuan Kerja dan Fungsi Manajemen Risiko 
+ 
+Pasal 26 
+(1) 
+Struktur organisasi satuan kerja Manajemen Risiko 
+sebagaimana dimaksud dalam Pasal 24 ayat (1) huruf b  
+dan ayat (3) atau fungsi Manajemen Risiko PVML 
+sebagaimana dimaksud dalam Pasal 24 ayat (2) 
+disesuaikan dengan ukuran dan kompleksitas usaha 
+PVML, Risiko yang melekat pada PVML disertai dengan 
+wewenang dan tanggung jawab.  
+(2) 
+Satuan kerja Manajemen Risiko atau fungsi Manajemen 
+Risiko harus independen terhadap fungsi bisnis dan 
+operasional dan terhadap fungsi pengendalian internal. 
+(3) 
+Satuan kerja Manajemen Risiko atau fungsi Manajemen 
+Risiko bertanggung jawab langsung kepada direktur 
+utama atau yang setara, atau anggota Direksi yang 
+membawahkan fungsi Manajemen Risiko. 
+(4) 
+Wewenang 
+dan 
+tanggung 
+jawab 
+satuan 
+kerja 
+Manajemen Risiko atau fungsi Manajemen Risiko 
+meliputi: 
+a. 
+mengidentifikasi Risiko termasuk Risiko yang 
+melekat pada kegiatan usaha PVML; 
+b. 
+menyusun metode pengukuran Risiko; 
+c. 
+memantau 
+pelaksanaan 
+strategi 
+Manajemen 
+Risiko yang telah disusun oleh Direksi atau 
+Pengelola; 
+d. 
+memantau posisi Risiko secara keseluruhan, per 
+jenis Risiko, dan per jenis aktivitas fungsional, 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 22 ===
+ 
+- 22 -  
+serta melakukan pengujian dengan menggunakan 
+skenario/asumsi 
+kondisi 
+tidak 
+normal 
+dan 
+pengujian dengan menggunakan data historis; 
+e. 
+mengkaji ulang secara berkala terhadap proses 
+Manajemen Risiko; 
+f. 
+mengkaji usulan pengembangan atau perluasan 
+kegiatan usaha; 
+g. 
+mengevaluasi 
+terhadap 
+akurasi 
+model 
+dan 
+validitas data yang digunakan untuk mengukur 
+Risiko, bagi PVML yang menggunakan model 
+untuk keperluan internal; 
+h. 
+memberikan rekomendasi kepada fungsi bisnis 
+dan 
+operasional 
+dan/atau 
+kepada 
+komite 
+Manajemen Risiko, sesuai kewenangan yang 
+dimiliki; dan 
+i. 
+menyusun dan menyampaikan laporan profil 
+Risiko kepada direktur utama atau yang setara, 
+atau 
+anggota 
+Direksi 
+atau 
+Pengelola 
+yang 
+membawahkan fungsi Manajemen Risiko, satuan 
+kerja 
+Manajemen 
+Risiko, 
+dan/atau 
+komite 
+Manajemen Risiko secara berkala. 
+(5) Wewenang dan tanggung jawab satuan kerja Manajemen 
+Risiko atau fungsi Manajemen Risiko sebagaimana 
+dimaksud pada ayat (4) huruf e, huruf f, huruf g, huruf 
+h, dan huruf i dapat dikecualikan bagi Lembaga 
+Keuangan Mikro dengan skala usaha besar dan 
+Perusahaan Pergadaian dengan lingkup wilayah usaha 
+provinsi. 
+(6) Wewenang dan tanggung jawab satuan kerja Manajemen 
+Risiko atau fungsi Manajemen Risiko sebagaimana 
+dimaksud pada ayat (4) huruf b, huruf e, huruf f, huruf 
+g, huruf h, dan huruf i dapat dikecualikan bagi Lembaga 
+Keuangan 
+Mikro 
+skala 
+usaha 
+menengah 
+dan 
+Perusahaan Pergadaian dengan lingkup wilayah usaha 
+kabupaten/kota. 
+(7) Wewenang dan tanggung jawab satuan kerja Manajemen 
+Risiko atau fungsi Manajemen Risiko sebagaimana 
+dimaksud pada ayat (4) huruf b, huruf c, huruf d, huruf 
+e, huruf f, huruf g, huruf h, dan huruf i dapat 
+dikecualikan bagi Lembaga Keuangan Mikro skala 
+usaha kecil. 
+(8) Ketentuan lebih lanjut mengenai struktur organisasi 
+satuan kerja Manajemen Risiko atau fungsi Manajemen 
+Risiko sebagaimana dimaksud pada ayat (1) ditetapkan 
+oleh Otoritas Jasa Keuangan. 
+ 
+Bagian Keempat 
+Hubungan Fungsi Bisnis dan Operasional dengan Satuan 
+Kerja Manajemen Risiko atau Fungsi Manajemen Risiko 
+ 
+Pasal 27 
+(1) 
+Fungsi bisnis dan operasional sebagaimana dimaksud 
+dalam Pasal 26 ayat (2) wajib menginformasikan 
+eksposur Risiko yang melekat kepada satuan kerja 
+Manajemen Risiko atau fungsi Manajemen Risiko 
+secara berkala. 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 23 ===
+ 
+- 23 -  
+(2) 
+Ketentuan lebih lanjut mengenai hubungan fungsi 
+bisnis dan operasional dengan satuan kerja Manajemen 
+Risiko atau fungsi Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) ditetapkan oleh Otoritas Jasa 
+Keuangan. 
+ 
+Pasal 28 
+(1) 
+PVML 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 24 ayat (1), ayat (2), ayat (5), 
+dan/atau Pasal 27 ayat (1) dikenai sanksi administratif 
+berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembekuan 
+sebagian 
+atau 
+seluruh 
+kegiatan 
+usaha; 
+c. 
+pembatasan kegiatan usaha tertentu; 
+d. 
+penurunan hasil penilaian tingkat Risiko; 
+e. 
+pembatalan persetujuan; 
+f. 
+larangan menjadi pemegang saham pengendali, 
+Direksi, 
+Dewan 
+Komisaris, 
+DPS, 
+dan/atau 
+Pengelola; dan/atau 
+g. 
+denda administratif. 
+(2) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b dan huruf c dikecualikan bagi Perusahaan 
+Pembiayaan Sekunder Perumahan, LPEI, BP Tapera, PT 
+PNM, dan PT SMI (Persero). 
+(3) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b sampai dengan huruf g dapat dikenakan 
+dengan atau tanpa didahului pengenaan sanksi 
+administratif berupa peringatan tertulis sebagaimana 
+dimaksud pada ayat (1) huruf a. 
+(4) 
+Sanksi 
+administratif 
+berupa 
+denda 
+administratif 
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan 
+paling banyak Rp50.000.000,00 (lima puluh juta 
+rupiah). 
+(5) 
+Dalam 
+hal 
+PVML 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi administratif. 
+(6) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+administratif berupa peringatan tertulis yang berakhir 
+dengan sendirinya. 
+(7) 
+Selain sanksi administratif sebagaimana dimaksud 
+pada ayat (1), Otoritas Jasa Keuangan berwenang: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan; 
+b. 
+melakukan penilaian kembali terhadap pihak 
+utama 
+yang 
+menyebabkan 
+PVML 
+melanggar 
+ketentuan sebagaimana dimaksud pada ayat (1); 
+dan/atau 
+c. 
+melakukan pencatatan rekam jejak terhadap pihak 
+yang menyebabkan PVML melanggar ketentuan 
+sebagaimana dimaksud pada ayat (1) dalam sistem 
+elektronik Otoritas Jasa Keuangan. 
+ 
+ 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 24 ===
+ 
+- 24 -  
+BAB VIII 
+PENGELOLAAN RISIKO PENGEMBANGAN ATAU 
+PERLUASAN KEGIATAN USAHA 
+ 
+Pasal 29 
+(1) 
+PVML wajib memiliki kebijakan dan prosedur secara 
+tertulis untuk mengelola Risiko yang melekat pada 
+pengembangan atau perluasan kegiatan usaha PVML. 
+(2) 
+Kebijakan dan prosedur sebagaimana dimaksud pada 
+ayat (1) paling sedikit mencakup: 
+a. 
+sistem dan prosedur serta kewenangan dalam 
+pengelolaan 
+pengembangan 
+atau 
+perluasan 
+kegiatan usaha; 
+b. 
+identifikasi seluruh Risiko yang melekat pada 
+pengembangan atau perluasan kegiatan usaha, 
+baik 
+yang 
+terkait 
+dengan 
+PVML 
+maupun 
+konsumen; 
+c. 
+masa 
+uji 
+coba 
+metode 
+pengukuran 
+dan 
+pemantauan Risiko terhadap pengembangan atau 
+perluasan kegiatan usaha; 
+d. 
+sistem informasi akuntansi untuk pengembangan 
+atau perluasan kegiatan usaha;  
+e. 
+analisis aspek hukum untuk pengembangan atau 
+perluasan kegiatan usaha; dan 
+f. 
+transparansi informasi kepada konsumen. 
+(3) 
+Sistem informasi akuntansi sebagaimana dimaksud 
+pada ayat (2) huruf d paling sedikit menggambarkan 
+profil Risiko dan tingkat keuntungan maupun kerugian 
+untuk pengembangan atau perluasan kegiatan usaha 
+secara akurat. 
+(4) 
+Analisis aspek hukum sebagaimana dimaksud pada 
+ayat (2) huruf e mencakup: 
+a. 
+adanya potensi Risiko Hukum yang ditimbulkan 
+oleh pengembangan atau perluasan kegiatan 
+usaha; dan 
+b. 
+kesesuaian 
+dengan 
+ketentuan 
+peraturan 
+perundang-undangan. 
+(5) 
+Aspek dalam menerapkan transparansi informasi 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(2) 
+huruf 
+f 
+memperhatikan paling sedikit: 
+a. 
+informasi yang disampaikan lengkap, benar, dan 
+tidak menyesatkan konsumen; 
+b. 
+informasi yang berimbang antara potensi manfaat 
+yang mungkin diperoleh dengan Risiko yang 
+mungkin timbul bagi konsumen; 
+c. 
+informasi yang disampaikan tidak menyamarkan, 
+mengurangi, atau menutupi hal yang penting 
+terkait dengan Risiko yang mungkin timbul; dan 
+d. 
+informasi lain sesuai dengan Peraturan Otoritas 
+Jasa Keuangan mengenai pelindungan konsumen 
+dan masyarakat di sektor jasa keuangan. 
+(6) 
+Kebijakan dan prosedur sebagaimana dimaksud pada 
+ayat (2) huruf c dan huruf d dapat dikecualikan bagi 
+Lembaga Keuangan Mikro skala usaha besar dan 
+Perusahaan Pergadaian dengan lingkup wilayah usaha 
+provinsi. 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 25 ===
+ 
+- 25 -  
+(7) 
+Kebijakan dan prosedur sebagaimana dimaksud pada 
+ayat (2) huruf c, huruf d, dan huruf e dapat 
+dikecualikan bagi Lembaga Keuangan Mikro skala 
+usaha menengah dan Perusahaan Pergadaian dengan 
+lingkup wilayah usaha kabupaten/kota. 
+(8) 
+Kebijakan dan prosedur sebagaimana dimaksud pada 
+ayat (2) huruf b, huruf c, huruf d, dan huruf e dapat 
+dikecualikan bagi Lembaga Keuangan Mikro skala 
+usaha kecil. 
+(9) 
+Kegiatan usaha PVML merupakan suatu bentuk 
+pengembangan atau perluasan kegiatan usaha jika 
+memenuhi kriteria: 
+a. 
+tidak pernah dilakukan sebelumnya oleh PVML; 
+atau 
+b. 
+telah dilaksanakan sebelumnya oleh PVML namun 
+dilakukan pengembangan yang mengubah atau 
+meningkatkan eksposur Risiko tertentu pada 
+PVML. 
+(10) Ketentuan lebih lanjut mengenai pengelolaan Risiko 
+pengembangan 
+atau 
+perluasan 
+kegiatan 
+usaha 
+sebagaimana dimaksud pada ayat (1) ditetapkan oleh 
+Otoritas Jasa Keuangan. 
+ 
+Pasal 30 
+PVML dilarang menugaskan atau menyetujui Direksi, Dewan 
+Komisaris, DPS, Pengelola, dan/atau pegawai PVML untuk 
+melaksanakan kegiatan yang bukan kegiatan usaha PVML 
+dengan menggunakan sarana atau fasilitas PVML. 
+ 
+Pasal 31 
+(1) 
+Dalam pengelolaan Risiko yang melekat pada produk 
+dan aktivitas baru, LPEI wajib memiliki kebijakan dan 
+prosedur secara tertulis. 
+(2) 
+Kebijakan dan prosedur sebagaimana dimaksud pada 
+ayat (1) paling sedikit: 
+a. 
+sistem 
+dan 
+prosedur 
+operasi 
+standar 
+dan 
+kewenangan dalam pengelolaan produk dan 
+aktivitas baru; 
+b. 
+identifikasi seluruh Risiko yang melekat dengan 
+produk dan aktivitas baru; 
+c. 
+masa 
+uji 
+coba 
+metode 
+pengukuran 
+dan 
+pemantauan Risiko terhadap produk dan aktivitas 
+baru; 
+d. 
+sistem informasi akuntansi untuk produk dan 
+aktivitas baru; dan 
+e. 
+analisis aspek hukum dan pelindungan konsumen 
+untuk produk dan aktivitas baru. 
+(3) 
+LPEI wajib mengungkapkan Risiko yang melekat pada 
+produk dan aktivitas baru sebagaimana dimaksud pada 
+ayat (2) huruf b kepada konsumen yang dituangkan 
+dalam dokumen yang ditandatangani oleh konsumen. 
+(4) 
+Direksi 
+harus 
+menyampaikan 
+laporan 
+setiap 
+penerbitan produk dan aktivitas baru kepada Dewan 
+Komisaris. 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 26 ===
+ 
+- 26 -  
+(5) 
+Laporan sebagaimana dimaksud pada ayat (4) harus 
+disampaikan paling lama 7 (tujuh) hari kerja sejak 
+produk 
+dan 
+aktivitas 
+baru 
+dimaksud 
+efektif 
+dilaksanakan. 
+ 
+Pasal 32 
+(1) 
+PVML 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 29 ayat (1), Pasal 30, dan/atau 
+Pasal 31 ayat (1), ayat (3) dikenai sanksi administratif 
+berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembekuan 
+sebagian 
+atau 
+seluruh 
+kegiatan 
+usaha; 
+c. 
+pembatasan kegiatan usaha tertentu; 
+d. 
+penurunan hasil penilaian tingkat Risiko; 
+e. 
+pembatalan persetujuan; 
+f. 
+larangan menjadi pemegang saham pengendali, 
+Direksi, 
+Dewan 
+Komisaris, 
+DPS, 
+dan/atau 
+Pengelola; dan/atau 
+g. 
+denda administratif. 
+(2) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b dan huruf c dikecualikan bagi Perusahaan 
+Pembiayaan Sekunder Perumahan, LPEI, BP Tapera, PT 
+PNM, dan PT SMI (Persero). 
+(3) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b sampai dengan huruf g dapat dikenakan 
+dengan atau tanpa didahului pengenaan sanksi 
+administratif berupa peringatan tertulis sebagaimana 
+dimaksud pada ayat (1) huruf a. 
+(4) 
+Sanksi 
+administratif 
+berupa 
+denda 
+administratif 
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan 
+paling banyak Rp50.000.000,00 (lima puluh juta 
+rupiah). 
+(5) 
+Dalam 
+hal 
+PVML 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi administratif. 
+(6) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+administratif berupa peringatan tertulis yang berakhir 
+dengan sendirinya. 
+(7) 
+Selain sanksi administratif sebagaimana dimaksud 
+pada ayat (1), Otoritas Jasa Keuangan berwenang: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan; 
+b. 
+melakukan penilaian kembali terhadap pihak 
+utama 
+yang 
+menyebabkan 
+PVML 
+melanggar 
+ketentuan sebagaimana dimaksud pada ayat (1); 
+dan/atau 
+c. 
+melakukan pencatatan rekam jejak terhadap pihak 
+yang menyebabkan PVML melanggar ketentuan 
+sebagaimana dimaksud pada ayat (1) dalam sistem 
+elektronik Otoritas Jasa Keuangan. 
+ 
+ 
+ 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 27 ===
+ 
+- 27 -  
+BAB IX 
+PENILAIAN SENDIRI DAN PELAPORAN PENERAPAN 
+MANAJEMEN RISIKO 
+ 
+Pasal 33 
+(1) 
+PVML selain LPEI wajib melakukan penilaian sendiri 
+profil Risiko secara tahunan untuk posisi akhir bulan 
+Desember. 
+(2) 
+LPEI wajib melakukan penilaian sendiri profil Risiko 
+secara triwulanan untuk posisi bulan Maret, Juni, 
+September, dan Desember. 
+(3) 
+Dalam hal diperlukan, Otoritas Jasa Keuangan dapat 
+meminta PVML untuk melakukan penilaian sendiri 
+profil Risiko sewaktu-waktu. 
+(4) 
+PVML wajib melaksanakan penilaian sendiri profil 
+Risiko sewaktu-waktu sesuai permintaan Otoritas Jasa 
+Keuangan sebagaimana dimaksud pada ayat (3). 
+(5) 
+Hasil penilaian sendiri profil Risiko sebagaimana 
+dimaksud pada ayat (1), ayat (2), dan ayat (4) wajib 
+mendapat persetujuan Direksi atau Pengelola.  
+(6) 
+Hasil penilaian sendiri profil Risiko sebagaimana 
+dimaksud pada ayat (1), ayat (2), dan ayat (4) wajib 
+disampaikan kepada Dewan Komisaris. 
+(7) 
+Hasil penilaian sendiri profil Risiko sebagaimana 
+dimaksud pada ayat (1), merupakan bagian dari hasil 
+penilaian tingkat kesehatan bagi PVML selain LPEI yang 
+melakukan 
+penilaian 
+tingkat 
+kesehatan 
+dengan 
+cakupan penilaian terhadap faktor profil Risiko. 
+(8) 
+Hasil penilaian sendiri profil Risiko sebagaimana 
+dimaksud pada ayat (2) untuk posisi bulan Desember 
+merupakan 
+bagian 
+dari 
+hasil 
+penilaian 
+tingkat 
+kesehatan bagi LPEI. 
+(9) 
+Ketentuan lebih lanjut mengenai penilaian sendiri profil 
+Risiko sebagaimana diatur diatur pada ayat (1) sampai 
+dengan ayat 
+(4) 
+ditetapkan oleh Otoritas Jasa 
+Keuangan. 
+ 
+Pasal 34 
+(1) 
+PVML wajib menyampaikan hasil penilaian sendiri 
+profil Risiko sebagaimana dimaksud dalam Pasal 33 
+ayat (1) dan ayat (2) dalam laporan profil Risiko kepada 
+Otoritas Jasa Keuangan. 
+(2) 
+Laporan profil Risiko sebagaimana dimaksud pada ayat 
+(1) yang disampaikan oleh PVML kepada Otoritas Jasa 
+Keuangan wajib memuat materi yang sama dengan 
+laporan profil Risiko yang disampaikan oleh satuan 
+kerja Manajemen Risiko atau pejabat eksekutif yang 
+ditunjuk bertanggung jawab terhadap pelaksanaan 
+fungsi Manajemen Risiko kepada anggota Direksi atau 
+Pengelola yang membawahkan fungsi Manajemen 
+Risiko dan kepada komite Manajemen Risiko. 
+(3) 
+Laporan profil Risiko atas hasil penilaian sendiri tingkat 
+Risiko PVML selain LPEI untuk posisi akhir bulan 
+Desember sebagaimana dimaksud dalam Pasal 33 ayat 
+(1) disampaikan paling lambat tanggal 15 Februari 
+tahun berikutnya. 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 28 ===
+ 
+- 28 -  
+(4) 
+Apabila batas akhir penyampaian  laporan profil Risiko 
+atas hasil penilaian sendiri tingkat Risiko PVML selain 
+LPEI sebagaimana dimaksud pada ayat (3) jatuh pada 
+hari libur, batas akhir penyampaian laporan pada hari 
+kerja pertama berikutnya. 
+(5) 
+Laporan profil Risiko atas hasil penilaian sendiri tingkat 
+Risiko PVML selain LPEI untuk posisi akhir bulan 
+Desember sebagaimana dimaksud dalam Pasal 33 ayat 
+(1) merupakan bagian dari laporan hasil penilaian 
+tingkat kesehatan bagi PVML selain LPEI yang 
+melakukan 
+penilaian 
+tingkat 
+kesehatan 
+dengan 
+cakupan penilaian terhadap faktor profil Risiko. 
+(6) 
+Laporan profil Risiko atas hasil penilaian sendiri tingkat 
+Risiko LPEI secara triwulanan sebagaimana dimaksud 
+dalam Pasal 33 ayat (2) wajib disampaikan paling 
+lambat 1 (satu) bulan sejak periode laporan berakhir. 
+(7) 
+Laporan profil Risiko atas hasil penilaian sendiri tingkat 
+Risiko LPEI untuk posisi akhir bulan Desember 
+sebagaimana dimaksud dalam Pasal 33 ayat (2) 
+merupakan bagian dari laporan hasil penilaian tingkat 
+kesehatan bagi LPEI. 
+(8) 
+PVML wajib menyampaikan laporan profil Risiko atas 
+hasil penilaian sendiri tingkat Risiko sewaktu-waktu 
+sebagaimana dimaksud dalam Pasal 33 ayat (3) sesuai 
+dengan batas waktu yang ditetapkan oleh Otoritas Jasa 
+Keuangan. 
+ 
+Pasal 35 
+(1) 
+Dalam 
+hal 
+terdapat 
+kondisi 
+yang 
+berpotensi 
+menimbulkan kerugian yang signifikan terhadap 
+kondisi keuangan, PVML wajib menyampaikan laporan 
+profil Risiko lain kepada Otoritas Jasa Keuangan. 
+(2) 
+Laporan profil Risiko lain sebagaimana dimaksud pada 
+ayat (1) mencakup selain laporan profil Risiko yang 
+diwajibkan sebagaimana dimaksud dalam Pasal 33. 
+(3) 
+Laporan profil Risiko lain sebagaimana dimaksud pada 
+ayat (1) wajib disampaikan paling lambat 1 (satu) bulan 
+setelah diketahuinya kondisi berpotensi menimbulkan 
+kerugian yang signifikan terhadap kondisi keuangan 
+PVML. 
+(4) 
+Kewajiban penyampaian laporan profil Risiko lain 
+sebagaimana dimaksud pada ayat (1) dapat didasarkan 
+atas permintaan Otoritas Jasa Keuangan. 
+(5) 
+Ketentuan lebih lanjut mengenai penilaian profil Risiko 
+lain sebagaimana diatur pada ayat (1) sampai dengan 
+ayat (3) ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Pasal 36 
+(1) 
+PVML wajib menyampaikan: 
+a. 
+laporan profil Risiko sebagaimana dimaksud 
+dalam Pasal 34 ayat (1); dan 
+b. 
+laporan profil Risiko lain sebagaimana dimaksud 
+dalam Pasal 35 ayat (1),  
+secara daring melalui sistem jaringan komunikasi data 
+Otoritas Jasa Keuangan. 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 29 ===
+ 
+- 29 -  
+(2) 
+Dalam hal sistem jaringan komunikasi data Otoritas 
+Jasa Keuangan sebagaimana dimaksud pada ayat (1) 
+belum 
+tersedia 
+atau 
+mengalami 
+gangguan, 
+penyampaian 
+dilakukan 
+melalui 
+alamat 
+surat 
+elektronik Otoritas Jasa Keuangan. 
+(3) 
+Dalam hal terdapat gangguan terhadap surat elektronik 
+Otoritas 
+Jasa 
+Keuangan, 
+penyampaian 
+laporan 
+dilakukan secara luring melalui kantor Otoritas Jasa 
+Keuangan. 
+(4) 
+Apabila batas akhir penyampaian laporan sebagaimana 
+dimaksud pada ayat (1) jatuh pada hari libur, batas 
+akhir penyampaian laporan pada hari kerja pertama 
+berikutnya. 
+(5) 
+Dalam kondisi tertentu Otoritas Jasa Keuangan 
+berwenang menetapkan batas waktu penyampaian 
+laporan yang berbeda dari ketentuan sebagaimana 
+dimaksud pada ayat (1). 
+(6) 
+Ketentuan 
+lebih 
+lanjut 
+mengenai 
+tata 
+cara 
+penyampaian laporan profil Risiko ditetapkan oleh 
+Otoritas Jasa Keuangan. 
+ 
+Pasal 37 
+(1) 
+Otoritas Jasa Keuangan dapat melakukan penilaian 
+terhadap penerapan Manajemen Risiko pada PVML. 
+(2) 
+Dalam 
+penilaian 
+penerapan 
+Manajemen 
+Risiko 
+sebagaimana dimaksud pada ayat (1), PVML wajib 
+menyampaikan data dan informasi terkait dengan 
+penerapan Manajemen Risiko kepada Otoritas Jasa 
+Keuangan. 
+ 
+Pasal 38 
+(1) 
+PVML 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 33 ayat (1), ayat (2), ayat (4), ayat 
+(5), ayat (6), Pasal 34 ayat (1), ayat (2), ayat (6), ayat (8), 
+Pasal 35 ayat (1), ayat (3), Pasal 36 ayat (1), dan/atau 
+Pasal 37 ayat (2) dikenai sanksi administratif berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembekuan 
+sebagian 
+atau 
+seluruh 
+kegiatan 
+usaha; 
+c. 
+pembatasan kegiatan usaha tertentu; 
+d. 
+penurunan hasil penilaian tingkat Risiko; 
+e. 
+pembatalan persetujuan; 
+f. 
+larangan menjadi pemegang saham pengendali, 
+Direksi, 
+Dewan 
+Komisaris, 
+DPS, 
+dan/atau 
+Pengelola; dan/atau 
+g. 
+denda administratif. 
+(2) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b dan huruf c dikecualikan bagi Perusahaan 
+Pembiayaan Sekunder Perumahan, LPEI, BP Tapera,  
+PT PNM, dan PT SMI (Persero). 
+(3) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b sampai dengan huruf g dapat dikenakan 
+dengan atau tanpa didahului pengenaan sanksi 
+administratif berupa peringatan tertulis sebagaimana 
+dimaksud pada ayat (1) huruf a. 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 30 ===
+ 
+- 30 -  
+(4) 
+Sanksi 
+administratif 
+berupa 
+denda 
+administratif 
+sebagaimana dimaksud pada ayat (1) huruf g dikenakan 
+paling banyak Rp50.000.000,00 (lima puluh juta 
+rupiah). 
+(5) 
+Dalam 
+hal 
+PVML 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi administratif. 
+(6) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+administratif berupa peringatan tertulis yang berakhir 
+dengan sendirinya. 
+(7) 
+Selain sanksi administratif sebagaimana dimaksud 
+pada ayat (1), Otoritas Jasa Keuangan berwenang: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan; 
+b. 
+melakukan penilaian kembali terhadap pihak 
+utama 
+yang 
+menyebabkan 
+PVML 
+melanggar 
+ketentuan sebagaimana dimaksud pada ayat (1); 
+dan/atau 
+c. 
+melakukan pencatatan rekam jejak terhadap pihak 
+yang menyebabkan PVML melanggar ketentuan 
+sebagaimana dimaksud pada ayat (1) dalam sistem 
+elektronik Otoritas Jasa Keuangan. 
+ 
+BAB X 
+KETENTUAN LAIN-LAIN 
+ 
+Pasal 39 
+Dalam hal PVML menerapkan Manajemen Risiko terintegrasi 
+sebagaimana dimaksud dalam Peraturan Otoritas Jasa 
+Keuangan 
+mengenai 
+penerapan 
+Manajemen 
+Risiko 
+terintegrasi bagi konglomerasi keuangan, fungsi Manajemen 
+Risiko sebagaimana dimaksud dalam Pasal 24 dapat 
+digabung dengan fungsi Manajemen Risiko dalam struktur 
+konglomerasi keuangan PVML yang bersangkutan. 
+ 
+Pasal 40 
+Otoritas Jasa Keuangan berdasarkan pertimbangan tertentu 
+dapat memberikan persetujuan atau kebijakan yang berbeda 
+dengan Peraturan Otoritas Jasa Keuangan ini. 
+ 
+BAB XI 
+KETENTUAN PERALIHAN 
+ 
+Pasal 41 
+PVML selain LPEI yang telah memperoleh izin usaha 
+sebelum 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+ini 
+diundangkan, kewajiban penyampaian laporan profil Risiko 
+atas hasil penilaian sendiri tingkat Risiko untuk posisi akhir 
+bulan Desember sebagaimana dimaksud dalam Pasal 33 
+ayat (1) dilaksanakan bagi: 
+a. 
+Perusahaan Pembiayaan, Perusahaan Pembiayaan 
+Infrastruktur, Perusahaan Modal Ventura, Perusahaan 
+Pembiayaan Sekunder Perumahan, BP Tapera, PT PNM, 
+dan PT SMI (Persero) disampaikan mulai periode 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 31 ===
+ 
+- 31 -  
+penilaian tahun 2024 yang disampaikan paling lambat 
+tanggal 15 Februari 2025; 
+b. 
+Perusahaan Pergadaian dan Penyelenggara LPBBTI 
+disampaikan mulai periode penilaian tahun 2025 yang 
+disampaikan paling lambat tanggal 15 Februari 2026; 
+c. 
+Lembaga 
+Keuangan 
+Mikro 
+skala 
+usaha 
+besar 
+disampaikan mulai periode penilaian tahun 2027 yang 
+disampaikan paling lambat tanggal 15 Februari 2028; 
+d. 
+Lembaga Keuangan Mikro skala usaha menengah 
+disampaikan mulai periode penilaian tahun 2028 yang 
+disampaikan paling lambat tanggal 15 Februari 2029; 
+dan 
+e. 
+Lembaga 
+Keuangan 
+Mikro 
+skala 
+usaha 
+kecil 
+disampaikan mulai periode penilaian tahun 2030 yang 
+disampaikan paling lambat tanggal 15 Februari 2031. 
+ 
+Pasal 42 
+(1) 
+Bagi Perusahaan Pembiayaan yang telah memperoleh 
+izin usaha sebelum Peraturan Otoritas Jasa Keuangan 
+ini berlaku, pengenaan sanksi administratif atas 
+pelanggaran ketentuan Pasal 24 ayat (1) huruf b mulai 
+berlaku 1 (satu) tahun sejak Peraturan Otoritas Jasa 
+Keuangan ini diundangkan. 
+(2) 
+Bagi LPEI, BP Tapera, PT PNM, Perusahaan Pembiayaan 
+Sekunder Perumahan, dan PT SMI (Persero) yang telah 
+dilakukan pengawasan oleh Otoritas Jasa Keuangan 
+sebelum Peraturan Otoritas Jasa Keuangan ini berlaku, 
+pengenaan sanksi administratif atas pelanggaran 
+ketentuan Pasal 2 ayat (1), ayat (3), Pasal 3, Pasal 4, 
+Pasal 5 ayat (3), Pasal 7, Pasal 8 ayat (8), Pasal 13 ayat 
+(1), ayat (5), Pasal 15 ayat (1), ayat (2), Pasal 16, Pasal 
+17 ayat (1), Pasal 19, Pasal 20 ayat (2), Pasal 21 ayat (2), 
+Pasal 24 ayat (1), ayat (2), Pasal 27 ayat (1), Pasal 29 
+ayat (1), Pasal 30, Pasal 31 ayat (1), ayat (3), Pasal 33 
+ayat (1), ayat (2), ayat (4), ayat (5), ayat (6), Pasal 34 ayat 
+(1), ayat (2), ayat (6), ayat (8), Pasal 35 ayat (1), ayat (3) 
+dan Pasal 36 ayat (1), dan/atau Pasal 37 ayat (2) mulai 
+berlaku 6 (enam) bulan sejak Peraturan Otoritas Jasa 
+Keuangan ini diundangkan. 
+(3) 
+Bagi Perusahaan Modal Ventura yang telah memperoleh 
+izin usaha sebelum Peraturan Otoritas Jasa Keuangan 
+ini berlaku, pengenaan sanksi administratif atas 
+pelanggaran ketentuan Pasal 2 ayat (1), ayat (3), Pasal 
+3, Pasal 4, Pasal 5 ayat (3), Pasal 7, Pasal 8 ayat (8), 
+Pasal 13 ayat (1), ayat (5), Pasal 15 ayat (1), ayat (2), 
+Pasal 16, Pasal 17 ayat (1), Pasal 19, Pasal 20 ayat (2), 
+Pasal 21 ayat (2), Pasal 24 ayat (1), ayat (2), Pasal 27 
+ayat (1), Pasal 29 ayat (1), Pasal 30, Pasal 33 ayat (1), 
+ayat (4), ayat (5), ayat (6), Pasal 34 ayat (1), ayat (2), ayat 
+(8), Pasal 35 ayat (1), ayat (3), Pasal 36 ayat (1), 
+dan/atau Pasal 37 ayat (2) mulai berlaku 1 (satu) tahun 
+sejak 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+ini 
+diundangkan. 
+(4) 
+Bagi Penyelenggara LPBBTI yang telah memperoleh izin 
+usaha sebelum Peraturan Otoritas Jasa Keuangan ini 
+berlaku, 
+pengenaan 
+sanksi 
+administratif 
+atas 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 32 ===
+ 
+- 32 -  
+pelanggaran ketentuan Pasal 2 ayat (1), ayat (3), Pasal 
+3, Pasal 4, Pasal 5 ayat (3), Pasal 7, Pasal 8 ayat (8), 
+Pasal 13 ayat (1) ayat (5), Pasal 15 ayat (1), ayat (2), 
+Pasal 16, Pasal 17 ayat (1), Pasal 19, Pasal 20 ayat (2), 
+Pasal 21 ayat (2), Pasal 24 ayat (1), ayat (2), Pasal 27 
+ayat (1), Pasal 29 ayat (1), Pasal 30, Pasal 33 ayat (1), 
+ayat (4), ayat (5), ayat (6), Pasal 34 ayat (1), ayat (2), ayat 
+(8), Pasal 35 ayat (1), ayat (3), Pasal 36 ayat (1), 
+dan/atau Pasal 37 ayat (2) mulai berlaku 1 (satu) tahun 
+sejak 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+ini 
+diundangkan. 
+(5) 
+Bagi Perusahaan Pergadaian yang telah memperoleh 
+izin usaha sebelum Peraturan Otoritas Jasa Keuangan 
+ini berlaku, pengenaan sanksi administratif atas 
+pelanggaran ketentuan Pasal 2 ayat (1), ayat (3), Pasal 
+3, Pasal 4, Pasal 5 ayat (3), Pasal 7, Pasal 8 ayat (8), 
+Pasal 13 ayat (1), ayat (5), Pasal 15 ayat (1), ayat (2), 
+Pasal 16, Pasal 17 ayat (1), Pasal 19, Pasal 20 ayat (2), 
+Pasal 21 ayat (2), Pasal 24 ayat (1), ayat (2), Pasal 27 
+ayat (1), Pasal 29 ayat (1), Pasal 30, Pasal 33 ayat (1), 
+ayat (4), ayat (5), ayat (6), Pasal 34 ayat (1), ayat (2), ayat 
+(8), Pasal 35 ayat (1), ayat (3), Pasal 36 ayat (1), 
+dan/atau Pasal 37 ayat (2) mulai berlaku 1 (satu) tahun 
+sejak 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+ini 
+diundangkan. 
+(6) 
+Bagi Lembaga Keuangan Mikro skala usaha besar yang 
+telah memperoleh izin usaha sebelum Peraturan 
+Otoritas Jasa Keuangan ini berlaku, pengenaan sanksi 
+administratif atas pelanggaran ketentuan Pasal 2 ayat 
+(1), ayat (3), Pasal 3, Pasal 4, Pasal 5 ayat (3), Pasal 7, 
+Pasal 8 ayat (8), Pasal 13 ayat (1) ayat (5), Pasal 15 ayat 
+(1) ayat (2), Pasal 16, Pasal 17 ayat (1), Pasal 19, Pasal 
+20 ayat (2), Pasal 21 ayat (2), Pasal 24 ayat (1), ayat (2), 
+Pasal 27 ayat (1), Pasal 29 ayat (1), Pasal 30, Pasal 33 
+ayat (1), ayat (4), ayat (5), ayat (6), Pasal 34 ayat (1), ayat 
+(2), ayat (8), Pasal 35 ayat (1), ayat (3), Pasal 36 ayat (1), 
+dan/atau Pasal 37 ayat (2) mulai berlaku 3 (tiga) tahun 
+sejak 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+ini 
+diundangkan. 
+(7) 
+Bagi Lembaga Keuangan Mikro skala usaha menengah 
+yang telah memperoleh izin usaha sebelum Peraturan 
+Otoritas Jasa Keuangan ini berlaku, pengenaan sanksi 
+administratif atas pelanggaran Pasal 2 ayat (1), ayat (3), 
+Pasal 3, Pasal 4, Pasal 5 ayat (3), Pasal 7, Pasal 8 ayat 
+(8), Pasal 13 ayat (1), ayat (5), Pasal 15 ayat (1), ayat (2), 
+Pasal 16, Pasal 17 ayat (1), Pasal 19, Pasal 20 ayat (2), 
+Pasal 21 ayat (2), Pasal 24 ayat (1), ayat (2), Pasal 27 
+ayat (1), Pasal 29 ayat (1), Pasal 30, Pasal 33 ayat (1), 
+ayat (4), ayat (5), ayat (6), Pasal 34 ayat (1), ayat (2), ayat 
+(8), Pasal 35 ayat (1), ayat (3), Pasal 36 ayat (1), 
+dan/atau Pasal 37 ayat (2) mulai  berlaku 4 (empat) 
+tahun sejak Peraturan Otoritas Jasa Keuangan ini 
+diundangkan. 
+(8) 
+Bagi Lembaga Keuangan Mikro skala usaha kecil yang 
+telah memperoleh izin usaha sebelum Peraturan 
+Otoritas Jasa Keuangan ini berlaku, pengenaan sanksi 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 33 ===
+ 
+- 33 -  
+administratif atas pelanggaran ketentuan Pasal 2 ayat 
+(1), ayat (3), Pasal 3, Pasal 4, Pasal 5 ayat (3), Pasal 7, 
+Pasal 8 ayat (8), Pasal 13 ayat (1), ayat (5), Pasal 15 ayat 
+(1), ayat (2), Pasal 16, Pasal 17 ayat (1), Pasal 19, Pasal 
+20 ayat (2), Pasal 21 ayat (2), Pasal 24 ayat (1), ayat (2), 
+Pasal 27 ayat (1), Pasal 29 ayat (1), Pasal 30, Pasal 33 
+ayat (1), ayat (4), ayat (5), ayat (6), Pasal 34 ayat (1), ayat 
+(2), ayat (8), Pasal 35 ayat (1), ayat (3), Pasal 36 ayat (1), 
+dan/atau Pasal 37 ayat (2) mulai berlaku 6 (enam) 
+tahun sejak Peraturan Otoritas Jasa Keuangan ini 
+diundangkan. 
+ 
+Pasal 43 
+(1) 
+Sanksi administratif yang telah dikenakan terhadap 
+PVML berdasarkan Peraturan Otoritas Jasa Keuangan 
+Nomor 
+44/POJK.05/2020 
+tentang 
+Penerapan 
+Manajemen Risiko bagi Lembaga Jasa Keuangan 
+Nonbank dinyatakan tetap berlaku sepanjang tidak 
+bertentangan 
+dengan 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan ini. 
+(2) 
+PVML 
+yang 
+belum 
+dapat 
+mengatasi 
+penyebab 
+dikenakannya 
+sanksi 
+administratif 
+sebagaimana 
+dimaksud pada ayat (1) dikenai sanksi administratif 
+lanjutan sesuai dengan tata cara pengenaan sanksi 
+administratif sebagaimana diatur dalam Peraturan 
+Otoritas Jasa Keuangan ini. 
+ 
+BAB XII 
+KETENTUAN PENUTUP 
+ 
+Pasal 44 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku:  
+a. 
+Peraturan Otoritas Jasa Keuangan Republik Indonesia 
+Nomor 
+4/POJK.05/2018 
+tentang 
+Perusahaan 
+Pembiayaan Sekunder Perumahan (Lembaran Negara 
+Republik Indonesia Tahun 2018 Nomor 40, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6192) 
+sebagaimana 
+telah 
+diubah 
+dengan 
+Peraturan       
+Otoritas Jasa Keuangan Republik Indonesia Nomor 
+12/POJK.05/2022 tentang Perubahan atas Otoritas 
+Jasa 
+Keuangan 
+Republik 
+Indonesia 
+Nomor 
+4/POJK.05/2018 tentang Perusahaan Pembiayaan 
+Sekunder Perumahan (Lembaran Negara Republik 
+Indonesia Tahun 2022 Nomor 6/OJK, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6/OJK); 
+b. 
+Peraturan  Otoritas  Jasa  Keuangan  Republik  Indonesia  
+Nomor  16/POJK.05/2019  tentang  Pengawasan  PT  
+Permodalan  Nasional  Madani  (Persero)  (Lembaran  
+Negara  Republik  Indonesia  Tahun  2019  Nomor  107,  
+Tambahan  Lembaran  Negara  Republik  Indonesia  
+Nomor  6357); 
+ 
+ 
+ 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 34 ===
+ 
+- 34 -  
+c. 
+Peraturan Otoritas Jasa Keuangan Republik Indonesia 
+Nomor 
+46/POJK.05/2020 
+tentang 
+Perusahaan 
+Pembiayaan Infrastruktur (Lembaran Negara Republik 
+Indonesia 
+Tahun 
+2020 
+Nomor 
+249, 
+Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6576); 
+d. 
+Peraturan Otoritas Jasa Keuangan Republik Indonesia 
+Nomor 9/POJK.05/2022 tentang Pengawasan Lembaga 
+Pembiayaan Ekspor Indonesia (Lembaran Negara 
+Republik Indonesia Tahun 2022 Nomor 1/OJK, 
+Tambahan Lembaran Negara Republik Indonesia Nomor 
+1/OJK); 
+e. 
+Peraturan Otoritas Jasa Keuangan Republik Indonesia 
+Nomor 10/POJK.05/2022 tentang Layanan Pendanaan 
+Bersama Berbasis Teknologi Informasi (Lembaran 
+Negara Republik Indonesia Tahun 2022 Nomor 2/OJK, 
+Tambahan Lembaran Negara Republik Indonesia Nomor 
+2/OJK); 
+f. 
+Peraturan Otoritas Jasa Keuangan Republik Indonesia 
+Nomor 20 Tahun 2022 tentang Pengawasan Badan 
+Pengelola Tabungan Perumahan Rakyat oleh Otoritas 
+Jasa Keuangan (Lembaran Negara Republik Indonesia 
+Tahun 2022 Nomor 23/OJK, Tambahan Lembaran 
+Negara Republik Indonesia Nomor 15/OJK); dan 
+g. 
+Peraturan Otoritas Jasa Keuangan Republik Indonesia 
+Nomor 25 Tahun 2023 tentang Penyelenggaraan Usaha 
+PMV dan PMVS (Lembaran Negara Republik Indonesia 
+Tahun 2023 Nomor 43/OJK, Tambahan Lembaran 
+Negara Republik Indonesia Nomor 65/OJK), 
+dinyatakan 
+masih 
+tetap 
+berlaku 
+sepanjang 
+tidak 
+bertentangan dengan ketentuan dalam Peraturan Otoritas 
+Jasa Keuangan ini. 
+ 
+Pasal 45 
+(1) 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku, ketentuan mengenai penerapan Manajemen 
+Risiko dalam Peraturan Otoritas Jasa Keuangan Nomor 
+44/POJK.05/2020 tentang Penerapan Manajemen 
+Risiko 
+bagi 
+Lembaga 
+Jasa 
+Keuangan 
+Nonbank 
+(Lembaran Negara Republik Indonesia Tahun 2020 
+Nomor 200, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6552) dinyatakan tidak berlaku bagi 
+Perusahaan Pembiayaan. 
+(2) 
+Peraturan pelaksanaan dari Peraturan Otoritas Jasa 
+Keuangan 
+Nomor 
+44/POJK.05/2020 
+tentang 
+Penerapan Manajemen Risiko bagi Lembaga Jasa 
+Keuangan 
+Nonbank 
+(Lembaran 
+Negara 
+Republik 
+Indonesia 
+Tahun 
+2020 
+Nomor 
+200, 
+Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6552) 
+dinyatakan tetap berlaku bagi Perusahaan Pembiayaan 
+sepanjang 
+tidak 
+bertentangan 
+dengan 
+Peraturan 
+Otoritas Jasa Keuangan ini. 
+ 
+Pasal 46  
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada 
+tanggal diundangkan. 
+https://jdih.ojk.go.id/
+
+
+=== Halaman 35 ===
+ 
+- 35 -  
+Salinan ini sesuai dengan aslinya 
+Direktur Pengembangan Hukum 
+Departemen Hukum 
+ 
+ttd 
+ 
+Aat Windradi 
+Agar 
+setiap 
+orang 
+mengetahuinya, 
+memerintahkan 
+pengundangan Peraturan Otoritas Jasa Keuangan ini 
+dengan penempatannya dalam Lembaran Negara Republik 
+Indonesia. 
+ 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 24 Desember 2024 
+ 
+WAKIL 
+KETUA 
+DEWAN 
+KOMISIONER 
+OTORITAS JASA KEUANGAN REPUBLIK 
+INDONESIA SELAKU ANGGOTA DEWAN 
+KOMISIONER PENGGANTI KETUA DEWAN 
+KOMISIONER OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA, 
+ 
+ttd 
+ 
+MIRZA ADITYASWARA 
+ 
+ 
+ 
+Diundangkan di Jakarta 
+pada tanggal 27 Desember 2024 
+ 
+MENTERI HUKUM REPUBLIK INDONESIA, 
+ 
+ttd 
+ 
+SUPRATMAN ANDI AGTAS  
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 55/OJK
+https://jdih.ojk.go.id/
+
+
+=== Halaman 36 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PENJELASAN 
+ATAS 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 42 TAHUN 2024 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI LEMBAGA PEMBIAYAAN, 
+PERUSAHAAN MODAL VENTURA, LEMBAGA KEUANGAN MIKRO, DAN 
+LEMBAGA JASA KEUANGAN LAINNYA 
+ 
+I. 
+UMUM 
+Pengaturan mengenai Manajemen Risiko bagi lembaga jasa 
+keuangan adalah langkah strategis yang tidak hanya melindungi 
+lembaga dari berbagai ancaman, tetapi juga mendorong pertumbuhan, 
+efisiensi, dan kepercayaan dari semua pemangku kepentingan.  
+Ketentuan mengenai Manajemen Risiko bagi Lembaga Jasa 
+Keuangan Nonbank sebelumnya telah diatur dalam Peraturan Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+44/POJK.05/2020 
+tentang 
+Penerapan 
+Manajemen Risiko Bagi Lembaga Jasa Keuangan Nonbank. Penerbitan 
+Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan 
+Penguatan Sektor Keuangan (UU P2SK) telah mengamanatkan 
+pembagian bidang pengawasan Lembaga Jasa Keuangan Nonbank 
+menjadi 2 (dua) bidang pengawasan yang terpisah yaitu bidang 
+pengawasan perasuransian, dana pensiun dan penjaminan; dan bidang 
+pengawasan lembaga pembiayaan, perusahaan modal ventura, lembaga 
+keuangan mikro, dan lembaga jasa keuangan lainnya.  
+Ruang lingkup Peraturan Otoritas Jasa Keuangan ini mencakup 
+usaha jasa pembiayaan, Lembaga Keuangan Mikro, LPEI, Perusahaan 
+Pembiayaan Sekunder Perumahan, PT PNM, BP Tapera, dan PT SMI 
+(Persero). Adapun usaha jasa pembiayaan meliputi Perusahaan 
+Pembiayaan, Perusahaan Pembiayaan Infrastruktur, Perusahaan Modal 
+Ventura, Perusahaan Pergadaian, Penyelenggara LPBBTI, dan skema 
+kegiatan pembiayaan lain yang diatur oleh Otoritas Jasa Keuangan. 
+Perusahaan Pembiayaan merupakan satu-satunya lembaga jasa 
+keuangan di bidang pengawasan lembaga pembiayaan, perusahaan 
+modal ventura, lembaga keuangan mikro, dan lembaga jasa keuangan 
+lainnya yang tunduk pada Peraturan Otoritas Jasa Keuangan Nomor 
+44/POJK.05/2020 tentang Penerapan Manajemen Risiko bagi Lembaga 
+Jasa Keuangan Nonbank. Selain itu, pengaturan mengenai Manajemen 
+Risiko bagi lembaga jasa keuangan sui generis seperti LPEI, BP Tapera, 
+PT PNM, dan PT SMI (Persero) diatur dalam Peraturan Otoritas Jasa 
+Keuangan masing-masing. Lembaga jasa keuangan seperti Perusahaan 
+Modal Ventura, Lembaga Keuangan Mikro, Penyelenggara LPBBTI, 
+Perusahaan Pembiayaan Infrastruktur, dan Perusahaan Pergadaian 
+belum mengatur mengenai penerapan Manajemen Risiko. 
+UU 
+P2SK 
+telah 
+mengamanatkan 
+penyusunan 
+penerapan 
+Manajemen Risiko bagi usaha jasa pembiayaan sebagaimana tercantum 
+
+
+=== Halaman 37 ===
+ 
+- 37 -  
+dalam Pasal 122 ayat (3) dan penerapan Manajemen Risiko bagi Pelaku 
+Usaha Sektor Keuangan sebagaimana diatur dalam Pasal 269 UU P2SK.  
+Untuk melaksanakan amanat UU P2SK, harmonisasi ketentuan, 
+dan menjadikan lembaga jasa keuangan di bidang pengawasan lembaga 
+pembiayaan, Perusahaan Modal Ventura, Lembaga Keuangan Mikro, dan 
+lembaga jasa keuangan lainnya lebih baik maka perlu disusun Peraturan 
+Otoritas Jasa Keuangan tentang Penerapan Manajemen Risiko bagi 
+Lembaga Pembiayaan, Perusahaan Modal Ventura, Lembaga Keuangan 
+Mikro, dan Lembaga Jasa Keuangan Lainnya. 
+ 
+II. 
+PASAL DEMI PASAL 
+ 
+Pasal 1 
+Cukup jelas 
+ 
+Pasal 2 
+Ayat (1) 
+Penerapan Manajemen Risiko termasuk penerapan program 
+anti pencucian uang dan pencegahan pendanaan terorisme, 
+dan pencegahan pendanaan proliferasi senjata pemusnah 
+massal sebagaimana dimaksud dalam peraturan perundang-
+undangan mengenai penerapan program anti pencucian uang, 
+pencegahan pendanaan terorisme, dan pencegahan pendanaan 
+proliferasi senjata pemusnah massal di sektor jasa keuangan. 
+Untuk memastikan penerapan Manajemen Risiko berjalan 
+secara efektif, Direksi, Dewan Komisaris, DPS, dan Pengelola 
+mengacu pada tugas dan tanggung jawab Direksi, Dewan 
+Komisaris, DPS, dan Pengelola. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 3 
+Yang dimaksud dengan “kompleksitas usaha”, antara lain tercermin 
+dari keragaman dalam kegiatan usaha, produk dan/atau jasa, 
+jaringan kantor cabang atau saluran distribusi, dan/atau teknologi 
+pendukung yang digunakan. 
+Yang 
+dimaksud 
+dengan 
+“kemampuan 
+PVML”, 
+antara 
+lain 
+kemampuan keuangan, infrastruktur pendukung, dan kemampuan 
+sumber daya manusia. 
+ 
+Pasal 4 
+Ayat (1) 
+Huruf a  
+Contoh dari Risiko Kredit, antara lain Risiko konsentrasi 
+kredit, counterparty credit risk, dan settlement risk.  
+Risiko konsentrasi kredit merupakan Risiko yang timbul 
+akibat terkonsentrasinya penyediaan dana kepada 1 
+(satu) pihak atau sekelompok pihak, industri, sektor, 
+dan/atau 
+area 
+geografis 
+tertentu 
+yang 
+berpotensi 
+menimbulkan 
+kerugian 
+cukup 
+besar 
+yang 
+dapat 
+mengancam kelangsungan usaha PVML. 
+
+
+=== Halaman 38 ===
+ 
+- 38 -  
+Counterparty credit risk merupakan Risiko yang timbul 
+akibat terjadinya kegagalan pihak lawan dalam memenuhi 
+kewajibannya dan timbul dari jenis transaksi yang 
+memiliki karakteristik tertentu, misalnya transaksi yang 
+dipengaruhi oleh pergerakan nilai wajar atau nilai pasar. 
+Settlement risk merupakan Risiko yang timbul akibat 
+kegagalan penyerahan kas dan/atau instrumen keuangan 
+pada tanggal penyelesaian (settlement date) yang telah 
+disepakati dari transaksi penjualan dan/atau pembelian 
+instrumen keuangan. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Risiko Strategis timbul antara lain karena: 
+a. 
+PVML menetapkan strategi yang kurang sejalan 
+dengan visi dan misi PVML; 
+b. 
+PVML melakukan analisis lingkungan strategis yang 
+tidak komprehensif; 
+c. 
+terdapat ketidaksesuaian rencana strategis (strategic 
+plan) antar level strategis; dan 
+d. 
+kegagalan 
+dalam 
+mengantisipasi 
+perubahan 
+lingkungan bisnis seperti perubahan teknologi, 
+perubahan kondisi ekonomi makro, kompetisi di 
+pasar, dan perubahan kebijakan otoritas terkait. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Risiko Hukum timbul antara lain karena ketiadaan 
+peraturan perundang-undangan yang mendukung atau 
+kelemahan perikatan seperti tidak dipenuhinya syarat 
+sahnya kontrak atau pengikatan agunan yang tidak 
+sempurna. 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Risiko Reputasi timbul antara lain karena adanya 
+pemberitaan media dan/atau rumor mengenai PVML yang 
+bersifat negatif, serta adanya strategi komunikasi PVML 
+yang kurang efektif. 
+Ayat (2) 
+Huruf a 
+Lihat penjelasan ayat (1) huruf a. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Lihat penjelasan ayat (1) huruf d. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Lihat penjelasan ayat (1) huruf f. 
+Huruf g 
+Cukup jelas. 
+
+
+=== Halaman 39 ===
+ 
+- 39 -  
+Huruf h 
+Lihat penjelasan ayat (1) huruf h. 
+Huruf i 
+Cukup jelas. 
+Ayat (3) 
+Huruf a 
+Risiko kredit bagi Penyelenggara LPBBTI timbul antara 
+lain karena penilaian skor kredit (credit scoring) yang 
+dimiliki oleh Penyelenggara LPBBTI tidak cukup akurat 
+untuk mendeteksi kemungkinan terjadinya kegagalan 
+bayar penerima dana dalam memenuhi kewajibannya dan 
+timbul dari jenis transaksi yang memiliki karakteristik 
+tertentu. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Lihat penjelasan ayat (1) huruf d. 
+Huruf d 
+Lihat penjelasan ayat (1) huruf f. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Lihat penjelasan ayat (1) huruf h. 
+Ayat (4) 
+Lingkup  usaha Perusahaan Pergadaian merujuk kepada 
+Peraturan Otoritas Jasa Keuangan mengenai pergadaian. 
+Huruf a 
+Angka 1 
+Lihat penjelasan ayat (1) huruf a. 
+Angka 2 
+Cukup jelas. 
+Angka 3 
+Cukup jelas. 
+Angka 4 
+Lihat penjelasan ayat (1) huruf d. 
+Angka 5 
+Cukup jelas. 
+Angka 6 
+Lihat penjelasan ayat (1) huruf f. 
+Angka 7 
+Cukup jelas. 
+Angka 8 
+Lihat penjelasan ayat (1) huruf h. 
+Huruf b 
+Angka 1 
+Lihat penjelasan ayat (1) huruf a. 
+Angka 2 
+Cukup jelas. 
+Angka 3 
+Cukup jelas. 
+Angka 4 
+Lihat penjelasan ayat (1) huruf d. 
+Angka 5 
+Cukup jelas. 
+Angka 6 
+Lihat penjelasan ayat (1) huruf f. 
+
+
+=== Halaman 40 ===
+ 
+- 40 -  
+Angka 7 
+Cukup jelas. 
+Angka 8 
+Lihat penjelasan ayat (1) huruf h. 
+Huruf c 
+Angka 1 
+Lihat penjelasan ayat (1) huruf a. 
+Angka 2 
+Cukup jelas. 
+Angka 3 
+Lihat penjelasan ayat (1) huruf d. 
+Angka 4 
+Cukup jelas. 
+Angka 5 
+Lihat penjelasan ayat (1) huruf f. 
+Angka 6 
+Cukup jelas. 
+Angka 7 
+Lihat penjelasan ayat (1) huruf h. 
+Ayat (5) 
+Huruf a 
+Penetapan skala usaha bagi Lembaga Keuangan Mikro 
+merujuk kepada Peraturan Otoritas Jasa Keuangan 
+mengenai Lembaga Keuangan Mikro. 
+Angka 1 
+Lihat penjelasan ayat (1) huruf a. 
+Angka 2 
+Cukup jelas. 
+Angka 3 
+Cukup jelas. 
+Angka 4 
+Lihat penjelasan ayat (1) huruf f. 
+Angka 5 
+Cukup jelas. 
+Angka 6 
+Lihat penjelasan ayat (1) huruf h. 
+Huruf b 
+Angka 1 
+Lihat penjelasan ayat (1) huruf a. 
+Angka 2 
+Cukup jelas. 
+Angka 3 
+Cukup jelas. 
+Huruf c 
+Angka 1 
+Lihat penjelasan ayat (1) huruf a. 
+Angka 2 
+Cukup jelas. 
+Angka 3 
+Cukup jelas. 
+ 
+Pasal 5 
+Ayat (1) 
+Yang dimaksud dengan “Risiko lain” adalah Risiko selain yang 
+telah diwajibkan bagi masing-masing LJK. 
+ 
+
+
+=== Halaman 41 ===
+ 
+- 41 -  
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 6 
+Ayat (1) 
+Pengenaan sanksi administratif sebagaimana dimaksud pada 
+ayat (1) diberlakukan dengan mempertimbangkan, antara lain: 
+a. 
+kompleksitas pelanggaran ketentuan; 
+b. 
+pelanggaran ketentuan yang berulang; dan/atau 
+c. 
+dampak 
+pelanggaran 
+ketentuan 
+terhadap 
+kerugian 
+konsumen, kondisi keuangan PVML, dan sektor jasa 
+keuangan. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+ 
+Pasal 7 
+Setiap jenjang jabatan antara lain Direksi, Dewan Komisaris, DPS, 
+Pengelola, dan jabatan lain yang terkait dengan penerapan 
+Manajemen Risiko. 
+ 
+Pasal 8 
+Ayat (1) 
+Huruf a 
+Termasuk dalam kebijakan dan strategi Manajemen 
+Risiko antara lain penetapan dan persetujuan tingkat 
+Risiko yang diambil (risk appetite) beserta limit Risiko baik 
+Risiko secara keseluruhan (composite), per jenis Risiko, 
+per aktivitas fungsional, maupun per transaksi yang 
+material/signifikan. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Transaksi dan limit Risiko yang memerlukan persetujuan 
+Direksi antara lain transaksi dan limit Risiko yang telah 
+melampaui kewenangan pejabat PVML satu tingkat di 
+bawah Direksi, sesuai dengan kebijakan dan prosedur 
+internal PVML yang berlaku. 
+Huruf d 
+Pengembangan budaya Manajemen Risiko antara lain 
+meliputi komunikasi yang memadai kepada seluruh 
+jenjang organisasi mengenai prinsip Manajemen Risiko 
+
+
+=== Halaman 42 ===
+ 
+- 42 -  
+termasuk mengembangkan budaya sadar Risiko serta 
+pentingnya pengendalian internal yang efektif. 
+Huruf e 
+Peningkatan kompetensi sumber daya manusia antara 
+lain melalui program pendidikan dan pelatihan secara 
+berkesinambungan mengenai penerapan Manajemen 
+Risiko. 
+Huruf f 
+Yang dimaksud dengan independen antara lain adanya 
+pemisahan fungsi antara fungsi Manajemen Risiko yang 
+melakukan identifikasi, pengukuran, pemantauan, dan 
+pengendalian Risiko dengan fungsi yang melakukan dan 
+menyelesaikan kegiatan bisnis dan operasional. 
+Huruf g 
+Kaji ulang secara berkala antara lain dimaksudkan untuk 
+mengantisipasi jika terjadi perubahan faktor eksternal 
+dan faktor internal. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Frekuensi evaluasi secara berkala disesuaikan dengan 
+kebutuhan PVML dengan memperhatikan ukuran dan 
+kompleksitas PVML. Dalam hal terdapat faktor internal 
+dan/atau eksternal yang memengaruhi kegiatan usaha PVML 
+secara signifikan, PVML dapat melakukan evaluasi kebijakan 
+dan strategi Manajemen Risiko di luar evaluasi secara berkala. 
+Ayat (7) 
+Cukup jelas. 
+Ayat (8) 
+Cukup jelas. 
+ 
+Pasal 9 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “transaksi dan limit Risiko yang 
+memerlukan persetujuan Dewan Komisaris” antara lain 
+kegiatan bisnis atau operasional yang telah melampaui 
+kewenangan Direksi untuk memutuskan hal dimaksud, 
+sesuai dengan kebijakan dan prosedur internal PVML 
+yang berlaku.  
+Ayat (2) 
+Cukup jelas 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+
+
+=== Halaman 43 ===
+ 
+- 43 -  
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+ 
+Pasal 10 
+Cukup jelas. 
+ 
+Pasal 11 
+Ayat (1) 
+Lihat penjelasan Pasal 6 ayat (1). 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+ 
+Pasal 12 
+Ayat (1) 
+Kebijakan Manajemen Risiko ditetapkan antara lain dengan 
+cara menyusun strategi Manajemen Risiko untuk memastikan 
+bahwa: 
+a. 
+PVML tetap mempertahankan eksposur Risiko sesuai 
+kebijakan dan prosedur internal PVML dan peraturan 
+perundang-undangan serta ketentuan lain; dan 
+b. 
+PVML dikelola oleh sumber daya manusia yang memiliki 
+pengetahuan, pengalaman, dan keahlian di bidang 
+Manajemen Risiko sesuai kompleksitas usaha PVML. 
+Penyusunan strategi Manajemen Risiko dilakukan dengan 
+mempertimbangkan kondisi keuangan PVML, organisasi 
+PVML, dan Risiko yang timbul sebagai akibat perubahan faktor 
+eksternal dan faktor internal. 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Tingkat 
+Risiko 
+yang 
+akan 
+diambil 
+(risk 
+appetite) 
+memperhatikan pengalaman yang dimiliki PVML dalam 
+mengelola Risiko serta kemampuan permodalan PVML 
+dalam menyerap Risiko. 
+Toleransi Risiko (risk tolerance) merupakan potensi 
+kerugian yang dapat diserap oleh permodalan PVML. 
+ 
+Huruf d 
+Penetapan penilaian peringkat Risiko merupakan dasar 
+bagi PVML untuk mengategorikan peringkat Risiko PVML. 
+
+
+=== Halaman 44 ===
+ 
+- 44 -  
+Peringkat Risiko bagi PVML dikategorikan menjadi 5 (lima) 
+peringkat, yaitu: 
+1. 
+peringkat 1 (rendah); 
+2. 
+peringkat 2 (sedang rendah); 
+3. 
+peringkat 3 (sedang); 
+4. 
+peringkat 4 (sedang tinggi); dan 
+5. 
+peringkat 5 (tinggi). 
+Huruf e 
+Yang dimaksud dengan “rencana darurat” adalah rencana 
+pengembangan skenario untuk mengantisipasi terjadinya 
+gangguan internal termasuk kegagalan sistem serta 
+gangguan eksternal yang menyebabkan terjadinya kondisi 
+darurat yang dapat menyebabkan terjadinya gangguan 
+operasional PVML. 
+Penyusunan rencana darurat dikenal dengan istilah 
+contingency plan. 
+Kondisi terburuk dikenal dengan istilah worst-case 
+scenario. 
+Huruf f 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 13 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Dokumentasi 
+secara 
+memadai 
+dilakukan 
+dengan 
+dokumentasi yang tertulis, lengkap, akurat, kini, dan 
+utuh sehingga dapat memudahkan untuk dilakukan jejak 
+audit (audit trail) untuk keperluan pengendalian internal 
+PVML. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Huruf a 
+Yang dimaksud dengan “limit secara keseluruhan” adalah 
+batas Risiko yang dapat ditoleransi oleh PVML atas 
+seluruh Risiko yang diterapkan. 
+Huruf b 
+Yang dimaksud dengan “limit per jenis Risiko” adalah 
+batas Risiko yang dapat ditoleransi oleh PVML untuk 
+setiap jenis Risiko. 
+Huruf c 
+Yang dimaksud dengan “limit per aktivitas fungsional 
+tertentu” adalah batas Risiko yang dapat ditoleransi oleh 
+PVML untuk setiap aktivitas fungsional. 
+
+
+=== Halaman 45 ===
+ 
+- 45 -  
+Ayat (6) 
+Cukup jelas. 
+ 
+Pasal 14 
+Ayat (1) 
+Lihat penjelasan Pasal 6 ayat (1). 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+ 
+Pasal 15 
+Ayat (1) 
+Yang dimaksud dengan “faktor Risiko (risk factors)” adalah 
+berbagai parameter yang memengaruhi eksposur Risiko. 
+Yang dimaksud dengan “faktor Risiko (risk factors) yang 
+bersifat material” adalah faktor Risiko baik kuantitatif maupun 
+kualitatif yang berpengaruh secara signifikan terhadap kondisi 
+keuangan PVML. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “informatif” antara lain mudah 
+dipahami. 
+Huruf c 
+Yang dimaksud dengan “memiliki kompetensi di bidang 
+Manajemen Risiko” antara lain memiliki: 
+a. 
+sertifikat keahlian di bidang Manajemen Risiko; 
+b. 
+pengalaman di bidang Manajemen Risiko; dan/atau 
+c. 
+pengalaman yang memadai di bidang LJK terkait. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 16 
+Ayat (1) 
+Proses identifikasi Risiko antara lain dapat didasarkan pada 
+pengalaman kerugian PVML yang pernah terjadi. 
+Ayat (2) 
+Untuk melaksanakan pengukuran Risiko, PVML dapat 
+menggunakan berbagai pendekatan, baik kualitatif maupun 
+kuantitatif, 
+disesuaikan 
+dengan 
+tujuan 
+usaha, 
+dan 
+kompleksitas usaha PVML. 
+ 
+
+
+=== Halaman 46 ===
+ 
+- 46 -  
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang 
+dimaksud 
+dengan 
+“perubahan 
+yang 
+bersifat 
+material” adalah perubahan kegiatan usaha PVML dan 
+faktor Risiko baik yang bersifat kuantitatif atau kualitatif, 
+yang dapat memengaruhi kondisi keuangan PVML. 
+Ayat (3) 
+Huruf a 
+Evaluasi terhadap eksposur Risiko dilakukan dengan cara 
+pemantauan dan pelaporan Risiko yang bersifat material 
+atau 
+yang 
+berdampak 
+kepada 
+kondisi 
+permodalan/pendanaan 
+PVML, 
+yang 
+antara 
+lain 
+didasarkan 
+atas 
+penilaian 
+potensi 
+Risiko 
+dengan 
+menggunakan historical trend.  
+Huruf b 
+Cukup jelas. 
+Ayat (4) 
+Pengendalian Risiko dapat dilakukan antara lain dengan cara 
+lindung nilai, metode mitigasi Risiko, dan penambahan modal 
+untuk menyerap potensi kerugian. 
+ 
+Pasal 17 
+Ayat (1) 
+Yang dimaksud dengan “memiliki kompetensi di bidang sistem 
+informasi Manajemen Risiko” adalah memiliki kompetensi di 
+bidang sistem informasi Manajemen Risiko antara lain 
+memiliki sertifikat keahlian dan/atau bukti telah mengikuti 
+pelatihan di bidang sistem informasi Manajemen Risiko. 
+Yang dimaksud dengan “sistem informasi Manajemen Risiko” 
+adalah sistem yang menggunakan teknologi informasi dan 
+pengolahan data untuk mendukung pengambilan keputusan 
+dalam manajemen risiko. 
+Ayat (2) 
+Cukup jelas 
+Ayat (3) 
+Huruf a 
+Laporan atau informasi eksposur Risiko mencakup 
+eksposur kuantitatif dan kualitatif, secara keseluruhan 
+(composite) maupun rincian per jenis Risiko dan per jenis 
+aktivitas fungsional. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Ayat (4) 
+Yang dimaksud dengan “secara rutin” adalah frekuensi laporan 
+atau informasi yang disampaikan kepada Direksi atau 
+Pengelola disesuaikan dengan kebutuhan PVML. 
+ 
+Pasal 18 
+Ayat (1) 
+Lihat penjelasan Pasal 6 ayat (1). 
+Ayat (2) 
+Cukup jelas. 
+ 
+
+
+=== Halaman 47 ===
+ 
+- 47 -  
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+ 
+Pasal 19 
+Cukup jelas. 
+ 
+Pasal 20 
+Ayat (1) 
+Yang dimaksud dengan ”tepat waktu” adalah kondisi sebelum 
+terjadinya kelemahan dan penyimpangan yang menyebabkan 
+atau memengaruhi eksposur risiko. 
+Ayat (2)  
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Informasi keuangan dan manajemen yang lengkap, 
+akurat, tepat guna, dan tepat waktu diperlukan dalam 
+rangka pengambilan keputusan yang tepat dan dapat 
+dipertanggungjawabkan, serta dikomunikasikan kepada 
+pihak yang berkepentingan.  
+Huruf d 
+Efektivitas dan efisiensi dalam kegiatan bisnis dan 
+operasional antara lain diperlukan untuk melindungi aset 
+dan sumber daya PVML lainnya dari Risiko terkait. 
+Huruf e 
+Efektivitas budaya Risiko (risk culture) dimaksudkan 
+untuk mengidentifikasi kelemahan dan penyimpangan 
+secara lebih dini dan menilai kembali kewajaran kebijakan 
+dan 
+prosedur 
+yang 
+ada 
+pada 
+PVML 
+secara 
+berkesinambungan. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 21 
+Cukup jelas. 
+ 
+Pasal 22 
+Ayat (1) 
+Lihat penjelasan Pasal 6 ayat (1). 
+Ayat (2) 
+Cukup jelas. 
+ 
+
+
+=== Halaman 48 ===
+ 
+- 48 -  
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+ 
+Pasal 23 
+Cukup jelas. 
+ 
+Pasal 24 
+Ayat (1) 
+Komite Manajemen Risiko harus bersifat nonstruktural. 
+Komite Manajemen Risiko bagi BP Tapera adalah komisi 
+Manajemen Risiko. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+ 
+Pasal 25 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “pejabat eksekutif terkait” adalah 
+pejabat yang bertanggung jawab langsung kepada Direksi 
+atau mempunyai pengaruh yang signifikan terhadap 
+kebijakan dan/atau operasional PVML yang terkait 
+dengan penerapan Manajemen Risiko, antara lain pejabat 
+satu tingkat di bawah Direksi, kepala divisi, kepala 
+kantor, kepala satuan kerja Manajemen Risiko, kepala 
+satuan kerja kepatuhan, dan kepala satuan kerja audit 
+internal. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Termasuk dalam keputusan bisnis yang menyimpang dari 
+prosedur normal antara lain pelampauan ekspansi usaha 
+yang signifikan dibandingkan rencana bisnis PVML dan 
+pengambilan 
+posisi 
+atau 
+eksposur 
+Risiko 
+yang 
+
+
+=== Halaman 49 ===
+ 
+- 49 -  
+menyimpang dari limit yang telah ditetapkan dan 
+melampaui 
+kemampuan 
+permodalan 
+PVML 
+dalam 
+menyerap Risiko. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 26 
+Ayat (1) 
+PVML menentukan struktur organisasi yang tepat dan sesuai 
+dengan kondisi PVML, termasuk kemampuan keuangan dan 
+sumber daya manusia. 
+Pembentukan fungsi Manajemen Risiko disesuaikan dengan 
+ukuran dan kompleksitas kegiatan usaha PVML serta harus 
+disertai dengan wewenang dan tanggung jawab yang jelas. 
+Ayat (2) 
+Pengertian independen antara lain tercermin dari adanya: 
+a. 
+pemisahan fungsi dan tugas antara fungsi Manajemen 
+Risiko dengan fungsi bisnis dan operasional (risk-taking 
+function) dan fungsi pengendalian internal; dan 
+b. 
+proses pengambilan keputusan yang tidak memihak atau 
+menguntungkan fungsi bisnis dan operasional tertentu 
+atau mengabaikan fungsi operasional lainnya. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Wewenang dan tanggung jawab satuan kerja Manajemen 
+Risiko atau fungsi Manajemen Risiko disesuaikan dengan 
+tujuan usaha dan kompleksitas usaha PVML. 
+Huruf a 
+Identifikasi 
+Risiko 
+termasuk 
+berkoordinasi 
+dengan 
+seluruh satuan kerja yang terdapat dalam PVML. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Yang dimaksud dengan “risiko secara keseluruhan” yang 
+dikenal dengan istilah “composite risk” adalah Risiko yang 
+dihadapi oleh PVML dengan memperhitungkan semua 
+jenis Risiko pada PVML tersebut. 
+Yang dimaksud dengan “pengujian dengan menggunakan 
+asumsi kondisi tidak normal” yang dikenal dengan istilah 
+“stress testing” adalah pengujian atas posisi Risiko dengan 
+menggunakan beberapa asumsi kondisi tidak normal 
+untuk mengetahui dampak kondisi tidak normal tersebut 
+terhadap posisi Risiko pada PVML. 
+Yang dimaksud dengan “pengujian dengan menggunakan 
+data historis” yang dikenal dengan istilah “back testing” 
+adalah pengujian atas posisi Risiko dengan menggunakan 
+data historis untuk mengetahui efektivitas Manajemen 
+Risiko. 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 50 ===
+ 
+- 50 -  
+Huruf e 
+Kaji ulang antara lain dilakukan berdasarkan temuan 
+audit internal dan/atau perkembangan praktik-praktik 
+Manajemen Risiko yang berlaku secara internasional. 
+Huruf f 
+Termasuk dalam kajian tersebut antara lain penilaian 
+kemampuan PVML untuk melakukan pengembangan 
+atau perluasan kegiatan usaha dan kajian usulan 
+perubahan sistem dan prosedur. 
+Huruf g 
+Model untuk keperluan internal dikenal dengan istilah 
+internal model. 
+Huruf h 
+Rekomendasi antara lain memuat rekomendasi yang 
+terkait dengan besaran atau maksimum eksposur Risiko 
+yang wajib dipelihara oleh PVML. 
+Huruf i 
+Profil Risiko merupakan gambaran secara menyeluruh 
+atas besarnya potensi Risiko yang melekat pada seluruh 
+portofolio atau eksposur PVML. 
+Frekuensi penyampaian laporan dapat ditingkatkan 
+dalam hal kondisi pasar berubah dengan cepat. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+Ayat (8) 
+Cukup jelas. 
+ 
+Pasal 27 
+Ayat (1) 
+Penyampaian informasi eksposur Risiko secara berkala 
+disesuaikan dengan karakteristik jenis Risiko. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 28 
+Ayat (1) 
+Lihat penjelasan Pasal 6 ayat (1). 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+ 
+ 
+ 
+
+
+=== Halaman 51 ===
+ 
+- 51 -  
+Pasal 29 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Masa uji coba dimaksudkan untuk memastikan metode 
+pengukuran dan pemantauan Risiko telah teruji. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Yang 
+dimaksud 
+dengan 
+“informasi 
+lain” 
+adalah 
+pemberitahuan kepada konsumen mengenai hasil lelang 
+objek pembiayaan dan sisa kewajiban konsumen setelah 
+dikurangi hasil lelang objek pembiayaan. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+Ayat (8) 
+Cukup jelas. 
+Ayat (9) 
+Huruf a 
+Kriteria tidak pernah dilakukan sebelumnya antara lain 
+kegiatan usaha yang telah dilakukan oleh PVML lain 
+namun belum pernah dilakukan oleh PVML yang 
+bersangkutan, 
+dengan 
+mengacu 
+kepada 
+ketentuan 
+peraturan perundang-undangan masing-masing PVML. 
+Huruf b 
+Cukup jelas. 
+Ayat (10) 
+Cukup jelas. 
+ 
+Pasal 30 
+Kategori tindakan menyetujui antara lain mengetahui namun tidak 
+melarang atau membiarkan terjadinya kegiatan yang bukan 
+merupakan kegiatan usaha PVML dengan menggunakan sarana 
+
+
+=== Halaman 52 ===
+ 
+- 52 -  
+atau fasilitas PVML oleh Direksi, Dewan Komisaris, DPS, Pengelola, 
+dan/atau pegawai. 
+ 
+Pasal 31 
+Cukup jelas. 
+ 
+Pasal 32 
+Ayat (1) 
+Lihat penjelasan Pasal 6 ayat (1). 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+ 
+Pasal 33 
+Cukup jelas. 
+ 
+Pasal 34 
+Ayat 1 
+Cukup jelas. 
+Ayat 2 
+Cukup jelas. 
+Ayat 3 
+Cukup jelas. 
+Ayat 4 
+Cukup jelas. 
+Ayat 5 
+Contoh: Bagi Perusahaan Pembiayaan XYZ yang telah 
+melaksanakan penilaian tingkat kesehatan dengan cakupan 
+penilaian terhadap profil Risiko, laporan profil Risiko atas hasil 
+penilaian sendiri tingkat Risiko Perusahaan Pembiayaan XYZ 
+dimaksud merupakan bagian dari laporan hasil penilaian 
+tingkat kesehatan. Dengan demikian, Perusahaan Pembiayaan 
+XYZ tidak menyampaikan pelaporan profil Risiko terpisah. 
+Ayat 6 
+Cukup jelas. 
+Ayat 7 
+Cukup jelas. 
+Ayat 8 
+Cukup jelas. 
+ 
+Pasal 35 
+Ayat (1) 
+Kondisi 
+yang 
+berpotensi 
+menimbulkan 
+kerugian 
+yang 
+signifikan terhadap kondisi keuangan PVML antara lain 
+disebabkan oleh Risiko Reputasi dan Risiko Pasar dari 
+penerbitan produk atau pelaksanaan aktivitas PVML. 
+ 
+
+
+=== Halaman 53 ===
+ 
+- 53 -  
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 36 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Kondisi tertentu antara lain terdapat kondisi kahar. 
+Ayat (6) 
+Cukup jelas. 
+ 
+Pasal 37 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Contoh data dan informasi terkait penerapan manajemen 
+risiko antara lain: 
+a. 
+pedoman penerapan manajemen risiko; 
+b. 
+penetapan limit risiko penyaluran pembiayaan; dan 
+c. 
+kewenangan dalam memutus nilai pembiayaan yang 
+disalurkan. 
+ 
+Pasal 38 
+Ayat (1) 
+Lihat penjelasan Pasal 6 ayat (1). 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+ 
+Pasal 39 
+Cukup jelas. 
+ 
+Pasal 40 
+Pemberian persetujuan atau kebijakan yang berbeda dimaksudkan 
+antara lain untuk: 
+
+
+=== Halaman 54 ===
+ 
+- 54 -  
+a. 
+mendukung kebijakan nasional; 
+b. 
+menjaga kepentingan publik; 
+c. 
+menjaga pertumbuhan industri; dan/atau  
+d. 
+menjaga persaingan usaha yang sehat. 
+Pertimbangan mendukung kebijakan nasional dimaksudkan agar 
+pertumbuhan industri pergadaian tidak menjadi penghambat bagi 
+kebijakan nasional yang ditetapkan oleh pemerintah, Otoritas Jasa 
+Keuangan, dan/atau otoritas terkait. 
+Pertimbangan menjaga kepentingan publik dimaksudkan agar 
+industri pergadaian senantiasa memenuhi kebutuhan masyarakat 
+secara luas dengan akses dan kualitas yang sama, serta biaya yang 
+terjangkau. 
+Pertimbangan menjaga pertumbuhan industri dimaksudkan agar 
+industri dapat tumbuh secara optimal di masyarakat. 
+Pertimbangan menjaga persaingan usaha yang sehat dimaksudkan 
+agar penyelenggaraan pergadaian dapat dilakukan secara jujur, 
+tidak melawan hukum, atau tidak menghambat persaingan usaha. 
+ 
+Pasal 41 
+Cukup jelas. 
+ 
+Pasal 42 
+Cukup jelas. 
+ 
+Pasal 43 
+Cukup jelas. 
+ 
+Pasal 44 
+Cukup jelas. 
+ 
+Pasal 45 
+Cukup jelas. 
+ 
+Pasal 46 
+Cukup jelas. 
+ 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 123/OJK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+

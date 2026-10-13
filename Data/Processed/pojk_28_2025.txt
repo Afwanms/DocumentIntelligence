@@ -1,0 +1,2958 @@
+=== Halaman 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 28 TAHUN 2025 
+ 
+TENTANG 
+ 
+PENERAPAN MANAJEMEN RISIKO BAGI PERUSAHAAN PERASURANSIAN, 
+LEMBAGA PENJAMIN, DAN DANA PENSIUN 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN, 
+ 
+ 
+Menimbang 
+: a. 
+bahwa pengembangan perusahaan perasuransian, 
+lembaga penjamin, dan dana pensiun membutuhkan 
+penerapan manajemen risiko yang memadai, efektif, 
+dan terukur; 
+b. 
+bahwa penerapan manajemen risiko bagi lembaga 
+penjamin belum diatur dalam Peraturan Otoritas Jasa 
+Keuangan 
+Nomor 
+44/POJK.05/2020 
+tentang 
+Penerapan Manajemen Risiko bagi Lembaga Jasa 
+Keuangan Nonbank sehingga perlu mengatur kembali 
+ketentuan mengenai penerapan manajemen risiko bagi 
+perusahaan perasuransian, lembaga penjamin, dan 
+dana pensiun; 
+c. 
+bahwa 
+berdasarkan 
+pertimbangan 
+sebagaimana 
+dimaksud dalam huruf a dan huruf b, serta untuk 
+melaksanakan ketentuan Pasal 11 ayat (5) Undang-
+Undang Nomor 40 Tahun 2014 tentang Perasuransian 
+sebagaimana telah diubah dengan Undang-Undang 
+Nomor 4 Tahun 2023 tentang Pengembangan dan 
+Penguatan Sektor Keuangan, serta Pasal 143 ayat (4) 
+dan Pasal 269 Undang-Undang Nomor 4 Tahun 2023 
+tentang 
+Pengembangan 
+dan 
+Penguatan 
+Sektor 
+Keuangan, perlu menetapkan Peraturan Otoritas Jasa 
+Keuangan tentang Penerapan Manajemen Risiko bagi 
+Perusahaan Perasuransian, Lembaga Penjamin, dan 
+Dana Pensiun; 
+ 
+Mengingat 
+: 1. 
+Undang-Undang Nomor 21 Tahun 2011 tentang 
+Otoritas Jasa Keuangan (Lembaran Negara Republik 
+Indonesia 
+Tahun 
+2011 
+Nomor 
+111, 
+Tambahan 
+Lembaran Negara Republik Indonesia Nomor 5253) 
+sebagaimana telah diubah dengan Undang-Undang 
+Nomor 4 Tahun 2023 tentang Pengembangan dan 
+Penguatan 
+Sektor 
+Keuangan 
+(Lembaran 
+Negara 
+Republik Indonesia Tahun 2023 Nomor 4, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6845); 
+ 
+ 
+
+
+=== Halaman 2 ===
+ 
+ 
+- 2 - 
+2. 
+Undang-Undang Nomor 40 Tahun 2014 tentang 
+Perasuransian (Lembaran Negara Republik Indonesia 
+Tahun 2014 Nomor 337, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5618) sebagaimana telah 
+diubah dengan Undang-Undang Nomor 4 Tahun 2023 
+tentang 
+Pengembangan 
+dan 
+Penguatan 
+Sektor 
+Keuangan (Lembaran Negara Republik Indonesia 
+Tahun 2023 Nomor 4, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 6845); 
+3. 
+Undang-Undang 
+Nomor 
+1 
+Tahun 
+2016 
+tentang 
+Penjaminan (Lembaran Negara Republik Indonesia 
+Tahun 2016 Nomor 9, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5835) sebagaimana telah 
+diubah dengan Undang-Undang Nomor 4 Tahun 2023 
+tentang 
+Pengembangan 
+dan 
+Penguatan 
+Sektor 
+Keuangan (Lembaran Negara Republik Indonesia 
+Tahun 2023 Nomor 4, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 6845); 
+4. 
+Undang-Undang 
+Nomor 
+4 
+Tahun 
+2023 
+tentang 
+Pengembangan dan Penguatan Sektor Keuangan 
+(Lembaran Negara Republik Indonesia Tahun 2023 
+Nomor 4, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6845); 
+ 
+MEMUTUSKAN: 
+ 
+Menetapkan    : PERATURAN 
+OTORITAS 
+JASA 
+KEUANGAN 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI PERUSAHAAN 
+PERASURANSIAN, LEMBAGA PENJAMIN, DAN DANA 
+PENSIUN. 
+ 
+BAB I 
+KETENTUAN UMUM 
+ 
+Pasal 1 
+Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud 
+dengan: 
+1. 
+Perusahaan Perasuransian, Lembaga Penjamin, dan 
+Dana Pensiun yang selanjutnya disebut PPDP adalah 
+lembaga jasa keuangan yang melaksanakan kegiatan di 
+sektor perasuransian, penjaminan, dan dana pensiun. 
+2. 
+Risiko adalah potensi kerugian yang tidak dapat 
+dikendalikan dan/atau dapat dikendalikan akibat 
+terjadinya suatu peristiwa tertentu. 
+3. 
+Manajemen Risiko adalah serangkaian prosedur dan 
+metodologi yang digunakan untuk mengidentifikasi, 
+mengukur, memantau, dan mengendalikan Risiko yang 
+timbul dari seluruh kegiatan usaha PPDP. 
+4. 
+Risiko Strategis adalah Risiko akibat ketidaktepatan 
+dalam pengambilan dan/atau pelaksanaan suatu 
+keputusan 
+strategis 
+serta 
+kegagalan 
+dalam 
+mengantisipasi perubahan lingkungan bisnis. 
+5. 
+Risiko Operasional adalah Risiko akibat ketidakcukupan 
+dan/atau tidak berfungsinya proses internal, kesalahan 
+manusia, kegagalan sistem, dan/atau adanya kejadian 
+eksternal yang memengaruhi operasional PPDP. 
+
+
+=== Halaman 3 ===
+ 
+ 
+- 3 - 
+6. 
+Risiko Asuransi adalah Risiko kegagalan perusahaan 
+asuransi, perusahaan reasuransi, perusahaan asuransi 
+syariah, dan perusahaan reasuransi syariah untuk 
+memenuhi 
+kewajiban 
+kepada 
+pemegang 
+polis, 
+tertanggung, 
+atau 
+peserta 
+sebagai 
+akibat 
+dari 
+ketidakcukupan proses seleksi Risiko (underwriting), 
+penetapan 
+premi 
+atau 
+kontribusi, 
+penggunaan 
+reasuransi, dan/atau penanganan klaim. 
+7. 
+Risiko Kredit adalah Risiko akibat kegagalan pihak lain 
+dalam memenuhi kewajiban kepada PPDP. 
+8. 
+Risiko Penjaminan adalah Risiko kegagalan lembaga 
+penjamin untuk memenuhi kewajiban kepada penerima 
+jaminan sebagai akibat dari ketidakcukupan proses 
+analisis 
+kelayakan 
+penjaminan, 
+ketidakcukupan 
+penetapan imbal jasa penjaminan, kegagalan mitra 
+penjaminan bersama atau penjaminan ulang memenuhi 
+kewajibannya, 
+ketidakcukupan 
+cadangan 
+klaim, 
+dan/atau penanganan subrogasi yang tidak memadai. 
+9. 
+Risiko Pasar adalah Risiko pada posisi aset, liabilitas, 
+ekuitas, dan/atau rekening administratif termasuk 
+transaksi 
+derivatif 
+akibat 
+perubahan 
+secara 
+keseluruhan dari kondisi pasar. 
+10. Risiko Likuiditas adalah Risiko akibat ketidakmampuan 
+PPDP untuk memenuhi liabilitas yang jatuh tempo dari 
+sumber pendanaan arus kas dan/atau dari aset likuid 
+yang dapat dengan mudah dikonversi menjadi kas, 
+tanpa mengganggu aktivitas dan kondisi keuangan 
+PPDP. 
+11. Risiko Hukum adalah Risiko yang timbul akibat gugatan 
+atau tuntutan hukum dan/atau kelemahan aspek 
+hukum. 
+12. Risiko Kepatuhan adalah Risiko akibat PPDP tidak 
+mematuhi dan/atau tidak melaksanakan peraturan 
+perundang-undangan dan ketentuan yang berlaku bagi 
+PPDP. 
+13. Risiko Reputasi adalah Risiko akibat menurunnya 
+tingkat kepercayaan pemangku kepentingan yang 
+bersumber dari persepsi negatif terhadap PPDP. 
+14. Direksi adalah organ perseroan yang berwenang dan 
+bertanggung jawab penuh atas pengurusan perseroan 
+untuk kepentingan perseroan, sesuai dengan maksud 
+dan tujuan perseroan serta mewakili perseroan, baik di 
+dalam maupun di luar pengadilan sesuai dengan 
+ketentuan anggaran dasar bagi PPDP berbentuk badan 
+hukum perseroan terbatas, atau yang setara dengan 
+direksi bagi PPDP berbentuk badan hukum koperasi, 
+usaha bersama, dana pensiun, dan perusahaan umum. 
+15. Dewan Komisaris adalah organ perseroan yang bertugas 
+melakukan pengawasan secara umum dan/atau khusus 
+sesuai dengan anggaran dasar serta memberi nasihat 
+kepada Direksi bagi PPDP berbentuk badan hukum 
+perseroan terbatas, atau yang setara dengan dewan 
+komisaris bagi PPDP berbentuk badan hukum koperasi, 
+usaha bersama, dana pensiun, dan perusahaan umum. 
+
+
+=== Halaman 4 ===
+ 
+ 
+- 4 - 
+16. Dewan Pengawas Syariah adalah pihak yang memiliki 
+tugas dan fungsi pengawasan terhadap penyelenggaraan 
+kegiatan PPDP agar sesuai dengan prinsip syariah. 
+17. Prinsip 
+Syariah 
+adalah 
+prinsip 
+hukum 
+Islam 
+berdasarkan fatwa dan/atau pernyataan kesesuaian 
+syariah yang dikeluarkan oleh lembaga yang memiliki 
+kewenangan dalam penetapan fatwa di bidang syariah. 
+ 
+Pasal 2 
+(1) 
+Peraturan Otoritas Jasa Keuangan ini mengatur 
+penerapan Manajemen Risiko bagi PPDP.  
+(2) 
+PPDP sebagaimana dimaksud pada ayat (1) meliputi: 
+a. 
+perusahaan perasuransian, yang terdiri atas: 
+1. 
+perusahaan 
+asuransi, 
+termasuk 
+yang 
+menyelenggarakan 
+sebagian 
+usahanya 
+berdasarkan Prinsip Syariah; 
+2. 
+perusahaan 
+reasuransi, 
+termasuk 
+yang 
+menyelenggarakan 
+sebagian 
+usahanya 
+berdasarkan Prinsip Syariah; 
+3. 
+perusahaan asuransi syariah; 
+4. 
+perusahaan reasuransi syariah; 
+5. 
+perusahaan pialang asuransi; 
+6. 
+perusahaan pialang reasuransi; dan 
+7. 
+perusahaan penilai kerugian asuransi, 
+sebagaimana 
+dimaksud 
+dalam 
+ketentuan 
+peraturan 
+perundang-undangan 
+mengenai 
+perasuransian; 
+b. 
+lembaga penjamin, yang terdiri atas: 
+1. 
+perusahaan 
+penjaminan 
+termasuk 
+yang 
+menyelenggarakan 
+sebagian 
+usahanya 
+berdasarkan Prinsip Syariah; 
+2. 
+perusahaan penjaminan ulang;  
+3. 
+perusahaan penjaminan syariah; dan 
+4. 
+perusahaan penjaminan ulang syariah, 
+sebagaimana 
+dimaksud 
+dalam 
+ketentuan 
+peraturan 
+perundang-undangan 
+mengenai 
+penjaminan; dan 
+c. 
+dana pensiun sebagaimana dimaksud dalam 
+ketentuan 
+peraturan 
+perundang-undangan 
+mengenai 
+dana 
+pensiun, 
+termasuk 
+yang 
+menyelenggarakan 
+seluruh 
+atau 
+sebagian 
+usahanya berdasarkan Prinsip Syariah. 
+ 
+BAB II 
+PENERAPAN MANAJEMEN RISIKO 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 3 
+(1) 
+PPDP wajib menerapkan Manajemen Risiko secara 
+efektif. 
+(2) 
+Penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) paling sedikit mencakup: 
+a. 
+pengawasan aktif Direksi, Dewan Komisaris, dan 
+Dewan Pengawas Syariah; 
+
+
+=== Halaman 5 ===
+ 
+ 
+- 5 - 
+b. 
+kecukupan kebijakan dan prosedur Manajemen 
+Risiko serta penetapan limit Risiko; 
+c. 
+kecukupan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko, serta 
+sistem informasi Manajemen Risiko; dan 
+d. 
+sistem pengendalian internal yang menyeluruh. 
+(3) 
+Dalam menerapkan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1), PPDP wajib memiliki pedoman 
+penerapan Manajemen Risiko. 
+(4) 
+Ketentuan mengenai penerapan Manajemen Risiko 
+sebagaimana dimaksud pada ayat (1) ditetapkan oleh 
+Otoritas Jasa Keuangan. 
+ 
+Pasal 4 
+Penerapan Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 3 wajib disesuaikan dengan tujuan, kebijakan usaha, 
+ukuran, kompleksitas usaha, dan kemampuan PPDP. 
+ 
+Pasal 5 
+(1) 
+Perusahaan 
+asuransi, 
+perusahaan 
+reasuransi, 
+perusahaan 
+asuransi 
+syariah, 
+dan 
+perusahaan 
+reasuransi syariah sebagaimana dimaksud dalam Pasal 
+2 ayat (2) huruf a angka 1 sampai dengan angka 4 wajib 
+menerapkan Manajemen Risiko untuk: 
+a. 
+Risiko Strategis; 
+b. 
+Risiko Operasional; 
+c. 
+Risiko Asuransi; 
+d. 
+Risiko Kredit; 
+e. 
+Risiko Pasar; 
+f. 
+Risiko Likuiditas; 
+g. 
+Risiko Hukum; 
+h. 
+Risiko Kepatuhan; dan 
+i. 
+Risiko Reputasi. 
+(2) 
+Perusahaan pialang asuransi, perusahaan pialang 
+reasuransi, dan perusahaan penilai kerugian asuransi 
+sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf a 
+angka 5 sampai dengan angka 7 wajib menerapkan 
+Manajemen Risiko untuk: 
+a. 
+Risiko Strategis; 
+b. 
+Risiko Operasional; 
+c. 
+Risiko Hukum; 
+d. 
+Risiko Kepatuhan; dan 
+e. 
+Risiko Reputasi. 
+(3) 
+Perusahaan 
+penjaminan, 
+perusahaan 
+penjaminan 
+ulang, 
+perusahaan 
+penjaminan 
+syariah, 
+dan 
+perusahaan penjaminan ulang syariah sebagaimana 
+dimaksud dalam Pasal 2 ayat (2) huruf b angka 1 
+sampai dengan angka 4 wajib menerapkan Manajemen 
+Risiko untuk: 
+a. 
+Risiko Strategis; 
+b. 
+Risiko Operasional; 
+c. 
+Risiko Penjaminan; 
+d. 
+Risiko Kredit; 
+e. 
+Risiko Pasar; 
+f. 
+Risiko Likuiditas; 
+g. 
+Risiko Hukum; 
+
+
+=== Halaman 6 ===
+ 
+ 
+- 6 - 
+h. 
+Risiko Kepatuhan; dan 
+i. 
+Risiko Reputasi. 
+(4) 
+Dana pensiun sebagaimana dimaksud dalam Pasal 2 
+ayat (2) huruf c wajib menerapkan Manajemen Risiko 
+untuk: 
+a. 
+Risiko Strategis; 
+b. 
+Risiko Operasional; 
+c. 
+Risiko Kredit; 
+d. 
+Risiko Pasar; 
+e. 
+Risiko Likuiditas; 
+f. 
+Risiko Hukum; 
+g. 
+Risiko Kepatuhan; dan 
+h. 
+Risiko Reputasi. 
+(5) 
+PPDP yang menyelenggarakan sebagian usahanya 
+berdasarkan 
+Prinsip 
+Syariah 
+wajib 
+menerapkan 
+Manajemen Risiko untuk unit usaha syariah. 
+ 
+Bagian Kedua 
+Pengawasan Aktif Direksi, Dewan Komisaris, dan Dewan 
+Pengawas Syariah 
+ 
+Paragraf 1 
+Umum 
+ 
+Pasal 6 
+PPDP wajib menetapkan wewenang dan tanggung jawab 
+pada setiap jenjang jabatan yang terkait dengan penerapan 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 3. 
+ 
+Paragraf 2 
+Wewenang dan Tanggung Jawab Direksi 
+ 
+Pasal 7 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 6 bagi Direksi paling sedikit: 
+a. 
+menyusun dan menetapkan kebijakan dan strategi 
+Manajemen 
+Risiko 
+secara 
+tertulis 
+dan 
+komprehensif; 
+b. 
+bertanggung jawab atas pelaksanaan kebijakan 
+Manajemen Risiko dan eksposur Risiko yang 
+diambil oleh PPDP secara keseluruhan; 
+c. 
+mengevaluasi dan memutuskan transaksi dan 
+limit Risiko yang memerlukan persetujuan Direksi; 
+d. 
+mengembangkan budaya Manajemen Risiko pada 
+seluruh jenjang organisasi; 
+e. 
+memastikan peningkatan kompetensi sumber 
+daya manusia yang terkait dengan Manajemen 
+Risiko; 
+f. 
+memastikan bahwa fungsi Manajemen Risiko telah 
+beroperasi secara independen; dan 
+g. 
+melaksanakan kaji ulang secara berkala untuk 
+memastikan: 
+1. 
+keakuratan metodologi penilaian Risiko; 
+2. 
+kecukupan implementasi sistem informasi 
+Manajemen Risiko; dan 
+
+
+=== Halaman 7 ===
+ 
+ 
+- 7 - 
+3. 
+ketepatan 
+kebijakan 
+dan 
+prosedur 
+Manajemen Risiko serta penetapan limit 
+Risiko. 
+(2) 
+Tanggung jawab Direksi atas pelaksanaan kebijakan 
+Manajemen Risiko sebagaimana dimaksud pada ayat 
+(1) huruf b termasuk: 
+a. 
+mengevaluasi 
+dan 
+memberikan 
+arahan 
+berdasarkan laporan yang disampaikan oleh 
+fungsi Manajemen Risiko; dan 
+b. 
+menyampaikan 
+laporan 
+pertanggungjawaban 
+kepada 
+Dewan 
+Komisaris 
+dan/atau 
+Dewan 
+Pengawas Syariah paling sedikit 1 (satu) kali dalam 
+jangka waktu 6 (enam) bulan. 
+(3) 
+Untuk melaksanakan wewenang dan tanggung jawab 
+sebagaimana dimaksud pada ayat (1), Direksi harus 
+memiliki pemahaman mengenai Risiko yang melekat 
+pada seluruh aktivitas fungsional PPDP dan mampu 
+mengambil tindakan yang diperlukan sesuai dengan 
+profil Risiko PPDP. 
+ 
+Paragraf 3 
+Wewenang dan Tanggung Jawab Dewan Komisaris 
+ 
+Pasal 8 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 6 bagi Dewan Komisaris paling sedikit: 
+a. 
+menyetujui 
+dan 
+mengevaluasi 
+kebijakan 
+Manajemen Risiko; 
+b. 
+mengevaluasi pertanggungjawaban Direksi atas 
+pelaksanaan 
+kebijakan 
+Manajemen 
+Risiko 
+sebagaimana dimaksud dalam huruf a; dan 
+c. 
+mengevaluasi 
+dan 
+memutuskan 
+permohonan 
+Direksi yang berkaitan dengan transaksi dan limit 
+Risiko yang memerlukan persetujuan Dewan 
+Komisaris. 
+(2) 
+Evaluasi kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dilakukan paling sedikit 
+1 (satu) kali dalam jangka waktu 1 (satu) tahun. 
+(3) 
+Evaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf b dilakukan paling sedikit 
+1 (satu) kali dalam jangka waktu 6 (enam) bulan. 
+ 
+Paragraf 4 
+Wewenang dan Tanggung Jawab Dewan Pengawas Syariah 
+ 
+Pasal 9 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 6 bagi Dewan Pengawas Syariah paling 
+sedikit: 
+a. 
+mengevaluasi kebijakan Manajemen Risiko yang 
+terkait dengan pemenuhan Prinsip Syariah; dan 
+b. 
+mengevaluasi pertanggungjawaban Direksi atas 
+pelaksanaan kebijakan Manajemen Risiko yang 
+terkait 
+dengan 
+pemenuhan 
+Prinsip 
+Syariah 
+sebagaimana dimaksud dalam huruf a. 
+
+
+=== Halaman 8 ===
+ 
+ 
+- 8 - 
+(2) 
+Evaluasi kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dilakukan paling sedikit 
+1 (satu) kali dalam jangka waktu 1 (satu) tahun. 
+(3) 
+Evaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan kebijakan Manajemen Risiko yang terkait 
+dengan pemenuhan Prinsip Syariah sebagaimana 
+dimaksud pada ayat (1) huruf b dilakukan paling sedikit 
+1 (satu) kali dalam jangka waktu 6 (enam) bulan. 
+ 
+Bagian Ketiga 
+Kecukupan Kebijakan dan Prosedur Manajemen Risiko 
+serta Penetapan Limit Risiko 
+ 
+Paragraf 1 
+Kebijakan Manajemen Risiko 
+ 
+Pasal 10 
+Kebijakan Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 3 ayat (2) huruf b paling sedikit memuat: 
+a. 
+penetapan Risiko yang terkait dengan kegiatan usaha 
+PPDP; 
+b. 
+penetapan penggunaan metode pengukuran dan sistem 
+informasi Manajemen Risiko; 
+c. 
+penetapan tingkat Risiko yang akan diambil, penetapan 
+toleransi Risiko, dan penentuan limit Risiko; 
+d. 
+penetapan penilaian peringkat Risiko; 
+e. 
+penyusunan rencana darurat dalam kondisi terburuk; 
+dan 
+f. 
+penetapan 
+sistem 
+pengendalian 
+internal 
+dalam 
+penerapan Manajemen Risiko. 
+ 
+Paragraf 2 
+Prosedur Manajemen Risiko dan Penetapan Limit Risiko 
+ 
+Pasal 11 
+(1) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf b 
+wajib disesuaikan dengan tingkat Risiko yang akan 
+diambil terhadap Risiko PPDP. 
+(2) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud pada ayat (1) paling sedikit 
+memuat: 
+a. 
+akuntabilitas dan jenjang delegasi wewenang yang 
+jelas; 
+b. 
+pelaksanaan 
+kaji 
+ulang 
+terhadap 
+prosedur 
+Manajemen Risiko dan penetapan limit Risiko 
+secara berkala paling sedikit 1 (satu) kali dalam 
+jangka waktu 1 (satu) tahun; dan 
+c. 
+dokumentasi prosedur Manajemen Risiko dan 
+penetapan limit Risiko secara memadai. 
+(3) 
+Penetapan limit Risiko sebagaimana dimaksud pada 
+ayat (2) wajib mencakup: 
+a. 
+limit secara keseluruhan; 
+b. 
+limit per jenis Risiko; dan 
+c. 
+limit per aktivitas fungsional dan transaksi 
+tertentu yang memiliki eksposur Risiko. 
+
+
+=== Halaman 9 ===
+ 
+ 
+- 9 - 
+Bagian Keempat 
+Kecukupan Proses Identifikasi, Pengukuran, Pemantauan, 
+dan Pengendalian Risiko, serta Sistem Informasi 
+Manajemen Risiko 
+ 
+Paragraf 1 
+Umum 
+ 
+Pasal 12 
+(1) 
+PPDP 
+wajib 
+melakukan 
+proses 
+identifikasi, 
+pengukuran, pemantauan, dan pengendalian Risiko 
+sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf c 
+terhadap faktor Risiko yang bersifat material. 
+(2) 
+Pelaksanaan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko sebagaimana 
+dimaksud pada ayat (1) wajib didukung oleh: 
+a. 
+sistem informasi manajemen yang andal dan tepat 
+waktu; 
+b. 
+laporan yang akurat dan informatif mengenai 
+kondisi keuangan, kinerja aktivitas fungsional, 
+dan eksposur Risiko PPDP; dan 
+c. 
+sumber daya manusia yang memiliki kompetensi 
+di bidang Manajemen Risiko. 
+ 
+Paragraf 2 
+Proses Identifikasi, Pengukuran, Pemantauan, dan 
+Pengendalian Risiko 
+ 
+Pasal 13 
+(1) 
+Untuk melaksanakan proses identifikasi Risiko, PPDP 
+wajib melakukan analisis paling sedikit terhadap: 
+a. 
+karakteristik Risiko yang melekat pada PPDP; dan 
+b. 
+Risiko dari kegiatan usaha PPDP. 
+(2) 
+Untuk melaksanakan pengukuran Risiko, PPDP wajib 
+melakukan paling sedikit: 
+a. 
+evaluasi secara berkala paling sedikit 1 (satu) kali 
+dalam jangka waktu 1 (satu) tahun, terhadap 
+kesesuaian asumsi, sumber data, dan prosedur 
+yang digunakan untuk mengukur Risiko; dan 
+b. 
+penyesuaian terhadap proses pengukuran Risiko 
+dalam hal terdapat perubahan kegiatan usaha 
+PPDP dan faktor Risiko yang bersifat material. 
+(3) 
+Untuk melaksanakan pemantauan Risiko, PPDP wajib 
+melakukan paling sedikit: 
+a. 
+evaluasi terhadap eksposur Risiko; dan 
+b. 
+penyesuaian proses pelaporan atas perubahan 
+yang bersifat material terhadap:   
+1. 
+kegiatan usaha; 
+2. 
+faktor Risiko; 
+3. 
+teknologi informasi; dan 
+4. 
+sistem informasi Manajemen Risiko PPDP. 
+(4) 
+PPDP wajib melaksanakan proses pengendalian Risiko 
+untuk mengelola Risiko tertentu yang membahayakan 
+kelangsungan usaha PPDP. 
+ 
+ 
+
+
+=== Halaman 10 ===
+ 
+ 
+- 10 - 
+Paragraf 3 
+Sistem Informasi Manajemen Risiko 
+ 
+Pasal 14 
+(1) 
+Sistem informasi Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 3 ayat (2) huruf c wajib 
+didukung oleh sumber daya manusia yang memiliki 
+kompetensi di bidang sistem informasi Manajemen 
+Risiko. 
+(2) 
+Sistem informasi Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 3 ayat (2) huruf c, mencakup 
+laporan atau informasi paling sedikit mengenai: 
+a. 
+eksposur Risiko; 
+b. 
+kepatuhan terhadap kebijakan dan prosedur 
+Manajemen Risiko serta penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 10 dan Pasal 
+11; dan 
+c. 
+realisasi 
+pelaksanaan 
+Manajemen 
+Risiko 
+dibandingkan dengan target yang ditetapkan. 
+(3) 
+Laporan atau informasi sebagaimana dimaksud pada 
+ayat (2) harus disampaikan secara berkala kepada 
+Direksi. 
+ 
+Bagian Kelima 
+Sistem Pengendalian Internal 
+ 
+Paragraf 1 
+Umum 
+ 
+Pasal 15 
+PPDP wajib melaksanakan sistem pengendalian internal 
+secara 
+efektif 
+terhadap 
+Risiko 
+yang 
+melekat 
+dalam 
+pelaksanaan kegiatan usaha dan operasional pada seluruh 
+jenjang organisasi PPDP. 
+ 
+Pasal 16 
+(1) 
+Pelaksanaan 
+sistem 
+pengendalian 
+internal 
+sebagaimana dimaksud dalam Pasal 15 paling sedikit 
+mampu secara tepat waktu mendeteksi kelemahan dan 
+penyimpangan yang menyebabkan atau memengaruhi 
+eksposur Risiko. 
+(2) 
+Sistem pengendalian internal sebagaimana dimaksud 
+pada ayat (1) wajib memastikan: 
+a. 
+kepatuhan 
+level 
+manajemen 
+PPDP 
+terhadap 
+ketentuan 
+peraturan 
+perundang-undangan, 
+kebijakan dan prosedur Manajemen Risiko, serta 
+kebijakan atau ketentuan internal PPDP; 
+b. 
+kepatuhan dan efektivitas fungsi Manajemen 
+Risiko dalam merancang dan menerapkan strategi 
+dan kebijakan Manajemen Risiko; 
+c. 
+tersedianya informasi keuangan dan manajemen 
+yang lengkap, akurat, tepat guna, dan tepat waktu; 
+d. 
+efektivitas dan efisiensi dalam kegiatan bisnis dan 
+operasional; dan 
+e. 
+efektivitas budaya Risiko pada organisasi PPDP 
+secara menyeluruh. 
+
+
+=== Halaman 11 ===
+ 
+ 
+- 11 - 
+Paragraf 2 
+Sistem Pengendalian Internal dalam Penerapan Manajemen 
+Risiko 
+ 
+Pasal 17 
+(1) 
+Sistem 
+pengendalian 
+internal 
+yang 
+menyeluruh 
+sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf d 
+dalam penerapan Manajemen Risiko paling sedikit 
+memuat: 
+a. 
+kesesuaian sistem pengendalian internal dengan 
+jenis dan tingkat Risiko yang melekat pada 
+kegiatan usaha PPDP; 
+b. 
+penetapan wewenang dan tanggung jawab untuk 
+pemantauan kepatuhan kebijakan dan prosedur 
+Manajemen Risiko, serta penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 10 dan Pasal 
+11; 
+c. 
+penetapan jalur pelaporan dan pemisahan fungsi 
+yang jelas dari fungsi operasional kepada fungsi 
+pengendalian Risiko; 
+d. 
+struktur organisasi yang menggambarkan secara 
+jelas kegiatan usaha PPDP; 
+e. 
+pelaporan keuangan dan kegiatan operasional 
+yang akurat dan tepat waktu; 
+f. 
+kecukupan 
+prosedur 
+untuk 
+memastikan 
+kepatuhan PPDP terhadap ketentuan perundang-
+undangan dan ketentuan yang berlaku bagi PPDP; 
+g. 
+kaji ulang yang efektif, independen, dan obyektif 
+terhadap prosedur penilaian kegiatan operasional 
+PPDP; 
+h. 
+pengujian dan kaji ulang yang memadai terhadap 
+sistem informasi Manajemen Risiko; 
+i. 
+dokumentasi 
+secara 
+lengkap 
+dan 
+memadai 
+terhadap prosedur operasional, cakupan, dan 
+temuan audit, serta tanggapan Direksi, Dewan 
+Komisaris, dan Dewan Pengawas Syariah PPDP 
+berdasarkan hasil audit; dan 
+j. 
+verifikasi dan kaji ulang secara berkala dan 
+berkesinambungan 
+terhadap 
+penanganan 
+kelemahan PPDP yang bersifat material dan 
+tindakan Direksi, Dewan Komisaris, dan Dewan 
+Pengawas Syariah PPDP untuk memperbaiki 
+penyimpangan yang terjadi. 
+(2) 
+Penilaian terhadap sistem pengendalian internal dalam 
+penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) wajib dilakukan oleh fungsi audit internal. 
+ 
+Bagian Keenam 
+Sanksi Administratif 
+ 
+Pasal 18 
+(1) 
+PPDP 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 3 ayat (1), ayat (3), Pasal 4, Pasal 
+5, Pasal 6, Pasal 11 ayat (1), ayat (3), Pasal 12, Pasal 13, 
+Pasal 14 ayat (1), Pasal 15, Pasal 16 ayat (2), dan/atau 
+Pasal 17 ayat (2) dikenai sanksi administratif berupa:  
+
+
+=== Halaman 12 ===
+ 
+ 
+- 12 - 
+a. 
+peringatan tertulis; 
+b. 
+pembatasan 
+kegiatan 
+usaha 
+sebagian 
+atau 
+seluruhnya; 
+c. 
+pembekuan kegiatan usaha;  
+d. 
+larangan 
+untuk 
+menyelenggarakan 
+program 
+tertentu; dan/atau 
+e. 
+penurunan tingkat kesehatan. 
+(2) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+administratif berupa peringatan tertulis yang berakhir 
+dengan sendirinya. 
+(3) 
+Dalam 
+hal 
+PPDP 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1) huruf a sampai 
+dengan huruf d, Otoritas Jasa Keuangan mencabut 
+sanksi administratif. 
+ 
+Pasal 19 
+Terhadap pelanggaran ketentuan sanksi administratif 
+sebagaimana dimaksud dalam Pasal 18 ayat (1), Otoritas 
+Jasa Keuangan dapat melakukan penilaian kembali 
+terhadap pihak utama PPDP sesuai dengan Peraturan 
+Otoritas Jasa Keuangan mengenai penilaian kembali bagi 
+pihak utama lembaga jasa keuangan. 
+ 
+BAB III 
+ORGANISASI DAN FUNGSI MANAJEMEN RISIKO 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 20 
+(1) 
+Untuk pelaksanaan proses dan sistem Manajemen 
+Risiko yang efektif, PPDP wajib membentuk: 
+a. 
+komite Manajemen Risiko; dan 
+b. 
+satuan kerja Manajemen Risiko atau fungsi 
+Manajemen Risiko. 
+(2) 
+Kewajiban pembentukan komite Manajemen Risiko 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1) 
+huruf 
+a 
+dikecualikan bagi: 
+a. 
+perusahaan pialang asuransi, perusahaan pialang 
+reasuransi, dan perusahaan penilai kerugian 
+asuransi dengan total ekuitas lebih kecil dari 
+Rp1.000.000.000.000,00 (satu triliun rupiah);  
+b. 
+lembaga penjamin dengan total aset lebih kecil dari 
+Rp500.000.000.000,00 (lima ratus miliar rupiah); 
+dan 
+c. 
+dana pensiun pemberi kerja dengan total aset 
+tersedia lebih kecil dari Rp1.000.000.000.000,00 
+(satu triliun rupiah). 
+(3) 
+Perhitungan total ekuitas, total aset, atau total aset 
+tersedia 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(2) 
+ditentukan berdasarkan laporan keuangan tahunan 
+PPDP yang telah diaudit oleh akuntan publik. 
+ 
+
+
+=== Halaman 13 ===
+ 
+ 
+- 13 - 
+(4) 
+PPDP yang berdasarkan laporan keuangan tahunan 
+yang telah diaudit oleh akuntan publik mengalami 
+peningkatan total ekuitas, total aset, atau total aset 
+tersedia 
+wajib 
+melakukan 
+penyesuaian 
+untuk 
+memenuhi ketentuan sebagaimana dimaksud pada 
+ayat (1) berdasarkan total ekuitas, total aset, atau total 
+aset tersedia yang baru paling lama 1 (satu) tahun 
+setelah tanggal laporan keuangan yang telah diaudit 
+oleh akuntan publik. 
+ 
+Bagian Kedua 
+Komite Manajemen Risiko 
+ 
+Pasal 21 
+(1) 
+Komite Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 20 ayat (1) huruf a paling sedikit terdiri 
+atas: 
+a. 
+separuh dari anggota Direksi; dan 
+b. 
+pejabat eksekutif terkait. 
+(2) 
+Salah satu anggota Direksi sebagaimana dimaksud 
+pada ayat (1) huruf a merupakan anggota Direksi yang 
+membawahkan satuan kerja Manajemen Risiko atau 
+fungsi Manajemen Risiko. 
+(3) 
+Komite Manajemen Risiko sebagaimana dimaksud pada 
+ayat (1) memiliki wewenang dan tanggung jawab untuk 
+memberikan rekomendasi kepada direktur utama atau 
+yang setara, paling sedikit memuat: 
+a. 
+penyusunan kebijakan, strategi, dan pedoman 
+penerapan Manajemen Risiko; 
+b. 
+perbaikan 
+atau 
+penyesuaian 
+pelaksanaan 
+Manajemen Risiko berdasarkan hasil evaluasi 
+pelaksanaan Manajemen Risiko; dan 
+c. 
+penetapan hal yang terkait dengan keputusan 
+bisnis yang menyimpang dari prosedur normal. 
+(4) 
+Ketentuan 
+mengenai 
+struktur 
+organisasi 
+komite 
+Manajemen Risiko sebagaimana dimaksud pada ayat 
+(1) ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Bagian Ketiga 
+Satuan Kerja Manajemen Risiko atau Fungsi Manajemen 
+Risiko 
+ 
+Pasal 22 
+(1) 
+Struktur organisasi satuan kerja Manajemen Risiko 
+atau fungsi Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 20 ayat (1) huruf b disesuaikan dengan 
+ukuran dan kompleksitas usaha PPDP serta Risiko 
+yang melekat pada PPDP. 
+(2) 
+Satuan kerja Manajemen Risiko atau fungsi Manajemen 
+Risiko sebagaimana dimaksud pada ayat (1) harus 
+independen terhadap fungsi bisnis dan operasional 
+serta terhadap fungsi pengendalian internal. 
+(3) 
+Satuan kerja Manajemen Risiko atau fungsi Manajemen 
+Risiko 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1) 
+bertanggung jawab langsung kepada direktur utama 
+atau 
+yang 
+setara, 
+atau 
+anggota 
+Direksi 
+yang 
+
+
+=== Halaman 14 ===
+ 
+ 
+- 14 - 
+membawahkan satuan kerja Manajemen Risiko atau 
+fungsi Manajemen Risiko. 
+(4) 
+Fungsi Manajemen Risiko sebagaimana dimaksud ayat 
+(1) dapat dilaksanakan oleh 1 (satu) atau lebih pegawai 
+PPDP. 
+(5) 
+Satuan kerja Manajemen Risiko atau fungsi Manajemen 
+Risiko memiliki wewenang dan tanggung jawab 
+meliputi: 
+a. 
+mengidentifikasi Risiko termasuk Risiko yang 
+melekat pada kegiatan usaha PPDP; 
+b. 
+menyusun metode pengukuran Risiko; 
+c. 
+memantau 
+pelaksanaan 
+strategi 
+Manajemen 
+Risiko yang telah disusun oleh Direksi; 
+d. 
+memantau posisi Risiko secara keseluruhan, per 
+jenis Risiko, dan per jenis aktivitas fungsional, 
+serta melakukan pengujian dengan menggunakan 
+skenario/asumsi 
+kondisi 
+tidak 
+normal 
+dan 
+pengujian dengan menggunakan data historis; 
+e. 
+melakukan kaji ulang secara berkala terhadap 
+proses Manajemen Risiko; 
+f. 
+mengkaji usulan pengembangan atau perluasan 
+kegiatan usaha; 
+g. 
+melakukan evaluasi terhadap akurasi model dan 
+validitas data yang digunakan untuk mengukur 
+Risiko, bagi PPDP yang menggunakan model untuk 
+keperluan internal; 
+h. 
+memberikan rekomendasi kepada fungsi bisnis 
+dan 
+operasional 
+dan/atau 
+kepada 
+komite 
+Manajemen Risiko, sesuai kewenangan yang 
+dimiliki; dan 
+i. 
+menyusun dan menyampaikan laporan profil 
+Risiko kepada direktur utama atau yang setara, 
+atau anggota Direksi yang membawahkan satuan 
+kerja Manajemen Risiko atau fungsi Manajemen 
+Risiko dan komite Manajemen Risiko secara 
+berkala. 
+(6) 
+Otoritas Jasa Keuangan dapat meminta PPDP untuk 
+melakukan 
+penyesuaian 
+bentuk 
+satuan 
+kerja 
+Manajemen Risiko atau fungsi Manajemen Risiko 
+berdasarkan hasil penilaian Otoritas Jasa Keuangan. 
+(7) 
+Berdasarkan permintaan Otoritas Jasa Keuangan 
+sebagaimana dimaksud pada ayat (6), PPDP wajib 
+memenuhi 
+permintaan 
+Otoritas 
+Jasa 
+Keuangan 
+tersebut.  
+(8) 
+Ketentuan mengenai struktur organisasi satuan kerja 
+Manajemen Risiko atau fungsi Manajemen Risiko 
+sebagaimana dimaksud pada ayat (1) ditetapkan oleh 
+Otoritas Jasa Keuangan. 
+ 
+Bagian Keempat 
+Hubungan Fungsi Bisnis dan Operasional dengan Satuan 
+Kerja Manajemen Risiko atau Fungsi Manajemen Risiko 
+ 
+Pasal 23 
+(1) 
+Fungsi bisnis dan operasional sebagaimana dimaksud 
+dalam Pasal 22 ayat (2) wajib menginformasikan 
+
+
+=== Halaman 15 ===
+ 
+ 
+- 15 - 
+eksposur Risiko yang melekat kepada satuan kerja 
+Manajemen Risiko atau fungsi Manajemen Risiko 
+secara berkala. 
+(2) 
+Ketentuan mengenai hubungan fungsi bisnis dan 
+operasional dengan satuan kerja Manajemen Risiko 
+atau fungsi Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Bagian Kelima 
+Sanksi Administratif 
+ 
+Pasal 24 
+(1) 
+PPDP 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 20 ayat (1), ayat (4), Pasal 22 
+ayat (7), dan/atau Pasal 23 ayat (1) dikenai sanksi 
+administratif berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembatasan 
+kegiatan 
+usaha 
+sebagian 
+atau 
+seluruhnya; 
+c. 
+pembekuan kegiatan usaha; 
+d. 
+larangan 
+untuk 
+menyelenggarakan 
+program 
+tertentu; dan/atau 
+e. 
+penurunan tingkat kesehatan. 
+(2) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+peringatan tertulis yang berakhir dengan sendirinya. 
+(3) 
+Dalam 
+hal 
+PPDP 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1) huruf a sampai 
+dengan huruf d, Otoritas Jasa Keuangan mencabut 
+sanksi administratif.  
+ 
+Pasal 25 
+Terhadap pelanggaran ketentuan sanksi administratif 
+sebagaimana dimaksud dalam Pasal 24 ayat (1), Otoritas 
+Jasa Keuangan dapat melakukan penilaian kembali 
+terhadap pihak utama PPDP sesuai dengan Peraturan 
+Otoritas Jasa Keuangan mengenai penilaian kembali bagi 
+pihak utama lembaga jasa keuangan. 
+ 
+BAB IV 
+PENGELOLAAN RISIKO PENGEMBANGAN ATAU 
+PERLUASAN KEGIATAN USAHA 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 26 
+(1) 
+PPDP wajib memiliki kebijakan dan prosedur secara 
+tertulis untuk mengelola Risiko yang melekat pada 
+pengembangan atau perluasan kegiatan usaha PPDP. 
+(2) 
+Kebijakan dan prosedur sebagaimana dimaksud pada 
+ayat (1) paling sedikit mencakup: 
+a. 
+sistem dan prosedur serta kewenangan dalam 
+pengelolaan 
+pengembangan 
+atau 
+perluasan 
+kegiatan usaha; 
+
+
+=== Halaman 16 ===
+ 
+ 
+- 16 - 
+b. 
+identifikasi seluruh Risiko yang melekat pada 
+pengembangan atau perluasan kegiatan usaha, 
+baik 
+yang 
+terkait 
+dengan 
+PPDP 
+maupun 
+konsumen; 
+c. 
+masa 
+uji 
+coba 
+metode 
+pengukuran 
+dan 
+pemantauan Risiko terhadap pengembangan atau 
+perluasan kegiatan usaha; 
+d. 
+sistem informasi akuntansi untuk pengembangan 
+atau perluasan kegiatan usaha; 
+e. 
+analisis aspek hukum untuk pengembangan atau 
+perluasan kegiatan usaha; dan 
+f. 
+transparansi informasi kepada konsumen. 
+(3) 
+Kegiatan usaha PPDP merupakan suatu bentuk 
+pengembangan atau perluasan kegiatan usaha PPDP 
+sebagaimana dimaksud pada ayat (1) jika memenuhi 
+kriteria: 
+a. 
+tidak pernah dilakukan sebelumnya oleh PPDP; 
+atau 
+b. 
+telah dilaksanakan sebelumnya oleh PPDP namun 
+dilakukan pengembangan yang mengubah atau 
+meningkatkan eksposur Risiko tertentu pada 
+PPDP. 
+(4) 
+Ketentuan mengenai pengelolaan Risiko pengembangan 
+atau perluasan kegiatan usaha PPDP sebagaimana 
+dimaksud pada ayat (1) ditetapkan oleh Otoritas Jasa 
+Keuangan.  
+ 
+Pasal 27 
+PPDP dilarang menugaskan atau menyetujui Direksi, Dewan 
+Komisaris, Dewan Pengawas Syariah, dan/atau pegawai 
+PPDP untuk melaksanakan kegiatan yang bukan kegiatan 
+usaha PPDP dengan menggunakan sarana atau fasilitas 
+PPDP. 
+ 
+Bagian Kedua 
+Sanksi Administratif 
+ 
+Pasal 28 
+(1) 
+PPDP 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 26 ayat (1) dan/atau Pasal 27 
+dikenai sanksi administratif berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembatasan 
+kegiatan 
+usaha 
+sebagian 
+atau 
+seluruhnya; 
+c. 
+pembekuan kegiatan usaha; 
+d. 
+larangan 
+untuk 
+menyelenggarakan 
+program 
+tertentu; dan/atau 
+e. 
+penurunan tingkat kesehatan. 
+(2) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+peringatan tertulis yang berakhir dengan sendirinya. 
+(3) 
+Dalam 
+hal 
+PPDP 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1) huruf a sampai 
+dengan huruf d, Otoritas Jasa Keuangan mencabut 
+sanksi administratif. 
+
+
+=== Halaman 17 ===
+ 
+ 
+- 17 - 
+Pasal 29 
+Terhadap pelanggaran ketentuan sanksi administratif 
+sebagaimana dimaksud dalam Pasal 28 ayat (1), Otoritas 
+Jasa Keuangan dapat melakukan penilaian kembali 
+terhadap pihak utama PPDP sesuai dengan Peraturan 
+Otoritas Jasa Keuangan mengenai penilaian kembali bagi 
+pihak utama lembaga jasa keuangan. 
+ 
+BAB V 
+PENILAIAN SENDIRI DAN PELAPORAN PROFIL RISIKO  
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 30 
+(1) 
+PPDP wajib melakukan penilaian sendiri profil Risiko 
+secara tahunan untuk posisi akhir bulan Desember. 
+(2) 
+Dalam hal diperlukan, Otoritas Jasa Keuangan dapat 
+meminta PPDP untuk melakukan penilaian sendiri 
+profil Risiko sewaktu-waktu. 
+(3) 
+PPDP wajib melaksanakan penilaian sendiri profil 
+Risiko sewaktu-waktu sesuai permintaan Otoritas Jasa 
+Keuangan sebagaimana dimaksud pada ayat (2). 
+(4) 
+Hasil penilaian sendiri profil Risiko sebagaimana 
+dimaksud pada ayat (1) dan ayat (3) wajib mendapat 
+persetujuan Direksi. 
+(5) 
+Hasil penilaian sendiri profil Risiko sebagaimana 
+dimaksud pada ayat (1) dan ayat (3) wajib disampaikan 
+kepada Dewan Komisaris. 
+(6) 
+Ketentuan mengenai penilaian sendiri profil Risiko 
+sebagaimana dimaksud pada ayat (1) sampai dengan 
+ayat (5) ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Pasal 31 
+(1) 
+PPDP wajib menyampaikan hasil penilaian sendiri profil 
+Risiko sebagaimana dimaksud dalam Pasal 30 ayat (1) 
+dalam laporan profil Risiko kepada Otoritas Jasa 
+Keuangan. 
+(2) 
+Laporan profil Risiko PPDP sebagaimana dimaksud 
+pada ayat (1) merupakan bagian dari laporan hasil 
+penilaian tingkat kesehatan bagi PPDP yang melakukan 
+penilaian tingkat Kesehatan. 
+(3) 
+Laporan profil Risiko PPDP sebagaimana dimaksud 
+pada ayat (1) disampaikan paling lambat tanggal 15 
+Februari tahun berikutnya. 
+(4) 
+Apabila batas akhir penyampaian laporan profil Risiko 
+PPDP sebagaimana dimaksud pada ayat (3) jatuh pada 
+hari libur, batas akhir penyampaian laporan pada hari 
+kerja pertama berikutnya. 
+(5) 
+PPDP wajib menyampaikan laporan profil Risiko atas 
+hasil penilaian sendiri tingkat Risiko sewaktu-waktu 
+sebagaimana dimaksud dalam Pasal 30 ayat (3) sesuai 
+dengan batas waktu yang ditetapkan oleh Otoritas Jasa 
+Keuangan. 
+ 
+
+
+=== Halaman 18 ===
+ 
+ 
+- 18 - 
+(6) 
+Dalam kondisi tertentu Otoritas Jasa Keuangan 
+berwenang menetapkan batas waktu penyampaian 
+laporan yang berbeda dari ketentuan sebagaimana 
+dimaksud pada ayat (3). 
+ 
+Pasal 32 
+(1) 
+Penyampaian 
+laporan 
+profil 
+Risiko 
+sebagaimana 
+dimaksud Pasal 31 ayat (1) dan ayat (5) dilakukan 
+secara daring melalui sistem jaringan komunikasi data 
+Otoritas Jasa Keuangan. 
+(2) 
+Dalam hal sistem jaringan komunikasi data Otoritas 
+Jasa Keuangan sebagaimana dimaksud pada ayat (1) 
+belum 
+tersedia 
+atau 
+mengalami 
+gangguan, 
+penyampaian dilakukan secara daring melalui alamat 
+surat elektronik Otoritas Jasa Keuangan. 
+(3) 
+Dalam hal terdapat gangguan terhadap surat elektronik 
+Otoritas 
+Jasa 
+Keuangan, 
+penyampaian 
+laporan 
+dilakukan secara luring melalui kantor Otoritas Jasa 
+Keuangan. 
+(4) 
+Ketentuan mengenai tata cara penyampaian laporan 
+profil Risiko ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Bagian Kedua 
+Sanksi Administratif 
+ 
+Pasal 33 
+(1) 
+PPDP 
+yang 
+melanggar 
+ketentuan 
+sebagaimana 
+dimaksud dalam Pasal 30 ayat (1), ayat (3), ayat (4), ayat 
+(5), dan/atau Pasal 31 ayat (1), ayat (5) dikenai sanksi 
+administratif berupa: 
+a. 
+peringatan tertulis; 
+b. 
+pembatasan 
+kegiatan 
+usaha 
+sebagian 
+atau 
+seluruhnya; 
+c. 
+pembekuan kegiatan usaha; 
+d. 
+larangan 
+untuk 
+menyelenggarakan 
+program 
+tertentu; dan/atau 
+e. 
+penurunan tingkat kesehatan. 
+(2) 
+Dalam hal terjadi pelanggaran ketentuan sebagaimana 
+dimaksud pada ayat (1) dan pelanggaran telah 
+diperbaiki, Otoritas Jasa Keuangan memberikan sanksi 
+peringatan tertulis yang berakhir dengan sendirinya. 
+(3) 
+Dalam 
+hal 
+PPDP 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1) huruf a sampai 
+dengan huruf d, Otoritas Jasa Keuangan mencabut 
+sanksi administratif. 
+ 
+Pasal 34 
+Terhadap 
+pelanggaran 
+ketentuan 
+sanksi 
+administratif 
+sebagaimana dimaksud dalam Pasal 33 ayat (1), Otoritas Jasa 
+Keuangan dapat melakukan penilaian kembali terhadap 
+pihak utama PPDP sesuai dengan Peraturan Otoritas Jasa 
+Keuangan mengenai penilaian kembali bagi pihak utama 
+lembaga jasa keuangan. 
+ 
+ 
+ 
+
+
+=== Halaman 19 ===
+ 
+ 
+- 19 - 
+BAB VI 
+KETENTUAN LAIN-LAIN 
+ 
+Pasal 35 
+(1) 
+Dalam hal PPDP menerapkan Manajemen Risiko 
+terintegrasi sebagaimana dimaksud dalam Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+mengenai 
+penerapan 
+Manajemen Risiko terintegrasi bagi konglomerasi 
+keuangan, satuan kerja Manajemen Risiko atau fungsi 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 
+20 ayat (1) huruf b dapat digabung dengan satuan kerja 
+Manajemen Risiko atau fungsi Manajemen Risiko dalam 
+struktur 
+konglomerasi 
+keuangan 
+PPDP 
+yang 
+bersangkutan. 
+(2) 
+Penerapan Manajemen Risiko bagi dana pensiun 
+lembaga keuangan dapat digabung dengan penerapan 
+Manajemen Risiko pendiri. 
+ 
+Pasal 36 
+Lembaga 
+penjamin, 
+perusahaan 
+pialang 
+asuransi, 
+perusahaan pialang reasuransi, dan perusahaan penilai 
+kerugian asuransi menyampaikan hasil penilaian sendiri 
+profil Risiko pertama kali untuk periode tahun 2026 paling 
+lambat tanggal 15 Februari 2027. 
+ 
+Pasal 37 
+Otoritas Jasa Keuangan dapat memberikan persetujuan 
+atau kebijakan yang berbeda dengan Peraturan Otoritas 
+Jasa Keuangan ini berdasarkan pertimbangan tertentu. 
+ 
+BAB VII 
+KETENTUAN PENUTUP 
+ 
+Pasal 38 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku, ketentuan pelaksanaan Peraturan Otoritas Jasa 
+Keuangan Nomor 44/POJK.05/2020 tentang Penerapan 
+Manajemen Risiko bagi Lembaga Jasa Keuangan Nonbank 
+(Lembaran Negara Republik Indonesia Tahun 2020 Nomor 
+200, Tambahan Lembaran Negara Republik Indonesia 
+Nomor 6552) bagi Perusahaan Perasuransian dan Dana 
+Pensiun, 
+dinyatakan 
+tetap 
+berlaku 
+sepanjang 
+tidak 
+bertentangan dengan ketentuan dalam Peraturan Otoritas 
+Jasa Keuangan ini. 
+ 
+Pasal 39 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku, 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+44/POJK.05/2020 tentang Penerapan Manajemen Risiko 
+bagi Lembaga Jasa Keuangan Nonbank (Lembaran Negara 
+Republik Indonesia Tahun 2020 Nomor 200, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6552), dicabut 
+dan dinyatakan tidak berlaku. 
+ 
+ 
+ 
+
+
+=== Halaman 20 ===
+ 
+ 
+- 20 - 
+Pasal 40 
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada 
+tanggal 1 Januari 2026. 
+ 
+Agar 
+setiap 
+orang 
+mengetahuinya, 
+memerintahkan 
+pengundangan Peraturan Otoritas Jasa Keuangan ini 
+dengan penempatannya dalam Lembaran Negara Republik 
+Indonesia. 
+ 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 10 November 2025 
+ 
+KETUA DEWAN KOMISIONER 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA, 
+ 
+Œ 
+ 
+ 
+MAHENDRA SIREGAR 
+Diundangkan di Jakarta  
+pada tanggal                   Д 
+ 
+MENTERI HUKUM 
+REPUBLIK INDONESIA,  
+ 
+Ѽ 
+ 
+ 
+SUPRATMAN ANDI AGTAS 
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR       Ж 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 21 ===
+ 
+ 
+- 21 - 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+PENJELASAN 
+ATAS 
+RANCANGAN PERATURAN OTORITAS JASA KEUANGAN 
+NOMOR 28 TAHUN 2025 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI PERUSAHAAN PERASURANSIAN, 
+LEMBAGA PENJAMIN, DAN DANA PENSIUN 
+ 
+I. 
+UMUM 
+Untuk 
+menghadapi 
+perkembangan 
+industri 
+perasuransian, 
+penjaminan, dan dana pensiun yang terus dihadapkan pada berbagai 
+tantangan dan Risiko, PPDP membutuhkan penerapan Manajemen 
+Risiko yang memadai, efektif, dan terukur. 
+Penerapan Manajemen Risiko bagi PPDP tercermin dari 4 (empat) 
+pilar utama yaitu:  
+a. pengawasan aktif Direksi, Dewan Komisaris, dan Dewan 
+Pengawas Syariah; 
+b. kecukupan kebijakan dan prosedur Manajemen Risiko serta 
+penetapan limit Risiko; 
+c. kecukupan proses identifikasi, pengukuran, pemantauan, dan 
+pengendalian Risiko; dan 
+d. sistem informasi Manajemen Risiko, serta sistem pengendalian 
+internal yang baik. 
+Dengan diterbitkannya Undang-Undang Nomor 4 Tahun 2023 
+tentang Pengembangan dan Penguatan Sektor Keuangan, bidang 
+pengawasan Lembaga Jasa Keuangan Nonbank dipisah menjadi 2 
+(dua), yaitu bidang pengawasan perasuransian, dana pensiun dan 
+penjaminan; 
+dan 
+bidang 
+pengawasan 
+lembaga 
+pembiayaan, 
+perusahaan modal ventura, lembaga keuangan mikro, dan lembaga 
+jasa keuangan lainnya.  
+Untuk melaksanakan amanat Pasal 11 ayat (5) Undang-Undang 
+Nomor 40 Tahun 2014 tentang Perasuransian sebagaimana telah 
+diubah dengan Undang-Undang Nomor 4 Tahun 2023 tentang 
+Pengembangan dan Penguatan Sektor Keuangan, serta Pasal 143 ayat 
+(4), dan Pasal 269 Undang-Undang Nomor 4 Tahun 2023 tentang 
+Pengembangan dan Penguatan Sektor Keuangan, Otoritas Jasa 
+Keuangan menerbitkan ketentuan mengenai penerapan Manajemen 
+Risiko bagi PPDP dengan tujuan agar Manajemen Risiko PPDP berjalan 
+secara efektif.  
+Selain itu, Otoritas Jasa Keuangan juga telah meluncurkan peta 
+jalan pengembangan dan penguatan industri penjaminan pada tahun 
+2024 yang memiliki tujuan pengembangan perusahaan penjaminan 
+secara khusus terkait penerapan pengawasan berbasis Risiko bagi 
+lembaga penjamin. Pengawasan terhadap lembaga penjamin yang saat 
+
+
+=== Halaman 22 ===
+ 
+ 
+- 22 - 
+ini masih menggunakan pengawasan berdasarkan kepatuhan akan 
+beralih kepada pengawasan berbasis Risiko.  
+Secara umum Peraturan Otoritas Jasa Keuangan ini memuat 
+materi pokok diantaranya penerapan Manajemen Risiko, organisasi 
+dan fungsi Manajemen Risiko, pengelolaan Risiko pengembangan atau 
+perluasan kegiataan usaha, penilaian sendiri dan pelaporan profil 
+Risiko, ketentuan lain-lain, dan ketentuan penutup. 
+Berdasarkan hal tersebut diatas perlu dilakukan penyempurnaan 
+dengan menetapkan ketentuan mengenai Manajemen Risiko di sektor 
+PPDP. 
+ 
+II. 
+PASAL DEMI PASAL 
+ 
+Pasal 1 
+Cukup jelas. 
+ 
+Pasal 2 
+Cukup jelas. 
+ 
+Pasal 3 
+Ayat (1) 
+Penerapan 
+Manajemen 
+Risiko 
+termasuk 
+penerapan 
+program anti pencucian uang, pencegahan pendanaan 
+terorisme, dan pencegahan pendanaan proliferasi senjata 
+pemusnah massal sebagaimana diatur dalam Peraturan 
+Otoritas Jasa Keuangan mengenai penerapan program anti 
+pencucian uang, pencegahan pendanaan terorisme, dan 
+pencegahan pendanaan proliferasi senjata pemusnah 
+massal di sektor jasa keuangan. 
+Untuk memastikan penerapan Manajemen Risiko berjalan 
+secara efektif, Direksi, Dewan Komisaris, dan Dewan 
+Pengawas Syariah mengacu pada tugas dan tanggung 
+jawab Direksi, Dewan Komisaris, dan Dewan Pengawas 
+Syariah. 
+Ayat (2) 
+Huruf a 
+Pengawasan 
+aktif 
+Dewan 
+Pengawas 
+Syariah 
+dilakukan 
+bagi 
+PPDP 
+yang 
+menyelenggarakan 
+seluruh atau sebagian usahanya berdasarkan 
+Prinsip Syariah. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 4 
+Kompleksitas usaha antara lain tercermin dari keragaman dalam 
+kegiatan usaha, produk dan/atau jasa, jaringan kantor cabang 
+atau saluran distribusi, dan/atau teknologi pendukung yang 
+digunakan.  
+
+
+=== Halaman 23 ===
+ 
+ 
+- 23 - 
+Kemampuan 
+PPDP 
+antara 
+lain 
+kemampuan 
+keuangan, 
+infrastruktur pendukung, dan kemampuan sumber daya 
+manusia. 
+ 
+Pasal 5 
+Ayat (1) 
+Huruf a 
+Risiko Strategis timbul antara lain karena: 
+a. 
+PPDP 
+menetapkan 
+strategi 
+yang 
+kurang 
+sejalan dengan visi dan misi PPDP; 
+b. 
+PPDP melakukan analisis lingkungan strategis 
+yang tidak komprehensif; 
+c. 
+terdapat ketidaksesuaian rencana strategis 
+(strategic plan) antar level strategis; dan 
+d. 
+kegagalan dalam mengantisipasi perubahan 
+lingkungan 
+bisnis 
+seperti 
+perubahan 
+teknologi, perubahan kondisi ekonomi makro, 
+kompetisi di pasar, dan perubahan kebijakan 
+otoritas terkait. 
+Huruf b 
+Risiko Operasional antara lain potensi fraud yang 
+akan timbul, tingginya kompleksitas usaha PPDP, 
+kurang 
+efektifnya 
+manajemen 
+sumber 
+daya 
+manusia, dan sistem teknologi informasi yang tidak 
+memadai. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Risiko Kredit, antara lain Risiko konsentrasi kredit, 
+counterparty credit risk, dan settlement risk. 
+Yang dimaksud dengan “Risiko konsentrasi kredit” 
+adalah Risiko yang timbul akibat terkonsentrasinya 
+penyediaan dana kepada 1 (satu) pihak atau 
+sekelompok pihak, industri, sektor, dan/atau area 
+geografis tertentu yang berpotensi menimbulkan 
+kerugian cukup besar yang dapat mengancam 
+kelangsungan usaha PPDP. 
+Yang dimaksud dengan “counterparty credit risk” 
+adalah 
+Risiko 
+yang 
+timbul 
+akibat 
+terjadinya 
+kegagalan 
+pihak 
+lawan 
+dalam 
+memenuhi 
+kewajibannya dan timbul dari jenis transaksi yang 
+memiliki karakteristik tertentu, misalnya transaksi 
+yang dipengaruhi oleh pergerakan nilai wajar atau 
+nilai pasar. 
+Yang dimaksud dengan “settlement risk” adalah 
+Risiko yang timbul akibat kegagalan penyerahan kas 
+dan/atau 
+instrumen 
+keuangan 
+pada 
+tanggal 
+penyelesaian (settlement date) yang telah disepakati 
+dari 
+transaksi 
+penjualan 
+dan/atau 
+pembelian 
+instrumen keuangan. 
+Huruf e 
+Risiko Pasar antara lain Risiko suku bunga, Risiko 
+nilai tukar, Risiko komoditas, dan Risiko ekuitas. 
+Huruf f 
+Cukup jelas. 
+ 
+
+
+=== Halaman 24 ===
+ 
+ 
+- 24 - 
+Huruf g 
+Risiko Hukum timbul antara lain karena ketiadaan 
+ketentuan peraturan perundang-undangan yang 
+mendukung atau kelemahan perikatan seperti tidak 
+dipenuhinya syarat sahnya kontrak atau pengikatan 
+agunan yang tidak sempurna. 
+Huruf h 
+Cukup jelas. 
+Huruf i 
+Risiko Reputasi timbul antara lain karena adanya 
+pemberitaan media dan/atau rumor mengenai PPDP 
+yang 
+bersifat 
+negatif, 
+serta 
+adanya 
+strategi 
+komunikasi PPDP yang kurang efektif. 
+Ayat (2) 
+Huruf a 
+Lihat penjelasan ayat (1) huruf a. 
+Huruf b 
+Lihat penjelasan ayat (1) huruf b. 
+Huruf c 
+Lihat penjelasan ayat (1) huruf g. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Lihat penjelasan ayat (1) huruf i. 
+Ayat (3) 
+Huruf a 
+Lihat penjelasan ayat (1) huruf a. 
+Huruf b 
+Lihat penjelasan ayat (1) huruf b. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Lihat penjelasan ayat (1) huruf d. 
+Huruf e 
+Lihat penjelasan ayat (1) huruf e. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Lihat penjelasan ayat (1) huruf g. 
+Huruf h 
+Cukup jelas. 
+Huruf i 
+Lihat penjelasan ayat (1) huruf i. 
+Ayat (4) 
+Huruf a 
+Lihat penjelasan ayat (1) huruf a. 
+Huruf b 
+Lihat penjelasan ayat (1) huruf b. 
+Huruf c 
+Lihat penjelasan ayat (1) huruf d. 
+Huruf d 
+Lihat penjelasan ayat (1) huruf e. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Lihat penjelasan ayat (1) huruf g. 
+
+
+=== Halaman 25 ===
+ 
+ 
+- 25 - 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Lihat penjelasan ayat (1) huruf i. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 6 
+Setiap jenjang jabatan antara lain Direksi, Dewan Komisaris, 
+Dewan Pengawas Syariah, dan jabatan lain yang terkait dengan 
+penerapan Manajemen Risiko. 
+ 
+Pasal 7 
+Ayat (1) 
+Huruf a 
+Termasuk dalam kebijakan dan strategi Manajemen 
+Risiko antara lain penetapan dan persetujuan 
+tingkat Risiko yang diambil (risk appetite) beserta 
+limit 
+Risiko 
+baik 
+Risiko 
+secara 
+keseluruhan 
+(composite), per jenis Risiko, per aktivitas fungsional, 
+maupun per transaksi yang material/signifikan. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Transaksi dan limit Risiko yang memerlukan 
+persetujuan Direksi antara lain transaksi dan limit 
+Risiko yang telah melampaui kewenangan pejabat 
+PPDP satu tingkat di bawah Direksi, sesuai dengan 
+kebijakan dan prosedur internal PPDP yang berlaku. 
+Huruf d 
+Pengembangan budaya Manajemen Risiko antara 
+lain meliputi komunikasi yang memadai kepada 
+seluruh 
+jenjang 
+organisasi 
+mengenai 
+prinsip 
+Manajemen 
+Risiko 
+termasuk 
+mengembangkan 
+budaya sadar Risiko serta pentingnya pengendalian 
+internal yang efektif. 
+Huruf e 
+Peningkatan kompetensi sumber daya manusia 
+antara lain melalui program pendidikan dan 
+pelatihan 
+secara 
+berkesinambungan 
+mengenai 
+penerapan Manajemen Risiko. 
+Huruf f 
+Yang dimaksud dengan independen antara lain 
+adanya pemisahan fungsi antara fungsi Manajemen 
+Risiko yang melakukan identifikasi, pengukuran, 
+pemantauan, dan pengendalian Risiko dengan fungsi 
+yang melakukan dan menyelesaikan kegiatan bisnis 
+dan operasional. 
+Huruf g 
+Kaji ulang secara berkala antara lain untuk 
+mengantisipasi 
+jika 
+terjadi 
+perubahan 
+faktor 
+eksternal dan faktor internal. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Risiko yang melekat dikenal dengan istilah inherent risk. 
+
+
+=== Halaman 26 ===
+ 
+ 
+- 26 - 
+ 
+Pasal 8 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Transaksi yang memerlukan persetujuan Dewan 
+Komisaris 
+antara 
+lain 
+kegiatan 
+bisnis 
+atau 
+operasional yang telah melampaui kewenangan 
+Direksi untuk memutuskan hal dimaksud, sesuai 
+dengan kebijakan dan prosedur internal PPDP yang 
+berlaku. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 9 
+Cukup jelas. 
+ 
+Pasal 10 
+Kebijakan Manajemen Risiko ditetapkan antara lain dengan cara 
+menyusun strategi Manajemen Risiko untuk memastikan bahwa: 
+a. 
+PPDP tetap mempertahankan eksposur Risiko sesuai 
+kebijakan dan prosedur internal PPDP dan peraturan 
+perundang-undangan serta ketentuan lain; dan 
+b. 
+PPDP dikelola oleh sumber daya manusia yang memiliki 
+pengetahuan, 
+pengalaman, 
+dan 
+keahlian 
+di 
+bidang 
+Manajemen Risiko sesuai kompleksitas usaha PPDP. 
+Penyusunan strategi Manajemen Risiko dilakukan dengan 
+mempertimbangkan kondisi keuangan PPDP, organisasi PPDP, 
+dan Risiko yang timbul sebagai akibat perubahan faktor 
+eksternal dan faktor internal. 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Tingkat 
+Risiko 
+yang 
+akan 
+diambil 
+(risk 
+appetite) 
+memperhatikan pengalaman yang dimiliki PPDP dalam 
+mengelola Risiko serta kemampuan permodalan PPDP 
+dalam menyerap Risiko. 
+Toleransi Risiko (risk tolerance) merupakan potensi 
+kerugian yang dapat diserap oleh permodalan PPDP. 
+Huruf d 
+Penetapan penilaian peringkat Risiko merupakan dasar 
+bagi PPDP untuk mengategorikan peringkat Risiko PPDP. 
+Peringkat Risiko bagi PPDP dikategorikan menjadi 5 (lima) 
+peringkat, yaitu: 
+a. 
+peringkat 1 (rendah); 
+b. 
+peringkat 2 (sedang rendah); 
+c. 
+peringkat 3 (sedang); 
+d. 
+peringkat 4 (sedang tinggi); dan 
+e. 
+peringkat 5 (tinggi). 
+
+
+=== Halaman 27 ===
+ 
+ 
+- 27 - 
+Huruf e 
+Yang dimaksud dengan “rencana darurat” adalah rencana 
+pengembangan skenario untuk mengantisipasi terjadinya 
+gangguan internal termasuk kegagalan sistem serta 
+gangguan eksternal yang menyebabkan terjadinya kondisi 
+darurat yang dapat menyebabkan terjadinya gangguan 
+operasional PPDP. 
+Penyusunan rencana darurat dikenal dengan istilah 
+contingency plan. 
+Kondisi terburuk dikenal dengan istilah worst case 
+scenario. 
+Huruf f 
+Cukup jelas. 
+ 
+Pasal 11 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Dokumentasi secara memadai dilakukan dengan 
+dokumentasi yang tertulis, lengkap, akurat, kini, 
+dan utuh sehingga dapat memudahkan untuk 
+dilakukan jejak audit (audit trail) untuk keperluan 
+pengendalian internal PPDP. 
+Ayat (3) 
+Huruf a 
+Yang dimaksud dengan “limit secara keseluruhan” 
+adalah batas Risiko yang dapat ditoleransi oleh PPDP 
+atas seluruh Risiko yang diterapkan. 
+Huruf b 
+Yang dimaksud dengan “limit per jenis Risiko” 
+adalah batas Risiko yang dapat ditoleransi oleh PPDP 
+untuk setiap jenis Risiko. 
+Huruf c 
+Yang 
+dimaksud 
+dengan 
+“limit 
+per 
+aktivitas 
+fungsional tertentu” adalah batas Risiko yang dapat 
+ditoleransi 
+oleh 
+PPDP 
+untuk 
+setiap 
+aktivitas 
+fungsional. 
+ 
+Pasal 12 
+Ayat (1) 
+Yang dimaksud dengan “faktor Risiko” adalah berbagai 
+parameter yang memengaruhi eksposur Risiko. 
+Yang dimaksud dengan “faktor Risiko yang bersifat 
+material” adalah faktor Risiko baik kuantitatif maupun 
+kualitatif yang berpengaruh secara signifikan terhadap 
+kondisi keuangan PPDP. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+ 
+ 
+
+
+=== Halaman 28 ===
+ 
+ 
+- 28 - 
+Huruf b 
+Yang dimaksud dengan “informatif” antara lain 
+mudah dipahami. 
+Huruf c 
+Memiliki kompetensi di bidang Manajemen Risiko 
+antara lain: 
+a. 
+memiliki 
+sertifikasi 
+keahlian 
+di 
+bidang 
+manajemen risiko dengan mengutamakan 
+sertifikasi manajemen risiko untuk masing-
+masing industri PPDP dari lembaga sertifikasi 
+profesi 
+yang 
+terdaftar 
+di 
+Otoritas 
+Jasa 
+Keuangan; 
+b. 
+memiliki pengalaman di bidang Manajemen 
+Risiko; dan/atau 
+c. 
+memiliki pengalaman yang memadai di bidang 
+lembaga jasa keuangan terkait. 
+ 
+Pasal 13 
+Ayat (1) 
+Proses identifikasi Risiko antara lain dapat didasarkan 
+pada pengalaman kerugian PPDP yang pernah terjadi. 
+Ayat (2) 
+Untuk melaksanakan pengukuran Risiko, PPDP dapat 
+menggunakan 
+berbagai 
+pendekatan, 
+baik 
+kualitatif 
+maupun kuantitatif, disesuaikan dengan tujuan usaha, 
+dan kompleksitas usaha PPDP. 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “perubahan kegiatan usaha 
+PPDP dan faktor Risiko yang bersifat material” 
+adalah perubahan kegiatan usaha PPDP dan faktor 
+Risiko yang bersifat kuantitatif atau kualitatif, yang 
+dapat memengaruhi kondisi keuangan PPDP. 
+Ayat (3) 
+Huruf a 
+Evaluasi 
+terhadap 
+eksposur 
+Risiko 
+dilakukan 
+dengan cara pemantauan dan pelaporan Risiko yang 
+bersifat material atau yang berdampak kepada 
+kondisi permodalan/pendanaan PPDP, yang antara 
+lain didasarkan atas penilaian potensi Risiko dengan 
+menggunakan historical trend. 
+Huruf b 
+Cukup jelas. 
+Ayat (4) 
+Pengendalian Risiko dapat dilakukan antara lain dengan 
+cara 
+lindung 
+nilai, 
+metode 
+mitigasi 
+Risiko, 
+dan 
+penambahan modal untuk menyerap potensi kerugian. 
+ 
+Pasal 14 
+Ayat (1) 
+Kompetensi di bidang sistem informasi Manajemen Risiko 
+antara lain sertifikat keahlian dan/atau bukti telah 
+mengikuti pelatihan di bidang sistem informasi Manajemen 
+Risiko.  
+
+
+=== Halaman 29 ===
+ 
+ 
+- 29 - 
+Yang dimaksud dengan “sistem informasi Manajemen 
+Risiko” adalah sistem yang menggunakan teknologi 
+informasi 
+dan 
+pengolahan 
+data 
+untuk 
+mendukung 
+pengambilan keputusan dalam Manajemen Risiko. 
+Ayat (2) 
+Huruf a 
+Laporan atau informasi eksposur Risiko mencakup 
+eksposur 
+kuantitatif 
+dan 
+kualitatif, 
+secara 
+keseluruhan (composite) maupun rincian per jenis 
+Risiko dan per jenis aktivitas fungsional. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Ayat (3) 
+Yang dimaksud dengan “secara berkala” adalah frekuensi 
+laporan atau informasi yang disampaikan kepada Direksi 
+disesuaikan dengan kebutuhan PPDP. 
+ 
+Pasal 15 
+Cukup jelas. 
+ 
+Pasal 16 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Informasi keuangan dan manajemen yang lengkap, 
+akurat, tepat guna, dan tepat waktu diperlukan 
+dalam rangka pengambilan keputusan yang tepat 
+dan 
+dapat 
+dipertanggungjawabkan, 
+serta 
+dikomunikasikan 
+kepada 
+pihak 
+yang 
+berkepentingan. 
+Huruf d 
+Efektivitas dan efisiensi dalam kegiatan bisnis dan 
+operasional 
+antara 
+lain 
+diperlukan 
+untuk 
+melindungi aset dan sumber daya PPDP lainnya dari 
+Risiko terkait. 
+Huruf e 
+Efektivitas budaya Risiko (risk culture) dimaksudkan 
+untuk 
+mengidentifikasi 
+kelemahan 
+dan 
+penyimpangan secara lebih dini dan menilai kembali 
+kewajaran kebijakan dan prosedur yang ada pada 
+PPDP secara berkesinambungan. 
+ 
+Pasal 17 
+Cukup jelas. 
+ 
+Pasal 18 
+Cukup jelas. 
+ 
+ 
+
+
+=== Halaman 30 ===
+ 
+ 
+- 30 - 
+Pasal 19 
+Cukup jelas. 
+ 
+Pasal 20 
+Ayat (1) 
+Huruf a 
+Komite 
+Manajemen 
+Risiko 
+harus 
+bersifat 
+nonstruktural. 
+Huruf b 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 21 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “pejabat eksekutif terkait” 
+adalah pejabat yang bertanggung jawab langsung 
+kepada Direksi atau mempunyai pengaruh yang 
+signifikan terhadap kebijakan dan/atau operasional 
+PPDP yang terkait dengan penerapan Manajemen 
+Risiko, antara lain kepala divisi, kepala kantor, 
+kepala satuan kerja Manajemen Risiko, kepala 
+satuan kerja kepatuhan, dan kepala satuan kerja 
+audit internal. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Termasuk 
+dalam 
+keputusan 
+bisnis 
+yang 
+menyimpang dari prosedur normal antara lain 
+pelampauan 
+ekspansi 
+usaha 
+yang 
+signifikan 
+dibandingkan rencana bisnis PPDP dan pengambilan 
+posisi atau eksposur Risiko yang menyimpang dari 
+limit 
+yang 
+telah 
+ditetapkan 
+dan 
+melampaui 
+kemampuan permodalan PPDP dalam menyerap 
+Risiko. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 22 
+Ayat (1) 
+PPDP menentukan struktur organisasi yang tepat dan 
+sesuai dengan kondisi PPDP, termasuk kemampuan 
+keuangan dan sumber daya manusia. 
+ 
+
+
+=== Halaman 31 ===
+ 
+ 
+- 31 - 
+Ayat (2) 
+Pengertian independen antara lain tercermin dari adanya: 
+1. 
+pemisahan fungsi dan tugas antara fungsi Manajemen 
+Risiko dengan fungsi bisnis dan operasional (risk-
+taking function) dan fungsi pengendalian internal; dan 
+2. 
+proses pengambilan keputusan yang tidak memihak 
+atau menguntungkan fungsi bisnis dan operasional 
+tertentu 
+atau 
+mengabaikan 
+fungsi 
+operasional 
+lainnya. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Wewenang dan tanggung jawab satuan kerja Manajemen 
+Risiko atau fungsi Manajemen Risiko disesuaikan dengan 
+tujuan usaha dan kompleksitas usaha PPDP. 
+Huruf a 
+Identifikasi Risiko termasuk berkoordinasi dengan 
+seluruh satuan kerja yang terdapat dalam PPDP. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Risiko secara keseluruhan yang dikenal dengan 
+istilah “composite risk” adalah Risiko yang dihadapi 
+oleh PPDP dengan memperhitungkan semua jenis 
+Risiko pada PPDP tersebut. 
+Pengujian dengan menggunakan asumsi kondisi 
+tidak normal yang dikenal dengan istilah “stress 
+testing” adalah pengujian atas posisi Risiko dengan 
+menggunakan 
+beberapa 
+asumsi 
+kondisi 
+tidak 
+normal untuk mengetahui dampak kondisi tidak 
+normal tersebut terhadap posisi Risiko pada PPDP. 
+Pengujian dengan menggunakan data historis yang 
+dikenal 
+dengan 
+istilah 
+“back 
+testing” 
+adalah 
+pengujian atas posisi Risiko dengan menggunakan 
+data 
+historis 
+untuk 
+mengetahui 
+efektivitas 
+Manajemen Risiko. 
+Huruf e 
+Kaji ulang antara lain dilakukan berdasarkan 
+temuan audit internal dan/atau perkembangan 
+praktik Manajemen Risiko yang berlaku secara 
+internasional. 
+Huruf f 
+Termasuk 
+dalam 
+kajian 
+tersebut 
+antara 
+lain 
+penilaian kemampuan PPDP untuk melakukan 
+pengembangan atau perluasan kegiatan usaha dan 
+kajian usulan perubahan sistem dan prosedur. 
+Huruf g 
+Model untuk keperluan internal dikenal dengan 
+istilah internal model. 
+ 
+ 
+ 
+
+
+=== Halaman 32 ===
+ 
+ 
+- 32 - 
+Huruf h 
+Rekomendasi antara lain memuat rekomendasi yang 
+terkait dengan besaran atau maksimum eksposur 
+Risiko yang wajib dipelihara oleh PPDP. 
+Huruf i 
+Profil 
+Risiko 
+merupakan 
+gambaran 
+secara 
+menyeluruh atas besarnya potensi Risiko yang 
+melekat pada seluruh portofolio atau eksposur 
+PPDP. 
+Frekuensi penyampaian laporan dapat ditingkatkan 
+dalam hal kondisi pasar berubah dengan cepat. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+Ayat (8) 
+Cukup jelas. 
+ 
+Pasal 23 
+Ayat (1) 
+Frekuensi 
+penyampaian 
+informasi 
+eksposur 
+Risiko 
+disesuaikan dengan karakteristik jenis Risiko. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 24 
+Cukup jelas. 
+ 
+Pasal 25 
+Cukup jelas. 
+ 
+Pasal 26 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Masa uji coba dimaksudkan untuk memastikan 
+bahwa metode pengukuran dan pemantauan Risiko 
+telah teruji. 
+Huruf d 
+Sistem 
+informasi 
+akuntansi 
+antara 
+lain 
+menggambarkan 
+profil 
+Risiko 
+dan 
+tingkat 
+keuntungan 
+maupun 
+kerugian 
+untuk 
+pengembangan atau perluasan kegiatan usaha 
+secara akurat. 
+Huruf e 
+Analisis aspek hukum dan pelindungan konsumen 
+mencakup kemungkinan adanya Risiko Hukum yang 
+ditimbulkan oleh pengembangan atau perluasan 
+kegiatan usaha serta kesesuaian dengan ketentuan 
+dan peraturan perundang-undangan. 
+ 
+
+
+=== Halaman 33 ===
+ 
+ 
+- 33 - 
+Huruf f 
+Aspek dalam menerapkan transparansi informasi 
+kepada 
+konsumen 
+memperhatikan 
+ketentuan 
+mengenai pelindungan konsumen dan masyarakat 
+yang mencakup antara lain: 
+a. 
+informasi yang disampaikan jelas, akurat, 
+benar, dan tidak menyesatkan konsumen; 
+b. 
+informasi yang berimbang antara potensi 
+manfaat yang mungkin diperoleh dengan 
+Risiko yang mungkin timbul bagi konsumen; 
+dan 
+c. 
+informasi 
+yang 
+disampaikan 
+tidak 
+menyamarkan, mengurangi, atau menutupi 
+hal yang penting terkait dengan Risiko yang 
+mungkin timbul. 
+Ayat (3) 
+Huruf a 
+Termasuk dalam kriteria tidak pernah dilakukan 
+sebelumnya adalah kegiatan usaha yang telah 
+dilakukan oleh PPDP lain namun belum pernah 
+dilakukan oleh PPDP yang bersangkutan, dengan 
+mengacu kepada ketentuan peraturan perundang-
+undangan masing-masing PPDP. 
+Huruf b 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 27 
+Termasuk dalam kategori tindakan menyetujui antara lain 
+mengetahui namun tidak melarang atau membiarkan terjadinya 
+kegiatan yang bukan merupakan kegiatan usaha PPDP dengan 
+menggunakan sarana atau fasilitas PPDP oleh Direksi, Dewan 
+Komisaris, Dewan Pengawas Syariah, dan/atau pegawai. 
+ 
+Pasal 28 
+Cukup jelas. 
+ 
+Pasal 29 
+Cukup jelas. 
+ 
+Pasal 30  
+Cukup jelas. 
+ 
+Pasal 31 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Contoh: Bagi Dana Pensiun ABC yang telah melaksanakan 
+penilaian tingkat kesehatan dengan cakupan penilaian 
+terhadap profil Risiko, laporan profil Risiko atas hasil 
+penilaian sendiri tingkat Risiko Dana Pensiun ABC 
+dimaksud merupakan bagian dari laporan hasil penilaian 
+tingkat kesehatan. Dengan demikian, Dana Pensiun ABC 
+tidak menyampaikan pelaporan profil Risiko terpisah. 
+ 
+
+
+=== Halaman 34 ===
+ 
+ 
+- 34 - 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Kondisi tertentu antara lain terdapat kondisi kahar. 
+ 
+Pasal 32 
+Cukup jelas. 
+ 
+Pasal 33 
+Cukup jelas. 
+ 
+Pasal 34 
+Cukup jelas. 
+ 
+Pasal 35 
+Cukup jelas. 
+ 
+Pasal 36 
+Cukup jelas. 
+ 
+Pasal 37 
+Pemberian 
+persetujuan 
+atau 
+kebijakan 
+yang 
+berbeda 
+dimaksudkan antara lain untuk: 
+a. 
+mendukung kebijakan nasional; 
+b. 
+menjaga kepentingan publik; 
+c. 
+menjaga pertumbuhan industri; dan/atau 
+d. 
+menjaga persaingan usaha yang sehat. 
+Kondisi yang memerlukan pertimbangan tertentu, antara lain, 
+kejadian luar biasa yang dapat mengakibatkan terjadinya 
+peningkatan kesakitan dan kematian yang besar dan juga 
+berdampak pada ekonomi dan sosial, sehingga membutuhkan 
+perhatian dan penanganan oleh semua pihak terkait serta diatur 
+dalam ketentuan lain atas pertimbangan dalam menghadapi 
+kemungkinan kejadian luar biasa. 
+ 
+Pasal 38 
+Cukup jelas. 
+ 
+Pasal 39 
+Cukup jelas. 
+ 
+Pasal 40 
+Cukup jelas. 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR        ⸙ 
+ 
+ 
+
+

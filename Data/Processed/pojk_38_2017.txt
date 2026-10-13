@@ -1,0 +1,1135 @@
+=== Halaman 1 ===
+- 1 - 
+ 
+SALINAN 
+PERATURAN OTORITAS JASA KEUANGAN 
+NOMOR 38 /POJK.03/2017  
+TENTANG 
+ PENERAPAN MANAJEMEN RISIKO SECARA KONSOLIDASI BAGI BANK YANG 
+MELAKUKAN PENGENDALIAN TERHADAP PERUSAHAAN ANAK 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN, 
+ 
+ 
+Menimbang 
+: a. 
+bahwa kelangsungan usaha bank dipengaruhi oleh 
+eksposur risiko yang timbul baik secara langsung dari 
+kegiatan usaha bank maupun secara tidak langsung dari 
+kegiatan usaha perusahaan anak; 
+ 
+ 
+b. 
+bahwa untuk mengelola eksposur risiko tersebut bank 
+wajib menerapkan manajemen risiko secara konsolidasi; 
+ 
+ 
+c. 
+bahwa dalam menerapkan manajemen risiko secara 
+konsolidasi, bank harus mengidentifikasi, mengukur, 
+memantau, dan mengendalikan risiko yang timbul dari 
+kegiatan usaha bank dan perusahaan anak; 
+ 
+ 
+d. 
+bahwa dalam menerapkan manajemen risiko secara 
+konsolidasi bank harus memastikan prinsip kehati-
+hatian yang diterapkan pada kegiatan usaha bank 
+diterapkan pula pada perusahaan anak; 
+ 
+ 
+e. 
+bahwa penerapan manajemen risiko secara konsolidasi 
+bagi bank  yang  melakukan  pengendalian  terhadap  
+perusahaan anak merupakan salah satu prinsip dari 
+standar internasional; 
+
+
+=== Halaman 2 ===
+- 2 - 
+ 
+ 
+ 
+f. 
+bahwa sehubungan dengan beralihnya fungsi, tugas, dan 
+wewenang pengaturan dan pengawasan jasa keuangan di 
+sektor perbankan dari Bank Indonesia ke Otoritas Jasa 
+Keuangan, diperlukan pengaturan kembali penerapan 
+manajemen risiko secara konsolidasi bagi bank yang 
+melakukan pengendalian terhadap perusahaan anak; 
+ 
+ 
+g. 
+bahwa 
+berdasarkan 
+pertimbangan 
+sebagaimana 
+dimaksud dalam huruf a sampai dengan huruf f, perlu 
+menetapkan Peraturan Otoritas Jasa Keuangan tentang 
+Penerapan Manajemen Risiko Secara Konsolidasi bagi 
+Bank 
+yang 
+Melakukan 
+Pengendalian 
+Terhadap 
+Perusahaan Anak; 
+ 
+Mengingat 
+: 1. 
+Undang-Undang 
+Nomor 
+7 
+Tahun 
+1992 
+tentang 
+Perbankan 
+(Lembaran 
+Negara 
+Republik 
+Indonesia    
+Tahun 1992 Nomor 31, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 3472) sebagaimana telah 
+diubah dengan Undang-Undang Nomor 10 Tahun 1998 
+tentang Perubahan atas Undang-Undang Nomor 7   
+Tahun 1992 tentang Perbankan  (Lembaran Negara 
+Republik Indonesia Tahun 1998 Nomor 182, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 3790); 
+ 
+2.  
+Undang-Undang 
+Nomor 
+21 
+Tahun 
+2008 
+tentang 
+Perbankan Syariah (Lembaran Negara Republik Indonesia 
+Tahun 2008 Nomor 94, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 4867); 
+ 
+3.  Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas 
+Jasa Keuangan (Lembaran Negara Republik Indonesia 
+Tahun 2011 Nomor 111, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5253); 
+ 
+MEMUTUSKAN: 
+Menetapkan : PERATURAN 
+OTORITAS 
+JASA 
+KEUANGAN 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO SECARA KONSOLIDASI 
+BAGI BANK YANG MELAKUKAN PENGENDALIAN TERHADAP 
+PERUSAHAAN ANAK. 
+ 
+
+
+=== Halaman 3 ===
+- 3 - 
+ 
+BAB I 
+KETENTUAN UMUM 
+Pasal 1 
+Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud 
+dengan: 
+1. 
+Bank adalah Bank Umum sebagaimana dimaksud dalam 
+Undang-Undang 
+Nomor 
+7 
+Tahun 
+1992 
+tentang 
+Perbankan sebagaimana telah diubah dengan Undang-
+Undang Nomor 10 Tahun 1998 tentang Perubahan atas 
+Undang-Undang 
+Nomor 
+7 
+Tahun 
+1992 
+tentang 
+Perbankan, termasuk kantor cabang dari bank yang 
+berkedudukan di luar negeri, dan Bank Umum Syariah 
+sebagaimana dimaksud dalam Undang-Undang Nomor 21 
+Tahun 2008 tentang Perbankan Syariah. 
+2. 
+Pengendalian 
+adalah 
+orang 
+perseorangan 
+atau 
+perusahaan atau badan, baik secara sendiri maupun 
+bersama-sama baik langsung maupun tidak langsung 
+yang memiliki saham 50% (lima puluh persen), atau 
+kurang dari 50% (lima puluh persen) yang memiliki hak 
+suara pada suatu perusahaan atau badan lain tetapi: 
+a. 
+terdapat perjanjian dengan pemegang saham lain, 
+sehingga memiliki hak suara lebih dari 50% (lima 
+puluh persen); 
+b. 
+mempunyai kewenangan untuk mengatur kebijakan 
+keuangan dan operasional perusahaan atau badan 
+lain berdasarkan anggaran dasar atau perjanjian; 
+c. 
+mempunyai kewenangan untuk menunjuk atau 
+mengganti 
+sebagian 
+besar 
+direksi 
+dan 
+dewan 
+komisaris 
+atau 
+organ 
+lain 
+yang 
+setara 
+dan 
+mengendalikan perusahaan atau badan lain melalui 
+direksi dan dewan komisaris atau organ lain; 
+dan/atau 
+d. 
+mampu menguasai suara mayoritas pada rapat 
+direksi dan dewan komisaris atau organ lain yang 
+setara dan mengendalikan perusahaan atau badan 
+melalui direksi dan dewan komisaris atau organ lain. 
+
+
+=== Halaman 4 ===
+- 4 - 
+ 
+3. 
+Perusahaan Anak adalah badan hukum atau perusahaan 
+yang dimiliki dan/atau dikendalikan oleh Bank secara 
+langsung maupun tidak langsung, baik di dalam maupun 
+di luar negeri, yang memenuhi kriteria sebagaimana 
+diatur dalam Peraturan Otoritas Jasa Keuangan ini. 
+4. 
+Kewajiban Penyediaan Modal Minimum yang selanjutnya 
+disingkat KPMM adalah KPMM sebagaimana dimaksud 
+dalam ketentuan Otoritas Jasa Keuangan yang mengatur 
+mengenai kewajiban penyediaan  modal minimum bank 
+umum dan ketentuan Otoritas Jasa Keuangan yang 
+mengatur 
+mengenai 
+kewajiban 
+penyediaan 
+modal 
+minimum bank umum syariah. 
+5. 
+Batas Maksimum Pemberian Kredit yang selanjutnya 
+disingkat BMPK adalah BMPK sebagaimana dimaksud 
+dalam 
+ketentuan 
+peraturan 
+perundang-undangan 
+mengenai batas maksimum pemberian kredit bank 
+umum. 
+ 
+Pasal 2 
+(1) 
+Bank yang memiliki dan/atau melakukan Pengendalian 
+terhadap Perusahaan Anak wajib melakukan penerapan 
+manajemen risiko secara konsolidasi. 
+(2) 
+Penerapan 
+manajemen 
+risiko 
+secara 
+konsolidasi 
+sebagaimana dimaksud pada ayat (1) tidak berlaku bagi 
+Perusahaan Anak yang dimiliki dan/atau dikendalikan 
+oleh Bank karena adanya penyertaan modal sementara 
+dalam rangka restrukturisasi kredit atau restrukturisasi 
+pembiayaan.  
+ 
+Pasal 3 
+Perusahaan Anak sebagaimana dimaksud dalam Pasal 2    
+ayat (1) adalah perusahaan yang melakukan kegiatan usaha 
+di bidang keuangan, yang terdiri atas:  
+a. 
+perusahaan 
+subsidiari 
+(subsidiary 
+company) 
+yaitu 
+Perusahaan Anak dengan kepemilikan Bank lebih dari 
+50% (lima puluh persen); 
+
+
+=== Halaman 5 ===
+- 5 - 
+ 
+b. 
+perusahaan partisipasi (participation company) adalah 
+Perusahaan Anak dengan kepemilikan Bank 50% (lima 
+puluh persen) atau kurang namun Bank memiliki 
+Pengendalian terhadap perusahaan; 
+c. 
+perusahaan dengan kepemilikan Bank lebih dari 20% 
+(dua puluh persen) sampai dengan 50% (lima puluh 
+persen) yang memenuhi persyaratan: 
+1. 
+kepemilikan Bank dan para pihak lain pada 
+Perusahaan Anak masing-masing sama besar; dan 
+2. 
+masing-masing pemilik melakukan Pengendalian 
+secara bersama terhadap Perusahaan Anak; dan 
+d. 
+entitas 
+lain 
+yang 
+berdasarkan 
+standar 
+akuntansi 
+keuangan diwajibkan untuk dikonsolidasikan. 
+ 
+BAB II 
+SISTEM INFORMASI DAN PELAPORAN 
+ 
+Pasal 4 
+(1) 
+Bank wajib memiliki sistem yang dapat mengidentifikasi, 
+mengukur, memantau, dan mengendalikan risiko usaha 
+dari Bank dan Perusahaan Anak agar dapat menerapkan 
+manajemen risiko secara konsolidasi dengan efektif. 
+ (2) Sistem yang wajib dimiliki oleh Bank sebagaimana 
+dimaksud pada ayat (1), paling sedikit meliputi: 
+a. 
+sistem informasi akuntansi; dan 
+b. 
+sistem informasi manajemen risiko. 
+ 
+BAB III 
+PENILAIAN KUALITAS ASET  
+ 
+Pasal 5 
+Untuk 
+kepentingan 
+penyusunan 
+laporan 
+keuangan 
+konsolidasi dan perhitungan KPMM, Bank wajib melakukan 
+penilaian 
+kualitas 
+aset 
+dan 
+membentuk 
+penyisihan 
+penghapusan aset untuk seluruh aset Perusahaan Anak 
+paling sedikit sesuai dengan ketentuan peraturan perundang-
+undangan mengenai penilaian kualitas aset bank umum dan 
+
+
+=== Halaman 6 ===
+- 6 - 
+ 
+ketentuan Otoritas Jasa Keuangan yang mengatur mengenai 
+penilaian kualitas aset bank umum syariah dan unit usaha 
+syariah.  
+ 
+BAB IV 
+PERHITUNGAN BATAS MAKSIMUM PEMBERIAN KREDIT 
+ 
+Pasal 6 
+(1) 
+Bank wajib memenuhi ketentuan peraturan perundang-
+undangan mengenai batas maksimum pemberian kredit 
+bank umum baik untuk penyediaan dana Bank secara 
+individu maupun untuk penyediaan dana Bank dan 
+Perusahaan Anak secara konsolidasi. 
+(2) 
+Dalam perhitungan BMPK untuk penyediaan dana Bank 
+dan Perusahaan Anak secara konsolidasi: 
+a. 
+penyediaan dana dari Perusahaan Anak kepada 
+debitur Bank wajib diperhitungkan sebagai satu 
+kesatuan dengan penyediaan dana Bank; dan 
+b. 
+komponen 
+modal 
+menggunakan 
+modal 
+secara 
+konsolidasi. 
+ 
+Pasal 7 
+Penyertaan 
+pada 
+Perusahaan 
+Anak 
+oleh 
+Bank 
+yang  
+melakukan penerapan manajemen risiko secara konsolidasi, 
+tidak 
+diperhitungkan 
+sebagai 
+penyediaan 
+dana 
+dalam 
+perhitungan BMPK. 
+ 
+BAB V 
+PENGELOLAAN PERUSAHAAN ANAK  
+ 
+Pasal 8 
+(1) 
+Bank wajib memastikan pengurus yang mengelola 
+Perusahaan Anak memiliki integritas yang baik. 
+(2) 
+Kewajiban sebagaimana dimaksud pada ayat (1) tidak 
+berlaku untuk pengurus yang mengelola Perusahaan 
+Anak sebagaimana dimaksud dalam Pasal 3 huruf c. 
+
+
+=== Halaman 7 ===
+- 7 - 
+ 
+(3) 
+Dalam 
+rangka 
+memenuhi 
+ketentuan 
+sebagaimana 
+dimaksud pada ayat (1), Bank wajib menyampaikan 
+daftar calon pengurus yang mengelola Perusahaan Anak 
+yang diusulkan dalam Rapat Umum Pemegang Saham 
+(RUPS) kepada Otoritas Jasa Keuangan. 
+(4) 
+Laporan sebagaimana dimaksud pada ayat (3) wajib 
+disampaikan paling lama 10 (sepuluh) hari kerja sebelum 
+pelaksanaan RUPS. 
+ 
+BAB VI 
+PENILAIAN TINGKAT KESEHATAN  
+DAN PROFIL RISIKO BANK 
+ 
+Pasal 9 
+(1) 
+Bank wajib melakukan penilaian tingkat kesehatan baik 
+secara individu maupun secara konsolidasi. 
+(2) 
+Dalam hal terdapat perbedaan karakteristik usaha 
+Perusahaan Anak dengan Bank, komponen tertentu 
+dalam 
+penilaian 
+tingkat 
+kesehatan 
+Bank 
+dapat 
+disesuaikan untuk penilaian tingkat kesehatan secara 
+konsolidasi. 
+ 
+Pasal 10 
+(1) 
+Bank wajib menyusun dan menyampaikan laporan profil 
+risiko baik secara individu maupun secara konsolidasi. 
+(2) 
+Dalam hal terdapat perbedaan karakteristik usaha 
+Perusahaan Anak dengan Bank, parameter pengukuran 
+risiko tertentu dalam penyusunan profil risiko Bank 
+dapat disesuaikan untuk penyusunan profil risiko secara 
+konsolidasi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 8 ===
+- 8 - 
+ 
+BAB VII 
+PENETAPAN STATUS DAN TINDAK LANJUT  
+PENGAWASAN BANK 
+ 
+Pasal 11 
+Ketentuan Peraturan Otoritas Jasa Keuangan mengenai 
+penetapan status dan tindak lanjut pengawasan bank umum 
+diterapkan bagi Bank secara individu dan bagi Bank secara 
+konsolidasi. 
+ 
+BAB VIII 
+PELAPORAN 
+ 
+Pasal 12 
+(1) 
+Bank 
+wajib 
+menyampaikan 
+laporan 
+keuangan 
+Perusahaan Anak secara daring (online) sesuai dengan 
+format dan ketentuan yang ditetapkan oleh Otoritas Jasa 
+Keuangan 
+melalui 
+sistem 
+pelaporan 
+Otoritas 
+Jasa 
+Keuangan. 
+(2) 
+Dalam 
+hal 
+penyampaian 
+laporan 
+melalui 
+sistem 
+pelaporan 
+Otoritas 
+Jasa 
+Keuangan 
+sebagaimana 
+dimaksud pada ayat (1) belum dapat dilakukan, Bank 
+menyampaikan laporan secara daring (online) melalui 
+sistem Laporan Bulanan Bank Umum, Laporan Stabilitas 
+Moneter dan Sistem Keuangan Bulanan Bank Umum 
+Syariah dan Unit Usaha Syariah, Laporan Berkala Bank 
+Umum, atau Laporan Berkala Bank Umum Syariah dan 
+Unit Usaha Syariah dengan mengacu pada ketentuan 
+peraturan perundang-undangan. 
+(3) 
+Dalam hal penyampaian laporan secara daring (online) 
+sebagaimana dimaksud pada ayat (1) dan ayat (2) belum 
+dapat dilakukan, Bank wajib menyampaikan laporan 
+secara luring (offline) setiap triwulanan untuk periode 
+bulan Maret, bulan Juni, bulan September, dan bulan 
+Desember yang meliputi: 
+a. 
+laporan penilaian kualitas aset secara konsolidasi; 
+
+
+=== Halaman 9 ===
+- 9 - 
+ 
+b. 
+laporan perhitungan Batas Maksimum Penyaluran 
+Dana (BMPD) secara konsolidasi bagi bank umum 
+syariah; dan 
+c. 
+laporan profil risiko secara konsolidasi sebagaimana 
+dimaksud dalam Pasal 10. 
+(4) 
+Laporan penilaian kualitas aset secara konsolidasi dan 
+laporan perhitungan BMPD secara konsolidasi bagi Bank 
+Umum Syariah sebagaimana dimaksud pada ayat (3) 
+huruf a dan huruf b disampaikan paling lambat pada 
+tanggal 15 bulan kedua setelah berakhirnya bulan 
+laporan yang bersangkutan. 
+(5) 
+Dalam hal tanggal 15 jatuh pada hari Sabtu, hari 
+Minggu, atau hari libur, laporan disampaikan pada hari 
+kerja sebelumnya. 
+(6) 
+Laporan profil risiko secara konsolidasi sebagaimana 
+dimaksud pada ayat (3) huruf c disampaikan paling lama 
+30 (tiga puluh) hari setelah akhir bulan laporan. 
+(7) 
+Batas 
+waktu 
+penyampaian 
+laporan 
+sebagaimana 
+dimaksud pada ayat (6) bagi bank umum syariah 
+mengacu pada ketentuan Otoritas Jasa Keuangan yang 
+mengatur mengenai penerapan manajemen risiko bagi 
+bank umum syariah dan unit usaha syariah. 
+(8) 
+Laporan 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(3) 
+disampaikan oleh Bank kepada Otoritas Jasa Keuangan 
+dengan alamat: 
+a. 
+Departemen 
+Pengawasan 
+Bank 
+terkait 
+atau 
+Departemen Perbankan Syariah, bagi Bank yang 
+berkantor pusat atau kantor cabang dari bank yang 
+berkedudukan di luar negeri yang berada di wilayah 
+Provinsi Daerah Khusus Ibukota Jakarta; atau 
+b. 
+Kantor Regional Otoritas Jasa Keuangan atau Kantor 
+Otoritas Jasa Keuangan setempat sesuai dengan 
+wilayah tempat kedudukan kantor pusat Bank. 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 10 ===
+- 10 - 
+ 
+Pasal 13 
+(1) 
+Dalam hal Bank memiliki dan/atau mengendalikan 
+Perusahaan Anak yang melakukan kegiatan usaha 
+asuransi: 
+a. 
+penerapan manajemen risiko secara konsolidasi 
+sebagaimana dimaksud dalam Pasal 2 ayat (1) 
+dilakukan 
+melalui 
+penilaian 
+dan 
+penyampaian 
+laporan 
+penerapan 
+manajemen 
+risiko 
+pada 
+perusahaan asuransi secara tersendiri; dan 
+b. 
+ketentuan sebagaimana dimaksud dalam Pasal 5, 
+Pasal 6, Pasal 7, Pasal 9, Pasal 10, dan Pasal 12, 
+tidak diterapkan. 
+(2)  Laporan penilaian terhadap penerapan manajemen risiko 
+pada perusahaan asuransi sebagaimana dimaksud pada 
+ayat (1) huruf a wajib disampaikan secara triwulanan 
+untuk 
+periode 
+bulan 
+Maret, 
+bulan 
+Juni, 
+bulan 
+September, dan bulan Desember, paling lama 30 (tiga 
+puluh) hari setelah akhir bulan laporan. 
+(3)  Penyampaian laporan penilaian terhadap penerapan 
+manajemen 
+risiko 
+pada 
+perusahaan 
+asuransi 
+sebagaimana dimaksud pada ayat (2) mengacu pada 
+ketentuan dalam Pasal 12 ayat (8). 
+ 
+BAB IX 
+KETENTUAN LAIN-LAIN 
+ 
+Pasal 14 
+(1) 
+Peningkatan 
+penyertaan 
+karena 
+akumulasi 
+laba 
+Perusahaan Anak oleh Bank yang melakukan penerapan 
+manajemen 
+risiko 
+secara 
+konsolidasi, 
+tidak 
+diperhitungkan dalam batasan portofolio penyertaan 
+Bank. 
+(2) 
+Ketentuan sebagaimana dimaksud pada ayat (1) tidak 
+diterapkan 
+dalam 
+hal 
+Bank 
+memiliki 
+dan/atau 
+mengendalikan 
+Perusahaan 
+Anak 
+yang 
+melakukan 
+kegiatan usaha asuransi. 
+ 
+
+
+=== Halaman 11 ===
+- 11 - 
+ 
+BAB X 
+SANKSI 
+ 
+Pasal 15 
+(1) 
+Bank yang tidak memenuhi ketentuan sebagaimana 
+dimaksud dalam Pasal 2 ayat (1), Pasal 4, Pasal 5,    
+Pasal 6, Pasal 8 ayat (1), Pasal 8 ayat (3), Pasal 8 ayat (4), 
+Pasal 9 ayat (1), dan/atau Pasal 10 ayat (1) dikenakan 
+sanksi sesuai dengan ketentuan peraturan perundang-
+undangan 
+terkait 
+dan 
+dapat 
+dikenakan 
+sanksi 
+administratif, berupa: 
+a. 
+teguran tertulis; 
+b. 
+pembekuan kegiatan usaha tertentu; dan/atau 
+c. 
+pencantuman 
+anggota 
+direksi, 
+anggota 
+dewan 
+komisaris, dan/atau pemegang saham Bank dalam 
+daftar pihak yang mendapat predikat Tidak Lulus 
+dalam uji kemampuan dan kepatutan sebagaimana 
+diatur 
+dalam 
+ketentuan 
+peraturan 
+perundang-
+undangan mengenai uji kemampuan dan kepatutan 
+(fit and proper test).   
+(2) 
+Bank 
+yang 
+menyampaikan 
+laporan 
+sebagaimana 
+dimaksud dalam Pasal 12 ayat (1), Pasal 12 ayat (3), dan 
+Pasal 13 ayat (2) setelah batas akhir waktu penyampaian 
+sebagaimana dimaksud dalam Pasal 12 ayat (4), Pasal 12 
+ayat (6), dan Pasal 13 ayat (2) sampai dengan 14 (empat 
+belas) hari kerja, dikenakan sanksi administratif berupa 
+denda sebesar Rp1.000.000,00 (satu juta rupiah) per hari 
+kerja keterlambatan untuk masing-masing laporan. 
+(3) 
+Bank 
+yang 
+belum 
+menyampaikan 
+laporan 
+atau 
+menyampaikan laporan setelah batas akhir waktu 
+penyampaian 
+laporan 
+sebagaimana 
+dimaksud 
+pada    
+ayat (2), dikenakan sanksi administratif berupa denda 
+sebesar Rp50.000.000,00 (lima puluh juta rupiah). 
+(4) 
+Bank yang belum menyampaikan laporan setelah batas 
+akhir 
+waktu 
+penyampaian 
+laporan 
+sebagaimana 
+dimaksud pada ayat (2), tetap diwajibkan menyampaikan 
+
+
+=== Halaman 12 ===
+- 12 - 
+ 
+laporan sebagaimana dimaksud dalam Pasal 12 dan 
+Pasal 13 ayat (2). 
+(5) 
+Dalam hal Bank dikenakan sanksi administratif berupa 
+denda karena dinyatakan belum menyampaikan laporan 
+atau menyampaikan laporan setelah batas akhir waktu 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(3), 
+sanksi 
+administratif 
+berupa 
+denda 
+karena 
+terlambat 
+menyampaikan laporan sebagaimana dimaksud pada 
+ayat (2) tidak diberlakukan. 
+ 
+BAB XI 
+KETENTUAN PENUTUP 
+ 
+Pasal 16 
+Ketentuan lebih lanjut mengenai prinsip kehati-hatian dan 
+laporan dalam rangka penerapan manajemen risiko secara 
+konsolidasi bagi Bank yang melakukan pengendalian terhadap 
+perusahaan anak diatur dalam Surat Edaran Otoritas Jasa 
+Keuangan. 
+ 
+Pasal 17 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku, Peraturan Bank Indonesia Nomor 8/6/PBI/2006 
+tentang Penerapan Manajemen Risiko Secara Konsolidasi bagi 
+Bank yang Melakukan Pengendalian Terhadap Perusahaan 
+Anak (Lembaran Negara Republik Indonesia Tahun 2006 
+Nomor 8, Tambahan Lembaran Negara Republik Indonesia 
+Nomor 4602), dicabut dan dinyatakan tidak berlaku. 
+ 
+Pasal 18 
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada 
+tanggal diundangkan. 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 13 ===
+- 13 - 
+ 
+Salinan ini sesuai dengan aslinya 
+Direktur Hukum 1 
+Departemen Hukum 
+ 
+ttd 
+ 
+Yuliana 
+Agar 
+setiap 
+orang 
+mengetahuinya, 
+memerintahkan 
+pengundangan Peraturan Otoritas Jasa Keuangan ini dengan 
+penempatannya dalam Lembaran Negara Republik Indonesia. 
+ 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 12 Juli 2017       
+ 
+KETUA DEWAN KOMISIONER 
+OTORITAS JASA KEUANGAN, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ttd 
+ 
+MULIAMAN D. HADAD 
+ 
+Diundangkan di Jakarta 
+pada tanggal 12 Juli 2017 
+ 
+MENTERI HUKUM DAN HAK ASASI MANUSIA 
+REPUBLIK INDONESIA, 
+ 
+ttd 
+ 
+YASONNA H. LAOLY 
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 144
+
+
+=== Halaman 14 ===
+- 1 - 
+ 
+PENJELASAN 
+ATAS 
+PERATURAN OTORITAS JASA KEUANGAN 
+NOMOR 38 /POJK.03/2017 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO SECARA KONSOLIDASI BAGI BANK YANG 
+MELAKUKAN PENGENDALIAN TERHADAP PERUSAHAAN ANAK 
+ 
+I. 
+UMUM 
+Bank senantiasa dihadapkan pada risiko-risiko yang melekat dalam 
+setiap kegiatan usaha. Risiko-risiko yang melekat tersebut dapat berasal 
+dari kegiatan usaha Bank itu sendiri maupun dari perusahaan yang 
+terkait dengan Bank. 
+Sementara itu perkembangan transaksi keuangan dalam era 
+globalisasi menyebabkan semakin terintegrasinya produk dan jasa 
+keuangan yang dilakukan oleh Bank. Produk dan jasa keuangan yang 
+semakin terintegrasi menyebabkan eksposur risiko yang harus dihadapi 
+Bank menjadi semakin kompleks dan meningkat. 
+Menghadapi kondisi tersebut, Bank perlu memperhatikan seluruh 
+risiko yang dapat mempengaruhi kelangsungan usaha Bank. Risiko yang 
+harus diperhatikan mencakup seluruh risiko yang secara langsung 
+maupun tidak langsung dapat mempengaruhi kelangsungan usaha Bank, 
+baik yang berasal dari Perusahaan Anak maupun dari kelompok usaha. 
+Sebagai 
+langkah 
+awal 
+untuk 
+mengukur 
+risiko 
+secara 
+lebih 
+menyeluruh, Bank diminta untuk menerapkan manajemen risiko secara 
+konsolidasi pada Perusahaan Anak yang dikendalikan. Penerapan 
+manajemen risiko pada Perusahaan Anak juga dimaksudkan untuk 
+meningkatkan daya saing perbankan Indonesia di dunia internasional,
+
+
+=== Halaman 15 ===
+- 2 - 
+ 
+mengingat hal ini merupakan salah satu pemenuhan tingkat kepatuhan 
+Bank terhadap standar internasional. 
+ 
+II. 
+PASAL DEMI PASAL 
+ 
+Pasal 1 
+ 
+Cukup jelas. 
+ 
+Pasal 2 
+ 
+Ayat (1) 
+Penerapan manajemen risiko secara konsolidasi dilakukan 
+dengan mengacu pada ketentuan Otoritas Jasa Keuangan yang 
+mengatur mengenai penerapan manajemen risiko bagi bank 
+umum dan ketentuan Otoritas Jasa Keuangan yang mengatur 
+mengenai penerapan manajemen risiko bagi bank umum 
+syariah dan unit usaha syariah, yang meliputi: 
+a. 
+pengawasan aktif direksi dan dewan komisaris; 
+b. 
+kecukupan kebijakan dan prosedur manajemen risiko serta 
+penetapan limit risiko; 
+c. 
+kecukupan proses identifikasi, pengukuran, pemantauan, 
+dan pengendalian risiko, serta sistem informasi manajemen 
+risiko; dan 
+d. 
+sistem pengendalian intern yang menyeluruh. 
+Pengawasan aktif direksi dan dewan komisaris sebagaimana 
+dimaksud dalam huruf a, bagi bank umum syariah termasuk 
+pengawasan aktif dewan pengawas syariah. 
+ 
+Ayat (2) 
+ 
+ 
+Cukup jelas. 
+ 
+Pasal 3 
+ 
+Termasuk dalam kegiatan usaha di bidang keuangan antara lain jasa 
+perbankan, sewa guna usaha, modal ventura, perusahaan efek, 
+asuransi, 
+perusahaan 
+pembiayaan, 
+serta 
+lembaga 
+kliring 
+penyelesaian dan penyimpanan. 
+Huruf a 
+Cukup jelas. 
+ 
+
+
+=== Halaman 16 ===
+- 3 - 
+ 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+angka 1 
+Cukup jelas. 
+angka 2 
+Yang dimaksud dengan “Pengendalian secara bersama” 
+adalah Pengendalian bersama oleh para pemilik atas 
+Perusahaan 
+Anak 
+yang 
+didasarkan 
+pada 
+perjanjian 
+kontraktual.  
+Pengendalian bersama harus dibuktikan dengan adanya 
+kesepakatan atau komitmen secara tertulis dari para 
+pemilik untuk memberikan dukungan baik finansial 
+maupun non-finansial sesuai kepemilikan masing-masing. 
+Huruf d 
+Cukup jelas. 
+ 
+ 
+Pasal 4 
+ 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Sistem informasi akuntansi antara lain meliputi sistem 
+yang dapat menghasilkan laporan keuangan, perhitungan 
+KPMM, 
+penilaian 
+kualitas 
+aset 
+dan 
+pembentukan 
+penyisihan penghapusan aset, perhitungan BMPK yang 
+menghitung 
+seluruh 
+eksposur 
+Bank 
+dan 
+eksposur 
+Perusahaan Anak secara konsolidasi serta penilaian tingkat 
+kesehatan secara konsolidasi. 
+Penyusunan laporan keuangan konsolidasi mengacu pada 
+standar akuntansi keuangan. 
+Huruf b 
+Sistem 
+informasi 
+manajemen 
+risiko 
+mengacu 
+pada 
+ketentuan 
+Otoritas 
+Jasa 
+Keuangan 
+yang 
+mengatur 
+mengenai penerapan manajemen risiko bagi bank umum 
+dan ketentuan Otoritas Jasa Keuangan yang mengatur 
+mengenai penerapan manajemen risiko bagi bank umum 
+syariah dan unit usaha syariah. 
+
+
+=== Halaman 17 ===
+- 4 - 
+ 
+Pasal 5 
+Ketentuan dalam ayat ini dimaksudkan agar laporan keuangan 
+konsolidasi dan perhitungan KPMM dapat dilakukan secara lebih 
+tepat, sesuai dengan risiko yang telah dapat diperkirakan (expected 
+risk). 
+ 
+Pasal 6 
+ 
+Ayat (1) 
+Persentase BMPK untuk Bank secara individu sebagaimana 
+diatur 
+dalam 
+ketentuan 
+peraturan 
+perundang-undangan 
+mengenai batas maksimum pemberian kredit bank umum, juga 
+diberlakukan secara konsolidasi. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 7 
+ 
+Cukup jelas. 
+ 
+Pasal 8 
+Ayat (1) 
+Integritas yang baik antara lain dibuktikan dengan pengurus 
+Perusahaan Anak tidak berasal dari pihak-pihak yang terdapat 
+dalam Daftar Tidak Lulus Otoritas Jasa Keuangan dan/atau 
+Daftar Kredit Macet. 
+Yang dimaksud dengan “pengurus yang mengelola Perusahaan 
+Anak” adalah direksi dan dewan komisaris bagi badan hukum 
+perseroan terbatas atau jabatan lain yang setara pada badan 
+hukum lain. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+ 
+ 
+
+
+=== Halaman 18 ===
+- 5 - 
+ 
+Pasal 9 
+Ayat (1) 
+Penilaian tingkat kesehatan secara konsolidasi mengacu pada 
+ketentuan Otoritas Jasa Keuangan yang mengatur mengenai 
+penilaian tingkat kesehatan bank umum dan ketentuan Otoritas 
+Jasa Keuangan yang mengatur mengenai penilaian tingkat 
+kesehatan bank umum syariah dan unit usaha syariah. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 10 
+Ayat (1) 
+Penyusunan laporan profil risiko secara konsolidasi mengacu 
+pada ketentuan Otoritas Jasa Keuangan yang mengatur 
+mengenai penerapan manajemen risiko bagi bank umum dan 
+ketentuan Otoritas Jasa Keuangan yang mengatur mengenai 
+penerapan manajemen risiko bagi bank umum syariah dan unit 
+usaha syariah. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 11 
+Kriteria yang digunakan dalam Peraturan Otoritas Jasa Keuangan 
+mengenai penetapan status dan tindak lanjut pengawasan bank 
+umum antara lain rasio KPMM dan rasio kredit bermasalah atau 
+rasio pembiayaan bermasalah yang dihitung secara konsolidasi. 
+ 
+Pasal 12 
+Cukup jelas. 
+ 
+Pasal 13 
+Ayat (1) 
+Asuransi memiliki karakteristik risiko yang sangat berbeda 
+dengan Bank sehingga tidak diterapkan penilaian manajemen 
+risiko secara konsolidasi terutama untuk hal-hal yang bersifat 
+kuantitatif. 
+ 
+
+
+=== Halaman 19 ===
+- 6 - 
+ 
+Huruf a 
+Penilaian 
+penerapan 
+manajemen 
+risiko 
+perusahaan 
+asuransi mengacu pada ketentuan Otoritas Jasa Keuangan 
+yang mengatur mengenai penerapan manajemen risiko bagi 
+lembaga jasa keuangan non-bank. 
+Huruf b 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 14 
+Ayat (1) 
+Batasan portofolio penyertaan Bank mengacu pada Peraturan 
+Otoritas Jasa Keuangan mengenai prinsip kehati-hatian dalam 
+kegiatan penyertaan modal. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 15 
+Cukup jelas. 
+ 
+Pasal 16 
+Cukup jelas. 
+ 
+Pasal 17 
+Cukup jelas. 
+ 
+Pasal 18 
+Cukup jelas. 
+ 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6087 
+
+

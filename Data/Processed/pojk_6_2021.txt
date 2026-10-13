@@ -1,0 +1,1604 @@
+=== Halaman 1 ===
+ 
+ 
+ 
+ 
+ 
+OTORITAS JASA KEUANGAN  
+REPUBLIK INDONESIA 
+ 
+SALINAN 
+PERATURAN OTORITAS JASA KEUANGAN 
+NOMOR 6 /POJK.04/2021 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI PERUSAHAAN EFEK YANG 
+MELAKUKAN KEGIATAN USAHA SEBAGAI PENJAMIN EMISI EFEK DAN 
+PERANTARA PEDAGANG EFEK YANG MERUPAKAN  
+ANGGOTA BURSA EFEK 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN, 
+ 
+ 
+Menimbang 
+: a.   bahwa kondisi eksternal dan internal perusahaan efek 
+yang melakukan kegiatan usaha sebagai penjamin 
+emisi 
+efek 
+dan 
+perantara 
+pedagang 
+efek 
+yang 
+merupakan anggota bursa efek dapat memengaruhi 
+perkembangan kegiatan usaha dan meningkatkan 
+kompleksitas 
+tingkat 
+risiko 
+yang 
+dihadapi 
+oleh 
+perusahaan efek tersebut; 
+b.    bahwa semakin kompleksnya risiko, perlu diimbangi 
+dengan penerapan manajemen risiko yang meliputi 
+identifikasi, 
+pengukuran, 
+pemantauan, 
+dan 
+pengendalian risiko; 
+c. 
+bahwa 
+berdasarkan 
+pertimbangan 
+sebagaimana 
+dimaksud dalam huruf a dan huruf b, perlu 
+menetapkan 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+tentang Penerapan Manajemen Risiko bagi Perusahaan 
+Efek 
+yang 
+Melakukan 
+Kegiatan 
+Usaha 
+sebagai 
+Penjamin Emisi Efek dan Perantara Pedagang Efek 
+
+
+=== Halaman 2 ===
+-2- 
+yang merupakan Anggota Bursa Efek; 
+ 
+Mengingat 
+: 1. 
+Undang-Undang Nomor 8 Tahun 1995 tentang Pasar 
+Modal (Lembaran Negara Republik Indonesia Tahun 
+1995 Nomor 64, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 3608); 
+ 
+ 
+2. 
+Undang-Undang Nomor 21 Tahun 2011 tentang 
+Otoritas Jasa Keuangan (Lembaran Negara Republik 
+Indonesia 
+Tahun 
+2011 
+Nomor 
+111, 
+Tambahan 
+Lembaran Negara Republik Indonesia Nomor 5253); 
+ 
+ 
+MEMUTUSKAN: 
+ 
+Menetapkan : 
+PERATURAN 
+OTORITAS 
+JASA 
+KEUANGAN 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI PERUSAHAAN 
+EFEK YANG MELAKUKAN KEGIATAN USAHA SEBAGAI 
+PENJAMIN EMISI EFEK DAN PERANTARA PEDAGANG 
+EFEK YANG MERUPAKAN ANGGOTA BURSA EFEK. 
+ 
+BAB I 
+KETENTUAN UMUM 
+ 
+Pasal 1 
+Dalam Peraturan Otoritas Jasa Keuangan ini yang 
+dimaksud dengan: 
+1. 
+Perusahaan Efek adalah pihak yang melakukan 
+kegiatan usaha sebagai penjamin emisi efek, perantara 
+pedagang efek, dan/atau manajer investasi. 
+2. 
+Penjamin Emisi Efek adalah pihak yang membuat 
+kontrak dengan emiten untuk melakukan penawaran 
+umum bagi kepentingan emiten dengan atau tanpa 
+kewajiban untuk membeli sisa efek yang tidak terjual. 
+3. 
+Perantara 
+Pedagang 
+Efek 
+adalah 
+pihak 
+yang 
+melakukan kegiatan usaha jual beli efek untuk 
+kepentingan sendiri atau pihak lain. 
+4. 
+Anggota Bursa Efek adalah Perantara Pedagang Efek 
+yang telah memperoleh izin usaha dari Otoritas Jasa 
+Keuangan 
+dan 
+mempunyai 
+hak 
+untuk 
+
+
+=== Halaman 3 ===
+-3- 
+mempergunakan sistem dan/atau sarana bursa efek 
+sesuai dengan peraturan bursa efek. 
+5. 
+Risiko adalah potensi kerugian akibat terjadinya suatu 
+peristiwa tertentu.  
+6. 
+Risiko Operasional adalah Risiko yang disebabkan oleh 
+ketidakcukupan 
+atau 
+tidak 
+berfungsinya 
+proses 
+internal, 
+kesalahan 
+manusia, 
+kegagalan 
+sistem, 
+dan/atau 
+adanya 
+kejadian 
+eksternal 
+yang  
+memengaruhi operasional Perusahaan Efek. 
+7. 
+Risiko Kredit adalah Risiko yang disebabkan kegagalan 
+nasabah dan/atau pihak lain dalam memenuhi 
+kewajibannya kepada Perusahaan Efek. 
+8. 
+Risiko Pasar adalah Risiko yang disebabkan oleh 
+pergerakan variabel pasar dari portofolio yang dimiliki 
+Perusahaan Efek. 
+9. 
+Risiko 
+Likuiditas 
+adalah 
+Risiko 
+akibat 
+ketidakmampuan Perusahaan Efek untuk memenuhi 
+kewajiban yang berasal dari utang transaksi efek baik 
+yang dilakukan nasabah atau Perusahaan Efek 
+sendiri, dan/atau utang lainnya. 
+10. Risiko Kepatuhan adalah Risiko yang disebabkan 
+Perusahaan Efek tidak mematuhi dan/atau tidak 
+melaksanakan peraturan perundang-undangan dan 
+ketentuan yang berlaku bagi Perusahaan Efek. 
+11. Risiko Hukum adalah Risiko yang disebabkan oleh 
+tuntutan hukum, kelemahan aspek yuridis dalam 
+perjanjian 
+yang 
+dibuat 
+oleh 
+Perusahaan 
+Efek, 
+dan/atau aktivitas dan produk yang belum diatur 
+dalam peraturan perundang-undangan. 
+12. Risiko Reputasi adalah Risiko yang disebabkan oleh 
+menurunnya 
+tingkat 
+kepercayaan 
+pemangku 
+kepentingan yang bersumber dari pengaduan nasabah 
+dan/atau pemberitaan negatif tentang Perusahaan 
+Efek.  
+13. Risiko Strategis adalah Risiko yang disebabkan oleh 
+ketidaktepatan Perusahaan Efek dalam pengambilan 
+dan/atau pelaksanaan suatu keputusan strategis 
+
+
+=== Halaman 4 ===
+-4- 
+serta kegagalan dalam mengantisipasi perubahan 
+lingkungan bisnis.  
+14. Manajemen Risiko adalah serangkaian metodologi dan 
+prosedur yang digunakan untuk mengidentifikasi, 
+mengukur, memantau, dan mengendalikan Risiko 
+yang timbul dari seluruh kegiatan usaha Perusahaan 
+Efek. 
+15. Direksi 
+adalah 
+organ 
+Perusahaan 
+Efek 
+yang 
+berwenang 
+dan 
+bertanggung 
+jawab 
+penuh 
+atas 
+pengurusan Perusahaan Efek untuk kepentingan 
+Perusahaan Efek, sesuai dengan maksud dan tujuan 
+Perusahaan Efek serta mewakili Perusahaan Efek, 
+baik di dalam maupun di luar pengadilan sesuai 
+dengan ketentuan anggaran dasar.  
+16. Dewan Komisaris adalah organ Perusahaan Efek yang 
+bertugas 
+melakukan 
+pengawasan 
+secara 
+umum 
+dan/atau khusus sesuai dengan anggaran dasar serta 
+memberi nasihat kepada Direksi. 
+ 
+Pasal 2 
+Pengaturan Peraturan Otoritas Jasa Keuangan ini berlaku 
+bagi: 
+a. 
+Perusahaan Efek yang melakukan kegiatan usaha 
+sebagai Penjamin Emisi Efek dan Perantara Pedagang 
+Efek yang merupakan Anggota Bursa Efek; dan 
+b. 
+Perusahaan Efek yang melakukan kegiatan usaha 
+sebagai Perantara Pedagang Efek yang merupakan 
+Anggota Bursa Efek. 
+ 
+BAB II 
+PENERAPAN MANAJEMEN RISIKO 
+ 
+Pasal 3 
+(1) 
+Perusahaan Efek sebagaimana dimaksud dalam Pasal 
+2 wajib menerapkan Manajemen Risiko secara efektif.  
+(2) 
+Penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) paling sedikit mencakup: 
+
+
+=== Halaman 5 ===
+-5- 
+a. 
+pengawasan aktif Direksi dan Dewan Komisaris 
+dari Perusahaan Efek;  
+b. 
+kecukupan kebijakan dan prosedur Manajemen 
+Risiko serta penetapan limit Risiko;  
+c. 
+kecukupan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko serta 
+sistem informasi Manajemen Risiko; dan 
+d. 
+sistem pengendalian internal yang menyeluruh. 
+ 
+Pasal 4 
+Penerapan Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 3 wajib disesuaikan dengan tujuan, kebijakan 
+usaha, ukuran dan kompleksitas usaha, serta kemampuan 
+Perusahaan Efek. 
+ 
+Pasal 5 
+(1) 
+Risiko 
+sebagaimana 
+dimaksud 
+dalam 
+Pasal 
+3 
+mencakup: 
+a. 
+Risiko Operasional; 
+b. 
+Risiko Kredit; 
+c. 
+Risiko Pasar; 
+d. 
+Risiko Likuiditas; 
+e. 
+Risiko Kepatuhan; 
+f. 
+Risiko Hukum; 
+g. 
+Risiko Reputasi; dan 
+h. 
+Risiko Strategis. 
+(2) 
+Perusahaan Efek wajib menerapkan Manajemen Risiko 
+untuk seluruh Risiko sebagaimana dimaksud pada 
+ayat (1). 
+ 
+BAB III 
+PENGAWASAN AKTIF DIREKSI DAN DEWAN KOMISARIS 
+ 
+Pasal 6 
+Perusahaan 
+Efek 
+wajib 
+menetapkan 
+wewenang 
+dan 
+tanggung jawab yang jelas pada setiap jenjang jabatan yang  
+ 
+
+
+=== Halaman 6 ===
+-6- 
+terkait dengan penerapan Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 3 ayat (2) huruf a. 
+ 
+Pasal 7 
+(1) 
+Wewenang 
+dan 
+tanggung 
+jawab 
+sebagaimana 
+dimaksud dalam Pasal 6 bagi Direksi paling sedikit: 
+a. 
+menyusun kebijakan dan strategi Manajemen 
+Risiko secara tertulis dan komprehensif;  
+b. 
+bertanggung jawab atas pelaksanaan kebijakan 
+Manajemen Risiko dan eksposur Risiko yang 
+diambil 
+oleh 
+Perusahaan 
+Efek 
+secara 
+keseluruhan;  
+c. 
+mengevaluasi dan memutuskan transaksi yang 
+memerlukan persetujuan Direksi;  
+d. 
+memastikan peningkatan kompetensi sumber 
+daya manusia yang terkait dengan Manajemen 
+Risiko;  
+e. 
+memastikan 
+fungsi 
+Manajemen 
+Risiko 
+telah 
+beroperasi secara independen; dan  
+f. 
+melaksanakan kaji ulang secara berkala paling 
+sedikit 1 (satu) kali dalam 1 (satu) tahun untuk 
+memastikan: 
+1. 
+keakuratan metodologi penilaian Risiko; 
+2. 
+kecukupan implementasi sistem informasi 
+Manajemen Risiko; dan 
+3. 
+ketepatan 
+kebijakan 
+dan 
+prosedur 
+Manajemen Risiko serta penetapan limit 
+Risiko. 
+(2) 
+Untuk melaksanakan wewenang dan tanggung jawab 
+sebagaimana dimaksud pada ayat (1), Direksi harus 
+memiliki pemahaman yang memadai mengenai Risiko 
+yang melekat pada seluruh aktivitas fungsional 
+Perusahaan Efek dan mampu mengambil tindakan 
+yang 
+diperlukan 
+sesuai 
+dengan 
+profil 
+Risiko 
+Perusahaan Efek. 
+ 
+ 
+
+
+=== Halaman 7 ===
+-7- 
+Pasal 8 
+(1) 
+Wewenang 
+dan 
+tanggung 
+jawab 
+sebagaimana 
+dimaksud dalam Pasal 6 bagi Dewan Komisaris paling 
+sedikit: 
+a. 
+menyetujui 
+dan 
+mengevaluasi 
+kebijakan 
+Manajemen Risiko;  
+b. 
+mengevaluasi 
+dan/atau 
+memberikan 
+arahan 
+perbaikan 
+atas 
+pertanggungjawaban 
+Direksi 
+dalam pelaksanaan kebijakan Manajemen Risiko 
+sebagaimana dimaksud dalam huruf a; dan  
+c. 
+mengevaluasi 
+dan 
+memutuskan 
+permohonan 
+Direksi yang berkaitan dengan transaksi yang 
+memerlukan persetujuan Dewan Komisaris.  
+(2) 
+Kegiatan 
+evaluasi 
+kebijakan 
+Manajemen 
+Risiko 
+sebagaimana dimaksud pada ayat (1) huruf b paling 
+sedikit 1 (satu) kali dalam 1 (satu) tahun atau 
+sewaktu-waktu dalam hal terdapat perubahan faktor 
+yang memengaruhi kegiatan usaha secara signifikan. 
+ 
+BAB IV 
+KECUKUPAN KEBIJAKAN DAN PROSEDUR MANAJEMEN 
+RISIKO SERTA PENETAPAN LIMIT RISIKO 
+ 
+Pasal 9 
+Kebijakan Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 3 ayat (2) huruf b paling sedikit memuat: 
+a. 
+strategi 
+dan 
+kerangka 
+Manajemen 
+Risiko 
+yang 
+komprehensif;  
+b. 
+prinsip kehati-hatian;  
+c. 
+penyediaan modal yang mencukupi;  
+d. 
+pemenuhan 
+ketentuan 
+peraturan 
+perundang-
+undangan;  
+e. 
+sistem deteksi dini;  
+f. 
+identifikasi dan diversifikasi Risiko;  
+g. 
+pengukuran, pemantauan, dan pengendalian Risiko; 
+h. 
+penentuan limit Risiko dan penetapan toleransi Risiko; 
+i. 
+penyusunan rencana darurat dalam kondisi terburuk; 
+
+
+=== Halaman 8 ===
+-8- 
+dan  
+j. 
+keterbukaan dan budaya sadar Risiko. 
+ 
+Pasal 10 
+(1) 
+Perusahaan 
+Efek 
+wajib 
+menyesuaikan 
+prosedur 
+Manajemen 
+Risiko 
+dan 
+penetapan 
+limit 
+Risiko 
+sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf b 
+dengan tingkat Risiko yang akan diambil dan toleransi 
+Risiko terhadap Risiko Perusahaan Efek. 
+(2) 
+Prosedur Manajemen Risiko dan penetapan limit 
+Risiko sebagaimana dimaksud pada ayat (1) paling 
+sedikit memuat: 
+a. 
+akuntabilitas dan jenjang delegasi wewenang yang 
+jelas;  
+b. 
+pelaksanaan 
+kaji 
+ulang 
+terhadap 
+prosedur 
+Manajemen Risiko dan penetapan limit Risiko 
+secara berkala; dan  
+c. 
+dokumentasi prosedur Manajemen Risiko dan 
+penetapan limit Risiko secara memadai. 
+(3) 
+Penetapan limit Risiko sebagaimana dimaksud pada 
+ayat (2) wajib mencakup: 
+a. 
+limit secara keseluruhan; dan 
+b. 
+limit per jenis Risiko. 
+(4) 
+Perusahaan 
+Efek 
+wajib 
+memiliki 
+mekanisme 
+persetujuan jika terjadi pelampauan limit. 
+ 
+BAB V 
+KECUKUPAN PROSES IDENTIFIKASI, PENGUKURAN, 
+PEMANTAUAN, DAN PENGENDALIAN RISIKO SERTA 
+SISTEM INFORMASI MANAJEMEN RISIKO 
+ 
+Bagian Kesatu  
+Umum 
+ 
+Pasal 11 
+(1) 
+Perusahaan Efek wajib melakukan proses identifikasi, 
+pengukuran, pemantauan, dan pengendalian Risiko 
+
+
+=== Halaman 9 ===
+-9- 
+sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf c 
+terhadap faktor Risiko yang bersifat material. 
+(2) 
+Pelaksanaan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko sebagaimana 
+dimaksud pada ayat (1) wajib didukung oleh: 
+a. 
+sistem informasi manajemen yang memadai; dan  
+b. 
+laporan yang akurat dan informatif mengenai 
+kondisi keuangan, kinerja aktivitas fungsional, 
+dan eksposur Risiko Perusahaan Efek. 
+ 
+Bagian Kedua  
+Proses Identifikasi, Pengukuran, Pemantauan, dan 
+Pengendalian Risiko 
+ 
+Pasal 12 
+(1) 
+Dalam 
+melaksanakan 
+proses 
+identifikasi 
+Risiko, 
+Perusahaan Efek wajib melakukan analisis paling 
+sedikit terhadap: 
+a. 
+karakteristik 
+Risiko 
+yang 
+melekat 
+pada 
+Perusahaan Efek; dan  
+b. 
+Risiko 
+dari 
+produk 
+dan 
+kegiatan 
+usaha 
+Perusahaan Efek.  
+(2) 
+Dalam melaksanakan pengukuran Risiko, Perusahaan 
+Efek wajib paling sedikit melakukan: 
+a. 
+evaluasi secara berkala terhadap kesesuaian 
+asumsi, 
+sumber 
+data, 
+dan 
+prosedur 
+yang 
+digunakan untuk mengukur Risiko; dan  
+b. 
+penyempurnaan terhadap sistem pengukuran 
+Risiko dalam hal terdapat perubahan kegiatan 
+usaha Perusahaan Efek, produk, transaksi dan 
+faktor Risiko yang bersifat material. 
+(3) 
+Dalam melaksanakan pemantauan Risiko, Perusahaan 
+Efek wajib paling sedikit melakukan: 
+a. 
+evaluasi terhadap eksposur Risiko; dan  
+b. 
+penyempurnaan proses dan cakupan pelaporan.  
+
+
+=== Halaman 10 ===
+-10- 
+(4) 
+Perusahaan 
+Efek 
+wajib 
+melaksanakan 
+proses 
+pengendalian Risiko untuk mengelola Risiko yang 
+dapat membahayakan kelangsungan usaha. 
+ 
+Bagian Ketiga  
+Sistem Informasi Manajemen Risiko 
+ 
+Pasal 13 
+(1) 
+Sistem informasi Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 3 ayat (2) huruf c, mencakup 
+laporan atau informasi paling sedikit mengenai: 
+a. 
+eksposur Risiko;  
+b. 
+kepatuhan terhadap kebijakan dan prosedur 
+Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 9 dan penetapan limit Risiko sebagaimana 
+dimaksud Pasal 10; dan  
+c. 
+realisasi 
+pelaksanaan 
+Manajemen 
+Risiko 
+dibandingkan dengan target yang ditetapkan. 
+(2) 
+Laporan atau informasi yang dihasilkan dari sistem 
+informasi Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) wajib disampaikan oleh unit kerja yang 
+melakukan fungsi Manajemen Risiko kepada direktur 
+yang 
+membawahkan 
+fungsi 
+Manajemen 
+Risiko 
+dan/atau komite Manajemen Risiko Perusahaan Efek 
+secara rutin paling sedikit 1 (satu) kali dalam 1 (satu) 
+tahun untuk posisi per 31 Desember. 
+ 
+BAB VI 
+SISTEM PENGENDALIAN INTERNAL YANG MENYELURUH 
+ 
+Pasal 14 
+Sistem 
+pengendalian 
+internal 
+yang 
+menyeluruh 
+sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf d 
+dilaksanakan sesuai dengan:  
+a. 
+peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+mengenai 
+pengendalian 
+internal 
+Perusahaan 
+Efek 
+yang 
+
+
+=== Halaman 11 ===
+-11- 
+melakukan 
+kegiatan 
+usaha 
+sebagai 
+Perantara 
+Pedagang Efek; dan  
+b. 
+peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+mengenai 
+penerapan 
+tata 
+kelola 
+Perusahaan 
+Efek 
+yang 
+melakukan kegiatan usaha sebagai Penjamin Emisi 
+Efek dan Perantara Pedagang Efek. 
+ 
+BAB VII 
+ORGANISASI DAN FUNGSI MANAJEMEN RISIKO 
+ 
+Bagian Kesatu  
+Umum 
+ 
+Pasal 15 
+(1) 
+Dalam pelaksanaan proses dan sistem Manajemen 
+Risiko yang efektif sebagaimana dimaksud dalam Pasal 
+3, Perusahaan Efek wajib membentuk unit kerja yang 
+melakukan fungsi Manajemen Risiko. 
+(2) 
+Dalam pelaksanaan proses dan sistem Manajemen 
+Risiko 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1), 
+Perusahaan 
+Efek 
+dapat 
+membentuk 
+Komite 
+Manajemen Risiko. 
+ 
+Bagian Kedua 
+Unit Kerja yang Melakukan  
+Fungsi Manajemen Risiko 
+ 
+Pasal 16 
+(1) 
+Pelaksanaan unit kerja sebagaimana dimaksud dalam 
+Pasal 15 ayat (1) paling sedikit mencakup:  
+a. 
+penyusunan kebijakan Manajemen Risiko;  
+b. 
+pengujian, evaluasi, dan rekomendasi perbaikan 
+yang objektif atas pelaksanaan sistem Manajemen 
+Risiko, paling sedikit 1 (satu) kali dalam 1 (satu) 
+tahun atau dalam frekuensi yang lebih sering 
+dalam hal terdapat perubahan faktor yang 
+memengaruhi kegiatan usaha Perusahaan Efek 
+
+
+=== Halaman 12 ===
+-12- 
+secara signifikan; dan  
+c. 
+pemantauan, 
+identifikasi, 
+pengukuran, 
+dan 
+tindak lanjut terkait hal yang berhubungan 
+dengan Manajemen Risiko yang memerlukan 
+perhatian Direksi.  
+(2) 
+Pelaksanaan unit kerja sebagaimana dimaksud pada 
+ayat (1) tidak mengesampingkan ketentuan peraturan 
+perundang-undangan mengenai pengendalian internal 
+Perusahaan Efek yang melakukan kegiatan usaha 
+sebagai Perantara Pedagang Efek. 
+(3) 
+Penanggung jawab unit kerja Manajemen Risiko 
+sebagaimana dimaksud dalam Pasal 15 ayat (1) wajib 
+memiliki sertifikat Manajemen Risiko. 
+(4) 
+Sertifikat Manajemen Risiko sebagaimana dimaksud 
+pada ayat (3) diterbitkan oleh lembaga sertifikasi 
+profesi yang terdaftar di Otoritas Jasa Keuangan. 
+ 
+Bagian Ketiga 
+Komite Manajemen Risiko 
+ 
+Pasal 17 
+(1) 
+Komite Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 15 ayat (2) paling sedikit terdiri atas:  
+a. 
+anggota Direksi; dan  
+b. 
+pejabat di bawah Direksi yang membawahkan 
+fungsi di Perusahaan Efek. 
+(2) 
+Komite Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) memiliki wewenang dan tanggung jawab 
+memberikan rekomendasi kepada direktur utama, 
+paling sedikit memuat: 
+a. 
+penyusunan kebijakan, strategi, dan pedoman 
+penerapan Manajemen Risiko;  
+b. 
+perbaikan 
+atau 
+penyempurnaan 
+pelaksanaan 
+Manajemen Risiko berdasarkan hasil evaluasi 
+pelaksanaan Manajemen Risiko; dan  
+c. 
+penetapan hal yang terkait dengan keputusan 
+bisnis yang menyimpang dari prosedur normal. 
+
+
+=== Halaman 13 ===
+-13- 
+BAB VIII 
+PENGELOLAAN RISIKO KEGIATAN LAIN 
+ 
+Pasal 18 
+(1) 
+Perusahaan Efek wajib memiliki kebijakan Manajemen 
+Risiko secara tertulis untuk mengelola Risiko yang 
+melekat pada kegiatan lain Perusahaan Efek. 
+(2) 
+Kebijakan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) sesuai dengan ketentuan peraturan 
+perundang-undangan mengenai kegiatan lain bagi 
+Perusahaan Efek yang melakukan kegiatan usaha 
+sebagai Penjamin Emisi Efek dan Perantara Pedagang 
+Efek. 
+ 
+BAB IX 
+PENILAIAN PENERAPAN MANAJEMEN RISIKO 
+ 
+Pasal 19 
+(1) 
+Perusahaan Efek wajib menyusun penilaian sendiri 
+penerapan Manajemen Risiko paling sedikit 1 (satu) 
+kali dalam 1 (satu) tahun untuk posisi per 31 
+Desember.  
+(2) 
+Perusahaan Efek wajib menyampaikan laporan hasil 
+penilaian sendiri sebagaimana dimaksud pada ayat (1) 
+kepada Otoritas Jasa Keuangan paling lambat pada 
+tanggal 28 Februari. 
+(3) 
+Apabila batas akhir penyampaian laporan hasil 
+penilaian sendiri sebagaimana dimaksud pada ayat (2) 
+jatuh pada hari libur, batas akhir penyampaian 
+laporan pada hari kerja berikutnya.  
+(4) 
+Ketentuan lebih lanjut mengenai bentuk dan susunan 
+penilaian sebagaimana dimaksud pada ayat (1) dan 
+tata cara penyampaian laporan hasil penilaian sendiri 
+sebagaimana dimaksud pada ayat (2) ditetapkan oleh 
+Otoritas Jasa Keuangan. 
+ 
+ 
+
+
+=== Halaman 14 ===
+-14- 
+Pasal 20 
+(1) 
+Otoritas Jasa Keuangan dapat meminta Perusahaan 
+Efek untuk melakukan revisi terhadap laporan hasil 
+penilaian sendiri jika berdasarkan evaluasi yang 
+dilakukan oleh Otoritas Jasa Keuangan, laporan 
+dimaksud tidak sesuai dengan kondisi Perusahaan 
+Efek yang sebenarnya. 
+(2) 
+Revisi laporan hasil penilaian sendiri sebagaimana 
+dimaksud pada ayat (1) wajib disampaikan kepada 
+Otoritas Jasa Keuangan paling lambat 15 (lima belas) 
+hari kerja sejak diterimanya surat pemberitahuan dari 
+Otoritas Jasa Keuangan. 
+ 
+BAB X 
+SANKSI ADMINISTRATIF 
+ 
+Pasal 21 
+(1) 
+Setiap pihak yang melanggar ketentuan sebagaimana 
+dimaksud dalam Pasal 3 ayat (1), Pasal 4, Pasal 5 ayat 
+(2), Pasal 6, Pasal 10 ayat (1), ayat (3), ayat (4), Pasal 
+11, Pasal 12, Pasal 13 ayat (2), Pasal 15 ayat (1), Pasal  
+16 ayat (3), Pasal 18 ayat (1), Pasal 19 ayat (1), ayat (2) 
+dan Pasal 20 ayat (2) dikenai sanksi administratif.  
+(2) 
+Sanksi 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1) 
+dikenakan juga kepada pihak yang menyebabkan 
+terjadinya pelanggaran sebagaimana dimaksud pada 
+ayat (1). 
+(3) 
+Sanksi sebagaimana dimaksud pada ayat (1) dan ayat 
+(2) dijatuhkan oleh Otoritas Jasa Keuangan. 
+(4) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) berupa: 
+a. 
+peringatan tertulis; 
+b. 
+denda 
+berupa 
+kewajiban 
+untuk 
+membayar 
+sejumlah uang tertentu; 
+c. 
+pembatasan kegiatan usaha; 
+d. 
+pembekuan kegiatan usaha; 
+e. 
+pencabutan izin usaha; 
+
+
+=== Halaman 15 ===
+-15- 
+f. 
+pembatalan persetujuan; dan/atau 
+g. 
+pembatalan pendaftaran. 
+(5) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(4) huruf b, huruf c, huruf d, huruf e, huruf f, atau 
+huruf g dapat dikenakan dengan atau tanpa didahului 
+pengenaan sanksi administratif berupa peringatan 
+tertulis sebagaimana dimaksud pada ayat (4) huruf a. 
+(6) 
+Sanksi 
+administratif 
+berupa 
+denda 
+sebagaimana 
+dimaksud pada ayat (4) huruf b dapat dikenakan 
+secara sendiri atau secara bersama-sama dengan 
+pengenaan 
+sanksi 
+administratif 
+sebagaimana 
+dimaksud pada ayat (4) huruf c, huruf d, huruf e, 
+huruf f, atau huruf g. 
+(7) 
+Tata cara pengenaan sanksi sebagaimana dimaksud 
+pada ayat (3) dilaksanakan sesuai dengan ketentuan 
+peraturan perundang-undangan. 
+ 
+Pasal 22 
+Selain sanksi administratif sebagaimana dimaksud dalam 
+Pasal 21 ayat (4), Otoritas Jasa Keuangan dapat melakukan 
+tindakan tertentu terhadap setiap pihak yang melakukan 
+pelanggaran ketentuan Peraturan Otoritas Jasa Keuangan 
+ini. 
+ 
+Pasal 23 
+Otoritas Jasa Keuangan dapat mengumumkan pengenaan 
+sanksi administratif sebagaimana dimaksud dalam Pasal 
+21 ayat (4) dan tindakan tertentu sebagaimana dimaksud 
+dalam Pasal 22 kepada masyarakat. 
+ 
+BAB XI 
+KETENTUAN PERALIHAN 
+ 
+Pasal 24 
+Ketentuan 
+mengenai 
+kebijakan 
+manajemen 
+risiko 
+sebagaimana dimaksud dalam Pasal 37 ayat (2) Peraturan 
+Otoritas Jasa Keuangan Nomor 57/POJK.04/2017 tentang 
+
+
+=== Halaman 16 ===
+-16- 
+Penerapan Tata Kelola Perusahaan Efek yang Melakukan 
+Kegiatan 
+Usaha 
+Sebagai 
+Penjamin 
+Emisi 
+Efek 
+dan 
+Perantara Pedagang Efek mengikuti ketentuan dalam 
+Peraturan Otoritas Jasa Keuangan ini. 
+ 
+BAB XII  
+KETENTUAN PENUTUP 
+ 
+Pasal 25 
+Ketentuan 
+mengenai 
+kebijakan 
+manajemen 
+risiko 
+sebagaimana dimaksud dalam: 
+a. 
+Pasal 16 ayat (3); dan 
+b. 
+Pasal 19 ayat (2), 
+mulai berlaku setelah 2 (dua) tahun terhitung sejak tanggal 
+Peraturan Otoritas Jasa Keuangan ini diundangkan. 
+ 
+Pasal 26 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku, ketentuan mengenai kebijakan manajemen risiko 
+sebagaimana dimaksud dalam Pasal 37 ayat (2) Peraturan 
+Otoritas Jasa Keuangan Nomor 57/POJK.04/2017 tentang 
+Penerapan Tata Kelola Perusahaan Efek yang Melakukan 
+Kegiatan Usaha sebagai Penjamin Emisi Efek dan Perantara 
+Pedagang Efek (Lembaran Negara Republik Indonesia 
+Tahun 2017 Nomor 211, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 6126), dicabut dan dinyatakan 
+tidak berlaku. 
+ 
+Pasal  27 
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku 
+setelah 
+1 
+(satu) 
+tahun 
+terhitung 
+sejak 
+tanggal 
+diundangkan. 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 17 ===
+-17- 
+Salinan ini sesuai dengan aslinya 
+Direktur Hukum 1 
+Departemen Hukum 
+ 
+ttd 
+ 
+Mufli Asmawidjaja 
+Agar 
+setiap 
+orang 
+mengetahuinya, 
+memerintahkan 
+pengundangan Peraturan Otoritas Jasa Keuangan ini 
+dengan penempatannya dalam Lembaran Negara Republik 
+Indonesia. 
+ 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 12 Maret 2021                          
+ 
+KETUA 
+DEWAN 
+KOMISIONER 
+OTORITAS 
+JASA 
+KEUANGAN 
+REPUBLIK INDONESIA, 
+ 
+ttd 
+ 
+WIMBOH SANTOSO 
+ 
+ 
+Diundangkan di Jakarta  
+pada tanggal 17 Maret 2021 
+ 
+MENTERI HUKUM DAN HAK ASASI MANUSIA  
+REPUBLIK INDONESIA, 
+ 
+ttd 
+ 
+YASONNA H. LAOLY 
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2021 NOMOR 80 
+
+
+=== Halaman 18 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PENJELASAN 
+ATAS 
+PERATURAN OTORITAS JASA KEUANGAN 
+NOMOR 6 /POJK.04/2021 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI PERUSAHAAN EFEK YANG 
+MELAKUKAN KEGIATAN USAHA SEBAGAI PENJAMIN EMISI EFEK DAN 
+PERANTARA PEDAGANG EFEK YANG MERUPAKAN  
+ANGGOTA BURSA EFEK  
+ 
+I. 
+UMUM 
+Kondisi eksternal dan internal Perusahaan Efek yang melakukan 
+kegiatan usaha sebagai Penjamin Emisi Efek dan Perantara Pedagang 
+Efek yang merupakan Anggota Bursa Efek dapat memengaruhi 
+perkembangan kegiatan usaha dan meningkatkan kompleksitas tingkat 
+Risiko yang dihadapi oleh Perusahaan Efek tersebut. Kondisi eksternal 
+Perusahaan Efek antara lain adalah perkembangan industri Pasar 
+Modal sedangkan kondisi internal termasuk namun tidak terbatas pada 
+kompleksitas usaha yang dilakukan oleh Perusahaan Efek tersebut.  
+Dengan meningkatnya komplekstitas Risiko yang dihadapi 
+Perusahaan Efek yang melakukan kegiatan usaha sebagai Penjamin 
+Emisi Efek dan Perantara Pedagang Efek yang merupakan Anggota 
+Bursa Efek, perlu diimbangi dengan penerapan Manajemen Risiko yang 
+meliputi identifikasi, pengukuran, pemantauan, dan pengendalian 
+Risiko. 
+Berdasarkan kondisi tersebut diatas, maka dipandang perlu 
+melakukan pengaturan terkait penerapan Manajemen Risiko bagi 
+Perusahaan Efek yang melakukan kegiatan usaha sebagai Penjamin 
+Emisi Efek dan Perantara Pedagang Efek yang merupakan Anggota 
+Bursa Efek. 
+
+
+=== Halaman 19 ===
+- 2 - 
+ 
+II. 
+PASAL DEMI PASAL 
+ 
+Pasal 1 
+Cukup jelas. 
+ 
+Pasal 2 
+Cukup jelas. 
+ 
+Pasal 3 
+Cukup jelas. 
+ 
+Pasal 4 
+Ukuran dan kompleksitas usaha antara lain keragaman dalam 
+jenis 
+transaksi, 
+jasa, 
+dan 
+jaringan 
+usaha. 
+Kemampuan 
+Perusahaan Efek antara lain kemampuan keuangan, infrastruktur 
+pendukung, dan kemampuan sumber daya manusia. 
+ 
+Pasal 5 
+Ayat (1) 
+Huruf a 
+Risiko Operasional antara lain Risiko akibat kurang 
+andalnya sistem, beban kerja pegawai, dan kompleksitas 
+layanan jasa perdagangan. 
+Huruf b 
+Risiko Kredit antara lain Risiko yang timbul akibat 
+kegagalan pihak lawan transaksi dan Risiko kegagalan 
+penyelesaian. 
+Risiko kegagalan pihak lawan transaksi merupakan 
+Risiko yang timbul akibat terjadinya kegagalan pihak 
+lawan dalam memenuhi kewajibannya. 
+Risiko kegagalan penyelesaian merupakan Risiko yang 
+timbul akibat kegagalan penyerahan kas dan/atau efek 
+pada tanggal penyelesaian (settlement date) yang telah 
+disepakati dari transaksi penjualan dan/atau pembelian 
+efek. 
+Huruf c 
+Risiko Pasar antara lain Risiko akibat perubahan harga 
+
+
+=== Halaman 20 ===
+- 3 - 
+ 
+efek (adverse movement) dalam portofolio yang dimiliki 
+Perusahaan Efek. 
+Huruf d 
+Risiko Likuiditas antara lain Risiko yang berkaitan 
+dengan kemampuan Perusahaan Efek untuk memenuhi 
+kewajiban nilai minimum modal kerja bersih disesuaikan 
+yang dipersyaratkan dan penyelesaian transaksi reguler. 
+Huruf e 
+Risiko Kepatuhan antara lain Risiko yang berkaitan 
+dengan kewajiban Perusahaan Efek dalam memenuhi 
+ketentuan peraturan perundang-undangan di sektor 
+pasar modal. 
+Huruf f 
+Risiko Hukum antara lain Risiko yang berkaitan dengan 
+gugatan hukum terhadap Perusahaan Efek  oleh pihak 
+ketiga atau nasabah Perusahaan Efek atas suatu 
+perjanjian 
+dengan 
+klausula 
+yang 
+lemah 
+dapat 
+menyebabkan kerugian besar bagi Perusahaan Efek. 
+Huruf g 
+Risiko Reputasi antara lain Risiko yang berkaitan dengan 
+pengaduan nasabah terhadap Perusahaan Efek  atas 
+suatu kelalaian Perusahaan Efek dapat menyebabkan 
+kerugian besar bagi Perusahaan Efek  karena dapat 
+menimbulkan ganti rugi kepada nasabah atau bahkan 
+sanksi dari Otoritas Jasa Keuangan. 
+Huruf h 
+Risiko Strategis antara lain Risiko yang berkaitan dengan 
+kegagalan dalam mengantisipasi perubahan lingkungan 
+bisnis yang mencakup perubahan teknologi, perubahan 
+kondisi ekonomi makro, dinamika kompetisi di pasar, dan 
+perubahan kebijakan otoritas terkait. 
+ 
+Ayat (2) 
+ 
+ 
+Cukup jelas.          
+ 
+Pasal 6 
+Penetapan wewenang dan tanggung jawab dapat diatur dalam 
+dokumen antara lain peraturan perusahaan, Standar Prosedur 
+
+
+=== Halaman 21 ===
+- 4 - 
+ 
+Operasional, atau piagam/charter yang ditetapkan Direksi dan 
+Dewan Komisaris. 
+ 
+Pasal 7 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “mengevaluasi dan memutuskan 
+transaksi yang memerlukan persetujuan Direksi” antara 
+lain menetapkan kriteria dan proses berjenjang pada 
+transaksi baik untuk kepentingan nasabah maupun 
+kepentingan Perantara pedagang Efek sendiri atau pihak 
+terafiliasi Perantara pedagang Efek yang memerlukan 
+persetujuan Direksi. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Yang dimaksud dengan “independen” antara lain: 
+1. 
+adanya pemisahan fungsi Manajemen Risiko dengan 
+fungsi 
+terkait 
+operasional 
+(risk-taking 
+unit) 
+Perusahaan Efek; dan 
+2. 
+penerapan Manajemen Risiko bebas dari benturan 
+kepentingan 
+antara 
+Perusahaan 
+Efek 
+dengan 
+individu masing-masing di Perusahaan Efek. 
+Huruf f 
+Cukup jelas. 
+Ayat (2) 
+Yang dimaksud dengan “tindakan yang diperlukan” antara 
+lain dengan cara memberikan rekomendasi atau usulan 
+terkait penerapan Manajemen Risiko kepada seluruh fungsi di 
+Perusahaan Efek. 
+ 
+ 
+ 
+
+
+=== Halaman 22 ===
+- 5 - 
+ 
+Pasal 8 
+Ayat (1) 
+Pembahasan mengenai wewenang dan tanggung jawab 
+dilaksanakan melalui Rapat Dewan Komisaris sesuai dengan 
+ketentuan peraturan Otoritas Jasa Keuangan mengenai 
+penerapan tata kelola Perusahaan Efek yang melakukan 
+kegiatan usaha sebagai Penjamin Emisi Efek dan Perantara 
+Pedagang Efek. 
+Huruf a 
+Kebijakan Manajemen Risiko memuat antara lain strategi 
+dan kerangka Risiko yang ditetapkan sesuai dengan 
+tingkat Risiko yang akan diambil (risk appetite) dan 
+toleransi Risiko (risk tolerance). 
+Huruf b 
+Evaluasi 
+dilakukan 
+antara 
+lain 
+melalui 
+evaluasi 
+pertanggungjawaban Direksi. 
+Huruf c 
+Cukup jelas. 
+Ayat (2) 
+Perubahan faktor yang memengaruhi kegiatan usaha secara 
+signifikan antara lain perubahan kebijakan dari regulator. 
+ 
+Pasal 9 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Pada praktiknya, sistem deteksi dini dimaksud biasa disebut 
+dengan early warning system. 
+Huruf f 
+Cukup jelas. 
+ 
+
+
+=== Halaman 23 ===
+- 6 - 
+ 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Pada praktiknya, limit Risiko yang diambil dimaksud biasa 
+disebut dengan risk appetite dan toleransi Risiko biasa 
+disebut dengan risk tolerance. 
+Huruf i 
+Pada praktiknya, penyusunan rencana darurat dimaksud 
+biasa disebut dengan contingency plan dan dalam kondisi 
+terburuk biasa disebut dengan worst case scenario. 
+Huruf j 
+Cukup jelas. 
+ 
+Pasal 10 
+Ayat (1) 
+Dalam praktiknya “tingkat Risiko yang akan diambil” 
+dimaksud biasa disebut (risk appetite). 
+Tingkat Risiko yang akan diambil (risk appetite) merupakan 
+tingkat dan cakupan Risiko yang bersedia diambil dalam 
+rangka mencapai sasaran. Tingkat Risiko yang akan diambil 
+tercermin dalam strategi dan sasaran bisnis.  
+Toleransi Risiko merupakan tingkat dan cakupan Risiko yang 
+ditetapkan secara maksimum dan merupakan penjabaran 
+dari tingkat Risiko yang akan diambil.  
+Tingkat Risiko yang akan diambil (risk appetite) dan toleransi 
+Risiko harus sejalan dengan strategi bisnis, profil Risiko, dan 
+rencana permodalan Perusahaan Efek. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 11 
+Ayat (1) 
+Yang dimaksud dengan “faktor Risiko (risk factors) yang 
+
+
+=== Halaman 24 ===
+- 7 - 
+ 
+bersifat material” adalah faktor Risiko baik kuantitatif 
+maupun kualitatif yang berpengaruh secara signifikan 
+terhadap kondisi keuangan dari Perusahaan Efek. 
+Ayat (2) 
+Huruf a 
+Yang dimaksud dengan “sistem informasi manajemen 
+yang memadai” adalah Sistem informasi manajemen 
+yang lengkap, akurat, tepat guna, dan tepat waktu dalam 
+rangka pengambilan keputusan yang tepat dan dapat 
+dipertanggungjawabkan, serta dikomunikasikan kepada 
+pihak yang berkepentingan. 
+Huruf b 
+Cukup jelas. 
+ 
+Pasal 12 
+Ayat (1) 
+Identifikasi Risiko antara lain dapat didasarkan pada 
+pengalaman kerugian yang pernah terjadi baik di internal 
+Perusahaan 
+Efek 
+atau 
+di 
+industri 
+Perusahaan 
+Efek 
+keseluruhan atau industri keuangan lainnya yang relevan. 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Frekuensi evaluasi secara berkala dilakukan sesuai 
+dengan perkembangan usaha dan kondisi eksternal yang 
+memengaruhi kondisi Perusahaan Efek.  
+Huruf b 
+Faktor yang secara signifikan memengaruhi Risiko yang 
+bersifat material antara lain penambahan lini bisnis baru 
+yang dapat memengaruhi kondisi keuangan Perusahaan 
+Efek. 
+Ayat (3) 
+Huruf a 
+Evaluasi terhadap eksposur Risiko dilakukan dengan 
+
+
+=== Halaman 25 ===
+- 8 - 
+ 
+cara pemantauan dan pelaporan Risiko yang bersifat 
+material 
+atau 
+yang 
+berdampak 
+kepada 
+kondisi 
+permodalan Perusahaan Efek.  
+Huruf b 
+Penyempurnaan 
+proses 
+dan 
+cakupan 
+pelaporan 
+dilakukan antara lain jika terdapat perubahan kegiatan 
+usaha, produk, transaksi, faktor Risiko, teknologi 
+informasi dan sistem informasi Manajemen Risiko 
+Perusahaan Efek yang bersifat material. 
+Ayat (4) 
+Pengendalian Risiko dapat dilakukan antara lain dengan cara 
+lindung nilai, metode mitigasi Risiko, dan penambahan modal 
+untuk menyerap potensi kerugian. 
+ 
+Pasal 13 
+Ayat (1) 
+Huruf a 
+Laporan atau informasi eksposur Risiko mencakup 
+eksposur kuantitatif dan kualitatif, secara keseluruhan 
+(composite) maupun rincian eksposur untuk setiap jenis 
+Risiko. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 14 
+Huruf a 
+Yang dimaksud dengan “peraturan Otoritas Jasa Keuangan 
+mengenai pengendalian internal Perusahaan Efek yang 
+melakukan kegiatan usaha sebagai Perantara Pedagang Efek” 
+adalah 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+50/POJK.04/2020 tentang Pengendalian Internal Perusahaan 
+Efek yang Melakukan Kegiatan Usaha Sebagai Perantara 
+Pedagang Efek. 
+
+
+=== Halaman 26 ===
+- 9 - 
+ 
+Huruf b  
+Yang dimaksud dengan “peraturan Otoritas Jasa Keuangan 
+mengenai penerapan tata kelola Perusahaan Efek” adalah 
+Peraturan Otoritas Jasa Keuangan Nomor 57/POJK.04/2017 
+tentang Penerapan Tata Kelola Perusahaan Efek yang 
+Melakukan Kegiatan Usaha Sebagai Penjamin Emisi Efek dan 
+Perantara Pedagang Efek. 
+ 
+Pasal 15 
+Cukup jelas. 
+ 
+Pasal 16 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Unit kerja dimaksud dapat digabung ataupun dipisah dengan 
+unit Manajemen Risiko sesuai dengan peraturan Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+50/POJK.04/2020 
+tentang 
+Pengendalian Internal Perusahaan Efek yang Melakukan 
+Kegiatan Usaha Sebagai Perantara Pedagang Efek.  
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 17 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Termasuk dalam keputusan bisnis yang menyimpang 
+dari prosedur normal antara lain pelampauan ekspansi         
+  
+
+
+=== Halaman 27 ===
+- 10 - 
+ 
+usaha diluar kegiatan lain yang diperkenankan dalam 
+ketentuan peraturan perundang-undangan. 
+ 
+Pasal 18 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Yang dimaksud dengan “ketentuan peraturan perundang-
+undangan mengenai kegiatan lain bagi Perusahaan Efek yang 
+melakukan kegiatan usaha sebagai Penjamin Emisi Efek dan 
+Perantara Pedagang Efek” adalah Peraturan Otoritas Jasa 
+Keuangan 
+Nomor 
+20/POJK.04/2016 
+tentang 
+Perizinan 
+Perusahaan Efek yang Melakukan Kegiatan Usaha sebagai 
+Penjamin Emisi Efek dan Perantara Pedagang Efek beserta 
+ketentuan pelaksanaannya. 
+ 
+Pasal 19 
+Cukup jelas. 
+ 
+Pasal 20 
+Cukup jelas. 
+ 
+Pasal 21 
+Cukup jelas. 
+ 
+Pasal 22 
+Yang 
+dimaksud 
+dengan 
+“tindakan 
+tertentu” 
+antara 
+lain 
+memerintahkan Perusahaan Efek untuk melakukan revisi laporan 
+hasil penilaian sendiri (self assesment) penerapan Manajemen 
+Risiko atau memerintahkan Perusahaan Efek untuk menghentikan 
+transaksi tertentu dikarenakan tingginya Risiko Perusahaan Efek. 
+ 
+Pasal 23 
+Cukup jelas. 
+ 
+Pasal 24 
+Cukup jelas. 
+
+
+=== Halaman 28 ===
+- 11 - 
+ 
+Pasal 25 
+Cukup jelas. 
+ 
+ 
+Pasal 26 
+Cukup jelas. 
+ 
+Pasal 27 
+Cukup jelas. 
+ 
+   
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6670  
+
+

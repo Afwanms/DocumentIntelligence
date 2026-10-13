@@ -1,0 +1,2111 @@
+=== Halaman 1 ===
+ 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+ 
+ 
+SALINAN 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 44 /POJK.05/2020 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI 
+LEMBAGA JASA KEUANGAN NONBANK 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN, 
+ 
+ 
+Menimbang 
+: a. 
+bahwa meningkatnya kegiatan usaha lembaga jasa 
+keuangan 
+nonbank 
+dengan 
+risiko 
+yang 
+semakin 
+kompleks perlu diimbangi dengan penerapan manajemen 
+risiko; 
+ 
+ 
+b. 
+bahwa pengembangan lembaga jasa keuangan nonbank 
+membutuhkan 
+penerapan 
+manajemen 
+risiko 
+yang 
+memadai, efektif, dan terukur; 
+ 
+ 
+c. 
+bahwa 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+1/POJK.05/2015 tentang Penerapan Manajemen Risiko 
+bagi Lembaga Jasa Keuangan Non-Bank sudah tidak 
+menampung perkembangan kebutuhan hukum untuk 
+peningkatan 
+kualitas 
+penerapan 
+manajemen 
+risiko 
+lembaga jasa keuangan nonbank sehingga perlu diganti; 
+ 
+ 
+d. 
+bahwa 
+berdasarkan 
+pertimbangan 
+sebagaimana 
+dimaksud dalam huruf a, huruf b, dan huruf c, perlu 
+menetapkan Peraturan Otoritas Jasa Keuangan tentang 
+
+
+=== Halaman 2 ===
+- 2 -  
+ 
+Penerapan 
+Manajemen 
+Risiko 
+bagi 
+Lembaga 
+Jasa 
+Keuangan Nonbank; 
+ 
+Mengingat 
+: 1. 
+Undang-Undang Nomor 11 Tahun 1992 tentang Dana 
+Pensiun (Lembaran Negara Republik Indonesia Tahun 
+1992 Nomor 37, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 3477); 
+ 
+ 
+2. 
+Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas 
+Jasa Keuangan (Lembaran Negara Republik Indonesia 
+Tahun 2011 Nomor 111, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5253); 
+ 
+ 
+3. 
+Undang-Undang 
+Nomor 
+40 
+Tahun 
+2014 
+tentang 
+Perasuransian (Lembaran Negara Republik Indonesia 
+Tahun 2014 Nomor 337, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5618); 
+ 
+MEMUTUSKAN: 
+Menetapkan : PERATURAN 
+OTORITAS 
+JASA 
+KEUANGAN 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI LEMBAGA JASA 
+KEUANGAN NONBANK. 
+ 
+BAB I 
+KETENTUAN UMUM 
+ 
+Pasal 1 
+Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud 
+dengan: 
+1. 
+Lembaga Jasa Keuangan Nonbank yang selanjutnya 
+disebut LJKNB adalah lembaga yang melaksanakan 
+kegiatan di sektor perasuransian, dana pensiun, dan 
+lembaga pembiayaan. 
+2. 
+Risiko adalah potensi 
+kerugian yang tidak dapat 
+dikendalikan 
+dan/atau 
+dapat 
+dikendalikan 
+akibat 
+terjadinya suatu peristiwa tertentu. 
+ 
+ 
+
+
+=== Halaman 3 ===
+- 3 -  
+ 
+3. 
+Manajemen Risiko adalah serangkaian prosedur dan 
+metodologi yang digunakan untuk mengidentifikasi, 
+mengukur, mengendalikan, dan memantau Risiko yang 
+timbul dari seluruh kegiatan usaha LJKNB. 
+4. 
+Risiko Strategis adalah Risiko akibat ketidaktepatan 
+dalam 
+pengambilan 
+dan/atau 
+pelaksanaan 
+suatu 
+keputusan 
+strategis 
+serta 
+kegagalan 
+dalam 
+mengantisipasi perubahan lingkungan bisnis. 
+5. 
+Risiko Operasional adalah Risiko akibat ketidakcukupan 
+dan/atau tidak berfungsinya proses internal, kesalahan 
+manusia, kegagalan sistem, dan/atau adanya kejadian 
+eksternal yang memengaruhi operasional LJKNB. 
+6. 
+Risiko Asuransi adalah Risiko kegagalan perusahaan 
+asuransi, perusahaan reasuransi, perusahaan asuransi 
+syariah, dan perusahaan reasuransi syariah untuk 
+memenuhi 
+kewajiban 
+kepada 
+pemegang 
+polis, 
+tertanggung, 
+atau 
+peserta 
+sebagai 
+akibat 
+dari 
+ketidakcukupan proses seleksi risiko (underwriting), 
+penetapan 
+premi 
+atau 
+kontribusi, 
+penggunaan 
+reasuransi, dan/atau penanganan klaim. 
+7. 
+Risiko Kredit adalah Risiko akibat kegagalan pihak lain 
+dalam memenuhi kewajiban kepada LJKNB.  
+8. 
+Risiko Pasar adalah Risiko pada posisi aset, liabilitas, 
+ekuitas, 
+dan/atau 
+rekening 
+administratif 
+termasuk 
+transaksi derivatif akibat perubahan secara keseluruhan 
+dari kondisi pasar.  
+9. 
+Risiko Likuiditas adalah Risiko akibat ketidakmampuan 
+LJKNB untuk memenuhi liabilitas yang jatuh tempo dari 
+sumber pendanaan arus kas dan/atau dari aset likuid 
+yang dapat dengan mudah dikonversi menjadi kas, tanpa 
+mengganggu aktivitas dan kondisi keuangan LJKNB. 
+10. Risiko Hukum adalah Risiko yang timbul akibat tuntutan 
+hukum dan/atau kelemahan aspek hukum. 
+11. Risiko Kepatuhan adalah Risiko akibat LJKNB tidak 
+mematuhi dan/atau tidak melaksanakan peraturan 
+perundang-undangan dan ketentuan yang berlaku bagi 
+LJKNB. 
+
+
+=== Halaman 4 ===
+- 4 -  
+ 
+12. Risiko Reputasi adalah Risiko akibat menurunnya tingkat 
+kepercayaan pemangku kepentingan yang bersumber 
+dari persepsi negatif terhadap LJKNB. 
+13. Direksi adalah organ perseroan yang berwenang dan 
+bertanggung jawab penuh atas pengurusan perseroan 
+untuk kepentingan perseroan, sesuai dengan maksud 
+dan tujuan perseroan serta mewakili perseroan, baik di 
+dalam maupun di luar pengadilan sesuai dengan 
+ketentuan anggaran dasar bagi LJKNB yang berbentuk 
+badan hukum perseroan terbatas atau yang setara 
+dengan Direksi bagi LJKNB yang berbentuk badan 
+hukum koperasi, usaha bersama, dan dana pensiun. 
+14. Dewan Komisaris adalah organ perseroan yang bertugas 
+melakukan pengawasan secara umum dan/atau khusus 
+sesuai dengan anggaran dasar serta memberi nasihat 
+kepada Direksi bagi LJKNB yang berbentuk badan 
+hukum perseroan terbatas atau yang setara dengan 
+Dewan Komisaris bagi LJKNB yang berbentuk badan 
+hukum koperasi, usaha bersama, dan dana pensiun. 
+15. Dewan Pengawas Syariah adalah dewan yang mempunyai 
+tugas dan fungsi pengawasan serta memberikan nasihat 
+kepada Direksi terkait penyelenggaraan kegiatan LJKNB 
+agar sesuai dengan prinsip syariah. 
+ 
+Pasal 2 
+LJKNB sebagaimana dimaksud dalam Pasal 1 angka 1 
+meliputi: 
+a. 
+perusahaan perasuransian, yang terdiri atas: 
+1. 
+perusahaan 
+asuransi, 
+termasuk 
+yang 
+menyelenggarakan sebagian usahanya berdasarkan 
+prinsip syariah; 
+2. 
+perusahaan 
+reasuransi, 
+termasuk 
+yang 
+menyelenggarakan sebagian usahanya berdasarkan 
+prinsip syariah; 
+3. 
+perusahaan asuransi syariah; 
+4. 
+perusahaan reasuransi syariah; 
+5. 
+perusahaan pialang asuransi; 
+
+
+=== Halaman 5 ===
+- 5 -  
+ 
+6. 
+perusahaan pialang reasuransi; dan 
+7. 
+perusahaan penilai kerugian asuransi, 
+sebagaimana dimaksud dalam ketentuan peraturan 
+perundang-undangan mengenai perasuransian; 
+b. 
+dana pensiun sebagaimana dimaksud dalam ketentuan 
+peraturan perundang-undangan mengenai dana pensiun, 
+termasuk yang menyelenggarakan seluruh atau sebagian 
+usahanya dengan prinsip syariah; dan 
+c. 
+lembaga pembiayaan, yang terdiri atas: 
+1. 
+perusahaan pembiayaan sebagaimana dimaksud 
+dalam ketentuan peraturan perundang-undangan 
+mengenai perusahaan pembiayaan, termasuk yang 
+menyelenggarakan sebagian usahanya berdasarkan 
+prinsip syariah; dan  
+2. 
+perusahaan 
+pembiayaan 
+syariah 
+sebagaimana 
+dimaksud dalam ketentuan peraturan perundangan-
+undangan 
+mengenai 
+perusahaan 
+pembiayaan 
+syariah. 
+ 
+BAB II 
+PENERAPAN MANAJEMEN RISIKO 
+ 
+Pasal 3 
+(1) 
+LJKNB wajib menerapkan Manajemen Risiko secara 
+efektif. 
+(2) 
+Penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) paling sedikit mencakup: 
+a. 
+pengawasan aktif Direksi, Dewan Komisaris, dan 
+Dewan Pengawas Syariah; 
+b. 
+kecukupan kebijakan dan prosedur Manajemen 
+Risiko serta penetapan limit Risiko; 
+c. 
+kecukupan 
+proses 
+identifikasi, 
+pengukuran, 
+pengendalian, dan pemantauan Risiko, serta sistem 
+informasi Manajemen Risiko; dan 
+d. 
+sistem pengendalian internal yang menyeluruh. 
+ 
+ 
+
+
+=== Halaman 6 ===
+- 6 -  
+ 
+Pasal 4 
+Penerapan Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 3 wajib disesuaikan dengan tujuan, kebijakan usaha, 
+ukuran, dan kompleksitas usaha LJKNB. 
+ 
+Pasal 5 
+(1) 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 
+ayat (1) bagi LJKNB sebagaimana dimaksud dalam Pasal 
+2 huruf a angka 1 sampai dengan angka 4, huruf b, dan 
+huruf c wajib diterapkan untuk: 
+a. 
+Risiko Strategis; 
+b. 
+Risiko Operasional; 
+c. 
+Risiko Asuransi, bagi: 
+1. 
+perusahaan 
+asuransi, 
+termasuk 
+yang 
+menyelenggarakan 
+sebagian 
+usahanya 
+berdasarkan prinsip syariah;  
+2. 
+perusahaan 
+reasuransi, 
+termasuk 
+yang 
+menyelenggarakan 
+seluruh 
+atau 
+sebagian 
+usahanya dengan prinsip syariah; 
+3. 
+perusahaan asuransi syariah; dan 
+4. 
+perusahaan reasuransi syariah; 
+d. 
+Risiko Kredit; 
+e. 
+Risiko Pasar; 
+f. 
+Risiko Likuiditas; 
+g. 
+Risiko Hukum;  
+h. 
+Risiko Kepatuhan; dan 
+i. 
+Risiko Reputasi. 
+(2) 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 3 
+ayat (1) bagi LJKNB sebagaimana dimaksud dalam Pasal 
+2 huruf a angka 5 sampai dengan angka 7 wajib 
+diterapkan untuk: 
+a. 
+Risiko Strategis; 
+b. 
+Risiko Operasional; 
+c. 
+Risiko Hukum;  
+d. 
+Risiko Kepatuhan; dan 
+e. 
+Risiko Reputasi. 
+ 
+
+
+=== Halaman 7 ===
+- 7 -  
+ 
+BAB III 
+PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS,  
+DAN DEWAN PENGAWAS SYARIAH 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 6 
+LJKNB wajib menetapkan wewenang dan tanggung jawab 
+yang jelas pada setiap jenjang jabatan yang terkait dengan 
+penerapan Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 3. 
+ 
+Bagian Kedua 
+Wewenang dan Tanggung Jawab Direksi 
+ 
+Pasal 7 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 6 bagi Direksi paling sedikit: 
+a. 
+menyusun kebijakan dan strategi Manajemen Risiko 
+secara tertulis dan komprehensif; 
+b. 
+bertanggung jawab atas pelaksanaan kebijakan 
+Manajemen Risiko dan eksposur Risiko yang diambil 
+oleh LJKNB secara keseluruhan; 
+c. 
+mengevaluasi dan memutuskan transaksi dan limit 
+Risiko yang memerlukan persetujuan Direksi; 
+d. 
+mengembangkan budaya Manajemen Risiko pada 
+seluruh jenjang organisasi; 
+e. 
+memastikan peningkatan kompetensi sumber daya 
+manusia yang terkait dengan Manajemen Risiko; 
+f. 
+memastikan bahwa fungsi Manajemen Risiko telah 
+beroperasi secara independen; dan 
+g. 
+melaksanakan kaji ulang secara berkala untuk 
+memastikan: 
+1. 
+keakuratan metodologi penilaian Risiko; 
+2. 
+kecukupan 
+implementasi 
+sistem 
+informasi 
+Manajemen Risiko; dan 
+
+
+=== Halaman 8 ===
+- 8 -  
+ 
+3. 
+ketepatan kebijakan dan prosedur Manajemen 
+Risiko serta penetapan limit Risiko. 
+(2) 
+Kebijakan dan strategi Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dievaluasi secara berkala 
+paling sedikit 1 (satu) kali dalam 1 (satu) tahun dan 
+setiap saat dalam hal terdapat faktor yang memengaruhi 
+kegiatan usaha LJKNB secara signifikan. 
+(3) 
+Tanggung jawab Direksi atas pelaksanaan kebijakan 
+Manajemen Risiko sebagaimana dimaksud pada ayat (1) 
+huruf b termasuk: 
+a. 
+mengevaluasi dan memberikan arahan berdasarkan 
+laporan yang disampaikan oleh fungsi Manajemen 
+Risiko; dan 
+b. 
+penyampaian laporan pertanggungjawaban kepada 
+Dewan Komisaris dan Dewan Pengawas Syariah 
+paling sedikit 1 (satu) kali dalam 6 (enam) bulan.  
+(4) 
+Dalam rangka melaksanakan wewenang dan tanggung 
+jawab sebagaimana dimaksud pada ayat (1), Direksi 
+harus memiliki pemahaman mengenai Risiko yang 
+melekat pada seluruh aktivitas fungsional LJKNB dan 
+mampu mengambil tindakan yang diperlukan sesuai 
+dengan profil Risiko LJKNB. 
+ 
+Bagian Ketiga 
+Wewenang dan Tanggung Jawab Dewan Komisaris 
+ 
+Pasal 8 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 6 bagi Dewan Komisaris paling sedikit: 
+a. 
+menyetujui dan mengevaluasi kebijakan Manajemen 
+Risiko;  
+b. 
+mengevaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan 
+kebijakan 
+Manajemen 
+Risiko 
+sebagaimana dimaksud dalam huruf a; dan 
+ 
+
+
+=== Halaman 9 ===
+- 9 -  
+ 
+c. 
+mengevaluasi dan memutuskan permohonan Direksi 
+yang berkaitan dengan transaksi dan limit Risiko 
+yang memerlukan persetujuan Dewan Komisaris. 
+(2) 
+Evaluasi kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dilakukan paling sedikit 
+1 (satu) kali dalam 1 (satu) tahun dan setiap saat dalam 
+hal terdapat faktor yang memengaruhi kegiatan usaha 
+LJKNB secara signifikan. 
+(3) 
+Evaluasi pertanggungjawaban Direksi atas pelaksanaan 
+kebijakan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) huruf b dilakukan paling sedikit 1 (satu) 
+kali dalam 6 (enam) bulan. 
+ 
+Bagian Keempat 
+Wewenang dan Tanggung Jawab Dewan Pengawas Syariah 
+ 
+Pasal 9 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 6 bagi Dewan Pengawas Syariah paling 
+sedikit: 
+a. 
+mengevaluasi kebijakan Manajemen Risiko yang 
+terkait dengan pemenuhan prinsip syariah; dan 
+b. 
+mengevaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan kebijakan Manajemen Risiko yang 
+terkait 
+dengan 
+pemenuhan 
+prinsip 
+syariah 
+sebagaimana dimaksud dalam huruf a. 
+(2) 
+Evaluasi kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dilakukan paling sedikit 
+1 (satu) kali dalam 1 (satu) tahun dan setiap saat dalam 
+hal terdapat faktor yang memengaruhi kegiatan usaha 
+LJKNB secara signifikan. 
+(3) 
+Evaluasi pertanggungjawaban Direksi atas pelaksanaan 
+kebijakan 
+Manajemen 
+Risiko 
+yang 
+terkait 
+dengan 
+pemenuhan prinsip syariah sebagaimana dimaksud pada 
+ayat (1) huruf b dilakukan paling sedikit 1 (satu) kali 
+dalam 6 (enam) bulan. 
+ 
+
+
+=== Halaman 10 ===
+- 10 -  
+ 
+BAB IV 
+KECUKUPAN KEBIJAKAN DAN PROSEDUR MANAJEMEN 
+RISIKO SERTA PENETAPAN LIMIT RISIKO 
+ 
+Bagian Kesatu 
+Kebijakan Manajemen Risiko 
+ 
+Pasal 10 
+Kebijakan Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 3 ayat (2) huruf b paling sedikit memuat: 
+a. 
+penetapan Risiko yang terkait dengan kegiatan usaha 
+LJKNB; 
+b. 
+penetapan penggunaan metode pengukuran dan sistem 
+informasi Manajemen Risiko; 
+c. 
+penetapan tingkat Risiko yang akan diambil, penetapan 
+toleransi Risiko, dan penentuan limit Risiko; 
+d. 
+penetapan penilaian peringkat Risiko; 
+e. 
+penyusunan rencana darurat dalam kondisi terburuk; 
+dan 
+f. 
+penetapan sistem pengendalian internal dalam penerapan 
+Manajemen Risiko. 
+ 
+Bagian Kedua 
+Prosedur Manajemen Risiko dan Penetapan Limit Risiko 
+ 
+Pasal 11 
+(1) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf b 
+wajib disesuaikan dengan tingkat Risiko yang akan 
+diambil terhadap Risiko LJKNB. 
+(2) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud pada ayat (1) paling sedikit 
+memuat: 
+a. 
+akuntabilitas dan jenjang delegasi wewenang yang 
+jelas; 
+
+
+=== Halaman 11 ===
+- 11 -  
+ 
+b. 
+pelaksanaan 
+kaji 
+ulang 
+terhadap 
+prosedur 
+Manajemen Risiko dan penetapan limit Risiko secara 
+berkala; dan 
+c. 
+dokumentasi 
+prosedur 
+Manajemen 
+Risiko 
+dan 
+penetapan limit Risiko secara memadai. 
+(3) 
+Penetapan limit Risiko sebagaimana dimaksud pada ayat 
+(2) wajib mencakup: 
+a. 
+limit secara keseluruhan; 
+b. 
+limit per jenis Risiko; dan 
+c. 
+limit per aktivitas fungsional dan transaksi tertentu 
+yang memiliki eksposur Risiko. 
+ 
+BAB V 
+KECUKUPAN PROSES IDENTIFIKASI, PENGUKURAN, 
+PENGENDALIAN, DAN PEMANTAUAN RISIKO, SERTA SISTEM 
+INFORMASI MANAJEMEN RISIKO 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 12 
+(1) 
+LJKNB wajib melakukan proses identifikasi, pengukuran, 
+pengendalian, dan pemantauan Risiko sebagaimana 
+dimaksud dalam Pasal 3 ayat (2) huruf c terhadap faktor 
+Risiko yang bersifat material. 
+(2) 
+Pelaksanaan 
+proses 
+identifikasi, 
+pengukuran, 
+pengendalian, dan pemantauan Risiko sebagaimana 
+dimaksud pada ayat (1) wajib didukung oleh: 
+a. 
+sistem informasi manajemen yang tepat waktu;  
+b. 
+laporan yang akurat dan informatif mengenai 
+kondisi keuangan, kinerja aktivitas fungsional, dan 
+eksposur Risiko LJKNB; dan 
+c. 
+sumber daya manusia yang memiliki kompetensi di 
+bidang Manajemen Risiko. 
+ 
+ 
+ 
+
+
+=== Halaman 12 ===
+- 12 -  
+ 
+Bagian Kedua 
+Proses Identifikasi, Pengukuran, Pengendalian,  
+dan Pemantauan Risiko 
+ 
+Pasal 13 
+(1) 
+Untuk melaksanakan proses identifikasi Risiko, LJKNB 
+wajib melakukan analisis paling sedikit terhadap: 
+a. 
+karakteristik Risiko yang melekat pada LJKNB; dan 
+b. 
+Risiko dari kegiatan usaha LJKNB. 
+(2) 
+Untuk melaksanakan pengukuran Risiko, LJKNB wajib 
+melakukan paling sedikit:  
+a. 
+evaluasi secara berkala terhadap kesesuaian asumsi, 
+sumber data, dan prosedur yang digunakan untuk 
+mengukur Risiko; dan 
+b. 
+penyesuaian terhadap proses pengukuran Risiko 
+dalam hal terdapat perubahan kegiatan usaha 
+LJKNB dan faktor Risiko yang bersifat material. 
+(3) 
+LJKNB wajib melaksanakan proses pengendalian Risiko 
+untuk 
+mengelola 
+Risiko 
+tertentu 
+yang 
+dapat 
+membahayakan kelangsungan usaha LJKNB. 
+(4) 
+Untuk melaksanakan pemantauan Risiko, LJKNB wajib 
+melakukan paling sedikit: 
+a. 
+evaluasi terhadap eksposur Risiko; dan 
+b. 
+penyesuaian terhadap proses pelaporan dalam hal 
+terdapat perubahan:  
+1. 
+kegiatan usaha;  
+2. 
+faktor Risiko; 
+3. 
+teknologi informasi; dan  
+4. 
+sistem informasi Manajemen Risiko LJKNB,  
+yang bersifat material. 
+ 
+Bagian Ketiga 
+Sistem Informasi Manajemen Risiko 
+ 
+Pasal 14 
+(1) 
+Sistem 
+informasi 
+Manajemen 
+Risiko 
+sebagaimana 
+dimaksud dalam Pasal 3 ayat (2) huruf c wajib didukung 
+
+
+=== Halaman 13 ===
+- 13 -  
+ 
+oleh sumber daya manusia yang memiliki kompetensi di 
+bidang sistem informasi Manajemen Risiko. 
+(2) 
+Sistem 
+informasi 
+Manajemen 
+Risiko 
+sebagaimana 
+dimaksud dalam Pasal 3 ayat (2) huruf c, mencakup 
+laporan atau informasi paling sedikit mengenai: 
+a. 
+eksposur Risiko; 
+b. 
+kepatuhan 
+terhadap 
+kebijakan 
+dan 
+prosedur 
+Manajemen Risiko serta penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 10 dan Pasal 
+11; dan 
+c. 
+realisasi 
+pelaksanaan 
+Manajemen 
+Risiko 
+dibandingkan dengan target yang ditetapkan. 
+(3) 
+Laporan atau informasi yang dihasilkan dari sistem 
+informasi Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) harus disampaikan secara rutin kepada 
+Direksi.  
+ 
+BAB VI 
+SISTEM PENGENDALIAN INTERNAL 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 15 
+LJKNB wajib melaksanakan sistem pengendalian internal 
+secara 
+efektif 
+terhadap 
+Risiko 
+yang 
+melekat 
+dalam 
+pelaksanaan kegiatan usaha pada seluruh jenjang organisasi 
+LJKNB. 
+ 
+Pasal 16 
+(1) 
+Pelaksanaan sistem pengendalian internal sebagaimana 
+dimaksud dalam Pasal 15 paling sedikit mampu secara 
+tepat waktu mendeteksi kelemahan dan penyimpangan 
+yang menyebabkan atau memengaruhi eksposur Risiko.  
+(2) 
+Sistem pengendalian internal sebagaimana dimaksud 
+pada ayat (1) wajib memastikan: 
+
+
+=== Halaman 14 ===
+- 14 -  
+ 
+a. 
+kepatuhan 
+level 
+manajemen 
+LJKNB 
+terhadap 
+kebijakan dan prosedur Manajemen Risiko serta 
+peraturan perundang-undangan serta 
+kebijakan 
+atau ketentuan internal LJKNB; 
+b. 
+kepatuhan dan efektivitas fungsi Manajemen Risiko 
+dalam merancang dan menerapkan strategi dan 
+kebijakan Manajemen Risiko; 
+c. 
+tersedianya informasi keuangan dan manajemen 
+yang lengkap, akurat, tepat guna, dan tepat waktu; 
+d. 
+efektivitas dan efisiensi dalam kegiatan bisnis dan 
+operasional; dan 
+e. 
+efektivitas budaya Risiko pada organisasi LJKNB 
+secara menyeluruh. 
+ 
+Bagian Kedua 
+Sistem Pengendalian Internal dalam 
+Penerapan Manajemen Risiko 
+ 
+Pasal 17 
+(1) 
+Sistem 
+pengendalian 
+internal 
+yang 
+menyeluruh 
+sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf d 
+dalam penerapan Manajemen Risiko paling sedikit 
+memuat: 
+a. 
+kesesuaian sistem pengendalian internal dengan 
+jenis dan tingkat Risiko yang melekat pada kegiatan 
+usaha LJKNB; 
+b. 
+penetapan wewenang dan tanggung jawab untuk 
+pemantauan kepatuhan kebijakan dan prosedur 
+Manajemen Risiko, serta penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 10 dan Pasal 
+11; 
+c. 
+penetapan jalur pelaporan dan pemisahan fungsi 
+yang jelas dari fungsi operasional kepada fungsi 
+pengendalian Risiko; 
+d. 
+struktur organisasi yang menggambarkan secara 
+jelas kegiatan usaha LJKNB; 
+
+
+=== Halaman 15 ===
+- 15 -  
+ 
+e. 
+pelaporan keuangan dan kegiatan operasional yang 
+akurat dan tepat waktu; 
+f. 
+kecukupan prosedur untuk memastikan kepatuhan 
+LJKNB terhadap ketentuan perundang-undangan 
+dan ketentuan yang berlaku bagi LJKNB; 
+g. 
+kaji ulang yang efektif, independen, dan obyektif 
+terhadap prosedur penilaian kegiatan operasional 
+LJKNB; 
+h. 
+pengujian dan kaji ulang yang memadai terhadap 
+sistem informasi Manajemen Risiko; 
+i. 
+dokumentasi secara lengkap dan memadai terhadap 
+prosedur operasional, cakupan, dan temuan audit, 
+serta tanggapan Direksi, Dewan Komisaris, dan 
+Dewan Pengawas Syariah LJKNB berdasarkan hasil 
+audit; dan 
+j. 
+verifikasi dan kaji ulang secara berkala dan 
+berkesinambungan 
+terhadap 
+penanganan 
+kelemahan LJKNB yang bersifat material dan 
+tindakan Direksi, Dewan Komisaris, dan Dewan 
+Pengawas 
+Syariah 
+LJKNB 
+untuk 
+memperbaiki 
+penyimpangan yang terjadi.   
+(2) 
+Penilaian terhadap sistem pengendalian internal dalam 
+penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) wajib dilakukan oleh fungsi audit internal. 
+ 
+BAB VII 
+ORGANISASI DAN FUNGSI MANAJEMEN RISIKO 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 18 
+Untuk pelaksanaan proses dan sistem Manajemen Risiko yang 
+efektif sebagaimana dimaksud dalam Pasal 3, LJKNB wajib 
+membentuk: 
+a. 
+komite Manajemen Risiko; dan 
+b. 
+fungsi Manajemen Risiko. 
+
+
+=== Halaman 16 ===
+- 16 -  
+ 
+Bagian Kedua 
+Komite Manajemen Risiko 
+ 
+Pasal 19 
+(1) 
+Komite Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 18 huruf a paling sedikit terdiri atas: 
+a. 
+separuh dari anggota Direksi; dan 
+b. 
+pejabat eksekutif terkait. 
+(2) 
+Salah satu anggota Direksi sebagaimana dimaksud pada 
+ayat (1) huruf a merupakan anggota Direksi yang 
+membawahkan fungsi Manajemen Risiko.  
+(3) 
+Wewenang dan tanggung jawab komite Manajemen Risiko 
+sebagaimana dimaksud pada ayat (1) memberikan 
+rekomendasi kepada direktur utama atau yang setara, 
+paling sedikit memuat: 
+a. 
+penyusunan 
+kebijakan, 
+strategi, 
+dan 
+pedoman 
+penerapan Manajemen Risiko; 
+b. 
+perbaikan 
+atau 
+penyesuaian 
+pelaksanaan 
+Manajemen 
+Risiko 
+berdasarkan 
+hasil 
+evaluasi 
+pelaksanaan Manajemen Risiko; dan 
+c. 
+penetapan hal-hal yang terkait dengan keputusan 
+bisnis yang menyimpang dari prosedur normal. 
+ 
+Bagian Ketiga 
+Fungsi Manajemen Risiko 
+ 
+Pasal 20 
+(1) 
+Struktur organisasi fungsi Manajemen Risiko LJKNB 
+sebagaimana dimaksud dalam Pasal 18 huruf b 
+disesuaikan dengan ukuran dan kompleksitas usaha 
+LJKNB serta Risiko yang melekat pada LJKNB. 
+(2) 
+Fungsi Manajemen Risiko sebagaimana dimaksud pada 
+ayat (1) harus independen terhadap fungsi bisnis dan 
+operasional dan terhadap fungsi pengendalian internal. 
+ 
+ 
+
+
+=== Halaman 17 ===
+- 17 -  
+ 
+(3) 
+Fungsi Manajemen Risiko sebagaimana dimaksud pada 
+ayat (1) bertanggung jawab langsung kepada direktur 
+utama atau yang setara, atau anggota Direksi yang 
+membawahkan fungsi Manajemen Risiko. 
+(4) 
+Wewenang dan tanggung jawab fungsi Manajemen 
+Risiko meliputi:  
+a. 
+mengidentifikasi 
+Risiko 
+termasuk 
+Risiko 
+yang 
+melekat pada kegiatan usaha LJKNB; 
+b. 
+menyusun metode pengukuran Risiko; 
+c. 
+memantau pelaksanaan strategi Manajemen Risiko 
+yang telah disusun oleh Direksi;  
+d. 
+memantau posisi Risiko secara keseluruhan, per 
+jenis Risiko, dan per jenis aktivitas fungsional, 
+serta melakukan pengujian dengan menggunakan 
+skenario/asumsi 
+kondisi 
+tidak 
+normal 
+dan 
+pengujian dengan menggunakan data historis; 
+e. 
+mengkaji ulang secara berkala terhadap proses 
+Manajemen Risiko; 
+f. 
+mengkaji usulan pengembangan atau perluasan 
+kegiatan usaha; 
+g. 
+mengevaluasi terhadap akurasi model dan validitas 
+data yang digunakan untuk mengukur Risiko, bagi 
+LJKNB yang menggunakan model untuk keperluan 
+internal; 
+h. 
+memberikan rekomendasi kepada fungsi bisnis dan 
+operasional dan/atau kepada komite Manajemen 
+Risiko, sesuai kewenangan yang dimiliki; dan 
+i. 
+menyusun dan menyampaikan laporan profil Risiko 
+kepada direktur utama atau yang setara, atau 
+anggota 
+Direksi 
+yang 
+membawahkan 
+fungsi 
+manajemen risiko dan komite Manajemen Risiko 
+secara berkala.  
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 18 ===
+- 18 -  
+ 
+Bagian Keempat 
+Hubungan Fungsi Bisnis dan Operasional  
+dengan Fungsi Manajemen Risiko 
+ 
+Pasal 21 
+Fungsi bisnis dan operasional sebagaimana dimaksud dalam 
+Pasal 20 ayat (2) wajib menginformasikan eksposur Risiko 
+yang melekat kepada fungsi Manajemen Risiko secara berkala. 
+ 
+BAB VIII 
+PENGELOLAAN RISIKO PENGEMBANGAN ATAU  
+PERLUASAN KEGIATAN USAHA 
+ 
+Pasal 22 
+(1) 
+LJKNB wajib memiliki kebijakan dan prosedur secara 
+tertulis untuk mengelola Risiko yang melekat pada 
+pengembangan atau perluasan kegiatan usaha LJKNB. 
+(2) 
+Kebijakan dan prosedur sebagaimana dimaksud pada 
+ayat (1) paling sedikit mencakup: 
+a. 
+sistem dan prosedur serta kewenangan dalam 
+pengelolaan pengembangan atau perluasan kegiatan 
+usaha; 
+b. 
+identifikasi seluruh Risiko yang melekat pada 
+pengembangan atau perluasan kegiatan usaha, baik 
+yang terkait dengan LJKNB maupun konsumen; 
+c. 
+masa uji coba metode pengukuran dan pemantauan 
+Risiko terhadap pengembangan atau perluasan 
+kegiatan usaha; 
+d. 
+sistem informasi akuntansi untuk pengembangan 
+atau perluasan kegiatan usaha; 
+e. 
+analisis aspek hukum untuk pengembangan atau 
+perluasan kegiatan usaha; dan 
+f. 
+transparansi informasi kepada konsumen. 
+(3) 
+Kegiatan 
+usaha 
+LJKNB 
+merupakan 
+suatu 
+bentuk 
+pengembangan atau perluasan kegiatan usaha jika 
+memenuhi kriteria: 
+
+
+=== Halaman 19 ===
+- 19 -  
+ 
+a. 
+tidak pernah dilakukan sebelumnya oleh LJKNB; 
+atau 
+b. 
+telah dilaksanakan sebelumnya oleh LJKNB namun 
+dilakukan pengembangan yang mengubah atau 
+meningkatkan 
+eksposur 
+Risiko 
+tertentu 
+pada 
+LJKNB. 
+ 
+Pasal 23 
+LJKNB dilarang menugaskan atau menyetujui Direksi, Dewan 
+Komisaris, Dewan Pengawas Syariah, dan/atau pegawai 
+LJKNB untuk melaksanakan kegiatan yang bukan kegiatan 
+usaha LJKNB dengan menggunakan sarana atau fasilitas 
+LJKNB.  
+  
+BAB IX 
+KETENTUAN LAIN-LAIN 
+ 
+Pasal 24 
+(1) 
+Dalam hal LJKNB menerapkan Manajemen Risiko 
+terintegrasi sebagaimana dimaksud dalam Peraturan 
+Otoritas Jasa Keuangan mengenai penerapan Manajemen 
+Risiko terintegrasi bagi konglomerasi keuangan, fungsi 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 
+18 huruf b dapat digabung dengan fungsi Manajemen 
+Risiko dalam struktur konglomerasi keuangan LJKNB 
+yang bersangkutan. 
+(2) 
+Penerapan Manajemen Risiko bagi dana pensiun lembaga 
+keuangan dapat digabung dengan penerapan Manajemen 
+Risiko pendiri. 
+ 
+Pasal 25 
+Ketentuan lebih lanjut mengenai penerapan Manajemen 
+Risiko sebagaimana dimaksud dalam Pasal 3, struktur 
+organisasi dari komite Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 19, struktur 
+organisasi 
+fungsi 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 20, 
+hubungan fungsi bisnis dan operasional dengan fungsi 
+
+
+=== Halaman 20 ===
+- 20 -  
+ 
+Manajemen Risiko sebagaimana dimaksud dalam Pasal 
+21, dan pengelolaan Risiko pengembangan atau perluasan 
+kegiatan usaha sebagaimana dimaksud dalam Pasal 22, 
+ditetapkan oleh Otoritas Jasa Keuangan.  
+ 
+BAB X 
+PENEGAKAN KEPATUHAN 
+ 
+Bagian Kesatu  
+Sanksi Administratif 
+ 
+Pasal 26 
+(1) 
+LJKNB yang melakukan pelanggaran terhadap ketentuan 
+sebagaimana diatur dalam Pasal 3 ayat (1), Pasal 4, Pasal 
+5, Pasal 6, Pasal 11 ayat (1) dan ayat (3), Pasal 12, Pasal 
+13, Pasal 14 ayat (1), Pasal 15, Pasal 16 ayat (2), Pasal 17 
+ayat (2), Pasal 18, Pasal 21, Pasal 22 ayat (1), dan Pasal 
+23, dikenai sanksi administratif berupa peringatan 
+tertulis. 
+(2) 
+Dalam 
+hal 
+LJKNB 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi peringatan tertulis. 
+ 
+Bagian Kedua 
+Penurunan Hasil Penilaian Tingkat Kesehatan dan  
+Penilaian Kembali terhadap Pihak Utama LJKNB 
+ 
+Pasal 27 
+Dalam hal Otoritas Jasa Keuangan telah mengenakan sanksi 
+administratif sebagaimana dimaksud dalam Pasal 26 ayat (1) 
+dan LJKNB tidak memenuhi ketentuan yang menyebabkan 
+dikenakannya sanksi administratif, Otoritas Jasa Keuangan 
+dapat: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan LJKNB 
+pada perusahaan asuransi, perusahaan reasuransi, dana 
+pensiun, dan perusahaan pembiayaan, termasuk yang 
+
+
+=== Halaman 21 ===
+- 21 -  
+ 
+menyelenggarakan seluruh atau sebagian usahanya 
+dengan prinsip syariah; dan/atau 
+b. 
+melakukan penilaian kembali terhadap pihak utama 
+LJKNB. 
+ 
+BAB XI 
+KETENTUAN PERALIHAN 
+ 
+Pasal 28 
+Bagi LJKNB yang telah memperoleh izin usaha sebelum 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+ini 
+diundangkan, 
+ketentuan sanksi administratif sebagaimana dimaksud dalam 
+Pasal 26 dinyatakan berlaku 1 (satu) tahun sejak Peraturan 
+Otoritas Jasa Keuangan ini diundangkan. 
+ 
+BAB XII 
+KETENTUAN PENUTUP 
+ 
+Pasal 29 
+(1) 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku, Peraturan Otoritas Jasa Keuangan Nomor 
+1/POJK.05/2015 tentang Penerapan Manajemen Risiko 
+Bagi Lembaga Jasa Keuangan Non-Bank (Lembaran 
+Negara Republik Indonesia Tahun 2015 Nomor 69, 
+Tambahan Lembaran Negara Republik Indonesia Nomor 
+5682), dicabut dan dinyatakan tidak berlaku. 
+(2) 
+Peraturan pelaksanaan dari Peraturan Otoritas Jasa 
+Keuangan Nomor 1/POJK.05/2015 tentang Penerapan 
+Manajemen Risiko Bagi Lembaga Jasa Keuangan Non-
+Bank 
+dinyatakan 
+tetap 
+berlaku 
+sepanjang 
+tidak 
+bertentangan dengan Peraturan Otoritas Jasa Keuangan 
+ini. 
+ 
+Pasal 30 
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada 
+tanggal diundangkan. 
+ 
+ 
+
+
+=== Halaman 22 ===
+- 22 -  
+ 
+Salinan ini sesuai dengan aslinya 
+Direktur Hukum 1 
+Departemen Hukum 
+ 
+ttd 
+ 
+Mufli Asmawidjaja 
+Agar 
+setiap 
+orang 
+mengetahuinya, 
+memerintahkan 
+pengundangan Peraturan Otoritas Jasa Keuangan ini dengan 
+penempatannya dalam Lembaran Negara Republik Indonesia. 
+ 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 28 Agustus 2020 
+ 
+KETUA DEWAN KOMISIONER 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA, 
+ 
+ 
+ 
+ 
+ 
+ttd 
+ 
+WIMBOH SANTOSO 
+ 
+Diundangkan di Jakarta  
+pada tanggal 2 September 2020 
+ 
+MENTERI HUKUM DAN HAK ASASI MANUSIA  
+REPUBLIK INDONESIA,  
+ 
+ttd 
+ 
+YASONNA H. LAOLY  
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2020 NOMOR 200
+
+
+=== Halaman 23 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PENJELASAN 
+ATAS 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 44 /POJK.05/2020 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI 
+LEMBAGA JASA KEUANGAN NONBANK 
+ 
+I. 
+UMUM 
+Dalam menghadapi perkembangan industri keuangan di Indonesia 
+yang dinamis LJKNB terus dihadapkan pada berbagai tantangan dan 
+Risiko. Agar usahanya dapat berjalan secara terus menerus (business 
+sustainability), LJKNB dituntut untuk dapat mengelola Risiko yang dapat 
+menyebabkan terganggunya business sustainability dan tujuan usaha  
+yang ingin dicapai. 
+Melalui penerapan Manajemen Risiko, LJKNB diharapkan dapat 
+mengidentifikasi, mengukur, mengendalikan, dan memantau Risiko yang 
+dihadapi dalam melakukan kegiatan usahanya dengan lebih baik. Upaya 
+penerapan Manajemen Risiko tersebut tidak hanya ditujukan bagi 
+kepentingan LJKNB, tetapi juga bagi kepentingan masyarakat yang 
+menggunakan jasa dan layanan dari LJKNB. Dengan demikian, LJKNB 
+dapat menjalankan kegiatan usaha sesuai dengan peraturan perundang-
+undangan serta standar, prinsip, dan praktik penyelenggaraan usaha 
+yang sehat, termasuk senantiasa dapat memenuhi kewajiban kepada 
+konsumen sesuai dengan yang diperjanjikan.  
+Otoritas 
+Jasa 
+Keuangan 
+telah 
+memiliki 
+ketentuan 
+mengenai 
+Manajemen Risiko sebagaimana diatur dalam Peraturan Otoritas Jasa 
+Keuangan Nomor 1/POJK.05/2015 tentang Penerapan Manajemen Risiko 
+bagi LJKNB. Selanjutnya, untuk meningkatkan kualitas penerapan 
+
+
+=== Halaman 24 ===
+- 2 - 
+Manajemen Risiko LJKNB, perlu dilakukan penggantian terhadap 
+ketentuan penerapan Manajemen Risiko bagi LJKNB. 
+Peraturan Otoritas Jasa Keuangan ini memuat pengaturan mengenai: 
+a. 
+ruang lingkup penerapan Manajemen Risiko; 
+b. 
+pengawasan aktif Direksi, Dewan Komisaris, dan Dewan Pengawas 
+Syariah; 
+c. 
+kebijakan dan prosedur Manajemen Risiko serta penetapan limit 
+Risiko; 
+d. 
+proses identifikasi, pengukuran, pengendalian, dan pemantauan 
+Risiko, serta sistem informasi Manajemen Risiko; 
+e. 
+sistem pengendalian internal; 
+f. 
+organisasi dan fungsi Manajemen Risiko; dan 
+g. 
+pengelolaan Risiko pengembangan atau perluasan kegiatan usaha. 
+ 
+II. 
+PASAL DEMI PASAL 
+ 
+Pasal 1 
+Cukup jelas. 
+ 
+Pasal 2 
+Cukup jelas. 
+ 
+Pasal 3 
+Ayat (1) 
+Penerapan Manajemen Risiko termasuk penerapan program anti 
+pencucian uang dan pencegahan pendanaan terorisme. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 4 
+Kompleksitas usaha antara lain keragaman dalam jenis transaksi, 
+produk atau jasa, dan jaringan usaha. 
+ 
+Pasal 5 
+Ayat (1) 
+Huruf a 
+Risiko Strategis timbul antara lain karena: 
+
+
+=== Halaman 25 ===
+- 3 - 
+a. 
+LJKNB menetapkan strategi yang kurang sejalan 
+dengan visi dan misi LJKNB; 
+b. 
+LJKNB  melakukan analisis lingkungan strategis yang 
+tidak komprehensif;  
+c. 
+terdapat ketidaksesuaian rencana strategis (strategic 
+plan) antar level strategis; dan  
+d. 
+kegagalan 
+dalam 
+mengantisipasi 
+perubahan 
+lingkungan 
+bisnis 
+seperti 
+perubahan 
+teknologi, 
+perubahan kondisi ekonomi makro, kompetisi di pasar, 
+dan perubahan kebijakan otoritas terkait. 
+Huruf b 
+Risiko Operasional pada perusahaan asuransi, perusahaan 
+reasuransi, 
+dan 
+dana 
+pensiun 
+pemberi 
+kerja 
+yang 
+menyelenggarakan 
+program 
+pensiun 
+manfaat 
+pasti 
+termasuk juga risiko yang timbul dari ketidakcukupan 
+liabilitas yang disebabkan kelemahan proses penetapan 
+asumsi aktuaria dan/atau ketidakmampuan aktuaris dalam 
+menetapkan asumsi aktuaria yang sesuai dengan kondisi 
+yang dihadapi. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Contoh dari Risiko Kredit, antara lain risiko konsentrasi 
+kredit, counterparty credit risk, dan settlement risk.  
+Risiko konsentrasi kredit merupakan Risiko yang timbul 
+akibat terkonsentrasinya penyediaan dana kepada 1 (satu) 
+pihak atau sekelompok pihak, industri, sektor, dan/atau 
+area geografis tertentu yang berpotensi menimbulkan 
+kerugian 
+cukup 
+besar 
+yang 
+dapat 
+mengancam 
+kelangsungan usaha LJKNB. 
+Counterparty credit risk merupakan Risiko yang timbul 
+akibat terjadinya kegagalan pihak lawan dalam memenuhi 
+kewajibannya dan timbul dari jenis transaksi yang memiliki 
+karakteristik tertentu, misalnya transaksi yang dipengaruhi 
+oleh pergerakan nilai wajar atau nilai pasar. 
+Settlement risk merupakan Risiko yang timbul akibat 
+kegagalan penyerahan kas dan/atau instrumen keuangan 
+
+
+=== Halaman 26 ===
+- 4 - 
+pada tanggal penyelesaian (settlement date) yang telah 
+disepakati dari transaksi penjualan dan/atau pembelian 
+instrumen keuangan. 
+Huruf e 
+Risiko Pasar antara lain Risiko suku bunga, Risiko nilai 
+tukar, Risiko komoditas, dan Risiko ekuitas. 
+Huruf f 
+Risiko Likuiditas pada dana pensiun pemberi kerja yang 
+menyelenggarakan 
+program 
+pensiun 
+manfaat 
+pasti 
+termasuk juga risiko yang timbul dari ketidakmampuan 
+dana pensiun menyediakan aset untuk mendanai liabilitas 
+akibat ketidakcukupan penetapan iuran. 
+Huruf g 
+Risiko Hukum timbul antara lain karena ketiadaan 
+peraturan perundang-undangan yang mendukung atau 
+kelemahan perikatan seperti tidak dipenuhinya syarat 
+sahnya kontrak atau pengikatan agunan yang tidak 
+sempurna. 
+Huruf h 
+Cukup jelas. 
+Huruf i 
+Risiko 
+Reputasi 
+timbul 
+antara 
+lain 
+karena 
+adanya 
+pemberitaan media dan/atau rumor mengenai LJKNB yang 
+bersifat negatif, serta adanya strategi komunikasi LJKNB 
+yang kurang efektif. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 6 
+Yang dimaksud dengan “setiap jenjang jabatan” adalah Direksi, 
+Dewan Komisaris, Dewan Pengawas Syariah, dan semua jabatan lain 
+yang terkait dengan penerapan Manajemen Risiko. 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 27 ===
+- 5 - 
+Pasal 7 
+Ayat (1) 
+Huruf a 
+Termasuk dalam kebijakan dan strategi Manajemen Risiko 
+adalah penetapan dan persetujuan limit Risiko baik Risiko 
+secara keseluruhan (composite), per jenis Risiko, per 
+aktivitas 
+fungsional, 
+maupun 
+per 
+transaksi 
+yang 
+material/signifikan. 
+Huruf b 
+Cukup jelas.  
+Huruf c 
+Transaksi yang memerlukan persetujuan Direksi antara lain 
+transaksi yang telah melampaui kewenangan pejabat 
+LJKNB satu tingkat di bawah Direksi, sesuai dengan 
+kebijakan dan prosedur internal LJKNB yang berlaku. 
+Huruf d 
+Pengembangan budaya Manajemen Risiko antara lain 
+meliputi komunikasi yang memadai kepada seluruh jenjang 
+organisasi tentang pentingnya pengendalian internal yang 
+efektif. 
+Huruf e 
+Peningkatan kompetensi sumber daya manusia antara lain 
+melalui 
+program 
+pendidikan 
+dan 
+pelatihan 
+secara 
+berkesinambungan mengenai penerapan Manajemen Risiko. 
+Huruf f 
+Yang dimaksud dengan independen antara lain adanya 
+pemisahan fungsi antara fungsi Manajemen Risiko yang 
+melakukan identifikasi, pengukuran, pengendalian, dan 
+pemantauan Risiko dengan fungsi yang melakukan dan 
+menyelesaikan kegiatan bisnis dan operasional. 
+Huruf g 
+Kaji ulang secara berkala antara lain dimaksudkan untuk 
+mengantisipasi jika terjadi perubahan faktor eksternal dan 
+faktor internal. 
+Ayat (2) 
+Frekuensi 
+evaluasi 
+secara 
+berkala 
+disesuaikan 
+dengan 
+kebutuhan 
+LJKNB 
+dengan 
+memperhatikan 
+ukuran 
+dan 
+
+
+=== Halaman 28 ===
+- 6 - 
+kompleksitas LJKNB, dengan paling sedikit 1 (satu) kali dalam 1 
+(satu) tahun. 
+Dalam hal terdapat faktor internal dan/atau eksternal yang 
+memengaruhi kegiatan usaha LJKNB secara signifikan, LJKNB 
+dapat melakukan evaluasi kebijakan dan strategi Manajemen 
+Risiko di luar evaluasi secara berkala. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Risiko yang melekat dikenal dengan istilah inherent risk. 
+ 
+Pasal 8 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “transaksi yang memerlukan 
+persetujuan Dewan Komisaris” adalah kegiatan bisnis atau 
+operasional yang telah melampaui kewenangan Direksi 
+untuk 
+memutuskan 
+hal 
+dimaksud, 
+sesuai 
+dengan 
+kebijakan dan prosedur internal LJKNB yang berlaku.  
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 9 
+Cukup jelas. 
+ 
+Pasal 10 
+Kebijakan Manajemen Risiko ditetapkan antara lain dengan cara 
+menyusun strategi Manajemen Risiko untuk memastikan bahwa: 
+a. 
+LJKNB tetap mempertahankan eksposur Risiko sesuai kebijakan 
+dan prosedur internal LJKNB dan peraturan perundang-
+undangan serta ketentuan lain; dan 
+
+
+=== Halaman 29 ===
+- 7 - 
+b. 
+LJKNB dikelola oleh sumber daya manusia yang memiliki 
+pengetahuan, pengalaman, dan keahlian di bidang Manajemen 
+Risiko sesuai kompleksitas usaha LJKNB. 
+Penyusunan 
+strategi 
+Manajemen 
+Risiko 
+dilakukan 
+dengan 
+mempertimbangkan kondisi keuangan LJKNB, organisasi LJKNB, 
+dan Risiko yang timbul sebagai akibat perubahan faktor eksternal 
+dan faktor internal. 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Tingkat Risiko yang akan diambil (risk appetite) memperhatikan 
+pengalaman yang dimiliki LJKNB dalam mengelola Risiko serta 
+kemampuan pemodalan LJKNB dalam menyerap Risiko. 
+Toleransi Risiko (risk tolerance) merupakan potensi kerugian 
+yang dapat diserap oleh permodalan LJKNB. 
+Huruf d 
+Penetapan penilaian peringkat Risiko merupakan dasar bagi 
+LJKNB untuk mengategorikan peringkat Risiko LJKNB. 
+Peringkat Risiko bagi LJKNB dikategorikan menjadi 5 (lima) 
+peringkat, yaitu: 
+1. 
+peringkat 1; 
+2. 
+peringkat 2; 
+3. 
+peringkat 3; 
+4. 
+peringkat 4; dan 
+5. 
+peringkat 5. 
+Huruf e 
+Penyusunan rencana darurat dikenal dengan istilah contingency 
+plan.  
+Kondisi terburuk dikenal dengan istilah worst case scenario. 
+Huruf f 
+Cukup jelas. 
+ 
+Pasal 11 
+Ayat (1) 
+Cukup jelas. 
+
+
+=== Halaman 30 ===
+- 8 - 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Pengertian secara berkala paling sedikit 1 (satu) kali dalam 
+1 (satu) tahun atau frekuensi yang lebih tinggi, sesuai jenis 
+Risiko, kebutuhan, dan perkembangan LJKNB. 
+Huruf c 
+Yang dimaksud dengan dokumentasi secara memadai 
+adalah 
+dokumentasi 
+yang 
+tertulis, 
+lengkap, 
+dan 
+memudahkan untuk dilakukan jejak audit (audit trail) 
+untuk keperluan pengendalian internal LJKNB. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 12 
+Ayat (1) 
+Yang dimaksud dengan “faktor Risiko (risk factors)” adalah 
+berbagai parameter yang memengaruhi eksposur Risiko. 
+Yang dimaksud dengan “faktor Risiko (risk factors) yang bersifat 
+material” adalah faktor Risiko baik kuantitatif maupun kualitatif 
+yang berpengaruh secara signifikan terhadap kondisi keuangan 
+LJKNB. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “informatif” antara lain mudah 
+dipahami. 
+Huruf c 
+Yang dimaksud dengan “memiliki kompetensi di bidang 
+Manajemen Risiko” antara lain memiliki sertifikat keahlian 
+dan bukti telah mengikuti pelatihan di bidang manajemen 
+risiko.  
+ 
+ 
+ 
+
+
+=== Halaman 31 ===
+- 9 - 
+Pasal 13 
+Ayat (1) 
+Proses identifikasi Risiko antara lain dapat didasarkan pada 
+pengalaman kerugian LJKNB yang pernah terjadi. 
+Ayat (2) 
+Untuk 
+melaksanakan 
+pengukuran 
+Risiko, 
+LJKNB 
+dapat 
+menggunakan berbagai pendekatan, baik kualitatif maupun 
+kuantitatif, disesuaikan dengan tujuan usaha, dan kompleksitas 
+usaha LJKNB. 
+Huruf a 
+Pengertian secara berkala paling sedikit 1 (satu) kali dalam 
+6 (enam) bulan atau frekuensi yang lebih tinggi, sesuai 
+dengan perkembangan usaha LJKNB dan kondisi eksternal 
+yang langsung memengaruhi kondisi LJKNB. 
+Huruf b 
+Yang dimaksud dengan “perubahan yang bersifat material” 
+adalah perubahan kegiatan usaha LJKNB dan faktor Risiko, 
+yang dapat memengaruhi kondisi keuangan LJKNB. 
+Ayat (3) 
+Pengendalian Risiko dapat dilakukan antara lain dengan cara 
+lindung nilai, metode mitigasi Risiko,  dan penambahan modal 
+untuk menyerap potensi kerugian. 
+Ayat (4) 
+Huruf a 
+Evaluasi terhadap eksposur Risiko dilakukan dengan cara 
+pemantauan dan pelaporan Risiko yang bersifat material 
+atau 
+yang 
+berdampak 
+kepada 
+kondisi 
+permodalan/pendanaan 
+LJKNB, 
+yang 
+antara 
+lain 
+didasarkan 
+atas 
+penilaian 
+potensi 
+Risiko 
+dengan 
+menggunakan historical trend. 
+Huruf b 
+Cukup jelas. 
+ 
+Pasal 14 
+Ayat (1) 
+Yang dimaksud dengan “memiliki kompetensi di bidang sistem 
+informasi Manajemen Risiko” antara lain memiliki sertifikat 
+
+
+=== Halaman 32 ===
+- 10 - 
+keahlian dan bukti telah mengikuti pelatihan di bidang sistem 
+informasi Manajemen Risiko.  
+Ayat (2) 
+Huruf a 
+Laporan 
+atau 
+informasi 
+eksposur 
+Risiko 
+mencakup 
+eksposur kuantitatif dan kualitatif, secara keseluruhan 
+(composite) maupun rincian per jenis Risiko dan per jenis 
+aktivitas fungsional. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Ayat (3) 
+Yang dimaksud dengan “secara rutin” adalah frekuensi Laporan 
+atau informasi yang disampaikan kepada Direksi disesuaikan 
+dengan kebutuhan LJKNB.  
+ 
+Pasal 15 
+Cukup jelas. 
+ 
+Pasal 16 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Informasi keuangan dan manajemen yang lengkap, akurat, 
+tepat guna, dan tepat waktu diperlukan dalam rangka 
+pengambilan 
+keputusan 
+yang 
+tepat 
+dan 
+dapat 
+dipertanggungjawabkan, serta dikomunikasikan kepada 
+pihak yang berkepentingan. 
+ 
+ 
+ 
+
+
+=== Halaman 33 ===
+- 11 - 
+Huruf d 
+Efektivitas 
+dan 
+efisiensi 
+dalam 
+kegiatan 
+bisnis 
+dan 
+operasional antara lain diperlukan untuk melindungi aset 
+dan sumber daya LJKNB lainnya dari Risiko terkait. 
+Huruf e 
+Efektivitas budaya Risiko (risk culture) dimaksudkan untuk 
+mengidentifikasi kelemahan dan penyimpangan secara lebih 
+dini dan menilai kembali kewajaran kebijakan dan prosedur 
+yang ada pada LJKNB secara berkesinambungan. 
+ 
+Pasal 17 
+Cukup jelas. 
+ 
+Pasal 18 
+Huruf a 
+Komite Manajemen Risiko harus bersifat nonstruktural. 
+Huruf b 
+Cukup jelas. 
+ 
+Pasal 19 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “pejabat eksekutif terkait” adalah 
+pejabat yang bertanggung jawab langsung kepada Direksi 
+atau mempunyai pengaruh yang signifikan terhadap 
+kebijakan dan/atau operasional LJKNB yang terkait dengan 
+penerapan Manajemen Risiko, antara lain kepala divisi, 
+kepala kantor, kepala satuan kerja manajemen risiko, 
+kepala satuan kerja kepatuhan, dan kepala satuan kerja 
+audit internal. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Huruf a 
+Cukup jelas. 
+
+
+=== Halaman 34 ===
+- 12 - 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Termasuk dalam keputusan bisnis yang menyimpang dari 
+prosedur normal antara lain pelampauan ekspansi usaha 
+yang signifikan dibandingkan rencana bisnis LJKNB dan 
+pengambilan posisi atau eksposur Risiko yang menyimpang 
+dari 
+limit 
+yang 
+telah 
+ditetapkan 
+dan 
+melampaui 
+kemampuan pemodalan LJKNB dalam menyerap Risiko. 
+ 
+Pasal 20 
+Ayat (1) 
+LJKNB menentukan struktur organisasi yang tepat dan sesuai 
+dengan kondisi LJKNB, termasuk kemampuan keuangan dan 
+sumber daya manusia. 
+Ayat (2) 
+Pengertian independen antara lain tercermin dari adanya: 
+a. 
+pemisahan fungsi dan tugas antara fungsi Manajemen 
+Risiko dengan fungsi bisnis dan operasional (risk-taking 
+function) dan fungsi pengendalian internal; dan 
+b. 
+proses pengambilan keputusan yang tidak memihak atau 
+menguntungkan fungsi bisnis dan operasional tertentu atau 
+mengabaikan fungsi operasional lainnya. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Wewenang dan tanggung jawab fungsi Manajemen Risiko 
+disesuaikan dengan tujuan usaha dan kompleksitas usaha 
+LJKNB. 
+Huruf a 
+Identifikasi Risiko termasuk berkoordinasi dengan seluruh 
+satuan kerja yang terdapat dalam LJKNB. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+ 
+
+
+=== Halaman 35 ===
+- 13 - 
+Huruf d 
+Risiko secara keseluruhan yang dikenal dengan istilah 
+“composite risk” adalah Risiko yang dihadapi oleh LJKNB 
+dengan memperhitungkan semua jenis Risiko pada LJKNB 
+tersebut. 
+Pengujian dengan menggunakan asumsi kondisi tidak 
+normal yang dikenal dengan istilah “stress testing” adalah 
+pengujian atas posisi Risiko dengan menggunakan beberapa 
+asumsi kondisi tidak normal untuk mengetahui dampak 
+kondisi tidak normal tersebut terhadap posisi risiko pada 
+LJKNB. 
+Pengujian dengan menggunakan data historis yang dikenal 
+dengan istilah “back testing” adalah pengujian atas posisi 
+Risiko 
+dengan 
+menggunakan 
+data 
+historis 
+untuk 
+mengetahui efektivitas Manajemen Risiko. 
+Huruf e 
+Kaji ulang antara lain dilakukan berdasarkan temuan audit 
+internal 
+dan/atau 
+perkembangan 
+praktek-praktek 
+Manajemen Risiko yang berlaku secara internasional. 
+Huruf f 
+Termasuk dalam kajian tersebut antara lain penilaian 
+kemampuan LJKNB untuk melakukan pengembangan atau 
+perluasan kegiatan usaha dan kajian usulan perubahan 
+sistem dan prosedur. 
+Huruf g 
+Model untuk keperluan internal dikenal dengan istilah 
+internal model. 
+Huruf h 
+Rekomendasi antara lain memuat rekomendasi yang terkait 
+dengan besaran atau maksimum eksposur Risiko yang 
+wajib dipelihara oleh LJKNB. 
+Huruf i 
+Profil Risiko merupakan gambaran secara menyeluruh atas 
+besarnya potensi Risiko yang melekat pada seluruh 
+portofolio atau eksposur LJKNB. 
+Frekuensi penyampaian laporan dapat ditingkatkan dalam 
+hal kondisi pasar berubah dengan cepat. 
+
+
+=== Halaman 36 ===
+- 14 - 
+Pasal 21 
+Frekuensi penyampaian informasi eksposur Risiko disesuaikan 
+dengan karakteristik jenis Risiko. 
+ 
+Pasal 22 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Masa uji coba dimaksudkan untuk memastikan bahwa 
+metode pengukuran dan pemantauan Risiko telah teruji. 
+Huruf d 
+Sistem informasi akuntansi paling sedikit menggambarkan 
+profil Risiko dan tingkat keuntungan maupun kerugian 
+untuk pengembangan atau perluasan kegiatan usaha 
+secara akurat. 
+Huruf e 
+Analisis aspek hukum mencakup kemungkinan adanya 
+Risiko Hukum yang ditimbulkan oleh pengembangan atau 
+perluasan 
+kegiatan 
+usaha 
+serta 
+kesesuaian 
+dengan 
+ketentuan dan peraturan perundang-undangan. 
+Huruf f 
+Aspek-aspek dalam menerapkan transparansi informasi 
+kepada konsumen memperhatikan paling sedikit: 
+1. 
+informasi yang disampaikan lengkap, benar, dan tidak 
+menyesatkan konsumen; 
+2. 
+informasi yang berimbang antara potensi manfaat yang 
+mungkin diperoleh dengan Risiko yang mungkin 
+timbul bagi konsumen; dan 
+3. 
+informasi yang disampaikan tidak menyamarkan, 
+mengurangi, atau menutupi hal-hal yang penting 
+terkait dengan Risiko yang mungkin timbul. 
+ 
+
+
+=== Halaman 37 ===
+- 15 - 
+Ayat (3) 
+Huruf a 
+Termasuk 
+dalam 
+kriteria 
+tidak 
+pernah 
+dilakukan 
+sebelumnya adalah kegiatan usaha yang telah dilakukan 
+oleh LJKNB lain namun belum pernah dilakukan oleh 
+LJKNB yang bersangkutan, dengan mengacu kepada 
+ketentuan peraturan perundang-undangan masing-masing 
+LJKNB. 
+Huruf b 
+Cukup jelas. 
+ 
+Pasal 23 
+Termasuk dalam kategori tindakan menyetujui adalah mengetahui 
+namun tidak melarang atau membiarkan terjadinya kegiatan yang 
+bukan merupakan kegiatan usaha LJKNB dengan menggunakan 
+sarana atau fasilitas LJKNB oleh Direksi, Dewan Komisaris, Dewan 
+Pengawas Syariah, dan/atau pegawai. 
+ 
+Pasal 24 
+Cukup jelas. 
+ 
+Pasal 25 
+Cukup jelas. 
+ 
+Pasal 26 
+Cukup jelas. 
+ 
+Pasal 27 
+Huruf a 
+Yang dimaksud dengan “tingkat kesehatan LJKNB” adalah 
+tingkat kesehatan sebagaimana dimaksud dalam Peraturan 
+Otoritas Jasa Keuangan mengenai Penilaian Tingkat Kesehatan 
+Lembaga Jasa Keuangan Nonbank. 
+Huruf b 
+Yang dimaksud dengan “pihak utama LJKNB” adalah pihak 
+utama sebagaimana dimaksud dalam Peraturan Otoritas Jasa 
+
+
+=== Halaman 38 ===
+- 16 - 
+Keuangan mengenai Penilaian Kemampuan dan Kepatutan bagi 
+Pihak Utama Lembaga Jasa Keuangan. 
+ 
+Pasal 28 
+Cukup jelas. 
+ 
+Pasal 29 
+Cukup jelas. 
+ 
+Pasal 30 
+Cukup jelas. 
+  
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6552 
+ 
+
+

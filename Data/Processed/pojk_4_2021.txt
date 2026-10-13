@@ -1,0 +1,4104 @@
+=== Halaman 1 ===
+ 
+ 
+ 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+ 
+ 
+SALINAN 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 4 /POJK.05/2021 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO DALAM PENGGUNAAN  
+TEKNOLOGI INFORMASI OLEH LEMBAGA JASA KEUANGAN NONBANK 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN, 
+ 
+ 
+Menimbang 
+: a. 
+bahwa 
+untuk 
+melaksanakan 
+kewenangan 
+tugas 
+pengaturan dan pengawasan di sektor lembaga jasa 
+keuangan nonbank sebagaimana dimaksud dalam Pasal 
+8 dan Pasal 9 Undang-Undang Nomor 21 Tahun 2011 
+tentang Otoritas Jasa Keuangan, Otoritas Jasa Keuangan 
+mempunyai 
+wewenang 
+menetapkan 
+peraturan 
+perundang-undangan 
+yang 
+mengatur 
+lembaga 
+jasa 
+keuangan nonbank; 
+ 
+ 
+b. 
+bahwa 
+pemanfaatan 
+teknologi 
+informasi 
+dapat 
+meningkatkan 
+efektivitas 
+dan 
+efisiensi 
+kegiatan 
+operasional 
+dan 
+kualitas 
+pelayanan 
+lembaga 
+jasa 
+keuangan nonbank kepada konsumen, tetapi pada saat 
+yang bersamaan dapat meningkatkan risiko bagi lembaga 
+jasa 
+keuangan 
+nonbank 
+sehingga 
+perlu 
+adanya 
+penerapan manajemen risiko teknologi informasi;  
+ 
+
+
+=== Halaman 2 ===
+- 2 - 
+ 
+ 
+ 
+c. 
+bahwa untuk integrasi pengaturan mengenai manajemen 
+risiko teknologi informasi yang berlaku bagi lembaga jasa 
+keuangan 
+nonbank, 
+perlu 
+dilakukan 
+pengaturan 
+mengenai manajemen risiko teknologi informasi;  
+ 
+ 
+d. 
+bahwa 
+berdasarkan 
+pertimbangan 
+sebagaimana 
+dimaksud dalam huruf a, huruf b, dan huruf c, perlu 
+menetapkan Peraturan Otoritas Jasa Keuangan tentang 
+Penerapan 
+Manajemen 
+Risiko 
+dalam 
+Penggunaan 
+Teknologi Informasi oleh Lembaga Jasa Keuangan 
+Nonbank; 
+ 
+Mengingat 
+: 1. 
+Undang-Undang Nomor 11 Tahun 1992 tentang Dana 
+Pensiun (Lembaran Negara Republik Indonesia Tahun 
+1992 Nomor 37, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 3477); 
+ 
+ 
+2. 
+Undang-Undang Nomor 2 Tahun 2009 tentang Lembaga 
+Pembiayaan 
+Ekspor 
+Indonesia 
+(Lembaran 
+Negara 
+Republik Indonesia Tahun 2009 Nomor 2, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 4957); 
+ 
+ 
+3. 
+Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas 
+Jasa Keuangan (Lembaran Negara Republik Indonesia 
+Tahun 2011 Nomor 111, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5253); 
+ 
+ 
+4. 
+Undang-Undang Nomor 24 Tahun 2011 tentang Badan 
+Penyelenggara 
+Jaminan 
+Sosial 
+(Lembaran 
+Negara 
+Republik Indonesia Tahun 2011 Nomor 116, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 5256); 
+ 
+ 
+5. 
+Undang-Undang 
+Nomor 
+40 
+Tahun 
+2014 
+tentang 
+Perasuransian (Lembaran Negara Republik Indonesia 
+Tahun 2014 Nomor 337, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5618);  
+ 
+ 
+6. 
+Undang-Undang 
+Nomor 
+1 
+Tahun 
+2016 
+tentang 
+Penjaminan (Lembaran Negara Republik Indonesia Tahun 
+2016 Nomor 9, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 5835); 
+ 
+ 
+
+
+=== Halaman 3 ===
+- 3 - 
+ 
+MEMUTUSKAN: 
+Menetapkan : PERATURAN 
+OTORITAS 
+JASA 
+KEUANGAN 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO DALAM PENGGUNAAN 
+TEKNOLOGI INFORMASI OLEH LEMBAGA JASA KEUANGAN 
+NONBANK. 
+ 
+BAB I 
+KETENTUAN UMUM 
+ 
+Pasal 1 
+Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud 
+dengan: 
+1. 
+Lembaga Jasa Keuangan Nonbank yang selanjutnya 
+disebut LJKNB adalah lembaga yang melaksanakan 
+kegiatan 
+di 
+sektor 
+perasuransian, 
+dana 
+pensiun, 
+lembaga pembiayaan, dan lembaga jasa keuangan 
+lainnya. 
+2. 
+Teknologi 
+Informasi 
+adalah 
+suatu 
+teknik 
+untuk 
+mengumpulkan, menyiapkan, menyimpan, memproses, 
+mengumumkan, menganalisis, dan/atau menyebarkan 
+informasi.  
+3. 
+Layanan Keuangan Elektronik adalah layanan bagi 
+konsumen untuk memperoleh informasi, melakukan 
+komunikasi, 
+dan 
+melakukan 
+transaksi 
+keuangan 
+melalui media elektronik. 
+4. 
+Pemrosesan Transaksi Berbasis Teknologi Informasi 
+adalah 
+kegiatan 
+berupa 
+penambahan, 
+perubahan, 
+penghapusan, dan/atau otorisasi data yang dilakukan 
+pada sistem aplikasi yang digunakan untuk memproses 
+transaksi. 
+5. 
+Sistem Elektronik adalah serangkaian perangkat dan 
+prosedur elektronik yang berfungsi mempersiapkan, 
+mengumpulkan, mengolah, menganalisis, menyimpan, 
+menampilkan, mengumumkan, mengirimkan, dan/atau 
+menyebarkan informasi elektronik. 
+ 
+ 
+
+
+=== Halaman 4 ===
+- 4 - 
+ 
+6. 
+Pusat Data adalah suatu fasilitas yang digunakan 
+untuk menempatkan Sistem Elektronik dan komponen 
+terkaitnya untuk keperluan penempatan, penyimpanan, 
+dan pengolahan data. 
+7. 
+Pusat Pemulihan Bencana adalah suatu fasilitas yang 
+digunakan untuk memulihkan kembali data atau 
+informasi serta fungsi penting Sistem Elektronik yang 
+terganggu atau rusak akibat terjadinya bencana yang 
+disebabkan oleh alam atau manusia. 
+8. 
+Pangkalan Data adalah sekumpulan data komprehensif 
+dan disusun secara sistematis, dapat diakses oleh 
+pengguna sesuai wewenang masing-masing dan dikelola 
+oleh administrator Pangkalan Data. 
+9. 
+Rencana Pemulihan Bencana adalah dokumen yang 
+berisikan rencana dan langkah untuk menggantikan 
+dan/atau memulihkan kembali akses data, perangkat 
+keras dan perangkat lunak yang diperlukan, agar 
+LJKNB dapat menjalankan kegiatan operasional bisnis 
+yang 
+kritikal 
+setelah 
+adanya 
+gangguan 
+dan/atau 
+bencana. 
+10. Direksi adalah organ perseroan yang berwenang dan 
+bertanggung jawab penuh atas pengurusan perseroan 
+untuk kepentingan perseroan, sesuai dengan maksud 
+dan tujuan perseroan serta mewakili perseroan, baik di 
+dalam maupun di luar pengadilan sesuai dengan 
+ketentuan anggaran dasar bagi LJKNB yang berbentuk 
+badan hukum perseroan terbatas atau yang setara 
+dengan Direksi bagi LJKNB yang berbentuk badan 
+hukum 
+koperasi, 
+usaha 
+bersama, 
+dana 
+pensiun, 
+lembaga 
+pembiayaan 
+ekspor 
+Indonesia, 
+badan 
+penyelenggara 
+jaminan 
+sosial, 
+atau 
+badan 
+usaha 
+perseroan komanditer. 
+11. Dewan Komisaris adalah organ perseroan yang bertugas 
+melakukan pengawasan secara umum dan/atau khusus 
+sesuai dengan anggaran dasar serta memberi nasihat 
+kepada Direksi bagi LJKNB yang berbentuk badan 
+hukum perseroan terbatas atau yang setara dengan 
+
+
+=== Halaman 5 ===
+- 5 - 
+ 
+Dewan Komisaris bagi LJKNB yang berbentuk badan 
+hukum 
+koperasi, 
+usaha 
+bersama, 
+dana 
+pensiun, 
+lembaga 
+pembiayaan 
+ekspor 
+Indonesia, 
+badan 
+penyelenggara 
+jaminan 
+sosial, 
+atau 
+badan 
+usaha 
+perseroan komanditer. 
+ 
+Pasal 2  
+LJKNB sebagaimana dimaksud dalam Pasal 1 angka 1 
+meliputi: 
+a. 
+perusahaan perasuransian, yang terdiri atas: 
+1. 
+perusahaan asuransi; 
+2. 
+perusahaan reasuransi; 
+3. 
+perusahaan asuransi syariah; 
+4. 
+perusahaan reasuransi syariah; 
+5. 
+perusahaan pialang asuransi;  
+6. 
+perusahaan pialang reasuransi; dan 
+7. 
+perusahaan penilai kerugian asuransi, 
+sebagaimana dimaksud dalam peraturan perundang-
+undangan mengenai perasuransian;  
+b. 
+dana pensiun sebagaimana dimaksud dalam peraturan 
+perundang-undangan mengenai dana pensiun; 
+c. 
+lembaga pembiayaan, terdiri atas:  
+1. 
+perusahaan pembiayaan;  
+2. 
+perusahaan pembiayaan syariah; 
+3. 
+perusahaan modal ventura; 
+4. 
+perusahaan modal ventura syariah; dan  
+5. 
+perusahaan pembiayaan infrastruktur, 
+sebagaimana dimaksud dalam peraturan perundang-
+undangan mengenai lembaga pembiayaan;  
+d. 
+lembaga jasa keuangan lainnya, terdiri atas: 
+1. 
+perusahaan 
+pergadaian 
+sebagaimana 
+dimaksud 
+dalam peraturan perundang-undangan mengenai 
+pergadaian; 
+2. 
+lembaga penjamin, terdiri atas:  
+a) 
+perusahaan penjaminan;  
+b) 
+perusahaan penjaminan syariah; 
+c) 
+perusahaan penjaminan ulang; dan 
+
+
+=== Halaman 6 ===
+- 6 - 
+ 
+d) 
+perusahaan penjaminan ulang syariah,  
+sebagaimana 
+dimaksud 
+dalam 
+peraturan 
+perundang-undangan mengenai penjaminan; 
+3. 
+penyelenggara layanan pinjam meminjam uang 
+berbasis teknologi informasi sebagaimana dimaksud 
+dalam peraturan perundang-undangan mengenai 
+layanan pinjam meminjam uang berbasis teknologi 
+informasi; 
+4. 
+lembaga pembiayaan ekspor Indonesia sebagaimana 
+dimaksud dalam peraturan perundang-undangan 
+mengenai lembaga pembiayaan ekspor Indonesia;  
+5. 
+perusahaan 
+pembiayaan 
+sekunder 
+perumahan 
+sebagaimana 
+dimaksud 
+dalam 
+peraturan 
+perundang-undangan 
+mengenai 
+perusahaan 
+pembiayaan sekunder perumahan; 
+6. 
+badan penyelenggara jaminan sosial sebagaimana 
+dimaksud dalam peraturan perundang-undangan 
+mengenai badan penyelenggara jaminan sosial; dan 
+7. 
+PT 
+Permodalan 
+Nasional 
+Madani 
+(Persero) 
+sebagaimana 
+dimaksud 
+dalam 
+peraturan 
+perundang-undangan 
+mengenai 
+PT 
+Permodalan 
+Nasional Madani (Persero), 
+yang 
+menggunakan 
+Teknologi 
+Informasi 
+dalam 
+penyelenggaraan usaha. 
+ 
+BAB II  
+RUANG LINGKUP MANAJEMEN RISIKO  
+TEKNOLOGI INFORMASI 
+ 
+Pasal 3  
+(1) 
+LJKNB wajib menerapkan manajemen risiko secara 
+efektif dalam penggunaan Teknologi Informasi.   
+(2) 
+Penerapan manajemen risiko sebagaimana dimaksud 
+pada ayat (1) mencakup paling sedikit: 
+a. 
+pengawasan aktif Direksi dan Dewan Komisaris;  
+b. 
+kecukupan kebijakan dan prosedur penggunaan 
+Teknologi Informasi; 
+
+
+=== Halaman 7 ===
+- 7 - 
+ 
+c. 
+kecukupan 
+proses 
+identifikasi, 
+pengukuran, 
+pengendalian, dan pemantauan risiko penggunaan 
+Teknologi Informasi; dan  
+d. 
+sistem 
+pengendalian 
+internal 
+atas 
+penggunaan 
+Teknologi Informasi. 
+(3) 
+Penerapan manajemen risiko sebagaimana dimaksud 
+pada ayat (1) dilakukan secara terintegrasi dalam setiap 
+tahapan penggunaan Teknologi Informasi sejak proses 
+perencanaan, pengadaan, pengembangan, operasional, 
+pemeliharaan hingga penghentian dan penghapusan 
+sumber daya Teknologi Informasi. 
+(4) 
+Penerapan 
+manajemen 
+risiko 
+dalam 
+penggunaan 
+Teknologi 
+Informasi 
+bagi 
+dana 
+pensiun 
+lembaga 
+keuangan dapat digabung dengan penerapan manajemen 
+risiko dalam penggunaan Teknologi Informasi pendiri. 
+ 
+Pasal 4  
+Penerapan manajemen risiko dalam penggunaan Teknologi 
+Informasi sebagaimana dimaksud dalam Pasal 3 wajib 
+disesuaikan dengan tujuan, kebijakan usaha, ukuran, dan 
+kompleksitas usaha LJKNB. 
+ 
+BAB III 
+PENGAWASAN AKTIF DIREKSI DAN DEWAN KOMISARIS 
+ 
+Pasal 5 
+LJKNB wajib menetapkan wewenang dan tanggung jawab 
+yang jelas dari Direksi, Dewan Komisaris, dan pejabat pada 
+setiap jenjang jabatan yang terkait dengan penggunaan 
+Teknologi Informasi. 
+ 
+Pasal 6 
+Wewenang 
+dan 
+tanggung 
+jawab 
+Direksi 
+sebagaimana 
+dimaksud dalam Pasal 5 mencakup paling sedikit: 
+a. 
+menetapkan rencana pengembangan Teknologi Informasi 
+dan kebijakan LJKNB terkait penggunaan Teknologi 
+Informasi; 
+
+
+=== Halaman 8 ===
+- 8 - 
+ 
+b. 
+menetapkan 
+kebijakan 
+dan 
+prosedur 
+terkait 
+penyelenggaraan Teknologi Informasi yang memadai dan 
+mengomunikasikannya secara efektif, baik pada satuan 
+kerja 
+penyelenggara 
+maupun 
+pengguna 
+Teknologi 
+Informasi; 
+c. 
+memastikan: 
+1. 
+Teknologi Informasi yang digunakan LJKNB dapat 
+mendukung 
+perkembangan 
+usaha 
+LJKNB, 
+pencapaian tujuan bisnis LJKNB dan kelangsungan 
+pelayanan terhadap konsumen LJKNB; 
+2. 
+kecukupan dan peningkatan kompetensi sumber 
+daya manusia yang terkait dengan penyelenggaraan 
+dan penggunaan Teknologi Informasi; 
+3. 
+ketersediaan 
+sistem 
+pengelolaan 
+pengamanan 
+informasi yang efektif dan dikomunikasikan kepada 
+satuan kerja pengguna dan penyelenggara Teknologi 
+Informasi; 
+4. 
+penerapan 
+proses 
+manajemen 
+risiko 
+dalam 
+penggunaan 
+Teknologi 
+Informasi 
+dilaksanakan 
+secara memadai dan efektif; 
+5. 
+kebijakan 
+dan 
+prosedur 
+Teknologi 
+Informasi 
+diterapkan 
+secara 
+efektif 
+pada 
+satuan 
+kerja 
+penyelenggara dan pengguna Teknologi Informasi; 
+6. 
+terdapat 
+sistem 
+pengukuran 
+kinerja 
+proses 
+penyelenggaraan Teknologi Informasi dapat paling 
+sedikit: 
+a) 
+mendukung 
+proses 
+pemantauan 
+terhadap 
+implementasi pengembangan dan pengadaan 
+Teknologi Informasi;  
+b) 
+mendukung           penyelesaian 
+proyek 
+pengembangan 
+dan 
+pengadaan 
+Teknologi 
+Informasi; 
+c) 
+mengoptimalkan pendayagunaan sumber daya 
+manusia 
+dan 
+investasi 
+pada 
+infrastruktur  
+Teknologi Informasi; dan  
+ 
+
+
+=== Halaman 9 ===
+- 9 - 
+ 
+d) 
+meningkatkan kinerja proses 
+penyelenggaraan 
+Teknologi 
+Informasi 
+dan 
+kualitas 
+layanan 
+penyampaian hasil proses kepada pengguna 
+Teknologi Informasi. 
+ 
+Pasal 7 
+Wewenang 
+dan 
+tanggung 
+jawab 
+Dewan 
+Komisaris 
+sebagaimana dimaksud dalam Pasal 5 mencakup paling 
+sedikit: 
+a. 
+mengevaluasi, mengarahkan, dan memantau rencana 
+pengembangan 
+Teknologi 
+Informasi 
+dan 
+kebijakan 
+LJKNB terkait penggunaan Teknologi Informasi; dan 
+b. 
+mengevaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+penerapan 
+manajemen 
+risiko 
+dalam 
+penggunaan 
+Teknologi Informasi. 
+ 
+Pasal 8 
+(1) 
+LJKNB 
+yang 
+memiliki 
+total 
+aset 
+lebih 
+dari 
+Rp1.000.000.000.000,00 (satu triliun rupiah) wajib 
+memiliki komite pengarah Teknologi Informasi. 
+(2) 
+Komite pengarah Teknologi Informasi sebagaimana 
+dimaksud pada ayat (1) bertanggung jawab memberikan 
+rekomendasi kepada Direksi terkait dengan paling 
+sedikit: 
+a. 
+rencana pengembangan Teknologi Informasi yang 
+sejalan dengan  kegiatan usaha LJKNB; 
+b. 
+perumusan kebijakan dan prosedur Teknologi 
+Informasi; 
+c. 
+kesesuaian 
+proyek 
+Teknologi 
+Informasi 
+yang 
+disetujui dengan rencana pengembangan Teknologi 
+Informasi; 
+d. 
+kesesuaian pelaksanaan proyek Teknologi Informasi 
+dengan proyek Teknologi Informasi yang  disetujui; 
+e. 
+kesesuaian Teknologi Informasi dengan kebutuhan 
+sistem informasi manajemen serta kebutuhan 
+kegiatan usaha LJKNB; 
+
+
+=== Halaman 10 ===
+- 10 - 
+ 
+f. 
+efektivitas mitigasi risiko atas investasi LJKNB 
+pada sektor Teknologi Informasi agar investasi 
+LJKNB 
+pada 
+sektor 
+Teknologi 
+Informasi  
+memberikan 
+kontribusi 
+terhadap 
+pencapaian 
+tujuan bisnis LJKNB; 
+g. 
+pemantauan atas kinerja Teknologi Informasi dan 
+upaya peningkatan kinerja Teknologi Informasi; 
+h. 
+upaya 
+penyelesaian 
+berbagai 
+masalah 
+terkait 
+Teknologi Informasi yang tidak dapat diselesaikan 
+oleh satuan kerja pengguna dan penyelenggara 
+Teknologi Informasi secara efektif, efisien, dan tepat 
+waktu; dan 
+i. 
+kecukupan dan alokasi sumber daya  Teknologi 
+Informasi yang dimiliki LJKNB. 
+(3) 
+Komite pengarah Teknologi Informasi sebagaimana 
+dimaksud pada ayat (1) beranggotakan paling sedikit: 
+a. 
+direktur 
+yang 
+membawahkan 
+satuan 
+kerja 
+penyelenggara Teknologi Informasi; 
+b. 
+direktur atau pejabat yang membawahkan fungsi 
+manajemen risiko; 
+c. 
+pejabat tertinggi yang membawahkan  satuan kerja 
+penyelenggara Teknologi Informasi; dan 
+d. 
+pejabat tertinggi yang membawahkan satuan kerja 
+pengguna Teknologi Informasi. 
+(4) 
+Perhitungan total aset sebagaimana dimaksud pada 
+ayat (1) menggunakan informasi total aset yang terdapat 
+dalam laporan berkala terkini yang disampaikan kepada 
+Otoritas Jasa Keuangan sesuai dengan ketentuan 
+peraturan Otoritas Jasa Keuangan mengenai laporan 
+bulanan dan/atau penyelenggaraan usaha masing–
+masing LJKNB pada saat pemberlakuan Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+ini 
+bagi 
+LJKNB 
+yang 
+bersangkutan. 
+(5) 
+Dalam hal terdapat penurunan aset, LJKNB tetap wajib 
+memenuhi ketentuan sebagaimana dimaksud pada ayat 
+(1). 
+ 
+
+
+=== Halaman 11 ===
+- 11 - 
+ 
+BAB IV 
+KECUKUPAN KEBIJAKAN DAN PROSEDUR PENGGUNAAN 
+TEKNOLOGI INFORMASI 
+ 
+Pasal 9 
+(1) 
+LJKNB 
+wajib 
+memiliki 
+kebijakan 
+dan 
+prosedur 
+penggunaan Teknologi Informasi sebagaimana dimaksud 
+dalam Pasal 3 ayat (2) huruf b. 
+(2) 
+LJKNB wajib menerapkan kebijakan dan prosedur 
+penggunaan Teknologi Informasi sebagaimana dimaksud 
+pada ayat (1) secara konsisten dan berkesinambungan. 
+(3) 
+Kebijakan dan prosedur penggunaan Teknologi Informasi 
+memuat aspek paling sedikit: 
+a. 
+manajemen; 
+b. 
+pengembangan dan pengadaan; 
+c. 
+operasional Teknologi Informasi; 
+d. 
+jaringan komunikasi; 
+e. 
+pengamanan informasi; 
+f. 
+Rencana Pemulihan Bencana; 
+g. 
+penggunaan 
+pihak 
+penyedia 
+jasa 
+Teknologi 
+Informasi; dan 
+h. 
+Layanan Keuangan Elektronik, bagi LJKNB yang 
+menyelenggarakan Layanan Keuangan Elektronik. 
+(4) 
+LJKNB wajib menetapkan limit risiko yang dapat 
+ditoleransi untuk memastikan aspek terkait Teknologi 
+Informasi sebagaimana dimaksud pada ayat (3) dapat 
+berjalan dengan optimal. 
+(5) 
+LJKNB wajib melakukan kaji ulang dan pengkinian atas 
+kebijakan dan prosedur sebagaimana dimaksud pada 
+ayat (2) secara berkala. 
+(6) 
+LJKNB wajib menetapkan jangka waktu kaji ulang dan 
+pengkinian atas kebijakan dan prosedur sebagaimana 
+dimaksud pada ayat (5) dalam kebijakan secara tertulis. 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 12 ===
+- 12 - 
+ 
+Pasal 10 
+(1) 
+LJKNB wajib menyampaikan rencana pengembangan 
+Teknologi Informasi yang mendukung rencana kegiatan 
+usaha LJKNB  kepada Otoritas Jasa Keuangan. 
+(2) 
+Rencana 
+pengembangan 
+Teknologi 
+Informasi 
+sebagaimana dimaksud pada ayat (1) merupakan bagian 
+dari kebijakan dan rencana manajemen  pada rencana 
+bisnis LJKNB. 
+(3) 
+Kewajiban 
+penyampaian 
+rencana 
+pengembangan 
+Teknologi Informasi sebagaimana dimaksud pada ayat (1) 
+hanya berlaku bagi LJKNB yang wajib menyampaikan 
+rencana bisnis kepada Otoritas Jasa Keuangan. 
+ 
+BAB V 
+KECUKUPAN PROSES IDENTIFIKASI, PENGUKURAN, 
+PENGENDALIAN, DAN  PEMANTAUAN RISIKO PENGGUNAAN 
+TEKNOLOGI INFORMASI 
+ 
+Pasal 11 
+(1) 
+LJKNB wajib memiliki kebijakan dan prosedur dalam 
+melakukan 
+proses 
+identifikasi, 
+pengukuran,  
+pengendalian, 
+dan 
+pemantauan 
+risiko 
+penggunaan 
+Teknologi Informasi sebagaimana dimaksud dalam Pasal 
+3 ayat (2) huruf c. 
+(2) 
+LJKNB 
+wajib 
+melakukan 
+identifikasi, 
+pengukuran,  
+pengendalian, 
+dan 
+pemantauan 
+risiko 
+penggunaan 
+Teknologi 
+Informasi 
+sesuai 
+dengan 
+kebijakan 
+dan 
+prosedur sebagaimana dimaksud pada ayat (1). 
+(3) 
+Proses identifikasi, pengukuran,  pengendalian, dan 
+pemantauan risiko penggunaan Teknologi Informasi 
+sebagaimana dimaksud pada ayat (2) dilakukan paling 
+sedikit terhadap aspek terkait Teknologi Informasi 
+sebagaimana dimaksud dalam Pasal 9 ayat (3). 
+(4) 
+Dalam hal LJKNB menggunakan pihak penyedia jasa 
+Teknologi Informasi, LJKNB wajib memastikan pihak 
+penyedia 
+jasa 
+Teknologi 
+Informasi 
+menerapkan 
+
+
+=== Halaman 13 ===
+- 13 - 
+ 
+manajemen risiko sebagaimana diatur dalam Peraturan 
+Otoritas Jasa Keuangan ini. 
+ 
+Pasal 12 
+(1) 
+Dalam melakukan pengembangan Teknologi Informasi, 
+LJKNB wajib melakukan langkah pengendalian untuk 
+menghasilkan sistem yang mendukung: 
+a.  
+pencapaian tujuan LJKNB; dan  
+b. 
+terjaganya kerahasiaan dan integrasi data.  
+(2) 
+Langkah pengendalian sebagaimana dimaksud pada ayat 
+(1) mencakup paling sedikit:  
+a. 
+menetapkan 
+dan 
+menerapkan 
+metodologi 
+dan 
+prosedur pengembangan dan pengadaan Teknologi 
+Informasi secara konsisten; 
+b. 
+menerapkan 
+manajemen 
+proyek 
+dalam 
+pengembangan dan pengadaan sistem; 
+c. 
+melakukan 
+uji 
+coba 
+secara 
+memadai 
+dalam 
+pengembangan 
+dan 
+pengadaan 
+suatu 
+sistem, 
+termasuk uji coba bersama satuan kerja pengguna, 
+untuk memastikan keakuratan dan berfungsinya 
+sistem sesuai kebutuhan pengguna serta kesesuaian 
+sistem yang satu dengan sistem yang lain; 
+d. 
+melakukan 
+dokumentasi 
+atas 
+pengembangan, 
+pengadaan, dan pemeliharaan sistem Teknologi 
+Informasi; 
+e. 
+memiliki manajemen perubahan sistem Teknologi 
+Informasi; 
+f. 
+memastikan sistem Teknologi Informasi LJKNB 
+mampu menampilkan kembali informasi secara 
+utuh; dan 
+g. 
+memastikan pembuatan perjanjian tertulis atas 
+perangkat 
+lunak 
+dalam 
+hal 
+perangkat 
+lunak 
+memengaruhi kelangsungan operasional LJKNB dan 
+dibuat oleh pihak lain. 
+ 
+ 
+ 
+
+
+=== Halaman 14 ===
+- 14 - 
+ 
+Pasal 13 
+LJKNB wajib memastikan kelangsungan dan kestabilan 
+operasional Teknologi Informasi serta memitigasi risiko yang 
+berpotensi dapat mengganggu kegiatan operasional LJKNB. 
+ 
+Pasal 14 
+LJKNB 
+wajib 
+menyediakan 
+jaringan 
+komunikasi 
+yang 
+memenuhi prinsip kerahasiaan, integritas, dan ketersediaan. 
+ 
+Pasal 15 
+Bagi LJKNB yang memiliki unit usaha syariah atau unit 
+syariah wajib memiliki sistem yang dapat menghasilkan 
+laporan terpisah bagi kegiatan unit usaha syariah atau unit 
+syariah. 
+ 
+Pasal 16 
+(1) 
+LJKNB wajib memiliki Rencana Pemulihan Bencana. 
+(2) 
+LJKNB wajib memastikan Rencana Pemulihan Bencana 
+sebagaimana dimaksud pada ayat (1) dapat dilaksanakan 
+secara efektif agar kelangsungan operasional LJKNB 
+tetap berjalan saat terjadi bencana dan/atau gangguan 
+pada sarana Teknologi Informasi yang digunakan LJKNB. 
+(3) 
+LJKNB 
+wajib 
+melakukan 
+uji 
+coba 
+atas 
+Rencana 
+Pemulihan Bencana  sebagaimana dimaksud pada ayat 
+(1) terhadap seluruh aplikasi inti dan infrastruktur yang 
+kritikal sesuai hasil analisis dampak secara berkala 
+dengan melibatkan satuan kerja  pengguna Teknologi 
+Informasi. 
+(4) 
+LJKNB wajib melakukan kaji ulang atas Rencana 
+Pemulihan Bencana  sebagaimana dimaksud pada ayat 
+(1) secara berkala. 
+(5) 
+LJKNB wajib menetapkan jangka waktu uji coba 
+sebagaimana dimaksud pada ayat (3) dan kaji ulang 
+sebagaimana dimaksud pada ayat (4) dalam kebijakan 
+secara tertulis. 
+ 
+ 
+
+
+=== Halaman 15 ===
+- 15 - 
+ 
+Pasal 17 
+LJKNB 
+wajib 
+memastikan 
+pengamanan 
+informasi 
+dilaksanakan secara efektif dengan memperhatikan 
+paling sedikit: 
+a. 
+pengamanan 
+informasi 
+yang 
+ditujukan 
+agar 
+informasi 
+yang 
+dikelola 
+terjaga 
+kerahasiaan, 
+integritas, dan ketersediaan secara efektif dan efisien 
+dengan 
+memperhatikan 
+ketentuan 
+peraturan 
+perundang-undangan; 
+b. 
+pengamanan informasi yang dilakukan terhadap 
+aspek teknologi, sumber daya manusia, dan proses 
+dalam penggunaan Teknologi Informasi; 
+c. 
+pengamanan informasi yang diterapkan berdasarkan 
+hasil penilaian terhadap risiko pada informasi yang 
+dimiliki LJKNB; dan 
+d. 
+ketersediaan manajemen penanganan insiden dalam 
+pengamanan Informasi. 
+ 
+BAB VI 
+SISTEM PENGENDALIAN INTERNAL ATAS PENGGUNAAN 
+TEKNOLOGI INFORMASI 
+ 
+Pasal 18 
+(1) 
+LJKNB wajib melaksanakan sistem pengendalian internal  
+sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf d 
+secara efektif terhadap seluruh aspek penggunaan 
+Teknologi Informasi. 
+(2) 
+Sistem pengendalian internal sebagaimana dimaksud 
+pada ayat (1) memuat paling sedikit: 
+a. 
+pengawasan oleh manajemen; 
+b. 
+identifikasi dan penilaian risiko; 
+c. 
+kegiatan pengendalian dan pemisahan fungsi; 
+d. 
+sistem informasi, sistem akuntansi, dan sistem 
+komunikasi; dan 
+e. 
+kegiatan pemantauan dan koreksi penyimpangan 
+yang dilakukan oleh: 
+
+
+=== Halaman 16 ===
+- 16 - 
+ 
+1. 
+satuan kerja penyelenggara dan pengguna 
+Teknologi Informasi; 
+2. 
+satuan kerja atau fungsi yang membawahkan 
+audit internal; dan/atau  
+3. 
+pihak lain. 
+(3) 
+Sistem 
+informasi, 
+sistem 
+akuntansi, 
+dan 
+sistem 
+komunikasi sebagaimana dimaksud pada ayat (2) huruf d 
+harus didukung oleh teknologi, sumber daya manusia, 
+dan struktur organisasi LJKNB yang memadai. 
+(4) 
+Kegiatan 
+pemantauan 
+dan 
+koreksi 
+penyimpangan 
+sebagaimana dimaksud pada ayat (2) huruf e paling 
+sedikit: 
+a. 
+kegiatan pemantauan secara terus menerus; 
+b. 
+pelaksanaan fungsi audit internal yang efektif dan 
+menyeluruh; dan 
+c. 
+perbaikan 
+terhadap 
+penyimpangan 
+yang 
+diidentifikasi oleh satuan kerja penyelenggara dan 
+pengguna Teknologi Informasi, satuan kerja atau 
+fungsi yang membawahkan audit internal, dan/atau 
+pihak lain. 
+ 
+Pasal 19 
+(1) 
+LJKNB wajib memastikan ketersediaan jejak audit atas 
+seluruh kegiatan penyelenggaraan Teknologi Informasi 
+untuk 
+keperluan 
+pengawasan, 
+penegakan 
+hukum, 
+penyelesaian 
+sengketa, 
+verifikasi, 
+pengujian, 
+dan 
+pemeriksaan lain dalam rangka pelaksanaan fungsi audit 
+internal sebagaimana dimaksud dalam Pasal 18 ayat (4) 
+huruf b. 
+(2) 
+Pelaksanaan fungsi audit internal sebagaimana dimaksud 
+dalam Pasal 18 ayat (4) huruf b dapat dilakukan oleh 
+auditor eksternal atau auditor internal grup LJKNB. 
+(3) 
+LJKNB wajib melaksanakan audit internal secara berkala 
+terhadap seluruh aspek dalam penyelenggaraan dan 
+penggunaan Teknologi Informasi sesuai hasil analisis 
+risiko Teknologi Informasi, prioritas, dan kebutuhan. 
+
+
+=== Halaman 17 ===
+- 17 - 
+ 
+(4) 
+LJKNB wajib menetapkan jangka waktu pelaksanaan 
+audit internal sebagaimana dimaksud pada ayat (3) 
+dalam kebijakan secara tertulis. 
+ 
+Pasal 20 
+(1) 
+LJKNB wajib memiliki pedoman audit internal atas 
+penggunaan Teknologi Informasi yang diselenggarakan 
+oleh LJKNB sendiri dan/atau oleh pihak penyedia jasa 
+Teknologi Informasi. 
+(2) 
+LJKNB wajib melakukan kaji ulang atas fungsi audit 
+internal dalam penggunaan Teknologi Informasi secara 
+berkala. 
+(3) 
+LJKNB wajib menetapkan jangka waktu kaji ulang 
+sebagaimana dimaksud pada ayat (2) dalam kebijakan 
+secara tertulis. 
+ 
+BAB VII 
+PENYELENGGARAAN TEKNOLOGI INFORMASI OLEH LJKNB 
+DAN/ATAU PIHAK PENYEDIA JASA TEKNOLOGI INFORMASI 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 21 
+(1) 
+Penyelenggaraan Teknologi Informasi oleh LJKNB dapat 
+dilakukan secara sendiri dan/atau menggunakan pihak 
+penyedia jasa Teknologi Informasi. 
+(2) 
+Dalam hal penyelenggaraan Teknologi Informasi LJKNB 
+dilakukan oleh pihak penyedia jasa Teknologi Informasi 
+sebagaimana dimaksud pada ayat (1), LJKNB wajib: 
+a. 
+bertanggung jawab atas penerapan manajemen 
+risiko;  
+b. 
+memiliki satuan kerja penyelenggara Teknologi 
+Informasi; 
+c. 
+melakukan pengawasan atas pelaksanaan kegiatan 
+LJKNB yang diselenggarakan oleh pihak penyedia 
+jasa Teknologi Informasi; 
+
+
+=== Halaman 18 ===
+- 18 - 
+ 
+d. 
+memilih pihak penyedia jasa Teknologi Informasi 
+berdasarkan analisis biaya dan manfaat  dengan 
+mengikutsertakan 
+satuan 
+kerja 
+penyelenggara 
+Teknologi Informasi; 
+e. 
+memantau dan 
+mengevaluasi keandalan pihak 
+penyedia jasa Teknologi Informasi secara berkala 
+yang menyangkut kinerja, reputasi penyedia jasa, 
+dan kelangsungan penyediaan layanan; 
+f. 
+memberikan akses kepada auditor internal, auditor 
+eksternal, auditor internal grup LJKNB, dan/atau 
+Otoritas Jasa Keuangan untuk memperoleh data dan 
+informasi setiap kali dibutuhkan; 
+g. 
+memberikan akses kepada Otoritas Jasa Keuangan 
+terhadap Pangkalan Data secara tepat waktu, baik 
+untuk data terkini maupun untuk data yang telah 
+lalu; dan 
+h. 
+memastikan 
+pihak 
+penyedia 
+jasa 
+Teknologi 
+Informasi: 
+1. 
+memiliki tenaga ahli yang memiliki keandalan 
+dengan didukung oleh sertifikat keahlian secara 
+akademis dan/atau secara profesional sesuai 
+dengan keperluan penyelenggaraan Teknologi 
+Informasi; 
+2. 
+menerapkan prinsip pengendalian Teknologi 
+Informasi secara memadai yang dibuktikan 
+dengan hasil audit yang dilakukan pihak 
+independen; 
+3. 
+menyediakan akses bagi: 
+a) 
+auditor internal LJKNB;  
+b) 
+auditor eksternal; 
+c) 
+auditor internal grup LJKNB; 
+d) 
+Otoritas Jasa Keuangan; dan/atau  
+e) 
+pihak lain yang sesuai dengan ketentuan 
+peraturan 
+perundang-undangan 
+berwenang untuk melakukan pemeriksaan, 
+
+
+=== Halaman 19 ===
+- 19 - 
+ 
+dalam rangka memperoleh data dan informasi 
+yang diperlukan secara tepat waktu setiap kali 
+dibutuhkan;  
+4. 
+menyatakan tidak berkeberatan dalam hal 
+Otoritas Jasa Keuangan dan/atau pihak lain 
+yang 
+sesuai 
+dengan 
+ketentuan 
+peraturan 
+perundang-undangan 
+berwenang 
+untuk 
+melakukan 
+pemeriksaan, 
+akan 
+melakukan 
+pemeriksaan terhadap kegiatan penyediaan jasa  
+Teknologi Informasi  yang diberikan; 
+5. 
+menjaga keamanan seluruh informasi termasuk 
+rahasia LJKNB dan data pribadi konsumen, 
+sebagai pihak terafiliasi; 
+6. 
+hanya dapat melakukan pengalihan sebagian 
+kegiatan (subkontrak) berdasarkan persetujuan 
+LJKNB 
+yang 
+dibuktikan 
+dengan 
+dokumen 
+tertulis; 
+7. 
+melaporkan kepada LJKNB setiap kejadian 
+kritis yang dapat mengakibatkan kerugian 
+keuangan 
+yang 
+signifikan 
+dan/atau 
+mengganggu kelancaran operasional LJKNB; 
+8. 
+menyediakan 
+Rencana 
+Pemulihan 
+Bencana 
+yang teruji dan memadai; 
+9. 
+bersedia 
+untuk 
+adanya 
+kemungkinan 
+penghentian perjanjian sebelum jangka waktu 
+perjanjian berakhir; 
+10. memenuhi 
+tingkat 
+layanan 
+sesuai 
+dengan 
+service level agreement antara LJKNB dan pihak 
+penyedia jasa Teknologi Informasi;  dan 
+11. memiliki standar prosedur operasional yang 
+jelas 
+dan 
+terukur 
+dalam 
+penyelenggaraan 
+bisnisnya. 
+(3) 
+Penggunaan pihak penyedia jasa Teknologi Informasi 
+sebagaimana dimaksud pada ayat (2) oleh LJKNB wajib 
+didasarkan pada perjanjian tertulis yang memuat paling 
+sedikit 
+kesediaan 
+pihak 
+penyedia 
+jasa 
+Teknologi 
+
+
+=== Halaman 20 ===
+- 20 - 
+ 
+Informasi untuk memenuhi ketentuan 
+sebagaimana 
+dimaksud pada ayat (2) huruf h.  
+(4) 
+LJKNB wajib melakukan proses seleksi dalam memilih 
+pihak 
+penyedia 
+jasa 
+Teknologi 
+Informasi 
+dengan 
+memperhatikan prinsip kehati-hatian, manajemen risiko, 
+dan didasarkan pada hubungan kerja sama secara wajar. 
+(5) 
+LJKNB wajib melakukan tindakan tertentu dalam hal 
+terdapat kondisi berupa: 
+a. 
+memburuknya kinerja penyelenggaraan Teknologi 
+Informasi oleh penyedia jasa Teknologi Informasi 
+yang dapat berdampak signifikan pada kegiatan 
+usaha LJKNB; 
+b. 
+pihak penyedia jasa Teknologi Informasi menjadi 
+insolven, dalam proses menuju likuidasi, atau 
+dipailitkan oleh pengadilan; 
+c. 
+terdapat pelanggaran oleh pihak penyedia jasa 
+Teknologi Informasi terhadap ketentuan rahasia 
+LJKNB dan kewajiban merahasiakan data pribadi 
+konsumen; dan/atau 
+d. 
+terdapat kondisi yang menyebabkan LJKNB tidak 
+dapat menyediakan data yang diperlukan untuk 
+pengawasan oleh Otoritas Jasa Keuangan. 
+(6) 
+Tindakan tertentu sebagaimana dimaksud pada ayat (5), 
+paling sedikit: 
+a. 
+melaporkan kepada Otoritas Jasa Keuangan paling 
+lambat 
+5 
+(lima) 
+hari 
+kerja 
+setelah 
+kondisi 
+sebagaimana dimaksud pada ayat (5) diketahui oleh 
+LJKNB; 
+b. 
+memutuskan tindak lanjut yang akan diambil untuk 
+mengatasi 
+permasalahan 
+termasuk 
+penghentian 
+penggunaan jasa dalam hal diperlukan; dan 
+c. 
+melaporkan kepada Otoritas Jasa Keuangan paling 
+lambat 10 (sepuluh) hari kerja setelah LJKNB 
+menghentikan 
+penggunaan 
+jasa 
+sebelum 
+berakhirnya jangka waktu perjanjian. 
+ 
+
+
+=== Halaman 21 ===
+- 21 - 
+ 
+(7) 
+Dalam hal rencana penggunaan pihak penyedia jasa 
+Teknologi Informasi menyebabkan atau diindikasikan 
+akan 
+menyebabkan 
+kesulitan 
+pengawasan 
+yang 
+dilakukan oleh Otoritas Jasa Keuangan, Otoritas Jasa 
+Keuangan dapat  menolak rencana penggunaan pihak 
+penyedia jasa Teknologi Informasi yang diajukan oleh 
+LJKNB. 
+(8) 
+Dalam hal penggunaan pihak penyedia jasa Teknologi 
+Informasi 
+menyebabkan 
+atau 
+diindikasikan 
+akan 
+menyebabkan kesulitan pengawasan yang dilakukan oleh 
+Otoritas Jasa Keuangan, Otoritas Jasa Keuangan dapat 
+meminta LJKNB untuk melakukan upaya perbaikan. 
+(9) 
+LJKNB wajib menyampaikan rencana tindak dalam 
+rangka upaya perbaikan sebagaimana dimaksud pada 
+ayat (8) paling lambat 20 (dua puluh) hari kerja sejak 
+tanggal surat permintaan dari Otoritas Jasa Keuangan. 
+(10) Dalam rangka pelaksanaan rencana tindak sebagaimana 
+dimaksud pada ayat (9), Otoritas Jasa Keuangan 
+memberikan jangka waktu paling lama 6 (enam) bulan 
+kepada LJKNB untuk melakukan upaya perbaikan. 
+(11) Apabila setelah jangka waktu sebagaimana dimaksud 
+pada ayat (10) LJKNB tidak dapat melakukan upaya 
+perbaikan, 
+Otoritas 
+Jasa 
+Keuangan 
+dapat 
+memerintahkan LJKNB untuk menghentikan kerja sama 
+dengan penyedia jasa Teknologi Informasi sebelum 
+berakhirnya jangka waktu perjanjian. 
+ 
+Pasal 22 
+(1) 
+LJKNB 
+yang 
+memiliki 
+total 
+aset 
+sampai 
+dengan 
+Rp500.000.000.000,00 (lima ratus miliar rupiah) wajib 
+melakukan rekam cadang data aktivitas yang diproses 
+menggunakan 
+Teknologi 
+Informasi, 
+yang 
+dilakukan 
+secara berkala. 
+(2) 
+LJKNB 
+yang 
+memiliki 
+total 
+aset 
+lebih 
+dari  
+Rp500.000.000.000,00 (lima ratus miliar rupiah) sampai 
+dengan Rp1.000.000.000.000,00 (satu triliun rupiah) 
+wajib: 
+
+
+=== Halaman 22 ===
+- 22 - 
+ 
+a. 
+memiliki Pusat Data; dan 
+b. 
+melakukan rekam cadang data aktivitas yang 
+diproses menggunakan Teknologi Informasi, yang 
+dilakukan secara berkala. 
+(3) 
+LJKNB wajib menetapkan jangka waktu rekam cadang 
+data aktivitas yang diproses menggunakan Teknologi 
+Informasi sebagaimana dimaksud pada ayat (1) dan ayat 
+(2) dalam kebijakan secara tertulis. 
+(4) 
+LJKNB: 
+a. 
+yang 
+memiliki 
+total 
+aset 
+lebih 
+dari  
+Rp1.000.000.000.000,00 
+(satu 
+triliun 
+rupiah); 
+dan/atau 
+b. 
+yang 
+mayoritas 
+penyelenggaraan 
+usahanya 
+dilakukan 
+dengan 
+menggunakan 
+Teknologi 
+Informasi, 
+wajib memiliki 
+Pusat 
+Data dan 
+Pusat 
+Pemulihan 
+Bencana. 
+(5) 
+Otoritas Jasa Keuangan berwenang meminta LJKNB: 
+a. 
+yang memenuhi kriteria sebagaimana dimaksud 
+pada ayat (1) untuk memiliki Pusat Data; dan 
+b. 
+yang memenuhi kriteria sebagaimana dimaksud 
+pada ayat (2) untuk memiliki Pusat Pemulihan 
+Bencana, 
+dalam hal terdapat kebutuhan untuk meningkatkan 
+penerapan 
+manajemen 
+risiko 
+dalam 
+penggunaan 
+Teknologi Informasi.  
+(6) 
+LJKNB wajib memenuhi permintaan Otoritas Jasa 
+Keuangan sebagaimana dimaksud pada ayat (5). 
+(7) 
+Perhitungan total aset sebagaimana dimaksud pada ayat 
+(1), ayat (2), dan ayat (4) menggunakan informasi total 
+aset yang terdapat dalam laporan berkala terkini yang 
+disampaikan kepada Otoritas Jasa Keuangan sesuai 
+dengan ketentuan peraturan Otoritas Jasa Keuangan 
+mengenai laporan bulanan dan/atau penyelenggaraan 
+usaha masing–masing LJKNB pada saat pemberlakuan 
+Peraturan Otoritas Jasa Keuangan ini bagi LJKNB yang 
+bersangkutan. 
+
+
+=== Halaman 23 ===
+- 23 - 
+ 
+(8) 
+Dalam hal terdapat penurunan aset, LJKNB tetap wajib 
+memenuhi ketentuan sebagaimana dimaksud pada ayat 
+ayat (1), ayat (2), dan ayat (4).  
+ 
+Bagian Kedua 
+Penempatan Sistem Elektronik pada Pusat Data  
+dan/atau Pusat Pemulihan Bencana 
+ 
+Pasal 23  
+(1) 
+LJKNB yang memiliki Pusat Data dan/atau Pusat 
+Pemulihan 
+Bencana 
+wajib 
+menempatkan 
+Sistem 
+Elektronik pada Pusat Data dan/atau Pusat Pemulihan 
+Bencana di wilayah Indonesia.  
+(2) 
+LJKNB sebagaimana dimaksud pada ayat (1) wajib 
+menempatkan Sistem Elektronik pada Pusat Data di 
+lokasi yang berbeda dengan Pusat Pemulihan Bencana 
+dengan memperhatikan faktor geografis. 
+(3) 
+LJKNB  sebagaimana dimaksud pada ayat (1) dilarang 
+menempatkan Sistem Elektronik pada Pusat Data 
+dan/atau Pusat Pemulihan Bencana di luar wilayah 
+Indonesia kecuali telah mendapatkan persetujuan dari 
+Otoritas Jasa Keuangan.  
+(4) 
+Sistem Elektronik yang dapat ditempatkan pada Pusat 
+Data dan/atau Pusat Pemulihan Bencana di luar 
+wilayah Indonesia sebagaimana dimaksud pada ayat (3), 
+Sistem Elektronik yang digunakan: 
+a. 
+untuk 
+mendukung 
+analisis 
+terintegrasi 
+dalam 
+rangka memenuhi ketentuan yang diterbitkan oleh 
+otoritas negara asal LJKNB yang bersifat global, 
+termasuk lintas negara; 
+b. 
+untuk manajemen risiko secara terintegrasi dengan 
+perusahaan induk, entitas utama, dan/atau entitas 
+lain yang memiliki kegiatan usaha sejenis dalam 
+satu grup LJKNB di luar wilayah Indonesia; 
+c. 
+dalam rangka penerapan anti pencucian uang dan 
+pencegahan 
+pendanaan 
+terorisme 
+secara 
+terintegrasi dengan perusahaan induk, entitas 
+
+
+=== Halaman 24 ===
+- 24 - 
+ 
+utama, 
+dan/atau 
+entitas 
+lain 
+yang 
+memiliki 
+kegiatan usaha sejenis dalam satu grup LJKNB di 
+luar wilayah Indonesia; 
+d. 
+dalam rangka pelayanan kepada konsumen secara 
+global, yang membutuhkan integrasi dengan Sistem 
+Elektronik milik grup LJKNB di luar wilayah 
+Indonesia; 
+e. 
+untuk manajemen komunikasi dengan perusahaan 
+induk, entitas utama, dan/atau entitas lain yang 
+memiliki kegiatan usaha sejenis dalam satu grup 
+LJKNB; dan/atau 
+f. 
+untuk manajemen internal. 
+(5) 
+Permohonan 
+persetujuan 
+Otoritas 
+Jasa 
+Keuangan 
+sebagaimana dimaksud pada ayat (3) dapat diberikan 
+dalam hal LJKNB: 
+a. 
+memenuhi 
+persyaratan 
+sebagaimana 
+dimaksud 
+dalam Pasal 21 ayat (2) sampai dengan ayat (4); 
+b. 
+menyampaikan hasil analisis risiko negara; 
+c. 
+memastikan penyelenggaraan Sistem Elektronik di 
+luar wilayah Indonesia tidak mengurangi efektivitas 
+pengawasan 
+Otoritas 
+Jasa 
+Keuangan 
+yang 
+dibuktikan dengan surat pernyataan  dari Direksi 
+LJKNB 
+dan 
+pihak 
+penyedia 
+jasa 
+Teknologi 
+Informasi; 
+d. 
+memastikan bahwa informasi mengenai rahasia 
+LJKNB hanya diungkapkan sepanjang memenuhi 
+ketentuan 
+peraturan 
+perundang-undangan 
+di 
+Indonesia yang dibuktikan dengan perjanjian kerja 
+sama antara LJKNB dan pihak penyedia jasa 
+Teknologi Informasi; 
+e. 
+memastikan bahwa perjanjian tertulis dengan 
+penyedia jasa Teknologi Informasi memuat klausula 
+pilihan hukum; 
+f. 
+menyampaikan surat pernyataan tidak keberatan 
+dari otoritas pengawas penyedia jasa Teknologi 
+Informasi di luar wilayah Indonesia bahwa Otoritas 
+Jasa Keuangan  diberikan akses untuk melakukan 
+
+
+=== Halaman 25 ===
+- 25 - 
+ 
+pemeriksaan 
+terhadap 
+pihak 
+penyedia 
+jasa 
+Teknologi Informasi; 
+g. 
+menyampaikan surat pernyataan bahwa LJKNB 
+akan menyampaikan secara berkala hasil penilaian 
+yang dilakukan perusahaan induk, entitas utama, 
+dan/atau  entitas lain yang memiliki kegiatan 
+usaha sejenis dalam satu grup LJKNB di luar 
+wilayah Indonesia atas penerapan manajemen 
+risiko 
+pada 
+pihak 
+penyedia 
+jasa 
+Teknologi 
+Informasi; 
+h. 
+memastikan manfaat yang diperoleh LJKNB dari 
+rencana penempatan Sistem Elektronik di luar 
+wilayah Indonesia lebih besar daripada beban yang 
+ditanggung oleh LJKNB; dan 
+i. 
+menyampaikan 
+rencana 
+LJKNB 
+untuk 
+meningkatkan kemampuan sumber daya manusia 
+LJKNB 
+baik 
+yang 
+berkaitan 
+dengan 
+penyelenggaraan 
+Teknologi 
+Informasi 
+maupun 
+transaksi bisnis atau produk yang ditawarkan. 
+(6) 
+LJKNB sebagaimana dimaksud pada ayat (1) wajib 
+memastikan bahwa data yang digunakan dalam Sistem 
+Elektronik yang ditempatkan pada Pusat Data dan/atau 
+Pusat Pemulihan Bencana di luar wilayah Indonesia 
+tidak digunakan untuk tujuan selain sebagaimana 
+dimaksud pada ayat (4). 
+(7) 
+Dalam 
+hal 
+berdasarkan 
+penilaian 
+Otoritas 
+Jasa 
+Keuangan penempatan Sistem Elektronik pada Pusat 
+Data dan/atau Pusat Pemulihan Bencana  di luar 
+wilayah Indonesia: 
+a. 
+tidak sesuai dengan rencana penempatan Sistem 
+Elektronik pada Pusat Data dan/atau Pusat 
+Pemulihan Bencana di luar wilayah Indonesia yang 
+disampaikan kepada Otoritas Jasa Keuangan; 
+b. 
+berpotensi 
+mengurangi 
+efektivitas 
+pengawasan 
+Otoritas Jasa Keuangan; 
+c. 
+berpotensi berdampak negatif terhadap kinerja 
+LJKNB; dan/atau 
+
+
+=== Halaman 26 ===
+- 26 - 
+ 
+d. 
+tidak 
+sesuai 
+dengan 
+ketentuan 
+peraturan 
+perundang-undangan, 
+Otoritas Jasa Keuangan berwenang meminta LJKNB 
+untuk menempatkan Sistem Elektronik pada Pusat 
+Data dan/atau Pusat Pemulihan Bencana di wilayah 
+Indonesia. 
+(8) 
+LJKNB wajib memenuhi permintaan Otoritas Jasa 
+Keuangan untuk menempatkan data Sistem Elektronik 
+pada Pusat Data dan/atau Pusat Pemulihan Bencana di 
+wilayah Indonesia sebagaimana dimaksud pada ayat (7). 
+(9) 
+LJKNB yang akan menempatkan Sistem Elektronik 
+pada Pusat Data dan/atau Pusat Pemulihan Bencana di 
+luar wilayah Indonesia sebagaimana dimaksud pada 
+ayat (3) wajib menyampaikan permohonan persetujuan 
+kepada Otoritas Jasa Keuangan paling lambat 3 (tiga) 
+bulan sebelum Sistem Elektronik pada Pusat Data 
+dan/atau Pusat Pemulihan Bencana ditempatkan di 
+luar wilayah Indonesia. 
+(10) Persetujuan 
+atau 
+penolakan 
+atas 
+permohonan 
+sebagaimana dimaksud pada ayat (5) diberikan oleh 
+Otoritas Jasa Keuangan paling lambat 20 (dua puluh) 
+hari kerja setelah dokumen permohonan diterima secara 
+lengkap. 
+ 
+Pasal 24 
+LJKNB wajib memastikan bahwa Pusat Data dan/atau Pusat 
+Pemulihan Bencana sebagaimana dimaksud dalam Pasal 23 
+dapat menjamin kelangsungan usaha LJKNB. 
+ 
+Bagian Ketiga 
+Penyelenggaraan Pemrosesan Transaksi Berbasis Teknologi 
+Informasi oleh Pihak Penyedia Jasa 
+ 
+Pasal 25 
+(1) 
+LJKNB wajib menyelenggarakan Pemrosesan Transaksi 
+Berbasis Teknologi Informasi di wilayah Indonesia. 
+
+
+=== Halaman 27 ===
+- 27 - 
+ 
+(2) 
+Pemrosesan Transaksi Berbasis Teknologi Informasi 
+dapat dilakukan oleh pihak penyedia jasa di wilayah 
+Indonesia. 
+(3) 
+Penyelenggaraan 
+Pemrosesan 
+Transaksi 
+Berbasis 
+Teknologi 
+Informasi 
+oleh 
+pihak 
+penyedia 
+jasa 
+sebagaimana dimaksud pada ayat (2) dapat dilakukan 
+sepanjang: 
+a. 
+memenuhi prinsip kehati-hatian; 
+b. 
+memenuhi 
+persyaratan 
+sebagaimana 
+dimaksud 
+dalam Pasal 21 ayat (2) sampai dengan ayat (4); 
+dan 
+c. 
+memperhatikan aspek perlindungan konsumen. 
+ 
+Pasal 26 
+(1) 
+LJKNB wajib memuat rencana penggunaan pihak 
+penyedia 
+jasa 
+Teknologi 
+Informasi 
+dalam 
+penyelenggaraan Pusat Data, Pusat Pemulihan Bencana, 
+dan/atau Pemrosesan Transaksi Berbasis Teknologi 
+Informasi dalam rencana pengembangan Teknologi 
+Informasi LJKNB. 
+(2) 
+Realisasi rencana penyelenggaraan Pusat Data, Pusat 
+Pemulihan Bencana, dan/atau Pemrosesan Berbasis 
+Teknologi Informasi oleh pihak penyedia jasa Teknologi 
+Informasi wajib dilaporkan sebagai bagian dari laporan 
+realisasi rencana bisnis. 
+(3) 
+Kewajiban sebagaimana dimaksud pada ayat (2) hanya 
+berlaku bagi LJKNB yang wajib menyampaikan laporan 
+realisasi rencana bisnis kepada Otoritas Jasa Keuangan. 
+ 
+BAB VIII 
+LAYANAN KEUANGAN ELEKTRONIK 
+ 
+Pasal 27 
+LJKNB 
+yang 
+menyelenggarakan 
+Layanan 
+Keuangan 
+Elektronik 
+wajib 
+memenuhi 
+ketentuan 
+Otoritas 
+Jasa 
+Keuangan dan/atau otoritas lain yang terkait.  
+ 
+
+
+=== Halaman 28 ===
+- 28 - 
+ 
+Pasal 28 
+(1) 
+LJKNB 
+yang menyelenggarakan Layanan Keuangan 
+Elektronik sebagaimana dimaksud dalam Pasal 27 wajib 
+memuat rencana penerbitan produk Layanan Keuangan 
+Elektronik dalam rencana bisnis LJKNB. 
+(2) 
+Kewajiban sebagaimana dimaksud pada ayat (1) hanya 
+berlaku bagi LJKNB yang wajib menyampaikan rencana 
+bisnis kepada Otoritas Jasa Keuangan. 
+ 
+Pasal 29 
+(1) 
+LJKNB 
+wajib 
+menerapkan 
+prinsip 
+pengendalian 
+pengamanan data konsumen dan transaksi Layanan 
+Keuangan Elektronik pada setiap Sistem Elektronik yang 
+digunakan oleh LJKNB. 
+(2) 
+Prinsip pengendalian pengamanan data konsumen dan 
+transaksi Layanan Keuangan Elektronik  pada setiap 
+Sistem Elektronik sebagaimana dimaksud pada ayat (1) 
+mencakup paling sedikit: 
+a. 
+kerahasiaan; 
+b. 
+integritas; 
+c. 
+ketersediaan; 
+d. 
+keaslian; 
+e. 
+tidak dapat diingkari; 
+f. 
+pengendalian otorisasi dalam sistem, Pangkalan 
+Data, dan aplikasi; 
+g. 
+pemisahan tugas dan tanggung jawab; dan 
+h. 
+pemeliharaan jejak audit. 
+ 
+BAB IX 
+PENGAMANAN KERAHASIAAN DATA PRIBADI KONSUMEN 
+ 
+Pasal 30 
+Dalam menyelenggarakan Teknologi Informasi, LJKNB wajib 
+menjamin: 
+a. 
+perolehan, 
+pengolahan, 
+penggunaan, 
+penyimpanan, 
+pembaruan, 
+dan/atau 
+pengungkapan 
+data 
+pribadi 
+konsumen 
+dilakukan 
+berdasarkan 
+persetujuan 
+
+
+=== Halaman 29 ===
+- 29 - 
+ 
+konsumen yang bersangkutan, kecuali ditentukan lain 
+oleh ketentuan peraturan perundang-undangan; dan 
+b. 
+penggunaan atau pengungkapan data pribadi konsumen 
+sesuai 
+dengan 
+tujuan 
+yang 
+disampaikan 
+kepada 
+konsumen pada saat perolehan data. 
+ 
+BAB X 
+PELAPORAN 
+ 
+Pasal 31 
+(1) 
+LJKNB 
+wajib 
+melaporkan 
+kejadian 
+kritis, 
+penyalahgunaan, 
+dan/atau 
+kejahatan 
+dalam 
+penyelenggaraan 
+Teknologi 
+Informasi 
+yang 
+dapat 
+dan/atau telah mengakibatkan kerugian keuangan yang 
+signifikan dan/atau mengganggu kelancaran operasional 
+LJKNB. 
+(2) 
+Laporan sebagaimana dimaksud pada ayat (1) wajib 
+disampaikan kepada Otoritas Jasa Keuangan paling 
+lambat 5 (lima) hari kerja setelah kejadian kritis 
+dan/atau penyalahgunaan atau kejahatan diketahui 
+dengan menggunakan format sebagaimana tercantum 
+dalam 
+Lampiran 
+yang 
+merupakan 
+bagian 
+tidak 
+terpisahkan dari Peraturan Otoritas Jasa Keuangan ini. 
+ 
+BAB XI 
+PEMERIKSAAN 
+ 
+Pasal 32 
+(1) 
+Otoritas Jasa Keuangan dapat melakukan pemeriksaan 
+atau meminta LJKNB untuk melakukan audit terhadap 
+seluruh aspek terkait penggunaan Teknologi Informasi. 
+(2) 
+LJKNB wajib menyediakan akses kepada Otoritas Jasa 
+Keuangan untuk dapat melakukan pemeriksaan pada 
+seluruh 
+aspek 
+terkait 
+penyelenggaraan 
+Teknologi 
+Informasi yang diselenggarakan sendiri dan/atau pihak 
+penyedia jasa Teknologi Informasi. 
+ 
+
+
+=== Halaman 30 ===
+- 30 - 
+ 
+BAB XII  
+KETENTUAN LAIN-LAIN 
+ 
+Pasal 33 
+Ketentuan lebih lanjut mengenai penerapan Manajemen 
+Risiko dalam Penggunaan Teknologi Informasi oleh LJKNB 
+ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+BAB XIII 
+PENEGAKAN KEPATUHAN 
+ 
+Bagian Kesatu 
+Sanksi Administratif 
+ 
+Pasal 34 
+(1) 
+Pelanggaran terhadap ketentuan sebagaimana dimaksud 
+dalam Pasal 3 ayat (1), Pasal 4, Pasal 5, Pasal 8 ayat 
+(1), ayat (5), Pasal 9 ayat (1), ayat (2), ayat (4), ayat (5), 
+ayat (6), Pasal 10 ayat (1), Pasal 11 ayat (1), ayat (2), 
+ayat (4), Pasal 12 ayat (1), Pasal 13, Pasal 14, Pasal 15, 
+Pasal 16, Pasal 17, Pasal 18 ayat (1), Pasal 19 ayat (1), 
+ayat (3), ayat (4), Pasal 20, Pasal 21 ayat (2), ayat (3), 
+ayat (4), ayat (5), ayat (9), Pasal 22 ayat (1), ayat (2), 
+ayat (3), ayat (4), ayat (6), ayat (8), Pasal 23 ayat (1), 
+ayat (2), ayat (3), ayat (6), ayat (8), ayat (9), Pasal 24, 
+Pasal 25 ayat (1), Pasal 26 ayat (1), ayat (2), Pasal 27, 
+Pasal 28 ayat (1), Pasal 29 ayat (1), Pasal 30, Pasal 31, 
+dan Pasal 32 ayat (2) dikenakan sanksi administratif 
+berupa peringatan tertulis yang berlaku sampai dengan 
+dipenuhinya ketentuan.     
+(2) 
+LJKNB yang tidak memenuhi ketentuan dalam Pasal 31 
+ayat (2) dikenai sanksi administratif tambahan berupa 
+denda administratif sebesar Rp500.000,00 (lima ratus 
+ribu rupiah) per hari keterlambatan dan paling banyak 
+Rp25.000.000,00 (dua puluh lima juta rupiah). 
+(3) 
+Dalam hal LJKNB melanggar ketentuan sebagaimana 
+dimaksud pada ayat (1) namun pelanggaran telah 
+
+
+=== Halaman 31 ===
+- 31 - 
+ 
+diperbaiki, tetap dikenai sanksi peringatan tertulis yang 
+berakhir dengan sendirinya. 
+(4) 
+Dalam 
+hal 
+LJKNB 
+telah 
+memenuhi 
+ketentuan 
+sebagaimana dimaksud pada ayat (1), Otoritas Jasa 
+Keuangan mencabut sanksi peringatan tertulis. 
+ 
+Bagian Kedua 
+Penurunan Hasil Penilaian Tingkat Kesehatan serta Penilaian 
+Kembali terhadap Pihak Utama LJKNB 
+ 
+Pasal 35 
+Dalam hal Otoritas Jasa Keuangan telah mengenakan sanksi 
+administratif sebagaimana dimaksud dalam Pasal 34 ayat (1) 
+dan LJKNB tidak memenuhi ketentuan yang menyebabkan 
+dikenai sanksi administratif, Otoritas Jasa Keuangan dapat: 
+a. 
+menurunkan hasil penilaian tingkat kesehatan; dan/atau 
+b. 
+melakukan penilaian kembali terhadap pihak utama 
+LJKNB. 
+ 
+BAB XIV 
+KETENTUAN PERALIHAN 
+ 
+Pasal 36 
+Bagi LJKNB yang telah menerbitkan produk Layanan 
+Keuangan Elektronik sebelum berlakunya Peraturan Otoritas 
+Jasa Keuangan ini dinyatakan tetap sah dan berlaku. 
+ 
+Pasal 37  
+(1) 
+Bagi LJKNB yang telah menempatkan Sistem Elektronik 
+pada Pusat Data dan/atau Pusat Pemulihan Bencana di 
+luar wilayah Indonesia sebelum Peraturan Otoritas Jasa 
+Keuangan ini diundangkan harus: 
+a. 
+mengajukan permohonan kepada Otoritas Jasa 
+Keuangan paling lambat 6 (enam) bulan sejak 
+Peraturan Otoritas Jasa Keuangan ini diundangkan 
+untuk 
+mendapatkan 
+persetujuan 
+penempatan 
+Sistem Elektronik pada Pusat Data dan/atau Pusat 
+
+
+=== Halaman 32 ===
+- 32 - 
+ 
+Pemulihan Bencana di luar wilayah Indonesia 
+sebagaimana dimaksud dalam Pasal 23 ayat (3); 
+dan 
+b. 
+melakukan pemindahan Sistem Elektronik yang 
+tidak memenuhi ketentuan Pasal 23 ayat (4) pada 
+Pusat Data dan/atau Pusat Pemulihan Bencana di 
+wilayah Indonesia paling lambat 1 (satu) tahun 
+sejak 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+ini 
+diundangkan. 
+(2) 
+Dalam hal permohonan sebagaimana dimaksud pada 
+ayat (1) huruf a ditolak, LJKNB harus melakukan 
+pemindahan 
+Sistem 
+Elektronik 
+pada 
+Pusat 
+Data 
+dan/atau 
+Pusat 
+Pemulihan 
+Bencana 
+di 
+wilayah 
+Indonesia paling lambat 1 (satu) tahun sejak penolakan. 
+ 
+Pasal 38 
+(1) 
+Setiap sanksi administratif yang telah dikenakan 
+terhadap LJKNB berdasarkan: 
+a. 
+Pasal 49 ayat (3), Pasal 50, Pasal 51 ayat (2), 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+69/POJK.05/2016 tentang Penyelenggaraan Usaha 
+Perusahaan 
+Asuransi, 
+Perusahaan 
+Asuransi 
+Syariah, Perusahaan Reasuransi, dan Perusahaan 
+Reasuransi Syariah;  
+b. 
+Pasal 25 dan Pasal 28 ayat (1) Peraturan Otoritas 
+Jasa Keuangan Nomor 77/POJK.01/2016 tentang 
+Layanan 
+Pinjam 
+Meminjam  
+Uang 
+Berbasis 
+Teknologi Informasi; 
+c. 
+Pasal 44 ayat (2) dan Pasal 46 Peraturan Otoritas 
+Jasa Keuangan Nomor 2/POJK.05/2017 tentang 
+Penyelenggaraan Usaha Lembaga Penjamin; 
+d. 
+Pasal 
+19 
+ayat 
+(2) 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+35/POJK.05/2018 
+tentang 
+Penyelenggaraan Usaha Perusahaan Pembiayaan; 
+e. 
+Pasal 
+14 
+ayat 
+(2) 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+10/POJK.05/2019 
+tentang 
+Penyelenggaraan Usaha Perusahaan Pembiayaan 
+
+
+=== Halaman 33 ===
+- 33 - 
+ 
+Syariah dan Unit Usaha Syariah Perusahaan 
+Pembiayaan; 
+f. 
+Pasal 49 ayat (2) huruf c Peraturan Otoritas Jasa 
+Keuangan Nomor 15/POJK.05/2019 tentang Tata 
+Kelola Dana Pensiun; atau 
+g. 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+38/POJK.05/2020 
+tentang 
+Perubahan 
+Atas 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+69/POJK.05/2016 Tentang Penyelenggaraan Usaha 
+Perusahaan 
+Asuransi, 
+Perusahaan 
+Asuransi 
+Syariah, Perusahaan Reasuransi, dan Perusahaan 
+Reasuransi Syariah, 
+dinyatakan tetap sah dan berlaku. 
+(2) 
+LJKNB 
+yang 
+belum 
+dapat 
+mengatasi 
+penyebab 
+dikenakannya 
+sanksi 
+administratif 
+sebagaimana 
+dimaksud pada ayat (1) dikenai sanksi lanjutan sesuai 
+dengan Peraturan Otoritas Jasa Keuangan ini. 
+ 
+Pasal 39  
+Ketentuan dalam: 
+a. 
+Pasal 51 Peraturan Otoritas Jasa Keuangan Nomor 
+69/POJK.05/2016 
+tentang 
+Penyelenggaraan 
+Usaha 
+Perusahaan Asuransi, Perusahaan Asuransi Syariah, 
+Perusahaan Reasuransi, dan Perusahaan Reasuransi 
+Syariah (Lembaran Negara Republik Indonesia Tahun 
+2016 Nomor 302, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 5992); 
+b. 
+Pasal 65 ayat (2) huruf c Peraturan Otoritas Jasa 
+Keuangan Nomor 73/POJK.05/2016 tentang Tata Kelola 
+Perusahaan yang Baik bagi Perusahaan Perasuransian 
+(Lembaran Negara Republik Indonesia Tahun 2016 
+Nomor 306, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 5996); 
+c. 
+Pasal 25 ayat (1), ayat (3), dan Pasal 28 ayat (1) 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+77/POJK.01/2016 tentang Layanan Pinjam Meminjam 
+Uang Berbasis Teknologi Informasi (Lembaran Negara 
+
+
+=== Halaman 34 ===
+- 34 - 
+ 
+Republik Indonesia Tahun 2016 Nomor 324, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6005);  
+d. 
+Pasal 44 dan Pasal 46 ayat (2)  Peraturan Otoritas Jasa 
+Keuangan 2/POJK.05/2017 tentang Penyelenggaraan 
+Usaha Lembaga Penjamin  Lembaga Negara Republik 
+Indonesia Tahun 2017 Nomor 7, Tambahan Lembaran 
+Negara Republik Indonesia Nomor 6014); 
+e. 
+Pasal 19 ayat (2) huruf a, huruf b, dan huruf d  
+Peraturan Otoritas Jasa Keuangan 35/POJK.05/2018 
+tentang 
+Penyelenggaraan 
+Usaha 
+Perusahaan 
+Pembiayaan  (Lembaran Negara Republik Indonesia 
+Tahun 2018 Nomor 260, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 6286);  
+f. 
+Pasal 14 ayat (2) huruf a, huruf b, dan huruf d  
+Peraturan Otoritas Jasa Keuangan 10/POJK.05/2019 
+tentang 
+Penyelenggaraan 
+Usaha 
+Perusahaan 
+Pembiayaan 
+Syariah 
+dan 
+Unit 
+Usaha 
+Syariah 
+Perusahaan Pembiayaan (Lembaran Negara Republik 
+Indonesia Tahun 2019 Nomor 40, Tambahan Lembaran 
+Negara Republik Indonesia Nomor 6320); dan 
+g. 
+Pasal 49 ayat (2) huruf c Peraturan Otoritas Jasa 
+Keuangan 15/POJK.05/2019 tentang Tata Kelola Dana 
+Pensiun (Lembaran Negara Republik Indonesia Tahun 
+2019 Nomor 106, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6356), 
+masih berlaku sampai dengan: 
+a. 
+1 (satu) tahun sejak Peraturan Otoritas Jasa Keuangan 
+diundangkan 
+bagi 
+penyelenggara 
+layanan 
+pinjam 
+meminjam uang berbasis teknologi informasi dan 
+LJKNB 
+yang 
+memiliki 
+total 
+aset 
+lebih 
+dari 
+Rp1.000.000.000.000,00 (satu triliun rupiah); 
+b. 
+2 (tahun) sejak Peraturan Otoritas Jasa Keuangan 
+diundangkan bagi LJKNB yang memiliki total aset lebih 
+dari Rp500.000.000.000,00 (lima ratus miliar rupiah) 
+sampai dengan Rp1.000.000.000.000,00 (satu triliun 
+rupiah); dan 
+
+
+=== Halaman 35 ===
+- 35 - 
+ 
+c. 
+3 (tahun) sejak Peraturan Otoritas Jasa Keuangan 
+diundangkan bagi LJKNB yang memiliki total aset 
+sampai dengan Rp500.000.000.000,00 (lima ratus miliar 
+rupiah). 
+ 
+BAB XV 
+KETENTUAN PENUTUP 
+ 
+Pasal 40  
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku, ketentuan mengenai prosedur dan tata cara 
+pengenaan sanksi administratif di bidang perasuransian 
+sebagaimana 
+diatur 
+dalam 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan mengenai prosedur dan tata cara pengenaan 
+sanksi 
+administratif 
+di 
+bidang 
+perasuransian 
+dan 
+pemblokiran kekayaan perusahaan asuransi, perusahaan 
+asuransi syariah, perusahaan reasuransi, dan perusahaan 
+reasuransi syariah tidak berlaku bagi pelanggaran atas 
+Peraturan Otoritas Jasa Keuangan ini. 
+ 
+Pasal 41 
+Ketentuan selain Pasal 23 dalam Peraturan Otoritas Jasa 
+Keuangan ini mulai berlaku: 
+a. 
+1 (satu) tahun sejak Peraturan Otoritas Jasa Keuangan 
+ini diundangkan bagi: 
+1. 
+penyelenggara layanan pinjam meminjam uang 
+berbasis teknologi informasi; dan 
+2. 
+LJKNB 
+yang 
+memiliki 
+total 
+aset 
+lebih 
+dari 
+Rp1.000.000.000.000,00 (satu triliun rupiah); 
+b. 
+2 (dua) tahun sejak Peraturan Otoritas Jasa Keuangan 
+ini diundangkan bagi LJKNB yang memiliki total aset 
+lebih dari Rp500.000.000.000,00 (lima ratus miliar 
+rupiah) sampai dengan Rp1.000.000.000.000,00 (satu 
+triliun rupiah); dan 
+ 
+ 
+
+
+=== Halaman 36 ===
+- 36 - 
+ 
+c. 
+3 (tiga) tahun sejak Peraturan Otoritas Jasa Keuangan 
+ini diundangkan bagi LJKNB yang memiliki total aset 
+sampai dengan Rp500.000.000.000,00 (lima ratus miliar 
+rupiah). 
+ 
+Pasal 42 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku: 
+a. 
+Pasal 49 ayat (3), Pasal 50, dan Pasal 51 Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+69/POJK.05/2016 
+tentang Penyelenggaraan Usaha Perusahaan Asuransi, 
+Perusahaan Asuransi Syariah, Perusahaan Reasuransi, 
+dan Perusahaan Reasuransi Syariah (Lembaran Negara 
+Republik Indonesia Tahun 2016 Nomor 302, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 5992); 
+b. 
+Pasal 65 ayat (2) huruf c Peraturan Otoritas Jasa 
+Keuangan Nomor 73/POJK.05/2016 tentang Tata Kelola 
+Perusahaan yang Baik bagi Perusahaan Perasuransian 
+(Lembaran Negara Republik Indonesia Tahun 2016 
+Nomor 306, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 5996); 
+c. 
+Pasal 25 dan Pasal 28 ayat (1) Peraturan Otoritas Jasa 
+Keuangan Nomor 77/POJK.01/2016 tentang Layanan 
+Pinjam Meminjam Uang Berbasis Teknologi Informasi 
+(Lembaran Negara Republik Indonesia Tahun 2016 
+Nomor 324, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6005);  
+d. 
+Pasal 44 dan Pasal 46  Peraturan Otoritas Jasa 
+Keuangan 2/POJK.05/2017 tentang Penyelenggaraan 
+Usaha Lembaga Penjamin  (Lembaga Negara Republik 
+Indonesia Tahun 2017 Nomor 7, Tambahan Lembaran 
+Negara Republik Indonesia Nomor 6014); 
+e. 
+Pasal 19 ayat (2) Peraturan Otoritas Jasa Keuangan 
+35/POJK.05/2018 
+tentang 
+Penyelenggaraan 
+Usaha 
+Perusahaan Pembiayaan (Lembaran Negara Republik 
+Indonesia 
+Tahun 
+2018 
+Nomor 
+260, 
+Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6286);  
+
+
+=== Halaman 37 ===
+- 37 - 
+ 
+f. 
+Pasal 14 ayat (2) Peraturan Otoritas Jasa Keuangan 
+10/POJK.05/2019 
+tentang 
+Penyelenggaraan 
+Usaha 
+Perusahaan Pembiayaan Syariah dan Unit Usaha 
+Syariah Perusahaan Pembiayaan (Lembaran Negara 
+Republik Indonesia Tahun 2019 Nomor 40, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6320);  
+g. 
+Pasal 49 ayat (2) huruf c Peraturan Otoritas Jasa 
+Keuangan 15/POJK.05/2019 tentang Tata Kelola Dana 
+Pensiun (Lembaran Negara Republik Indonesia Tahun 
+2019 Nomor 106, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6356); dan 
+h. 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+38/POJK.05/2020 
+tentang 
+Perubahan 
+POJK 
+69/POJK/2016 
+tentang 
+Penyelenggaraan 
+Usaha 
+Perusahaan Asuransi, Perusahaan Asuransi Syariah, 
+Perusahaan Reasuransi, dan Perusahaan Reasuransi 
+Syariah (Lembaran Negara Republik Indonesia Tahun 
+2020 Nomor 149, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6527),  
+dicabut dan dinyatakan tidak berlaku. 
+ 
+Pasal 43 
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada 
+tanggal diundangkan. 
+ 
+ 
+ 
+
+
+=== Halaman 38 ===
+- 38 - 
+ 
+Salinan ini sesuai dengan aslinya 
+Direktur Hukum 1 
+Departemen Hukum 
+ 
+ttd 
+ 
+Mufli Asmawidjaja 
+Agar 
+setiap 
+orang 
+mengetahuinya, 
+memerintahkan 
+pengundangan Peraturan Otoritas Jasa Keuangan ini dengan 
+penempatannya dalam Lembaran Negara Republik Indonesia. 
+ 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 9 Maret 2021 
+ 
+KETUA DEWAN KOMISIONER 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA, 
+ 
+ttd 
+ 
+WIMBOH SANTOSO 
+ 
+Diundangkan di Jakarta 
+pada tanggal 17 Maret 2021 
+ 
+MENTERI HUKUM DAN HAK ASASI MANUSIA 
+REPUBLIK INDONESIA, 
+ 
+ttd 
+ 
+YASONNA H. LAOLY 
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2021 NOMOR 78 
+
+
+=== Halaman 39 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PENJELASAN 
+ATAS 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 4 /POJK.05/2021 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO DALAM PENGGUNAAN TEKNOLOGI 
+INFORMASI OLEH LEMBAGA JASA KEUANGAN NONBANK 
+  
+I. 
+UMUM 
+Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa 
+Keuangan mengamanatkan bahwa fungsi pengawasan dan pengaturan 
+terhadap keseluruhan kegiatan di dalam sektor jasa keuangan yang 
+beroperasi di Indonesia dilakukan oleh Otoritas Jasa Keuangan. Adapun 
+tujuan pembentukan Otoritas Jasa Keuangan adalah agar keseluruhan 
+kegiatan jasa keuangan terselenggara secara teratur, adil, transparan, dan 
+akuntabel 
+serta 
+mampu 
+melindungi 
+kepentingan 
+konsumen 
+dan 
+masyarakat. 
+Perkembangan teknologi informasi merupakan salah satu dampak 
+dari perkembangan zaman yang mengalami kemajuan yang pesat dari 
+waktu ke waktu. Banyak hal yang melatarbelakangi perkembangan 
+teknologi informasi tersebut, salah satunya adalah adanya kebutuhan 
+masyarakat untuk dapat menjalankan segala sesuatunya dengan lebih 
+mudah dan efektif. 
+Di sektor jasa keuangan, teknologi informasi memiliki peran yang 
+sangat penting. Penggunaan teknologi informasi dapat meningkatkan 
+efektivitas dan efisiensi kegiatan operasional LJKNB serta kualitas 
+pelayanan LJKNB kepada konsumen. 
+Di lain sisi, pemanfaatan teknologi informasi juga memiliki potensi 
+risiko yang dapat merugikan LJKNB dan konsumen pengguna jasa dan 
+
+
+=== Halaman 40 ===
+- 2 - 
+ 
+produk LJKNB. Oleh karena itu, agar dapat melindungi kepentingan 
+LJKNB dan juga konsumen, LJKNB dituntut untuk dapat menerapkan 
+manajemen risiko teknologi informasi secara efektif sehingga LJKNB dapat 
+melakukan pengendalian atas kemungkinan risiko yang akan terjadi. 
+Selama ini manajemen risiko teknologi informasi bagi beberapa jenis 
+LJKNB diatur dalam peraturan yang terpisah dengan cakupan substansi 
+yang berbeda. Melalui Peraturan Otoritas Jasa Keuangan ini, ketentuan 
+terkait manajemen risiko teknologi informasi yang sebelumnya diatur di 
+masing-masing LJKNB diharmonisasikan secara terpadu dalam Peraturan 
+Otoritas Jasa Keuangan tentang Penerapan Manajemen Risiko dalam 
+Penggunaan Teknologi Informasi oleh Lembaga Jasa Keuangan Nonbank 
+ini. 
+Ketentuan mengenai penerapan manajemen risiko dalam penggunaan 
+teknologi informasi ini diharapkan dapat menjadi pedoman bagi LJKNB 
+serta pihak terkait dalam penggunaan Teknologi Informasi. Kepatuhan 
+LJKNB terhadap ketentuan ini diharapkan dapat membangun kesadaran 
+dan pemahaman yang menyeluruh bagi LJKNB terhadap peran dan 
+potensi risiko atas penggunaan Teknologi Informasi. 
+ 
+II. 
+PASAL DEMI PASAL 
+ 
+Pasal 1 
+Cukup jelas. 
+ 
+Pasal 2 
+Huruf a 
+Angka 1 
+Perusahaan asuransi termasuk juga unit syariah dari 
+perusahaan asuransi yang menyelenggarakan sebagian 
+usahanya berdasarkan prinsip syariah. 
+Angka 2 
+Perusahaan reasuransi termasuk juga unit syariah dari 
+perusahaan reasuransi yang menyelenggarakan sebagian 
+usahanya berdasarkan prinsip syariah. 
+Angka 3 
+Cukup jelas. 
+ 
+
+
+=== Halaman 41 ===
+- 3 - 
+ 
+Angka 4 
+Cukup jelas. 
+Angka 5 
+Cukup jelas. 
+Angka 6 
+Cukup jelas. 
+Angka 7 
+Cukup jelas. 
+Huruf b 
+Dana pensiun termasuk yang menyelenggarakan seluruh atau 
+sebagian usahanya berdasarkan prinsip syariah. 
+Huruf c 
+Angka 1 
+Perusahaan pembiayaan termasuk juga unit usaha syariah 
+dari 
+perusahaan pembiayaan 
+yang 
+menyelenggarakan 
+sebagian usahanya berdasarkan prinsip syariah. 
+Angka 2 
+Cukup jelas. 
+Angka 3 
+Perusahaan modal ventura termasuk juga unit usaha 
+syariah 
+dari 
+perusahaan 
+modal 
+ventura 
+yang 
+menyelenggarakan sebagian usahanya berdasarkan prinsip 
+syariah. 
+Angka 4 
+Cukup jelas. 
+Angka 5 
+Perusahaan 
+pembiayaan 
+infrastruktur 
+termasuk 
+yang 
+menyelenggarakan sebagian usahanya berdasarkan prinsip 
+syariah. 
+Huruf d 
+Angka 1 
+Perusahaan pergadaian termasuk yang menyelenggarakan 
+seluruh atau sebagian usahanya berdasarkan prinsip 
+syariah. 
+ 
+ 
+ 
+
+
+=== Halaman 42 ===
+- 4 - 
+ 
+Angka 2 
+Huruf a) 
+Perusahaan penjaminan termasuk juga unit usaha 
+syariah 
+dari 
+perusahaan 
+penjaminan 
+yang 
+menyelenggarakan sebagian usahanya berdasarkan 
+prinsip syariah. 
+Huruf b) 
+Cukup jelas. 
+Huruf c) 
+Cukup jelas. 
+Huruf d) 
+Cukup jelas. 
+Angka 3 
+Cukup jelas. 
+Angka 4 
+Cukup jelas. 
+Angka 5 
+Cukup jelas. 
+Angka 6 
+Cukup jelas. 
+Angka 7 
+Cukup jelas. 
+Yang dimaksud “penyelenggaraan usaha” adalah penyelenggaraan usaha 
+sebagaimana diatur dalam Peraturan Otoritas Jasa Keuangan mengenai 
+penyelenggaraan 
+usaha 
+masing-masing 
+LJKNB 
+atau 
+peraturan 
+perundang-undangan lainnya. 
+ 
+Pasal 3 
+Ayat (1) 
+Penerapan manajemen risiko dalam penggunaan Teknologi 
+Informasi merupakan bagian dari penerapan manajemen risiko 
+secara umum. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Yang dimaksud dengan “sumber daya Teknologi Informasi” 
+antara lain Pusat Data, Pusat Pemulihan Bencana, perangkat 
+
+
+=== Halaman 43 ===
+- 5 - 
+ 
+keras, perangkat lunak, Pangkalan Data, jaringan komunikasi, 
+sumber daya manusia, data, dan informasi. 
+Yang dimaksud dengan “perangkat keras” adalah 1 (satu) atau 
+serangkaian alat yang terhubung dalam Sistem Elektronik. 
+Yang dimaksud dengan “perangkat lunak” adalah 1 (satu) atau 
+sekumpulan 
+program 
+komputer, 
+prosedur, 
+dan/atau 
+dokumentasi 
+yang 
+terkait 
+dalam 
+pengoperasian 
+Sistem 
+Elektronik. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 4 
+Kompleksitas usaha antara lain: 
+a. 
+keragaman dalam kegiatan usaha, produk dan/atau jasa; 
+b. 
+jaringan kantor cabang atau saluran distribusi; dan/atau 
+c. 
+teknologi pendukung yang digunakan. 
+ 
+Pasal 5 
+Penetapan wewenang dan tanggung jawab perlu memperhatikan 
+antara lain prinsip pemisahan tugas dan tanggung jawab, misalnya  
+untuk pejabat pada jenjang jabatan tertentu, pihak yang melakukan 
+input data berbeda dari pihak yang melakukan validasi data. 
+ 
+Pasal 6 
+Huruf a 
+Yang dimaksud dengan “rencana pengembangan Teknologi 
+Informasi” merupakan rencana pengembangan dan pengadaan 
+teknologi informasi. 
+Huruf b 
+Yang dimaksud dengan “satuan kerja penyelenggara Teknologi 
+Informasi” adalah satuan kerja yang melaksanakan atau 
+membawahkan fungsi penyelenggaraan Teknologi Informasi. 
+Huruf c 
+Angka 1 
+Cukup jelas. 
+ 
+ 
+
+
+=== Halaman 44 ===
+- 6 - 
+ 
+Angka 2 
+Peningkatan kompetensi sumber daya manusia antara lain 
+melalui 
+program 
+pendidikan 
+dan 
+pelatihan 
+secara 
+berkesinambungan 
+mengenai 
+penyelenggaraan 
+dan 
+penggunaan Teknologi Informasi. 
+Kecukupan dan peningkatan kompetensi sumber daya 
+manusia 
+yang 
+terkait 
+dengan 
+penyelenggaraan 
+dan 
+penggunaan Teknologi Informasi termasuk kecukupan 
+sumber daya manusia dalam melakukan pengawasan 
+pengamanan teknologi informasi. 
+Angka 3 
+Cukup jelas. 
+Angka 4 
+Cukup jelas. 
+Angka 5 
+Cukup jelas. 
+Angka 6 
+Cukup jelas. 
+ 
+Pasal 7 
+Cukup jelas. 
+ 
+Pasal 8 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Yang dimaksud dengan “rencana pengembangan Teknologi 
+Informasi yang sejalan dengan kegiatan usaha LJKNB” 
+adalah rencana pengembangan Teknologi Informasi yang 
+sejalan dengan kegiatan usaha LJKNB saat ini maupun 
+rencana perubahan atau pengembangan kegiatan usaha 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+ 
+
+
+=== Halaman 45 ===
+- 7 - 
+ 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Cukup jelas. 
+Huruf i 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Contoh: 
+LJKNB yang wajib memiliki komite pengarah Teknologi Informasi 
+tetap wajib memenuhi kewajiban tersebut meskipun aset LJKNB 
+turun menjadi kurang dari Rp1.000.000.000.000,00 (satu triliun 
+rupiah). 
+ 
+Pasal 9 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Huruf a 
+Yang dimaksud dengan “manajemen” antara lain Direksi dan 
+Dewan Komisaris 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+ 
+
+
+=== Halaman 46 ===
+- 8 - 
+ 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Pengamanan informasi tidak hanya mencakup pengamanan 
+terhadap aspek dan komponen Teknologi Informasi namun 
+juga informasi dalam bentuk yang lebih luas antara lain 
+informasi yang dapat memberikan dampak yang merugikan 
+baik secara finansial dan/atau nonfinansial bagi LJKNB, 
+konsumen, dan/atau LJKNB lain. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Cukup jelas. 
+Ayat (4) 
+Yang dimaksud dengan “limit risiko” adalah tingkat kesalahan 
+yang masih dapat ditoleransi oleh sistem (risk tolerance) atau 
+standar pengamanan yang ditetapkan atau disetujui untuk tidak 
+dilampaui. 
+Standar 
+pengamanan 
+sebagaimana 
+dimaksud 
+di 
+atas 
+disesuaikan dengan risk appetite yang dimiliki LJKNB. 
+Ayat (5) 
+Kaji ulang dan pengkinian dilakukan agar kebijakan dan 
+prosedur tetap sesuai dengan perkembangan zaman, LJKNB, 
+dan Teknologi Informasi. 
+Ayat (6) 
+Cukup jelas. 
+ 
+Pasal 10 
+Ayat (1) 
+Rencana 
+pengembangan 
+Teknologi 
+Informasi 
+merupakan 
+rencana pengembangan dan pengadaan Teknologi Informasi 
+yang bersifat mendasar, termasuk informasi mengenai biaya 
+pengembangan dan pemeliharaan teknologi, antara lain: 
+a. 
+perubahan secara signifikan terhadap konfigurasi teknologi 
+informasi atau aplikasi inti LJKNB; 
+
+
+=== Halaman 47 ===
+- 9 - 
+ 
+b. 
+pengadaan aplikasi inti baru; 
+c. 
+kerja sama dengan penyedia jasa teknologi informasi; dan 
+d. 
+pengembangan 
+dan 
+pengadaan 
+teknologi 
+informasi 
+mendasar 
+lainnya 
+yang 
+dapat 
+menambah 
+dan/atau 
+meningkatkan risiko LJKNB. 
+Yang dimaksud dengan “aplikasi inti” adalah aplikasi yang 
+digunakan LJKNB untuk menjalankan kegiatan usaha. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 11 
+Cukup jelas. 
+ 
+Pasal 12 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Informasi yang ditampilkan kembali terkait dengan sistem 
+yang tidak lagi digunakan dalam operasional LJKNB, sistem 
+berbayar atau sistem yang hak ciptanya dimiliki oleh pihak 
+lain  (proprietary system), maupun sistem yang masih 
+digunakan dalam operasional LJKNB namun mengalami 
+gangguan. 
+
+
+=== Halaman 48 ===
+- 10 - 
+ 
+Yang dimaksud dengan “secara utuh” adalah informasi yang 
+ditampilkan lengkap sehingga menghasilkan informasi yang 
+akurat. 
+Langkah 
+pengendalian 
+berupa 
+memastikan 
+sistem 
+Teknologi Informasi LJKNB mampu menampilkan kembali 
+informasi secara utuh, dilakukan terutama untuk sistem 
+Teknologi Informasi yang memiliki fungsi menampilkan 
+kembali informasi jika diperlukan. 
+Huruf g 
+Yang dimaksud dengan “dibuat oleh pihak lain” adalah 
+aplikasi yang dibuat oleh pihak lain berdasarkan proses 
+bisnis 
+dan 
+kebutuhan 
+LJKNB 
+dan 
+hanya 
+dapat 
+dipergunakan oleh LJKNB dimaksud. 
+ 
+Pasal 13 
+Contoh 
+risiko 
+yang 
+berpotensi 
+dapat 
+mengganggu 
+kegiatan 
+operasional LJKNB antara lain pengembangan sistem Teknologi 
+Informasi yang menyangkut kegiatan usaha utama LJKNB. 
+ 
+Pasal 14 
+Cukup jelas. 
+ 
+Pasal 15 
+Yang dimaksud dengan “memiliki sistem yang dapat menghasilkan 
+laporan terpisah” adalah sistem yang dapat mengidentifikasikan 
+input, proses, dan output dari transaksi berdasarkan prinsip 
+syariah. 
+ 
+Pasal 16 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Rencana Pemulihan Bencana mencakup rencana pemulihan 
+pada berbagai tingkat bencana  dan/atau gangguan seperti: 
+a. 
+bencana kecil (minor disaster), yang berdampak kecil dan 
+tidak memerlukan biaya besar serta dapat diselesaikan 
+dalam jangka waktu pendek; 
+
+
+=== Halaman 49 ===
+- 11 - 
+ 
+b. 
+bencana besar (major disaster), yang berdampak besar dan 
+dapat menjadi lebih parah apabila tidak diatasi segera; dan 
+c. 
+bencana 
+katastropik 
+(catastrophic), 
+yang 
+berdampak 
+terjadinya kerusakan yang bersifat permanen sehingga 
+memerlukan relokasi atau penggantian dengan biaya yang 
+besar. 
+Ayat (3) 
+Uji coba atas Rencana Pemulihan Bencana dilakukan pada 
+berbagai tingkat bencana dan/atau gangguan. 
+Yang dimaksud dengan “infrastruktur yang kritikal” adalah 
+infrastruktur yang berdampak signifikan terhadap kegiatan 
+operasional LJKNB. Misalnya pergantian core system aplikasi, 
+server aplikasi, dan topologi jaringan. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 17 
+Huruf a 
+Yang dimaksud dengan “memperhatikan ketentuan peraturan 
+perundang-undangan” 
+antara 
+lain 
+ketentuan 
+mengenai 
+penyelenggaraan 
+usaha 
+masing-masing 
+LJKNB 
+dan 
+perlindungan konsumen.  
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+ 
+Pasal 18 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas.  
+
+
+=== Halaman 50 ===
+- 12 - 
+ 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Angka 1 
+Cukup jelas. 
+Angka 2 
+Cukup jelas. 
+Angka 3 
+Yang dimaksud dengan pihak lain yang melakukan 
+pemantauan dan koreksi penyimpangan antara lain 
+auditor eksternal. 
+Ayat (3) 
+Yang dimaksud dengan “memadai” antara lain teknologi yang 
+sesuai dengan kegiatan operasional LJKNB, sumber daya 
+manusia yang kompeten, dan struktur organisasi yang tidak 
+memberikan 
+peluang 
+untuk 
+melakukan 
+dan/atau 
+menyembunyikan kesalahan atau penyimpangan. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 19 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Penggunaan auditor eksternal untuk melaksanakan fungsi audit 
+internal atas Teknologi Informasi tidak mengurangi tanggung 
+jawab pimpinan satuan kerja audit internal. Selain itu 
+penggunaan 
+auditor 
+eksternal 
+harus 
+mempertimbangkan 
+ukuran dan kompleksitas usaha LJKNB serta memperhatikan 
+ketentuan peraturan perundang-undangan mengenai auditor 
+eksternal. 
+Dalam hal LJKNB menggunakan auditor eksternal untuk 
+melaksanakan fungsi audit internal atas Teknologi Informasi, 
+
+
+=== Halaman 51 ===
+- 13 - 
+ 
+proses 
+manajemen 
+data 
+perusahaan 
+(enterprise 
+data 
+management) tetap harus dijalankan oleh satuan kerja audit 
+internal. 
+Yang dimaksud dengan “auditor internal grup” antara lain 
+auditor internal dari pendiri bagi dana pensiun lembaga 
+keuangan. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 20 
+Cukup jelas. 
+ 
+Pasal 21 
+Ayat (1) 
+Penyelenggaraan Teknologi Informasi antara lain: 
+a. 
+aplikasi inti LJKNB; 
+b. 
+penempatan Sistem Elektronik pada Pusat Data; dan/atau 
+c. 
+penempatan Sistem Elektronik pada Pusat Pemulihan 
+Bencana. 
+Penyelenggaraan Teknologi Informasi yang dilakukan oleh pihak 
+penyedia jasa Teknologi Informasi dapat dilakukan secara 
+berkesinambungan dan/atau dalam periode tertentu. 
+LJKNB yang menyerahkan penyelenggaraan Teknologi Informasi 
+kepada pihak penyedia jasa Teknologi Informasi maka LJKNB 
+tetap disebut penyelenggara Sistem Elektronik untuk setiap 
+Sistem Elektronik yang digunakan LJKNB dalam menjalankan 
+kegiatan usahanya. 
+Ayat (2) 
+Huruf a 
+Yang dimaksud dengan “bertanggung jawab atas penerapan 
+manajemen risiko” antara lain dengan memastikan bahwa 
+penyedia jasa Teknologi Informasi menerapkan manajemen 
+risiko 
+secara 
+memadai 
+pada 
+kegiatan 
+LJKNB 
+yang 
+diselenggarakan 
+oleh 
+pihak 
+penyedia 
+jasa 
+Teknologi 
+
+
+=== Halaman 52 ===
+- 14 - 
+ 
+Informasi sesuai dengan Peraturan Otoritas Jasa Keuangan 
+ini. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Yang dimaksud dengan “analisis biaya dan manfaat”  
+adalah suatu analisis perbandingan antara biaya investasi 
+dan keuntungan yang diperoleh LJKNB dari setiap alternatif 
+pilihan penyedia jasa. 
+Hasil analisis ini menjadi salah satu pertimbangan LJKNB 
+untuk mengambil keputusan pihak penyedia jasa Teknologi 
+Informasi mana yang dipilih. 
+Huruf e 
+Yang 
+dimaksud 
+dengan 
+“secara 
+berkala” 
+adalah 
+pemantauan dan evaluasi keandalan pihak penyedia jasa 
+Teknologi Informasi sesuai dengan kebutuhan LJKNB 
+untuk menerapkan manajemen risiko dalam penggunaan 
+Teknologi Informasi secara efektif. 
+Huruf f 
+Yang 
+dimaksud 
+dengan 
+“memberikan 
+akses” 
+yaitu 
+memberikan hak untuk memperoleh data dan informasi 
+agar pemeriksaan dapat dilaksanakan secara efektif. 
+Huruf g 
+Akses terhadap Pangkalan Data antara lain penyediaan 
+terminal, user id untuk melakukan query dan mengunduh 
+data. 
+Huruf h 
+Angka 1 
+Cukup jelas. 
+Angka 2 
+Syarat ini dimaksudkan untuk meyakini bahwa Pusat 
+Data, Pusat Pemulihan Bencana, dan/atau jasa 
+Teknologi Informasi yang digunakan oleh LJKNB 
+memiliki pengendalian Teknologi Informasi yang 
+
+
+=== Halaman 53 ===
+- 15 - 
+ 
+memadai paling sedikit mencakup pengamanan fisik 
+dan pengamanan logic. 
+Angka 3 
+Akses 
+sebagaimana 
+dimaksud 
+pada 
+angka 
+ini 
+dibutuhkan untuk memperoleh data dan informasi 
+yang diperlukan secara tepat waktu setiap kali 
+dibutuhkan dalam rangka audit Teknologi Informasi, 
+audit dan/atau pemeriksaan lain. 
+Angka 4 
+Cukup jelas. 
+Angka 5 
+Informasi termasuk sistem dan perangkat yang 
+digunakan 
+untuk 
+memproses, 
+menyimpan, 
+dan 
+mengirimkan informasi, merupakan aset yang harus 
+dijamin keamanannya oleh pihak penyedia jasa 
+Teknologi Informasi dengan cara dilindungi dari 
+musuh dan ancaman bahaya yang dapat mengganggu 
+prinsip 
+kerahasiaan 
+(confidentiality), 
+integritas 
+(integrity), dan ketersediaan (availability). 
+Angka 6 
+Cukup jelas. 
+Angka 7 
+Cukup jelas. 
+Angka 8 
+Cukup jelas. 
+Angka 9 
+Cukup jelas. 
+Angka 10 
+Pemenuhan tingkat layanan dilakukan antara lain 
+dengan 
+memastikan 
+penyelenggaraan 
+Teknologi 
+Informasi 
+dapat 
+mendukung 
+LJKNB 
+beroperasi 
+sebagaimana mestinya. 
+Angka 11 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+
+
+=== Halaman 54 ===
+- 16 - 
+ 
+Ayat (4) 
+Yang dimaksud dengan “hubungan kerja sama secara wajar 
+(arm's length principle)” adalah kondisi dimana transaksi antar 
+pihak bersifat independen sebagaimana pihak yang tidak terkait, 
+antara lain memiliki kesetaraan dan didasarkan pada harga 
+pasar yang wajar sehingga meminimalisasi terjadinya benturan 
+kepentingan (conflict of interest). 
+Yang dimaksud dengan “pihak terkait” adalah pihak terkait 
+sebagaimana diatur dalam Peraturan Otoritas Jasa Keuangan 
+mengenai penyelenggaraan usaha masing-masing LJKNB. 
+Ayat (5) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “insolven” adalah keadaan tidak 
+mampu untuk membayar atau melunasi utang. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Indikasi kesulitan pengawasan antara lain: 
+a. 
+kesulitan otoritas pengawas dalam melakukan akses 
+terhadap data dan informasi; 
+b. 
+kesulitan dalam pelaksanaan pemeriksaan terhadap pihak 
+penyedia jasa Teknologi Informasi; dan/atau 
+c. 
+pihak penyedia jasa Teknologi Informasi digunakan sebagai 
+media untuk melakukan rekayasa data LJKNB dan/atau 
+rekayasa keuangan LJKNB. 
+Ayat (8) 
+Cukup jelas. 
+Ayat (9) 
+Cukup jelas. 
+Ayat (10) 
+Cukup jelas. 
+
+
+=== Halaman 55 ===
+- 17 - 
+ 
+Ayat (11) 
+Cukup jelas. 
+ 
+Pasal 22 
+Ayat (1) 
+Yang dimaksud dengan “rekam cadang” adalah proses membuat 
+data cadangan (back up data) dengan cara menyalin atau 
+membuat arsip data komputer dalam media penyimpan 
+elektronik, antara lain pada media penyimpan seperti hard disk, 
+flash disk, dan/atau compact disk, sehingga data tersebut dapat 
+ditampilkan kembali.  
+Media penyimpan tidak termasuk media penyimpan online 
+publik. 
+Yang dimaksud dengan “secara berkala” adalah pemantauan 
+dan evaluasi keandalan pihak penyedia jasa Teknologi Informasi 
+sesuai 
+dengan 
+kebutuhan 
+LJKNB 
+untuk 
+menerapkan 
+manajemen risiko dalam penggunaan Teknologi Informasi secara 
+efektif. 
+Rekam cadang bertujuan untuk mengembalikan data jika data 
+tersebut hilang, baik karena terhapus atau rusak (corrupt), serta 
+untuk mengembalikan data ke posisi tertentu. 
+Ayat (2) 
+Huruf a 
+Yang dimaksud dengan “memiliki Pusat Data” adalah 
+LJKNB memiliki Pusat Data secara mandiri dan/atau 
+bekerja sama/menyewa dari pihak penyedia jasa Teknologi 
+Informasi. 
+Huruf b 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Huruf a 
+Cukup jelas. 
+ 
+ 
+ 
+
+
+=== Halaman 56 ===
+- 18 - 
+ 
+Huruf b 
+Yang dimaksud dengan “mayoritas penyelenggaraan 
+usahanya dilakukan dengan menggunakan Teknologi 
+Informasi” antara lain: 
+a. 
+penyelenggara layanan pinjam meminjam uang 
+berbasis teknologi informasi;  
+b. 
+perusahaan asuransi dan perusahaan asuransi 
+syariah 
+yang 
+mayoritas 
+pendapatan 
+premi/kontribusi atau jumlah nasabahnya diperoleh 
+dari penggunaan Teknologi Informasi;  
+c. 
+perusahaan pialang asuransi dan pialang reasuransi 
+yang mayoritas pendapatan jasa keperantaraannya 
+diperoleh dari penggunaan Teknologi Informasi;  
+d. 
+lembaga jasa keuangan yang kegiatan usahanya 
+melakukan penyaluran pembiayaan yang mayoritas 
+penyaluran pembiayaan atau jumlah nasabahnya 
+diperoleh dari penggunaan Teknologi Informasi; 
+e. 
+dana 
+pensiun 
+yang 
+mayoritas 
+pengisian 
+dan 
+pemutakhiran data peserta, serta penyampaian 
+informasi pengembangan dana pesertanya telah 
+menggunakan Teknologi Informasi; 
+f. 
+perusahaan pergadaian yang mayoritas penyaluran 
+pinjaman atau jumlah nasabahnya diperoleh dari 
+penggunaan Teknologi Informasi; dan 
+g. 
+perusahaan 
+penjaminan 
+dan 
+perusahaan 
+penjaminan syariah yang mayoritas pendapatan 
+imbal jasa penjaminan atau jumlah nasabahnya 
+diperoleh dari penggunaan Teknologi Informasi. 
+Ayat (5) 
+Contoh, LJKNB yang memiliki total aset Rp150.000.000.000,00 
+(seratus lima puluh miliar rupiah) dapat diminta untuk memiliki 
+Pusat Data jika rekam cadang data dinilai tidak cukup untuk 
+mendukung kelancaran kegiatan usaha LJKNB. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+
+
+=== Halaman 57 ===
+- 19 - 
+ 
+Ayat (8) 
+LJKNB yang wajib memiliki Pusat Data dan Pusat Pemulihan 
+Bencana tetap wajib memenuhi kewajiban tersebut meskipun 
+aset LJKNB turun menjadi kurang dari Rp1.000.000.000.000,00 
+(satu triliun rupiah). 
+ 
+Pasal 23 
+Ayat (1) 
+Pusat Data dapat berwujud suatu fasilitas dan/atau lokasi yang 
+dipergunakan untuk menempatkan sistem komputer serta 
+elemen yang berkaitan antara lain sistem komunikasi data dan 
+penyimpanan data. 
+Pusat Pemulihan Bencana dapat berwujud suatu fasilitas 
+dan/atau lokasi cadangan penempatan sistem komputer serta 
+elemen yang berkaitan, yang digunakan untuk menghadapi 
+bencana yang disebabkan oleh alam atau manusia yang 
+dihadapi perusahaan.   
+Ayat (2) 
+Contoh faktor geografis yaitu lokasi Pusat Pemulihan Bencana 
+tidak berlokasi di wilayah rawan gempa, banjir, atau petir dan 
+terhubung dengan infrastruktur komunikasi dan listrik yang 
+berbeda dengan Pusat Data, serta fasilitas lain yang diperlukan 
+untuk tetap berjalannya suatu sistem. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Pelayanan terhadap konsumen secara  global tersebut 
+berupa Sistem Elektronik front end yang digunakan 
+LJKNB atau konsumen untuk mendapatkan layanan 
+yang disediakan secara global bagi seluruh konsumennya 
+
+
+=== Halaman 58 ===
+- 20 - 
+ 
+baik di dalam/luar negeri. Adapun sistem elektronik 
+akhir yang memproses dan/atau menyimpan data 
+individu, akun dan/atau transaksi konsumen tidak 
+termasuk dalam lingkup pelayanan ini. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Sistem Elektronik yang digunakan untuk manajemen 
+internal tidak berkaitan dengan operasional LJKNB 
+dan/atau pelayanan kepada konsumen. 
+Sistem Elektronik yang digunakan untuk manajemen 
+internal antara lain terkait kepegawaian, remunerasi, 
+dan/atau audit internal. 
+Ayat (5) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “risiko negara” (country risk) 
+adalah segala kemungkinan yang muncul pada suatu 
+negara 
+yang 
+dapat 
+menimbulkan 
+kerugian 
+yang 
+berdampak kepada LJKNB yang menempatkan Sistem 
+Elektronik pada Pusat Data dan/atau Pusat Pemulihan 
+Bencana di negara tersebut, contohnya ketidakstabilan 
+kondisi politik dan ekonomi, rawan bencana, perang, dan 
+lain-lain. 
+Huruf c 
+Yang dimaksud dengan “tidak mengurangi efektivitas 
+pengawasan Otoritas Jasa Keuangan” adalah tidak 
+menimbulkan kesulitan pengawas dalam memperoleh 
+data dan informasi yang diperlukan seperti adanya akses 
+terhadap 
+Pangkalan 
+Data 
+dan 
+memiliki 
+struktur 
+Pangkalan Data dari setiap aplikasi yang digunakan. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+ 
+
+
+=== Halaman 59 ===
+- 21 - 
+ 
+Huruf f 
+Surat pernyataan disampaikan jika pihak penyedia jasa 
+Teknologi Informasi memiliki otoritas pengawasan. 
+Huruf g 
+Yang dimaksud dengan “perusahaan induk LJKNB di 
+luar wilayah Indonesia” adalah lembaga keuangan atau 
+perusahaan asing yang berada di luar wilayah Indonesia 
+yang memiliki anak perusahaan berupa LJKNB di 
+Indonesia. 
+Huruf h 
+Manfaat yang diharapkan antara lain peningkatan 
+kualitas layanan kepada konsumen serta penerapan 
+program 
+anti 
+pencucian 
+uang 
+dan 
+pencegahan 
+pendanaan terorisme. 
+Huruf i 
+Cukup jelas. 
+Ayat (6)  
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+Ayat (8) 
+Cukup jelas. 
+Ayat (9) 
+Cukup jelas. 
+Ayat (10) 
+Cukup jelas. 
+ 
+Pasal 24 
+Yang dimaksud dengan “menjamin kelangsungan usaha” adalah 
+memastikan bahwa kelangsungan usaha tetap dapat berjalan 
+sebagaimana mestinya ketika terjadi bencana atau gangguan, 
+termasuk menjamin kesiapan Sistem Elektronik yang terdapat 
+dalam Pusat Data dan Pusat Pemulihan Bencana. 
+ 
+Pasal 25 
+Ayat (1) 
+Cukup jelas. 
+
+
+=== Halaman 60 ===
+- 22 - 
+ 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3)  
+Huruf a 
+Yang dimaksud dengan “prinsip kehati-hatian” antara lain 
+mengenai pengelolaan risiko pengembangan atau perluasan 
+kegiatan usaha sebagaimana diatur dalam ketentuan 
+mengenai manajemen risiko LJKNB. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+ 
+Pasal 26 
+Cukup jelas. 
+ 
+Pasal 27 
+Yang dimaksud dengan “ketentuan Otoritas Jasa Keuangan” adalah 
+semua ketentuan Otoritas Jasa Keuangan yang berlaku untuk 
+masing-masing LJKNB antara lain Peraturan Otoritas Jasa 
+Keuangan mengenai penyelenggaraan usaha masing-masing LJKNB 
+dan Peraturan Otoritas Jasa Keuangan mengenai penerapan 
+program 
+anti 
+pencucian 
+uang 
+dan 
+pencegahan 
+pendanaan 
+terorisme. 
+ 
+Pasal 28 
+Ayat (1) 
+Yang dimaksud dengan “produk Layanan Keuangan Elektronik” 
+adalah produk keuangan dan/atau kegiatan usaha yang 
+transaksinya dilakukan secara elektronik. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 29 
+Ayat (1) 
+Cukup jelas. 
+ 
+
+
+=== Halaman 61 ===
+- 23 - 
+ 
+Ayat (2) 
+Huruf a 
+LJKNB memastikan bahwa metode dan prosedur yang 
+digunakan 
+dapat 
+melindungi 
+kerahasiaan 
+data 
+konsumen. 
+Huruf b 
+LJKNB memastikan bahwa metode dan prosedur yang 
+digunakan mampu menjamin data yang digunakan 
+akurat, andal, konsisten, dan terbukti kebenarannya 
+sehingga 
+terhindar 
+dari 
+kesalahan, 
+kecurangan, 
+manipulasi, penyalahgunaan, dan perusakan data. 
+Huruf c 
+LJKNB memastikan ketersediaan layanan dan Sistem 
+Elektronik yang digunakan dapat menghasilkan data 
+konsumen secara berkesinambungan. 
+Huruf d 
+LJKNB dapat menguji keaslian identitas konsumen 
+untuk 
+memastikan 
+informasi 
+yang 
+disampaikan 
+dan/atau transaksi keuangan dilakukan oleh konsumen 
+yang berhak. 
+Huruf e 
+LJKNB 
+harus 
+menyusun, 
+menetapkan, 
+dan 
+melaksanakan prosedur yang dapat memastikan bahwa 
+transaksi yang telah dilakukan konsumen tidak dapat 
+diingkari dan dapat dipertanggungjawabkan. 
+Huruf f 
+LJKNB memastikan: 
+a. 
+adanya pengendalian terhadap hak akses dan 
+otorisasi yang tepat terhadap sistem, Pangkalan 
+Data, 
+dan 
+aplikasi 
+yang 
+digunakan 
+dalam 
+penyelenggaraan Teknologi Informasi; dan 
+b. 
+seluruh 
+informasi 
+dan 
+data 
+penyelenggaraan 
+Teknologi Informasi yang bersifat rahasia hanya 
+dapat diakses oleh pihak yang telah memiliki 
+otorisasi serta harus dipelihara secara aman dan 
+dilindungi 
+dari 
+kemungkinan 
+diketahui 
+atau 
+dimodifikasi oleh pihak yang tidak berwenang. 
+
+
+=== Halaman 62 ===
+- 24 - 
+ 
+Huruf g 
+LJKNB memastikan terdapat pemisahan tugas dan 
+tanggung jawab terkait sistem, Pangkalan Data, dan 
+aplikasi 
+yang 
+digunakan 
+dalam 
+penyelenggaraan 
+Teknologi Informasi untuk terlaksananya fungsi check 
+and balance, misalnya terdapat pemisahan tugas antara 
+pihak yang menginisiasi data dengan pihak yang 
+bertanggung 
+jawab 
+untuk 
+memverifikasi 
+dan/atau 
+mengotorisasi kebenaran data tersebut. 
+Huruf h 
+LJKNB memastikan ketersediaan dan pemeliharaan log 
+transaksi sesuai dengan kebijakan retensi data dan 
+ketentuan peraturan perundang-undangan, agar terdapat 
+jejak audit yang jelas untuk membantu pembuktian, 
+penyelesaian 
+perselisihan, 
+dan 
+pendeteksian 
+usaha 
+penyusupan pada Sistem Elektronik. 
+ 
+Pasal 30 
+Cukup jelas. 
+ 
+Pasal 31 
+Ayat (1) 
+Yang dimaksud dengan “kejadian kritis” adalah kejadian yang 
+menambah eksposur risiko secara signifikan, antara lain: 
+a. 
+kegagalan sistem yang serius, system downtime, dan 
+degradasi kinerja sistem yang memengaruhi kinerja LJKNB 
+dalam memberikan pelayanan kepada konsumen; dan 
+b. 
+kejadian yang menimbulkan kebocoran data konsumen. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 32 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Penyediaan akses kepada Otoritas Jasa Keuangan dimaksudkan 
+agar 
+pengawasan 
+oleh 
+Otoritas 
+Jasa 
+Keuangan 
+dapat 
+
+
+=== Halaman 63 ===
+- 25 - 
+ 
+dilaksanakan secara efektif antara lain memastikan integritas, 
+validitas, ketersediaan, dan keaslian data setiap transaksi yang 
+dilakukan oleh LJKNB. Akses kepada Otoritas Jasa Keuangan 
+termasuk akses terhadap: 
+a. 
+Pangkalan Data baik untuk data terkini maupun untuk 
+data yang telah lalu; dan 
+b. 
+infrastruktur pendukung. 
+ 
+Pasal 33  
+Cukup jelas. 
+ 
+Pasal 34 
+Cukup jelas. 
+ 
+Pasal 35 
+Cukup jelas. 
+ 
+Pasal 36 
+Cukup jelas. 
+ 
+Pasal 37 
+Cukup jelas. 
+ 
+Pasal 38 
+Cukup jelas. 
+ 
+Pasal 39 
+Cukup jelas. 
+ 
+Pasal 40 
+Cukup jelas. 
+ 
+Pasal 41 
+Perhitungan total aset menggunakan informasi total aset yang 
+terdapat di dalam laporan berkala terkini yang disampaikan kepada 
+Otoritas Jasa Keuangan sesuai dengan ketentuan peraturan Otoritas 
+
+
+=== Halaman 64 ===
+- 26 - 
+ 
+Jasa 
+Keuangan 
+mengenai 
+laporan 
+bulanan 
+dan/atau 
+penyelenggaraan usaha masing–masing LJKNB. 
+Dalam hal LJKNB memenuhi kriteria nilai aset sesuai kelompok 
+dalam ketentuan ini, keberlakuan Peraturan Otoritas Jasa Keuangan 
+ini mengacu pada kelompok dimaksud.  
+Sebagai contoh: 
+Peraturan Otoritas Jasa Keuangan ini diundangkan pada tanggal 1 
+Maret 2021. Apabila pada tanggal 1 Februari 2022 LJKNB memiliki 
+total aset sebesar Rp900.000.000.000,00 (sembilan ratus miliar 
+rupiah), pada tanggal 1 Maret 2022 Peraturan Otoritas Jasa 
+Keuangan ini belum berlaku bagi LJNB dimaksud. 
+Apabila pada tanggal 1 April 2022 total aset LJKNB tersebut naik 
+menjadi sebesar Rp1.000.000.000.000,00 (satu triliun rupiah), maka 
+Peraturan Otoritas Jasa Keuangan ini otomatis berlaku sejak tanggal 
+1 April 2022. 
+ 
+Pasal 42 
+Cukup jelas. 
+ 
+Pasal 43 
+Cukup jelas. 
+ 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6668 
+
+
+=== Halaman 65 ===
+LAMPIRAN  
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 4 /POJK.05/2021 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO DALAM 
+PENGGUNAAN TEKNOLOGI INFORMASI 
+OLEH 
+LEMBAGA 
+JASA 
+KEUANGAN 
+NONBANK 
+ 
+ 
+FORMAT LAPORAN KEJADIAN KRITIS, PENYALAHGUNAAN, DAN/ATAU 
+KEJAHATAN DALAM PENYELENGGARAAN TEKNOLOGI INFORMASI 
+ 
+Nama LJKNB 
+: 
+ 
+Alamat Kantor Pusat LJKNB : 
+ 
+Nama Penanggung Jawab 
+: 
+ 
+Jabatan Penanggung Jawab 
+: 
+ 
+Tanggal Kejadian 
+: 
+ 
+Tanggal Laporan 
+: 
+ 
+ 
+1. Kategori Kejadian Kritis, Penyalahgunaan, dan/atau Kejahatan1):    
+          Kegagalan sistem yang serius, system downtime, dan degradasi 
+kinerja 
+sistem 
+yang 
+memengaruhi 
+kinerja 
+LJKNB 
+dalam 
+memberikan pelayanan kepada konsumen 
+         Kejadian yang menimbulkan kebocoran data konsumen 
+         Lainnya: …………………………………………………………… 
+                       …………………………………………………………… 
+ 
+2. Kronologis Kejadian 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+ 
+3. Apakah Terdapat Unsur Kesengajaan? (Ya/Tidak)2) 
+Penjelasan: 
+……………………………………………………………………………………………… 
+
+
+=== Halaman 66 ===
+-2- 
+ 
+Salinan ini sesuai dengan aslinya 
+Direktur Hukum 1 
+Departemen Hukum 
+ 
+ttd 
+ 
+Mufli Asmawidjaja 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+ 
+4. Dampak yang Ditimbulkan 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+ 
+ 
+5. Rencana Tindak yang Akan Dilakukan 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+ 
+6. Informasi Tambahan Lainnya3) 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+……………………………………………………………………………………………… 
+ 
+Keterangan: 
+1) 
+: 
+Dapat dipilih lebih dari 1 (satu) 
+2) 
+: 
+Coret yang tidak perlu 
+3) 
+: 
+Dapat dilakukan dengan melampirkan dokumen pendukung 
+ 
+ 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 9 Maret 2021 
+ 
+KETUA DEWAN KOMISIONER 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA, 
+ 
+ttd 
+ 
+WIMBOH SANTOSO 
+    
+      
+
+

@@ -1,0 +1,2352 @@
+=== Halaman 1 ===
+ 
+ 
+SALINAN 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 23 /POJK.03/2018 
+TENTANG  
+PENERAPAN MANAJEMEN RISIKO BAGI  
+BANK PEMBIAYAAN RAKYAT SYARIAH 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+ 
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN,  
+ 
+ 
+Menimbang  :  a. 
+bahwa semakin kompleks produk dan aktivitas bank 
+pembiayaan rakyat syariah mengakibatkan risiko yang 
+dihadapi bank pembiayaan rakyat syariah semakin 
+meningkat; 
+ 
+ b.  bahwa semakin meningkat risiko yang dihadapi bank 
+pembiayaan rakyat syariah mengakibatkan peningkatan 
+kebutuhan terhadap pengaturan penerapan manajemen 
+risiko bagi bank pembiayaan rakyat syariah sebagaimana 
+dimaksud dalam Pasal 69 Undang-Undang Nomor 21 
+Tahun 2011 tentang Otoritas Jasa Keuangan; 
+ 
+ c.   bahwa penerapan manajemen risiko merupakan salah 
+satu upaya memperkuat kelembagaan dan meningkatkan 
+reputasi industri bank pembiayaan rakyat syariah sesuai 
+dengan arah kebijakan pengembangan bank pembiayaan 
+rakyat syariah sehingga dapat menciptakan sektor 
+keuangan yang tumbuh secara berkelanjutan dan stabil 
+serta memiliki daya saing yang tinggi; 
+
+
+=== Halaman 2 ===
+- 2 - 
+ 
+ 
+ d. 
+bahwa 
+berdasarkan 
+pertimbangan 
+sebagaimana 
+dimaksud dalam huruf a sampai dengan huruf c, perlu 
+menetapkan Peraturan Otoritas Jasa Keuangan tentang 
+Penerapan Manajemen Risiko bagi Bank Pembiayaan 
+Rakyat Syariah;  
+Mengingat  
+:  1. 
+Undang-Undang 
+Nomor 
+21 
+Tahun 
+2008 
+tentang 
+Perbankan Syariah (Lembaran Negara Republik Indonesia 
+Tahun 2008 Nomor 94, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 4867); 
+ 
+ 2. 
+Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas 
+Jasa Keuangan (Lembaran Negara Republik Indonesia 
+Tahun 2011 Nomor 111, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 5253); 
+ 
+MEMUTUSKAN: 
+Menetapkan : PERATURAN 
+OTORITAS 
+JASA 
+KEUANGAN 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI BANK PEMBIAYAAN 
+RAKYAT SYARIAH. 
+ 
+BAB I  
+KETENTUAN UMUM  
+ 
+Pasal 1  
+Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud 
+dengan: 
+1. 
+Bank Pembiayaan Rakyat Syariah yang selanjutnya 
+disingkat BPRS adalah bank syariah yang dalam 
+kegiatannya tidak memberikan jasa dalam lalu lintas 
+pembayaran. 
+2. 
+Direksi adalah organ perseroan yang berwenang dan 
+bertanggung jawab penuh atas pengurusan perseroan 
+untuk kepentingan perseroan, sesuai dengan maksud 
+dan tujuan perseroan serta mewakili perseroan, baik di 
+dalam maupun di luar pengadilan sesuai dengan 
+ketentuan anggaran dasar. 
+3. 
+Dewan Komisaris adalah organ perseroan yang bertugas 
+melakukan pengawasan secara umum dan/atau khusus 
+
+
+=== Halaman 3 ===
+- 3 - 
+ 
+sesuai dengan anggaran dasar serta memberi nasihat 
+kepada Direksi. 
+4. 
+Dewan Pengawas Syariah adalah dewan yang bertugas 
+memberikan nasihat dan saran kepada Direksi serta 
+mengawasi kegiatan BPRS agar sesuai dengan prinsip 
+syariah. 
+5. 
+Prinsip Syariah adalah prinsip hukum Islam dalam 
+kegiatan perbankan berdasarkan fatwa yang dikeluarkan 
+oleh 
+lembaga 
+yang 
+memiliki 
+kewenangan 
+dalam 
+penetapan fatwa di bidang syariah. 
+6. 
+Pejabat Eksekutif adalah pejabat yang bertanggung jawab 
+langsung kepada Direksi atau mempunyai pengaruh 
+terhadap kebijakan dan operasional BPRS. 
+7. 
+Risiko adalah potensi kerugian akibat terjadinya suatu 
+peristiwa tertentu. 
+8. 
+Manajemen Risiko adalah serangkaian metodologi dan 
+prosedur 
+yang 
+digunakan 
+untuk 
+mengidentifikasi, 
+mengukur, memantau, dan mengendalikan Risiko yang 
+timbul dari seluruh kegiatan usaha BPRS. 
+ 
+BAB II 
+RUANG LINGKUP MANAJEMEN RISIKO 
+ 
+Pasal 2  
+(1) 
+BPRS wajib menerapkan Manajemen Risiko secara efektif 
+sebagaimana dimaksud dalam Peraturan Otoritas Jasa 
+Keuangan ini. 
+(2) 
+Penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) paling sedikit mencakup: 
+a. 
+pengawasan aktif Direksi, Dewan Komisaris, dan 
+Dewan Pengawas Syariah; 
+b. 
+kecukupan kebijakan dan prosedur Manajemen 
+Risiko serta penetapan limit Risiko; 
+c. 
+kecukupan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko serta sistem 
+informasi Manajemen Risiko; dan 
+d. 
+sistem pengendalian intern yang menyeluruh. 
+
+
+=== Halaman 4 ===
+- 4 - 
+ 
+(3) 
+Ketentuan lebih lanjut mengenai penerapan Manajemen 
+Risiko sebagaimana dimaksud pada ayat (2) diatur 
+dengan Surat Edaran Otoritas Jasa Keuangan. 
+ 
+Pasal 3 
+(1) 
+Risiko yang harus dikelola dalam penerapan Manajemen 
+Risiko meliputi: 
+a. 
+Risiko kredit; 
+b. 
+Risiko operasional; 
+c. 
+Risiko kepatuhan; 
+d. 
+Risiko likuiditas; 
+e. 
+Risiko reputasi; dan 
+f. 
+Risiko strategis. 
+(2) 
+BPRS 
+yang 
+memiliki 
+modal 
+inti 
+paling 
+sedikit 
+Rp50.000.000.000,00 (lima puluh miliar rupiah) wajib 
+menerapkan Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 2 untuk seluruh jenis Risiko sebagaimana 
+dimaksud pada ayat (1). 
+(3) 
+BPRS 
+yang 
+memiliki 
+modal 
+inti 
+kurang 
+dari 
+Rp50.000.000.000,00 (lima puluh miliar rupiah) wajib 
+menerapkan Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 2 paling sedikit untuk 4 (empat) Risiko 
+sebagaimana dimaksud pada ayat (1) huruf a sampai 
+dengan huruf d. 
+ 
+BAB III 
+PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS,  
+DAN DEWAN PENGAWAS SYARIAH 
+ 
+Pasal 4 
+BPRS wajib menetapkan wewenang dan tanggung jawab yang 
+jelas pada setiap jenjang jabatan yang terkait dengan 
+penerapan 
+Manajemen 
+Risiko 
+untuk 
+pengawasan 
+aktif 
+Direksi, Dewan Komisaris, dan Dewan Pengawas Syariah 
+sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf a. 
+ 
+ 
+
+
+=== Halaman 5 ===
+- 5 - 
+ 
+Pasal 5  
+(1) 
+Wewenang dan tanggung jawab Direksi sebagaimana 
+dimaksud dalam Pasal 4 paling sedikit mencakup: 
+a. 
+menyusun 
+kebijakan 
+dan 
+pedoman 
+penerapan 
+Manajemen Risiko secara tertulis; 
+b. 
+mengevaluasi dan memutuskan transaksi yang 
+memerlukan persetujuan Direksi; 
+c. 
+mengembangkan budaya Manajemen Risiko pada 
+seluruh jenjang organisasi; 
+d. 
+memastikan peningkatan kompetensi sumber daya 
+manusia yang terkait dengan Manajemen Risiko; 
+e. 
+memastikan bahwa fungsi Manajemen Risiko telah 
+beroperasi secara independen; dan 
+f. 
+bertanggung jawab atas: 
+1) 
+pelaksanaan kebijakan Manajemen Risiko; dan   
+2) 
+eksposur Risiko yang diambil BPRS secara 
+keseluruhan. 
+(2) 
+Untuk melaksanakan wewenang dan tanggung jawab 
+sebagaimana dimaksud pada ayat (1), Direksi harus 
+memiliki pemahaman yang memadai mengenai Risiko 
+yang melekat pada seluruh aktivitas fungsional BPRS dan 
+mampu mengambil tindakan yang diperlukan sesuai 
+dengan profil Risiko BPRS. 
+ 
+Pasal 6  
+Wewenang 
+dan 
+tanggung 
+jawab 
+Dewan 
+Komisaris 
+sebagaimana 
+dimaksud 
+dalam 
+Pasal 
+4 
+paling 
+sedikit 
+mencakup: 
+a. 
+menyetujui dan mengevaluasi kebijakan Manajemen 
+Risiko; 
+b. 
+memastikan penerapan Manajemen Risiko oleh Direksi; 
+c. 
+mengevaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan kebijakan Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 5 ayat (1) huruf f angka 1); dan 
+d. 
+mengevaluasi dan memutuskan permohonan Direksi 
+yang berkaitan dengan transaksi yang memerlukan 
+persetujuan Dewan Komisaris. 
+
+
+=== Halaman 6 ===
+- 6 - 
+ 
+Pasal 7 
+Wewenang dan tanggung jawab Dewan Pengawas Syariah 
+sebagaimana 
+dimaksud 
+dalam 
+Pasal 
+4 
+paling 
+sedikit 
+mencakup: 
+a. 
+mengevaluasi kebijakan Manajemen Risiko yang terkait 
+dengan pemenuhan Prinsip Syariah; dan 
+b. 
+mengevaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan kebijakan Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 5 ayat (1) huruf f angka 1) yang 
+terkait dengan pemenuhan Prinsip Syariah. 
+ 
+BAB IV 
+KEBIJAKAN MANAJEMEN RISIKO, PROSEDUR MANAJEMEN 
+RISIKO, DAN PENETAPAN LIMIT RISIKO 
+ 
+Pasal 8 
+Kecukupan 
+kebijakan 
+Manajemen 
+Risiko 
+sebagaimana 
+dimaksud dalam Pasal 2 ayat (2) huruf b paling sedikit 
+mencakup: 
+a. 
+penetapan Risiko yang terkait dengan kegiatan usaha, 
+produk, dan layanan BPRS; 
+b. 
+penetapan sistem informasi Manajemen Risiko; 
+c. 
+penentuan limit dan penetapan toleransi Risiko; 
+d. 
+penetapan penilaian peringkat Risiko; 
+e. 
+penyusunan rencana darurat dalam kondisi terburuk 
+atau rencana kontingensi; dan 
+f. 
+penetapan sistem pengendalian intern dalam penerapan 
+Manajemen Risiko. 
+ 
+Pasal 9 
+(1) 
+Kecukupan prosedur Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 2 ayat (2) huruf b paling sedikit 
+mencakup: 
+a. 
+jenjang delegasi wewenang dan pertanggungjawaban 
+yang jelas; dan 
+b. 
+dokumentasi 
+prosedur 
+Manajemen 
+Risiko 
+dan 
+penetapan limit Risiko yang memadai. 
+
+
+=== Halaman 7 ===
+- 7 - 
+ 
+(2) 
+Penetapan limit Risiko sebagaimana dimaksud dalam 
+Pasal 2 ayat (2) huruf b meliputi: 
+a. 
+limit secara keseluruhan; 
+b. 
+limit per jenis Risiko; dan 
+c. 
+limit per aktivitas fungsional tertentu yang memiliki 
+eksposur Risiko. 
+ 
+BAB V 
+PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, 
+DAN PENGENDALIAN RISIKO, SERTA SISTEM INFORMASI 
+MANAJEMEN RISIKO 
+ 
+Pasal 10 
+(1) BPRS wajib melakukan proses identifikasi, pengukuran, 
+pemantauan, dan pengendalian Risiko sebagaimana 
+dimaksud dalam Pasal 2 ayat (2) huruf c terhadap 
+seluruh faktor Risiko yang bersifat material. 
+(2) Pelaksanaan 
+proses 
+identifikasi, 
+pengukuran, 
+pemantauan, dan pengendalian Risiko sebagaimana 
+dimaksud pada ayat (1) wajib didukung oleh: 
+a. 
+sistem informasi manajemen yang memadai; dan 
+b. 
+laporan yang akurat dan informatif mengenai 
+kondisi keuangan, kinerja aktivitas fungsional dan 
+eksposur Risiko BPRS. 
+ 
+Pasal 11 
+(1) 
+BPRS melaksanakan proses identifikasi Risiko paling 
+sedikit dengan melakukan analisis terhadap: 
+a. 
+karakteristik Risiko yang melekat pada BPRS; dan 
+b. 
+Risiko dari kegiatan usaha, produk, dan layanan 
+BPRS. 
+(2) 
+BPRS melaksanakan pengukuran Risiko paling sedikit 
+dengan melakukan: 
+a. 
+evaluasi terhadap kesesuaian asumsi, sumber data, 
+dan prosedur yang digunakan untuk mengukur 
+Risiko; dan 
+
+
+=== Halaman 8 ===
+- 8 - 
+ 
+b. 
+penyesuaian terhadap proses pengukuran Risiko 
+apabila terdapat perubahan yang bersifat material 
+pada kegiatan usaha, produk, transaksi, dan faktor 
+Risiko. 
+(3) 
+BPRS melaksanakan pemantauan Risiko paling sedikit 
+dengan melakukan: 
+a. 
+evaluasi terhadap eksposur Risiko; dan 
+b. 
+penyesuaian proses pelaporan apabila terdapat 
+perubahan yang bersifat material pada kegiatan 
+usaha, produk, transaksi, faktor Risiko, teknologi 
+informasi, dan sistem informasi Manajemen Risiko 
+BPRS. 
+(4) 
+BPRS melaksanakan pengendalian Risiko paling sedikit 
+dengan melakukan evaluasi terhadap teknik mitigasi 
+Risiko 
+untuk 
+mengelola 
+Risiko 
+yang 
+dapat 
+membahayakan kelangsungan usaha BPRS. 
+ 
+Pasal 12 
+(1) 
+Kecukupan 
+sistem 
+informasi 
+Manajemen 
+Risiko 
+sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf c, 
+paling 
+sedikit 
+mencakup 
+laporan 
+atau 
+informasi 
+mengenai: 
+a. 
+eksposur Risiko; 
+b. 
+kepatuhan 
+terhadap 
+kecukupan 
+kebijakan 
+Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 8; 
+c. 
+kepatuhan 
+terhadap 
+kecukupan 
+prosedur 
+Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 9; dan 
+d. 
+realisasi penerapan Manajemen Risiko dibandingkan 
+dengan target yang ditetapkan. 
+(2) 
+Laporan atau informasi yang dihasilkan dari sistem 
+informasi Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) disampaikan secara berkala kepada Direksi. 
+ 
+ 
+ 
+
+
+=== Halaman 9 ===
+- 9 - 
+ 
+BAB VI 
+SISTEM PENGENDALIAN INTERN 
+ 
+Pasal 13 
+BPRS wajib melaksanakan sistem pengendalian intern yang 
+menyeluruh secara efektif terhadap pelaksanaan kegiatan 
+usaha dan operasional pada seluruh jenjang organisasi BPRS. 
+ 
+Pasal 14 
+Pelaksanaan sistem pengendalian intern yang menyeluruh 
+sebagaimana dimaksud dalam Pasal 13 paling sedikit mampu 
+secara tepat waktu mendeteksi kelemahan dan penyimpangan 
+yang terjadi. 
+ 
+Pasal 15 
+(1) 
+Sistem 
+pengendalian 
+intern 
+yang 
+menyeluruh 
+sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf d 
+paling sedikit mencakup: 
+a. 
+kesesuaian sistem pengendalian intern dengan jenis 
+dan tingkat Risiko yang melekat pada kegiatan 
+usaha dan jenis layanan BPRS; 
+b. 
+penetapan wewenang dan tanggung jawab untuk 
+pemantauan 
+kepatuhan 
+terhadap 
+kecukupan 
+kebijakan Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 8; 
+c. 
+penetapan wewenang dan tanggung jawab untuk 
+pemantauan 
+kepatuhan 
+terhadap 
+kecukupan 
+prosedur Manajemen Risiko dan penetapan limit 
+Risiko sebagaimana dimaksud dalam Pasal 9; 
+d. 
+penetapan jalur pelaporan dan pemisahan fungsi 
+yang jelas; 
+e. 
+struktur organisasi yang menggambarkan secara 
+jelas kegiatan usaha BPRS; 
+f. 
+pelaporan keuangan dan kegiatan operasional yang 
+akurat dan tepat waktu; 
+
+
+=== Halaman 10 ===
+- 10 - 
+ 
+g. 
+kecukupan prosedur untuk memastikan kepatuhan 
+BPRS terhadap ketentuan peraturan perundang-
+undangan, kebijakan, dan ketentuan intern BPRS; 
+h. 
+dokumentasi secara lengkap dan memadai; dan 
+i. 
+verifikasi 
+dan 
+kaji 
+ulang 
+terhadap 
+sistem 
+pengendalian intern. 
+(2) 
+Penilaian terhadap sistem pengendalian intern yang 
+menyeluruh sebagaimana dimaksud pada ayat (1) 
+dilakukan oleh satuan kerja audit intern atau Pejabat 
+Eksekutif yang ditunjuk bertanggung jawab terhadap 
+pelaksanaan fungsi audit intern. 
+ 
+BAB VII 
+ORGANISASI DAN FUNGSI MANAJEMEN RISIKO 
+ 
+Pasal 16 
+(1) 
+BPRS 
+yang 
+memiliki 
+modal 
+inti 
+paling 
+sedikit 
+Rp80.000.000.000,00 (delapan puluh miliar rupiah) wajib 
+membentuk: 
+a. 
+komite Manajemen Risiko; dan 
+b. 
+satuan kerja Manajemen Risiko. 
+(2) 
+BPRS 
+yang 
+memiliki 
+modal 
+inti 
+paling 
+sedikit 
+Rp50.000.000.000,00 (lima puluh miliar rupiah) dan 
+kurang dari Rp80.000.000.000,00 (delapan puluh miliar 
+rupiah) wajib membentuk satuan kerja Manajemen 
+Risiko. 
+(3) 
+BPRS 
+yang 
+memiliki 
+modal 
+inti 
+kurang 
+dari 
+Rp50.000.000.000,00 (lima puluh miliar rupiah) wajib 
+menunjuk paling sedikit 1 (satu) orang Pejabat Eksekutif 
+yang bertanggung jawab terhadap pelaksanaan fungsi 
+Manajemen Risiko. 
+(4) 
+BPRS 
+dengan 
+modal 
+inti 
+kurang 
+dari 
+Rp80.000.000.000,00 (delapan puluh miliar rupiah) 
+dapat membentuk komite Manajemen Risiko. 
+(5) 
+Pembentukan komite Manajemen Risiko, satuan kerja 
+Manajemen Risiko, dan/atau penunjukan 1 (satu) orang 
+Pejabat Eksekutif yang bertanggung jawab terhadap 
+
+
+=== Halaman 11 ===
+- 11 - 
+ 
+pelaksanaan fungsi Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) sampai dengan ayat (3) 
+dilaksanakan paling lambat pada tanggal 31 Desember 
+2021. 
+ 
+Pasal 17 
+(1) 
+Komite Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 16 ayat (1) huruf a dan ayat (4), paling sedikit 
+terdiri dari: 
+a. 
+mayoritas anggota Direksi; dan 
+b. 
+Pejabat Eksekutif terkait. 
+(2) 
+Wewenang dan tanggung jawab komite Manajemen Risiko 
+sebagaimana dimaksud pada ayat (1) memberikan 
+rekomendasi kepada direktur utama paling sedikit 
+mencakup: 
+a. 
+penyusunan kebijakan dan pedoman penerapan 
+Manajemen Risiko; 
+b. 
+perbaikan dan/atau penyempurnaan pelaksanaan 
+Manajemen 
+Risiko 
+berdasarkan 
+hasil 
+evaluasi 
+pelaksanaan Manajemen Risiko; dan 
+c. 
+pertimbangan dan/atau penetapan hal-hal yang 
+terkait 
+dengan 
+keputusan 
+operasional 
+yang 
+menyimpang dari prosedur normal. 
+ 
+Pasal 18 
+(1) 
+Satuan kerja Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 16 ayat (1) huruf b dan ayat (2) serta Pejabat 
+Eksekutif sebagaimana dimaksud dalam Pasal 16 ayat (3) 
+harus independen. 
+(2) 
+Satuan kerja Manajemen Risiko sebagaimana dimaksud 
+dalam Pasal 16 ayat (1) huruf b dan ayat (2) serta Pejabat 
+Eksekutif sebagaimana dimaksud dalam Pasal 16 ayat (3) 
+bertanggung jawab langsung kepada anggota Direksi 
+yang membawahkan fungsi Manajemen Risiko. 
+ 
+ 
+
+
+=== Halaman 12 ===
+- 12 - 
+ 
+(3) 
+Wewenang dan tanggung jawab satuan kerja Manajemen 
+Risiko atau Pejabat Eksekutif yang ditunjuk bertanggung 
+jawab terhadap pelaksanaan fungsi Manajemen Risiko 
+meliputi: 
+a. 
+pemantauan pelaksanaan kebijakan dan pedoman 
+penerapan Manajemen Risiko yang telah disetujui 
+oleh Direksi;  
+b. 
+pemantauan posisi Risiko secara keseluruhan, per 
+jenis Risiko, dan per jenis aktivitas fungsional;  
+c. 
+pengkajian usulan penerbitan produk dan/atau 
+pelaksanaan aktivitas baru; 
+d. 
+penyampaian rekomendasi kepada satuan kerja atau 
+pegawai yang menangani fungsi operasional dan 
+kepada 
+komite 
+Manajemen 
+Risiko, 
+sesuai 
+kewenangan yang dimiliki; dan 
+e. 
+penyusunan dan penyampaian laporan profil Risiko 
+secara 
+berkala 
+kepada 
+anggota 
+Direksi 
+yang 
+membawahkan 
+fungsi 
+Manajemen 
+Risiko 
+dan 
+kepada komite Manajemen Risiko. 
+ 
+BAB VIII 
+PELAPORAN 
+ 
+Bagian Kesatu 
+Rencana Tindak Penerapan Manajemen Risiko 
+ 
+Pasal 19 
+(1) 
+Dalam menerapkan Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 2, BPRS wajib menyusun dan 
+menyampaikan rencana tindak kepada Otoritas Jasa 
+Keuangan. 
+(2) 
+Rencana tindak sebagaimana dimaksud pada ayat (1) 
+disampaikan paling lambat tanggal 30 Juni 2019.  
+(3) 
+BPRS melakukan penyesuaian terhadap rencana tindak 
+sebagaimana dimaksud pada ayat (1) atas permintaan 
+Otoritas Jasa Keuangan. 
+
+
+=== Halaman 13 ===
+- 13 - 
+ 
+(4) 
+Rencana tindak sebagaimana dimaksud pada ayat (1) 
+dan/atau penyesuaian rencana tindak sebagaimana 
+dimaksud pada ayat (3) bagi BPRS dengan modal inti: 
+a. 
+paling sedikit Rp50.000.000.000,00 (lima puluh 
+miliar rupiah) diselesaikan paling lambat tanggal 30 
+Juni 2022; atau 
+b. 
+kurang dari Rp50.000.000.000,00 (lima puluh miliar 
+rupiah) diselesaikan paling lambat tanggal 30 Juni 
+2023. 
+(5) 
+Batas waktu penyelesaian rencana tindak sebagaimana 
+dimaksud pada ayat (4) memperhatikan batas waktu 
+pembentukan komite Manajemen Risiko, satuan kerja 
+Manajemen 
+Risiko, 
+dan/atau 
+penunjukan 
+Pejabat 
+Eksekutif yang bertanggung jawab terhadap pelaksanaan 
+fungsi Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 16 ayat (5). 
+ 
+Pasal 20 
+(1) 
+BPRS wajib menyampaikan laporan realisasi rencana 
+tindak 
+penerapan 
+Manajemen 
+Risiko 
+sebagaimana 
+dimaksud dalam Pasal 19 setiap semester kepada 
+Otoritas Jasa Keuangan. 
+(2) 
+Laporan realisasi rencana tindak penerapan Manajemen 
+Risiko sebagaimana dimaksud pada ayat (1) disampaikan 
+paling lambat tanggal 31 Juli untuk laporan semester 
+pertama dan tanggal 31 Januari tahun berikutnya untuk 
+laporan semester kedua.  
+(3) 
+Laporan realisasi rencana tindak penerapan Manajemen 
+Risiko sebagaimana dimaksud pada ayat (1) pertama kali 
+disampaikan untuk laporan semester pertama tahun 
+2020.  
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 14 ===
+- 14 - 
+ 
+(4) 
+Dalam hal BPRS telah merealisasikan seluruh rencana 
+tindak 
+penerapan 
+Manajemen 
+Risiko 
+sebagaimana 
+dimaksud dalam Pasal 19 ayat (1) sebelum batas waktu 
+sebagaimana dimaksud dalam Pasal 19 ayat (4) dan telah 
+dilaporkan kepada Otoritas Jasa Keuangan, BPRS tidak 
+perlu menyampaikan laporan realisasi rencana tindak 
+penerapan Manajemen Risiko untuk semester berikutnya. 
+ 
+Bagian Kedua 
+Laporan Profil Risiko 
+ 
+Pasal 21 
+(1) 
+BPRS wajib menyampaikan laporan profil Risiko setiap 
+semester kepada Otoritas Jasa Keuangan. 
+(2) 
+Laporan profil Risiko sebagaimana dimaksud pada ayat 
+(1) yang disampaikan oleh BPRS wajib memuat materi 
+yang 
+sama 
+dengan 
+laporan 
+profil 
+Risiko 
+yang 
+disampaikan oleh satuan kerja Manajemen Risiko atau 
+Pejabat Eksekutif yang ditunjuk bertanggung jawab 
+terhadap pelaksanaan fungsi Manajemen Risiko kepada 
+anggota Direksi yang membawahkan fungsi Manajemen 
+Risiko dan kepada komite Manajemen Risiko. 
+(3) 
+Laporan profil Risiko sebagaimana dimaksud pada ayat 
+(1) disampaikan paling lambat tanggal 31 Juli untuk 
+laporan semester pertama dan tanggal 31 Januari tahun 
+berikutnya untuk laporan semester kedua. 
+(4) 
+BPRS menyampaikan laporan profil Risiko di luar jangka 
+waktu yang ditetapkan sebagaimana dimaksud pada ayat 
+(1) atas permintaan Otoritas Jasa Keuangan. 
+(5) 
+BPRS yang memiliki modal inti sebagaimana dimaksud 
+dalam Pasal 3 ayat (2) menyampaikan untuk pertama 
+kali laporan profil Risiko sebagaimana dimaksud pada 
+ayat (1) meliputi: 
+a. 
+3 (tiga) Risiko terdiri dari Risiko kredit, Risiko 
+operasional, dan Risiko kepatuhan untuk semester 
+kedua tahun 2022; dan 
+
+
+=== Halaman 15 ===
+- 15 - 
+ 
+b. 
+6 (enam) Risiko terdiri dari Risiko kredit, Risiko 
+operasional, Risiko kepatuhan, Risiko likuiditas, 
+Risiko reputasi, dan Risiko strategis untuk semester 
+kedua tahun 2024. 
+(6) 
+BPRS yang memiliki modal inti sebagaimana dimaksud 
+dalam Pasal 3 ayat (3) menyampaikan untuk pertama 
+kali laporan profil Risiko sebagaimana dimaksud pada 
+ayat (1) meliputi: 
+a. 
+2 (dua) Risiko terdiri dari Risiko kredit dan Risiko 
+operasional untuk semester kedua tahun 2023; dan 
+b. 
+4 (empat) Risiko terdiri dari Risiko kredit, Risiko 
+operasional, Risiko kepatuhan, dan Risiko likuiditas 
+untuk semester kedua tahun 2025. 
+ 
+Bagian Ketiga 
+Laporan Profil Risiko Lain 
+ 
+Pasal 22 
+(1) 
+Dalam 
+hal 
+terdapat 
+kondisi 
+yang 
+berpotensi 
+menimbulkan kerugian yang signifikan terhadap kondisi 
+keuangan, BPRS wajib menyampaikan laporan profil 
+Risiko lain kepada Otoritas Jasa Keuangan.  
+(2) 
+Laporan profil Risiko lain sebagaimana dimaksud pada 
+ayat (1) mencakup selain laporan profil Risiko yang 
+diwajibkan sebagaimana dimaksud dalam Pasal 21 ayat 
+(5) huruf a dan ayat (6). 
+(3) 
+Laporan profil Risiko lain sebagaimana dimaksud pada 
+ayat (1) disampaikan paling lama 1 (satu) bulan setelah 
+diketahuinya kondisi berpotensi menimbulkan kerugian 
+yang signifikan terhadap kondisi keuangan BPRS. 
+(4) 
+Kewajiban 
+penyampaian 
+laporan 
+profil 
+Risiko 
+lain 
+sebagaimana dimaksud pada ayat (1) dapat didasarkan 
+atas permintaan Otoritas Jasa Keuangan. 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 16 ===
+- 16 - 
+ 
+Bagian Keempat 
+Format dan Tata Cara Penyampaian Laporan 
+ 
+Pasal 23 
+(1) 
+BPRS 
+wajib 
+menyampaikan 
+laporan 
+sebagaimana 
+dimaksud dalam Pasal 21 ayat (1) dan Pasal 22 ayat (1) 
+secara daring melalui sistem pelaporan Otoritas Jasa 
+Keuangan. 
+(2) 
+Dalam hal penyampaian laporan secara daring melalui 
+sistem pelaporan Otoritas Jasa Keuangan sebagaimana 
+dimaksud pada ayat (1) belum dapat dilakukan, BPRS 
+menyampaikan laporan secara luring kepada Otoritas 
+Jasa Keuangan. 
+ 
+Pasal 24 
+(1) 
+Ketentuan mengenai tata cara penilaian profil Risiko 
+sebagaimana diatur dalam Pasal 21 dan tata cara 
+penilaian profil Risiko lain sebagaimana diatur dalam 
+Pasal 22 diatur dengan Surat Edaran Otoritas Jasa 
+Keuangan. 
+(2) 
+Ketentuan mengenai format, petunjuk penyusunan, dan 
+tata cara penyampaian rencana tindak sebagaimana 
+dimaksud dalam Pasal 19 ayat (1) dan laporan 
+sebagaimana dimaksud dalam Pasal 20 ayat (1), Pasal 21 
+ayat (1), dan Pasal 22 ayat (1) diatur dengan Surat 
+Edaran Otoritas Jasa Keuangan. 
+ 
+BAB IX 
+PENILAIAN PENERAPAN MANAJEMEN RISIKO 
+ 
+Pasal 25 
+(1) 
+Otoritas Jasa Keuangan berwenang melakukan penilaian 
+terhadap penerapan Manajemen Risiko pada BPRS. 
+ 
+ 
+ 
+
+
+=== Halaman 17 ===
+- 17 - 
+ 
+(2) 
+Dalam 
+penilaian 
+penerapan 
+Manajemen 
+Risiko 
+sebagaimana dimaksud pada ayat (1), BPRS wajib 
+menyampaikan data dan informasi terkait dengan 
+penerapan Manajemen Risiko kepada Otoritas Jasa 
+Keuangan. 
+ 
+BAB X 
+PENYESUAIAN PENERAPAN MANAJEMEN RISIKO 
+ 
+Pasal 26 
+(1) 
+BPRS yang berdasarkan laporan bulanan mengalami 
+peningkatan modal inti sehingga menjadi paling sedikit 
+Rp50.000.000.000,00 (lima puluh miliar rupiah) selama 6 
+(enam) posisi laporan bulanan berturut-turut sampai 
+dengan tanggal 31 Desember 2022 wajib melaporkan 
+seluruh Risiko sebagaimana dimaksud dalam Pasal 3 
+ayat (1) sesuai pentahapan sebagaimana dimaksud dalam 
+Pasal 21 ayat (5). 
+(2) 
+BPRS yang berdasarkan laporan bulanan mengalami 
+peningkatan modal inti sehingga menjadi paling sedikit 
+Rp50.000.000.000,00 (lima puluh miliar rupiah) selama 6 
+(enam) posisi laporan bulanan berturut-turut setelah 
+tanggal 31 Desember 2022 sampai dengan tanggal 31 
+Desember 
+2024 
+wajib 
+melaporkan 
+seluruh 
+Risiko 
+sebagaimana dimaksud dalam Pasal 3 ayat (1) pertama 
+kali pada laporan profil Risiko semester kedua tahun 
+2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 18 ===
+- 18 - 
+ 
+(3) 
+BPRS yang berdasarkan laporan bulanan mengalami 
+peningkatan modal inti sehingga menjadi paling sedikit 
+Rp50.000.000.000,00 (lima puluh miliar rupiah) selama 6 
+(enam) posisi laporan bulanan berturut-turut setelah 
+tanggal 31 Desember 2024 wajib melaporkan seluruh 
+Risiko sebagaimana dimaksud dalam Pasal 3 ayat (1) 
+pertama kali pada laporan profil Risiko semester 
+berikutnya paling lambat 1 (satu) tahun setelah BPRS 
+memenuhi modal inti paling sedikit Rp50.000.000.000,00 
+(lima puluh miliar rupiah) selama 6 (enam) posisi laporan 
+bulanan berturut-turut. 
+ 
+Pasal 27 
+(1) 
+BPRS yang berdasarkan laporan bulanan mengalami 
+peningkatan modal inti sehingga menjadi paling sedikit 
+Rp80.000.000.000,00 (delapan puluh miliar rupiah) 
+selama 6 (enam) posisi laporan bulanan berturut-turut 
+setelah tanggal 31 Desember 2021 wajib telah memenuhi 
+struktur organisasi sebagaimana dimaksud dalam Pasal 
+16 ayat (1) paling lambat 1 (satu) tahun setelah BPRS 
+memenuhi modal inti paling sedikit Rp80.000.000.000,00 
+(delapan puluh miliar rupiah) selama 6 (enam) posisi 
+laporan bulanan berturut-turut. 
+(2) 
+BPRS yang berdasarkan laporan bulanan mengalami 
+peningkatan modal inti sehingga menjadi paling sedikit 
+Rp50.000.000.000,00 (lima puluh miliar rupiah) dan 
+kurang dari Rp80.000.000.000,00 (delapan puluh miliar 
+rupiah) selama 6 (enam) posisi laporan bulanan berturut-
+turut setelah tanggal 31 Desember 2021 wajib telah 
+memenuhi struktur organisasi sebagaimana dimaksud 
+dalam Pasal 16 ayat (2) paling lambat 1 (satu) tahun 
+setelah BPRS memenuhi modal inti paling sedikit 
+Rp50.000.000.000,00 (lima puluh miliar rupiah) dan 
+kurang dari Rp80.000.000.000,00 (delapan puluh miliar 
+rupiah) selama 6 (enam) posisi laporan bulanan berturut-
+turut. 
+ 
+
+
+=== Halaman 19 ===
+- 19 - 
+ 
+Pasal 28 
+BPRS 
+yang 
+berdasarkan 
+laporan 
+bulanan 
+mengalami 
+penurunan modal inti sehingga mengakibatkan berkurangnya 
+kewajiban penerapan jumlah Risiko dari jumlah semula, tetap 
+menerapkan jenis Risiko dan kelengkapan struktur organisasi 
+yang berlaku sebelum terjadinya penurunan modal inti. 
+ 
+BAB XI 
+SANKSI ADMINISTRATIF 
+ 
+Pasal 29 
+(1) 
+BPRS 
+yang 
+tidak 
+memenuhi 
+ketentuan 
+pelaporan 
+sebagaimana dimaksud dalam Pasal 19 ayat (1), Pasal 20 
+ayat (1), Pasal 21 ayat (1), dan Pasal 22 ayat (1) 
+dikenakan sanksi administratif berupa: 
+a. 
+denda sebesar Rp100.000,00 (seratus ribu rupiah) 
+per hari keterlambatan per laporan bagi BPRS yang 
+menyampaikan 
+laporan 
+kepada 
+Otoritas 
+Jasa 
+Keuangan 
+melampaui 
+batas 
+akhir 
+waktu 
+penyampaian laporan sampai dengan 1 (satu) bulan 
+setelah batas akhir waktu penyampaian laporan 
+dengan denda paling banyak Rp3.000.000,00 (tiga 
+juta rupiah) per laporan; atau  
+b. 
+denda sebesar Rp5.000.000,00 (lima juta rupiah) per 
+laporan bagi BPRS yang belum menyampaikan 
+laporan setelah 1 (satu) bulan sejak batas akhir 
+waktu penyampaian laporan. 
+(2) 
+Pengenaan 
+sanksi 
+administratif 
+berupa 
+denda 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1) 
+tidak 
+menghilangkan kewajiban penyampaian laporan. 
+(3) 
+BPRS 
+yang 
+menyampaikan 
+laporan 
+profil 
+Risiko 
+sebagaimana dimaksud dalam Pasal 21 ayat (1) yang 
+berdasarkan 
+penilaian 
+Otoritas 
+Jasa 
+Keuangan 
+dinyatakan tidak benar dan/atau tidak lengkap secara 
+signifikan dikenakan sanksi administratif berupa teguran 
+tertulis dan denda sebesar Rp10.000.000,00 (sepuluh 
+juta rupiah). 
+
+
+=== Halaman 20 ===
+- 20 - 
+ 
+(4) 
+Selain sanksi administratif berupa teguran tertulis dan 
+denda sebagaimana dimaksud pada ayat (3), BPRS 
+dikenakan sanksi administratif berupa: 
+a. 
+penurunan 
+penilaian 
+tingkat 
+kesehatan 
+BPRS; 
+dan/atau 
+b. 
+pencantuman anggota Direksi dan anggota Dewan 
+Komisaris 
+dalam 
+daftar 
+tidak 
+lulus 
+melalui 
+mekanisme uji kemampuan dan kepatutan. 
+(5) 
+Pengenaan 
+sanksi 
+administratif 
+berupa 
+denda 
+sebagaimana dimaksud pada ayat (3) dilakukan setelah 
+BPRS diberikan 2 (dua) kali surat teguran oleh Otoritas 
+Jasa Keuangan dengan tenggang waktu masing-masing 
+10 (sepuluh) hari kerja untuk setiap teguran dan BPRS 
+tidak menyampaikan atau tidak memperbaiki laporan 
+profil Risiko dalam jangka waktu 10 (sepuluh) hari kerja 
+setelah surat teguran terakhir. 
+ 
+Pasal 30 
+BPRS yang tidak melaksanakan ketentuan sebagaimana 
+dimaksud dalam Pasal 2 ayat (1), Pasal 3 ayat (2) dan ayat (3), 
+Pasal 4, Pasal 10, Pasal 13, Pasal 16 ayat (1), ayat (2), dan 
+ayat (3), Pasal 21 ayat (2), Pasal 23 ayat (1), Pasal 25 ayat (2), 
+dan Pasal 27, dikenakan sanksi administratif berupa: 
+a. 
+teguran tertulis; 
+b. 
+penurunan penilaian tingkat kesehatan BPRS; dan/atau 
+c. 
+penghentian sementara sebagian kegiatan operasional 
+BPRS. 
+ 
+ Pasal 31 
+(1) 
+BPRS yang melanggar ketentuan Pasal 26 dikenakan 
+sanksi administratif berupa teguran tertulis dan denda 
+sebesar Rp10.000.000,00 (sepuluh juta rupiah). 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 21 ===
+- 21 - 
+ 
+(2) 
+Selain sanksi administratif berupa teguran tertulis dan 
+denda sebagaimana dimaksud pada ayat (1), BPRS 
+dikenakan sanksi administratif berupa: 
+a. 
+penurunan 
+penilaian 
+tingkat 
+kesehatan 
+BPRS; 
+dan/atau 
+b. 
+pencantuman anggota Direksi dan anggota Dewan 
+Komisaris 
+dalam 
+daftar 
+tidak 
+lulus 
+melalui 
+mekanisme uji kemampuan dan kepatutan. 
+(3) 
+Pengenaan 
+sanksi 
+administratif 
+berupa 
+denda 
+sebagaimana dimaksud pada ayat (1) dilakukan setelah 
+BPRS diberikan 2 (dua) kali surat teguran oleh Otoritas 
+Jasa Keuangan dengan tenggang waktu masing-masing 
+10 (sepuluh) hari kerja untuk setiap teguran dan BPRS 
+tidak menyampaikan atau tidak memperbaiki laporan 
+profil Risiko dalam jangka waktu 10 (sepuluh) hari kerja 
+setelah surat teguran terakhir. 
+ 
+BAB XII 
+KETENTUAN PERALIHAN 
+ 
+Pasal 32 
+(1) 
+Pengenaan sanksi terhadap penyampaian laporan profil 
+Risiko sebagaimana dimaksud dalam Pasal 21 ayat (5) 
+huruf a mulai diterapkan pada penyampaian laporan 
+semester kedua tahun 2023. 
+(2) 
+Pengenaan sanksi terhadap penyampaian laporan profil 
+Risiko sebagaimana dimaksud dalam Pasal 21 ayat (6) 
+huruf a mulai diterapkan pada penyampaian laporan 
+semester kedua tahun 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 22 ===
+- 22 - 
+ 
+Pasal 33 
+BPRS yang telah mengajukan permohonan izin usaha atau 
+izin perubahan kegiatan usaha BPR menjadi BPRS sebelum 
+Peraturan Otoritas Jasa Keuangan ini berlaku harus: 
+a. 
+membentuk komite Manajemen Risiko, satuan kerja 
+Manajemen Risiko, dan/atau penunjukan 1 (satu) orang 
+Pejabat Eksekutif yang bertanggung jawab terhadap 
+pelaksanaan fungsi Manajemen Risiko dan dilaksanakan 
+sesuai dengan batas waktu sebagaimana dimaksud 
+dalam Pasal 16 ayat (5); dan 
+b. 
+menyampaikan rencana tindak, realisasi rencana tindak, 
+dan 
+menyelesaikan 
+rencana 
+tindak 
+sebagaimana 
+dimaksud dalam Pasal 19 dan Pasal 20. 
+ 
+Pasal 34 
+BPRS yang mengajukan permohonan izin usaha atau izin 
+perubahan kegiatan usaha BPR menjadi BPRS setelah 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+ini 
+berlaku 
+harus 
+menerapkan Manajemen Risiko secara efektif sebagaimana 
+dimaksud dalam Peraturan Otoritas Jasa Keuangan ini pada 
+saat BPRS memperoleh izin usaha atau izin perubahan 
+kegiatan usaha BPR menjadi BPRS, kecuali kewajiban 
+penyampaian laporan profil Risiko yang dilaksanakan sesuai 
+dengan pentahapan sebagaimana dimaksud dalam Pasal 21 
+ayat (5) dan ayat (6). 
+ 
+BAB XIII 
+KETENTUAN PENUTUP 
+ 
+Pasal 35 
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada 
+tanggal diundangkan. 
+ 
+ 
+
+
+=== Halaman 23 ===
+- 23 - 
+ 
+Salinan ini sesuai dengan aslinya 
+Direktur Hukum 1 
+Departemen Hukum 
+ 
+ttd 
+ 
+Yuliana 
+Agar 
+setiap 
+orang 
+mengetahuinya, 
+memerintahkan 
+pengundangan Peraturan Otoritas Jasa Keuangan ini dengan 
+penempatannya dalam Lembaran Negara Republik Indonesia. 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 5 Desember 2018 
+ 
+KETUA DEWAN KOMISIONER 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA, 
+ 
+ttd 
+ 
+WIMBOH SANTOSO 
+ 
+ 
+Diundangkan di Jakarta  
+pada tanggal 10 Desember 2018 
+ 
+MENTERI HUKUM DAN HAK ASASI MANUSIA  
+REPUBLIK INDONESIA,  
+ 
+ttd 
+ 
+YASONNA H. LAOLY  
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 227
+
+
+=== Halaman 24 ===
+ 
+ 
+PENJELASAN 
+ATAS 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 23 /POJK.03/2018               
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI 
+BANK PEMBIAYAAN RAKYAT SYARIAH 
+ 
+I. 
+UMUM  
+Bank 
+Pembiayaan 
+Rakyat 
+Syariah 
+(BPRS) 
+sebagai 
+lembaga 
+intermediasi keuangan dengan segmen utama kepada usaha mikro dan 
+usaha kecil serta masyarakat di pedesaan, senantiasa menghadapi Risiko 
+dalam 
+pelaksanaan 
+kegiatan 
+usahanya. 
+Perkembangan 
+industri 
+perbankan yang semakin meningkat, kebutuhan masyarakat atas 
+pelayanan jasa keuangan yang lebih bervariasi, mudah, dan cepat diiringi 
+dengan perkembangan teknologi informasi yang sangat cepat mendorong 
+BPRS untuk lebih meningkatkan pelayanan yang akan berdampak pada 
+peningkatan Risiko BPRS. Peningkatan Risiko ini harus diimbangi dengan 
+peningkatan pengendalian Risiko. Oleh karena itu, BPRS dituntut untuk 
+menerapkan Manajemen Risiko. Penerapan Manajemen Risiko ini selain 
+ditujukan bagi BPRS juga untuk melindungi pemangku kepentingan 
+BPRS. 
+Prinsip Manajemen Risiko termasuk jenis Risiko yang harus 
+diterapkan oleh BPRS disesuaikan dengan karakteristik kegiatan usaha 
+BPRS dan diselaraskan dengan peraturan Otoritas Jasa Keuangan 
+mengenai penerapan Manajemen Risiko bagi bank umum syariah dan 
+peraturan Otoritas Jasa Keuangan mengenai penerapan Manajemen 
+Risiko bagi bank perkreditan rakyat. Prinsip Manajemen Risiko pada 
+
+
+=== Halaman 25 ===
+- 2 - 
+ 
+dasarnya merupakan standar perbankan untuk dapat beroperasi secara 
+lebih berhati-hati dalam ruang lingkup perkembangan kegiatan usaha dan 
+operasional perbankan yang sangat pesat dewasa ini. Mempertimbangkan 
+masih terdapat kesenjangan modal inti pada industri BPRS, penerapan 
+Manajemen Risiko dibedakan sesuai dengan modal inti BPRS. Otoritas 
+Jasa Keuangan menetapkan ketentuan ini sebagai standar minimal yang 
+harus dipenuhi oleh BPRS dalam menerapkan Manajemen Risiko. 
+Dengan ketentuan ini, BPRS diharapkan mampu melaksanakan 
+seluruh aktivitas secara terintegrasi dalam suatu pengelolaan Risiko yang 
+akurat dan komprehensif. 
+ 
+II. 
+PASAL DEMI PASAL  
+ 
+Pasal 1  
+ 
+ 
+Cukup jelas. 
+ 
+Pasal 2  
+Cukup jelas. 
+ 
+Pasal 3 
+ 
+ 
+Ayat (1) 
+Huruf a 
+Yang dimaksud dengan “Risiko kredit” adalah Risiko akibat 
+kegagalan nasabah atau pihak lain dalam memenuhi 
+kewajiban kepada BPRS termasuk Risiko akibat BPRS ikut 
+menanggung kerugian usaha nasabah yang dibiayai dalam 
+pembiayaan berbasis bagi hasil baik yang menggunakan 
+metode net revenue sharing maupun yang menggunakan 
+metode profit and loss sharing (Risiko investasi). 
+Huruf b 
+Yang dimaksud dengan “Risiko operasional” adalah Risiko 
+yang antara lain disebabkan adanya ketidakcukupan 
+dan/atau tidak berfungsinya proses intern, kesalahan 
+sumber daya manusia, kegagalan sistem, dan/atau adanya 
+masalah eksternal yang mempengaruhi operasional BPRS. 
+ 
+ 
+
+
+=== Halaman 26 ===
+- 3 - 
+ 
+Huruf c 
+Yang dimaksud dengan “Risiko kepatuhan” adalah Risiko 
+akibat BPRS tidak mematuhi dan/atau tidak melaksanakan 
+ketentuan peraturan perundang-undangan dan ketentuan 
+lain 
+serta 
+Prinsip 
+Syariah, 
+termasuk 
+Risiko 
+akibat 
+kelemahan aspek hukum. 
+Kelemahan aspek hukum antara lain disebabkan adanya 
+tuntutan 
+hukum, 
+ketiadaan 
+ketentuan 
+peraturan 
+perundang-undangan yang mendukung atau kelemahan 
+perikatan seperti tidak dipenuhinya syarat sahnya kontrak 
+dan pengikatan agunan yang tidak sempurna. 
+Huruf d 
+Yang dimaksud dengan “Risiko likuiditas” adalah Risiko 
+akibat ketidakmampuan BPRS untuk memenuhi kewajiban 
+yang jatuh tempo dari sumber pendanaan arus kas 
+dan/atau 
+aset 
+likuid 
+berkualitas 
+tinggi 
+yang 
+dapat 
+diagunkan, tanpa mengganggu aktivitas dan/atau kondisi 
+keuangan BPRS, termasuk Risiko akibat perubahan tingkat 
+imbal hasil yang dibayarkan BPRS kepada nasabah, karena 
+terjadi perubahan tingkat imbal hasil yang diterima BPRS 
+dari penyaluran dana, yang dapat mempengaruhi perilaku 
+nasabah dana pihak ketiga BPRS (Risiko imbal hasil (rate of 
+return risk)). 
+Huruf e 
+Yang dimaksud dengan “Risiko reputasi” adalah Risiko 
+akibat 
+menurunnya 
+tingkat 
+kepercayaan 
+pemangku 
+kepentingan yang bersumber dari persepsi negatif terhadap 
+BPRS. 
+Huruf f 
+Yang dimaksud dengan “Risiko strategis” adalah Risiko 
+akibat ketidaktepatan BPRS dalam pengambilan dan/atau 
+pelaksanaan suatu keputusan strategis serta kegagalan 
+BPRS dalam mengantisipasi perubahan lingkungan bisnis. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+
+
+=== Halaman 27 ===
+- 4 - 
+ 
+Pasal 4 
+Penetapan wewenang dan tanggung jawab yang jelas pada setiap 
+jenjang jabatan yang terkait dengan penerapan Manajemen Risiko 
+bertujuan untuk efektivitas pengawasan penerapan Manajemen 
+Risiko. 
+ 
+Pasal 5 
+Ayat (1) 
+Huruf a 
+Kebijakan Manajemen Risiko memuat antara lain strategi 
+dan kerangka Risiko yang ditetapkan sesuai dengan tingkat 
+Risiko yang akan diambil (risk appetite) dan toleransi risiko 
+(risk tolerance). 
+Huruf b 
+Transaksi yang memerlukan persetujuan Direksi antara 
+lain transaksi yang telah melampaui kewenangan pejabat 
+BPRS 1 (satu) tingkat di bawah Direksi, sesuai dengan 
+kebijakan dan prosedur intern yang berlaku. 
+Huruf c 
+Pengembangan budaya Manajemen Risiko antara lain 
+meliputi penyampaian informasi kepada seluruh pegawai 
+dan 
+komunikasi 
+yang 
+memadai 
+mengenai 
+prinsip 
+Manajemen Risiko termasuk mengembangkan budaya sadar 
+Risiko serta pentingnya pengendalian intern yang efektif. 
+Huruf d 
+Peningkatan kompetensi sumber daya manusia antara lain 
+melalui 
+program 
+pendidikan 
+dan 
+pelatihan 
+secara 
+berkesinambungan mengenai penerapan Manajemen Risiko. 
+Huruf e 
+Yang dimaksud dengan “independen” antara lain adanya 
+pemisahan fungsi antara satuan kerja atau Pejabat 
+Eksekutif yang bertanggung jawab menangani fungsi 
+Manajemen Risiko dengan satuan kerja atau pegawai yang 
+melaksanakan fungsi operasional BPRS dan fungsi audit 
+intern. 
+Fungsi operasional yaitu fungsi yang terkait dengan 
+penghimpunan dana dan penyaluran dana. 
+ 
+
+
+=== Halaman 28 ===
+- 5 - 
+ 
+Huruf f 
+Angka 1)  
+Termasuk tanggung jawab atas pelaksanaan kebijakan 
+Manajemen Risiko yaitu: 
+a) 
+mengevaluasi 
+dan 
+memberikan 
+arahan 
+berdasarkan laporan yang disampaikan oleh 
+satuan 
+kerja 
+atau 
+Pejabat 
+Eksekutif 
+yang 
+bertanggung jawab terhadap pelaksanaan fungsi 
+Manajemen Risiko; 
+b) 
+menyampaikan 
+laporan 
+pertanggungjawaban 
+kepada Dewan Komisaris dan Dewan Pengawas 
+Syariah setiap 6 (enam) bulan sekali atau lebih 
+tergantung 
+adanya 
+perubahan 
+operasional, 
+penerbitan produk baru, dan/atau pelaksanaan 
+aktivitas baru; 
+c) 
+memastikan dampak risiko yang signifikan telah 
+ditindaklanjuti; 
+d) 
+mengomunikasikan kebijakan Manajemen Risiko 
+secara efektif kepada seluruh jenjang organisasi 
+yang relevan agar dipahami secara jelas; dan 
+e) 
+memastikan satuan kerja atau pegawai yang 
+menangani fungsi operasional menginformasikan 
+eksposur Risiko yang melekat pada satuan kerja 
+yang 
+bersangkutan 
+kepada 
+satuan 
+kerja 
+Manajemen Risiko atau Pejabat Eksekutif yang 
+bertanggung jawab terhadap pelaksanaan fungsi 
+Manajemen Risiko setiap 6 (enam) bulan sekali 
+atau 
+lebih 
+tergantung 
+adanya 
+perubahan 
+operasional, penerbitan produk baru, dan/atau 
+pelaksanaan aktivitas baru. 
+Angka 2)  
+Cukup jelas. 
+Ayat (2) 
+Yang dimaksud dengan “memiliki pemahaman yang memadai” 
+adalah termasuk pemahaman terhadap Prinsip Syariah yang 
+terkait dengan aktivitas fungsional BPRS. 
+ 
+
+
+=== Halaman 29 ===
+- 6 - 
+ 
+Pasal 6 
+Huruf a 
+Evaluasi kebijakan Manajemen Risiko dilakukan oleh Dewan 
+Komisaris 1 (satu) kali dalam 1 (satu) tahun atau sewaktu-waktu 
+dalam hal terdapat perubahan yang mempengaruhi kegiatan 
+usaha BPRS secara signifikan. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Evaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan 
+kebijakan Manajemen Risiko dilakukan oleh Dewan Komisaris 
+setiap semester atau lebih. 
+Huruf d 
+Transaksi yang memerlukan persetujuan Dewan Komisaris yaitu 
+transaksi yang sesuai dengan peraturan perundang-undangan 
+memerlukan 
+persetujuan 
+Dewan 
+Komisaris, 
+antara 
+lain 
+pemberian pembiayaan kepada pihak terkait. 
+ 
+Pasal 7 
+Huruf a 
+ 
+ 
+Evaluasi kebijakan Manajemen Risiko yang terkait dengan 
+pemenuhan Prinsip Syariah dilakukan oleh Dewan Pengawas 
+Syariah 1 (satu) kali dalam 1 (satu) tahun atau sewaktu-waktu 
+dalam hal terdapat perubahan yang mempengaruhi kegiatan 
+usaha BPRS secara signifikan. 
+Huruf b 
+Evaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan 
+kebijakan Manajemen Risiko yang terkait dengan pemenuhan 
+Prinsip Syariah dilakukan oleh Dewan Pengawas Syariah setiap 
+semester atau lebih. 
+ 
+Pasal 8 
+Penetapan kebijakan Manajemen Risiko mempertimbangkan kondisi 
+keuangan, struktur dan kompleksitas organisasi, serta Risiko yang 
+timbul sebagai akibat perubahan faktor intern dan ekstern. 
+Huruf a 
+Cukup jelas. 
+
+
+=== Halaman 30 ===
+- 7 - 
+ 
+Huruf b 
+Termasuk dalam sistem informasi Manajemen Risiko yaitu alur 
+informasi kepada Direksi BPRS dengan memanfaatkan teknologi 
+informasi maupun hasil pengolahan data untuk mendukung 
+pengambilan keputusan. 
+Huruf c 
+Yang dimaksud dengan “toleransi Risiko” adalah potensi 
+kerugian yang dapat diserap oleh permodalan BPRS. 
+Huruf d 
+Yang dimaksud dengan “penilaian peringkat Risiko” adalah 
+dasar bagi BPRS untuk menetapkan peringkat Risiko BPRS yang 
+dikategorikan menjadi 5 (lima) peringkat Risiko, yaitu sangat 
+rendah, rendah, sedang, tinggi, dan sangat tinggi. 
+Huruf e 
+Yang dimaksud dengan “rencana darurat dalam kondisi 
+terburuk 
+atau 
+rencana 
+kontingensi” 
+adalah 
+rencana 
+pengembangan 
+skenario 
+untuk 
+mengantisipasi 
+terjadinya 
+gangguan intern termasuk kegagalan sistem serta gangguan 
+ekstern yang menyebabkan terjadinya kondisi darurat yang 
+dapat menyebabkan terganggunya operasional BPRS. 
+Huruf f 
+Cukup jelas. 
+ 
+Pasal 9 
+Prosedur Manajemen Risiko dan penetapan limit Risiko disesuaikan 
+dengan tingkat Risiko yang akan diambil (risk appetite). 
+Tingkat Risiko yang akan diambil memperhatikan pengalaman yang 
+dimiliki oleh BPRS terkait dengan Risiko transaksi bisnis BPRS pada 
+masa lalu. 
+Ayat (1) 
+Huruf a 
+ 
+Cukup jelas. 
+Huruf b 
+ 
+ 
+ 
+Yang dimaksud dengan “dokumentasi prosedur Manajemen 
+Risiko dan penetapan limit Risiko yang memadai” adalah 
+dokumentasi yang tertulis, lengkap, akurat, kini, dan utuh 
+
+
+=== Halaman 31 ===
+- 8 - 
+ 
+sehingga dapat memudahkan untuk dilakukan jejak audit 
+untuk keperluan pengendalian intern BPRS. 
+ 
+Ayat (2) 
+Huruf a 
+Yang dimaksud dengan “limit secara keseluruhan” adalah 
+batas Risiko yang dapat ditoleransi oleh BPRS atas seluruh 
+Risiko yang diterapkan. 
+Huruf b 
+Yang dimaksud dengan “limit per jenis Risiko” adalah batas 
+Risiko yang dapat ditoleransi oleh BPRS untuk setiap jenis 
+Risiko. 
+Huruf c 
+Yang dimaksud dengan “limit per aktivitas fungsional 
+tertentu” adalah batas Risiko yang dapat ditoleransi oleh 
+BPRS untuk setiap aktivitas fungsional. 
+ 
+Pasal 10 
+Ayat (1) 
+Yang dimaksud dengan “faktor Risiko yang bersifat material” 
+adalah faktor Risiko yang bersifat kuantitatif dan kualitatif yang 
+berpengaruh secara signifikan terhadap kondisi keuangan BPRS. 
+ 
+Ayat (2) 
+ 
+ 
+Huruf a 
+Yang dimaksud dengan “sistem informasi manajemen yang 
+memadai” adalah sistem informasi manajemen yang mampu 
+menyediakan data dan informasi yang lengkap, akurat, kini, 
+dan utuh untuk pengambilan keputusan terkait dengan 
+Manajemen Risiko. 
+Huruf b 
+Cukup jelas. 
+ 
+Pasal 11 
+Ayat (1) 
+Identifikasi Risiko dilakukan berdasarkan pengalaman pada 
+masa lalu terkait dengan transaksi yang menyebabkan kerugian, 
+menurunkan keuntungan, atau menyebabkan permasalahan 
+pada BPRS. 
+
+
+=== Halaman 32 ===
+- 9 - 
+ 
+Ayat (2) 
+Huruf a 
+Evaluasi dilakukan oleh satuan kerja atau pejabat yang 
+independen dan tidak terkait dengan penyusunan dan/atau 
+penetapan dalam melaksanakan pengukuran Risiko. 
+Evaluasi dilakukan sesuai dengan perkembangan usaha, 
+kondisi intern dan ekstern BPRS yang dapat langsung 
+mempengaruhi kondisi BPRS. 
+Huruf b 
+Termasuk dalam perubahan yang bersifat material yaitu 
+terdapat perubahan kegiatan usaha, produk, transaksi, 
+struktur organisasi, sistem informasi, dan faktor Risiko 
+yang bersifat kuantitatif dan kualitatif yang berpengaruh 
+secara signifikan terhadap kondisi BPRS. 
+Ayat (3) 
+Huruf a 
+Evaluasi terhadap eksposur Risiko dilakukan oleh satuan 
+kerja atau pejabat independen yang tidak terkait dengan 
+penyusunan dan/atau penetapan eksposur Risiko, dengan 
+cara pemantauan dan pelaporan Risiko yang signifikan atau 
+yang berdampak terhadap kondisi permodalan BPRS, yang 
+antara lain dilakukan dengan menggunakan analisis data 
+historis. 
+Huruf b 
+Cukup jelas. 
+Ayat (4) 
+Termasuk dalam proses pengendalian Risiko yaitu penambahan 
+modal untuk menyerap potensi kerugian. 
+ 
+Pasal 12 
+Ayat (1) 
+Huruf a 
+Laporan 
+atau 
+informasi 
+mengenai 
+eksposur 
+Risiko 
+mencakup 
+eksposur 
+Risiko 
+yang 
+bersifat 
+kuantitatif 
+dan/atau kualitatif secara keseluruhan, rincian per jenis 
+Risiko dan per jenis aktivitas fungsional. 
+ 
+
+
+=== Halaman 33 ===
+- 10 - 
+ 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Ayat (2) 
+Yang dimaksud dengan “secara berkala” adalah setiap 6 (enam) 
+bulan 
+sekali 
+atau 
+lebih 
+tergantung 
+adanya 
+perubahan 
+operasional, penerbitan produk baru, dan/atau pelaksanaan 
+aktivitas baru. 
+ 
+Pasal 13 
+ 
+ 
+Cukup jelas. 
+ 
+Pasal 14 
+Tujuan 
+sistem 
+pengendalian 
+intern 
+yang 
+menyeluruh 
+untuk 
+memastikan: 
+a. 
+kepatuhan terhadap peraturan perundang-undangan, kebijakan, 
+dan ketentuan intern BPRS; 
+b. 
+tersedianya informasi keuangan dan manajemen yang lengkap, 
+akurat, kini, dan utuh; 
+c. 
+efektivitas dan efisiensi dalam kegiatan operasional; dan 
+d. 
+efektivitas 
+budaya 
+Risiko 
+pada 
+organisasi 
+BPRS 
+secara 
+menyeluruh. 
+ 
+Pasal 15 
+ 
+ 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+ 
+ 
+ 
+
+
+=== Halaman 34 ===
+- 11 - 
+ 
+Huruf d 
+Yang dimaksud dengan “penetapan jalur pelaporan dan 
+pemisahan fungsi yang jelas” adalah: 
+a. 
+jalur pelaporan dari satuan kerja atau pegawai yang 
+menangani operasional kepada satuan kerja atau 
+pegawai yang melaksanakan fungsi pengendalian; dan 
+b. 
+pemisahan fungsi satuan kerja atau pegawai yang 
+menangani operasional dengan satuan kerja atau 
+pegawai yang melaksanakan fungsi pengendalian. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Yang dimaksud dengan “dokumentasi secara lengkap dan 
+memadai” 
+adalah 
+dokumentasi 
+terhadap 
+prosedur 
+operasional, cakupan dan temuan audit serta tanggapan 
+pengurus BPRS terhadap hasil audit. 
+Pengurus yaitu anggota Direksi dan anggota Dewan 
+Komisaris. 
+Huruf i 
+Verifikasi dan kaji ulang terhadap sistem pengendalian 
+intern termasuk penanganan kelemahan 
+BPRS yang 
+bersifat signifikan serta tindakan pengurus BPRS untuk 
+memperbaiki penyimpangan yang terjadi. 
+Pengurus yaitu anggota Direksi dan anggota Dewan 
+Komisaris. 
+Ayat (2) 
+ 
+ 
+ 
+Cukup jelas. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 35 ===
+- 12 - 
+ 
+Pasal 16 
+ 
+ 
+Ayat (1) 
+Huruf a 
+Komite Manajemen Risiko merupakan unit yang tidak 
+bersifat struktural dengan keanggotaan dapat bersifat tetap 
+atau tidak tetap sesuai dengan kebijakan BPRS. 
+Huruf b  
+Satuan kerja Manajemen Risiko merupakan satuan kerja 
+yang bersifat struktural. 
+Ayat (2) 
+Satuan kerja Manajemen Risiko dan satuan kerja kepatuhan 
+dapat digabungkan menjadi 1 (satu) satuan kerja yang 
+melaksanakan fungsi Manajemen Risiko dan fungsi kepatuhan. 
+Ayat (3) 
+Pejabat 
+Eksekutif 
+yang 
+bertanggung 
+jawab 
+terhadap 
+pelaksanaan fungsi Manajemen Risiko dapat merangkap sebagai 
+Pejabat 
+Eksekutif 
+yang 
+bertanggung 
+jawab 
+terhadap 
+pelaksanaan fungsi kepatuhan. 
+Ayat (4) 
+BPRS dapat mempertimbangkan untuk membentuk komite 
+Manajemen Risiko apabila diperlukan. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 17 
+ 
+ 
+Ayat (1) 
+Huruf a 
+Yang dimaksud dengan “mayoritas anggota Direksi” adalah 
+lebih dari 50% (lima puluh persen) dari seluruh jumlah 
+anggota Direksi. 
+Anggota Direksi dalam komite Manajemen Risiko tidak 
+termasuk direktur utama dan paling sedikit terdiri dari 
+anggota Direksi yang membawahkan fungsi kepatuhan. 
+Huruf b 
+Yang dimaksud dengan “Pejabat Eksekutif terkait” adalah 
+pejabat BPRS 1 (satu) tingkat di bawah Direksi yang 
+memimpin satuan kerja operasional dan kepala satuan 
+
+
+=== Halaman 36 ===
+- 13 - 
+ 
+kerja Manajemen Risiko. Keanggotaan Pejabat Eksekutif 
+dalam komite Manajemen Risiko disesuaikan dengan 
+permasalahan dan kebutuhan BPRS. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Termasuk dalam keputusan operasional yang menyimpang 
+dari prosedur normal antara lain pelampauan ekspansi 
+usaha yang signifikan dibandingkan rencana bisnis BPRS 
+dan pengambilan posisi atau eksposur Risiko yang tidak 
+sesuai dengan limit yang telah ditetapkan. 
+ 
+Pasal 18 
+Ayat (1) 
+Yang dimaksud dengan “independen” adalah satuan kerja 
+Manajemen Risiko atau Pejabat Eksekutif yang ditunjuk 
+bertanggung jawab terhadap pelaksanaan fungsi Manajemen 
+Risiko tidak menangani fungsi penghimpunan dana dan 
+penyaluran dana serta tidak melaksanakan fungsi audit intern. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Wewenang dan tanggung jawab satuan kerja Manajemen Risiko 
+atau Pejabat Eksekutif yang ditunjuk bertanggung jawab 
+terhadap pelaksanaan fungsi Manajemen Risiko disesuaikan 
+dengan kompleksitas kegiatan usaha BPRS. 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Pengkajian 
+usulan 
+penerbitan 
+produk 
+dan/atau 
+pelaksanaan aktivitas baru bertujuan untuk menilai 
+kemampuan 
+BPRS 
+menerbitkan 
+produk 
+dan/atau 
+
+
+=== Halaman 37 ===
+- 14 - 
+ 
+melaksanakan aktivitas baru termasuk kajian perubahan 
+sistem dan prosedur karena adanya penerbitan produk 
+dan/atau pelaksanaan aktivitas baru. 
+Huruf d 
+Yang dimaksud dengan “satuan kerja atau pegawai yang 
+menangani fungsi operasional” adalah satuan kerja atau 
+pegawai yang menangani kegiatan penghimpunan dana, 
+penyaluran dana, dan kegiatan operasional lainnya. 
+Rekomendasi termasuk besaran atau maksimum eksposur 
+Risiko yang harus dijaga BPRS. 
+Rekomendasi disampaikan kepada komite Manajemen 
+Risiko dalam hal sesuai ketentuan BPRS diwajibkan 
+memiliki komite Manajemen Risiko atau BPRS yang 
+memiliki komite Manajemen Risiko. 
+Huruf e 
+Profil Risiko merupakan gambaran secara menyeluruh atas 
+besarnya potensi Risiko yang melekat pada seluruh 
+portofolio atau eksposur BPRS. 
+Penyampaian laporan secara berkala disesuaikan dengan 
+kondisi BPRS dan paling sedikit dilakukan setiap semester. 
+Laporan 
+profil 
+Risiko 
+disampaikan 
+kepada 
+komite 
+Manajemen Risiko dalam hal sesuai ketentuan BPRS 
+diwajibkan memiliki komite Manajemen Risiko atau BPRS 
+yang memiliki komite Manajemen Risiko. 
+ 
+Pasal 19 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Permintaan penyesuaian terhadap rencana tindak oleh Otoritas 
+Jasa Keuangan antara lain dalam hal rencana tindak dinilai 
+belum sepenuhnya memenuhi persyaratan yang ditetapkan 
+Otoritas Jasa Keuangan dan/atau BPRS yang berdasarkan 
+laporan bulanan mengalami peningkatan modal inti sehingga 
+menjadi paling sedikit Rp50.000.000.000,00 (lima puluh miliar 
+
+
+=== Halaman 38 ===
+- 15 - 
+ 
+rupiah) atau menjadi paling sedikit Rp80.000.000.000,00 
+(delapan puluh miliar rupiah) selama 6 (enam) posisi laporan 
+bulanan berturut-turut. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 20 
+ 
+Ayat (1) 
+ 
+ 
+Cukup jelas. 
+Ayat (2) 
+Yang dimaksud dengan “semester pertama” adalah 1 Januari 
+sampai dengan 30 Juni. 
+Yang dimaksud dengan “semester kedua” adalah 1 Juli sampai 
+dengan 31 Desember. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 21 
+ 
+Ayat (1) 
+Laporan profil Risiko yang disampaikan BPRS kepada Otoritas 
+Jasa Keuangan didasarkan atas data dan informasi yang 
+lengkap, akurat, kini, dan utuh. 
+Ayat (2) 
+ 
+Laporan profil Risiko disampaikan oleh satuan kerja Manajemen 
+Risiko atau Pejabat Eksekutif yang ditunjuk bertanggung jawab 
+terhadap pelaksanaan fungsi Manajemen Risiko kepada komite 
+Manajemen Risiko dalam hal sesuai Peraturan Otoritas Jasa 
+Keuangan ini BPRS diwajibkan memiliki komite Manajemen 
+Risiko atau BPRS yang memiliki komite Manajemen Risiko. 
+Ayat (3) 
+Yang dimaksud dengan “semester pertama” adalah 1 Januari 
+sampai dengan 30 Juni. 
+
+
+=== Halaman 39 ===
+- 16 - 
+ 
+Yang dimaksud dengan “semester kedua” adalah 1 Juli sampai 
+dengan 31 Desember. 
+ 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+ 
+Pasal 22 
+ 
+Ayat (1) 
+Yang dimaksud dengan “kondisi berpotensi menimbulkan 
+kerugian yang signifikan terhadap kondisi keuangan BPRS” 
+adalah kondisi yang berpotensi menurunkan keuntungan, 
+menyebabkan kerugian, atau menurunkan rasio permodalan 
+BPRS. 
+Ayat (2) 
+Contoh: 
+BPRS A memiliki modal inti sebesar Rp10.000.000.000,00 
+(sepuluh miliar rupiah) pada tahun 2024 dan diwajibkan 
+menyampaikan laporan profil Risiko yang meliputi Risiko kredit 
+dan Risiko operasional. Namun demikian, akibat adanya 
+penarikan dana pihak ketiga dalam jumlah yang besar dalam 
+waktu yang singkat, BPRS A terekspos pada Risiko likuiditas. 
+Dengan kondisi tersebut, BPRS A diwajibkan menyampaikan 
+laporan profil Risiko lain yaitu Risiko likuiditas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Permintaan Otoritas Jasa Keuangan antara lain karena BPRS 
+telah ditetapkan oleh Otoritas Jasa Keuangan sebagai BPRS 
+dalam pengawasan intensif atau BPRS dalam pengawasan 
+khusus. 
+ 
+Pasal 23 
+ 
+Cukup jelas. 
+ 
+
+
+=== Halaman 40 ===
+- 17 - 
+ 
+Pasal 24 
+ 
+Cukup jelas. 
+ 
+Pasal 25 
+Ayat (1) 
+Penilaian terhadap Manajemen Risiko pada BPRS termasuk  
+penilaian Risiko inheren dan penilaian kualitas manajemen 
+Risiko. 
+Ayat (2) 
+Penyampaian data dan informasi terkait dengan penerapan 
+Manajemen Risiko dilakukan oleh BPRS sesuai permintaan 
+Otoritas Jasa Keuangan. 
+ 
+Pasal 26 
+Yang dimaksud dengan “laporan bulanan” adalah laporan bulanan 
+yang disampaikan oleh BPRS termasuk laporan bulanan setelah 
+koreksi hasil pemeriksaan Otoritas Jasa Keuangan. 
+ 
+Pasal 27 
+Yang dimaksud dengan “laporan bulanan” adalah laporan bulanan 
+yang disampaikan oleh BPRS termasuk laporan bulanan setelah 
+koreksi hasil pemeriksaan Otoritas Jasa Keuangan. 
+ 
+Pasal 28 
+Yang dimaksud dengan “laporan bulanan” adalah laporan bulanan 
+yang disampaikan oleh BPRS termasuk laporan bulanan setelah 
+koreksi hasil pemeriksaan Otoritas Jasa Keuangan. 
+ 
+Pasal 29 
+Ayat (1)  
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+ 
+
+
+=== Halaman 41 ===
+- 18 - 
+ 
+ 
+Ayat (4) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Pencantuman 
+anggota 
+Direksi 
+dan 
+anggota 
+Dewan 
+Komisaris BPRS dalam daftar pihak yang memperoleh 
+predikat tidak lulus dilaksanakan melalui proses uji 
+kemampuan dan kepatutan sesuai peraturan perundang-
+undangan mengenai uji kemampuan dan kepatutan. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 30 
+Cukup jelas. 
+ 
+Pasal 31 
+ 
+Ayat (1) 
+ 
+ 
+Cukup jelas. 
+Ayat (2) 
+ 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Pencantuman 
+anggota 
+Direksi 
+dan 
+anggota 
+Dewan 
+Komisaris BPRS dalam daftar pihak yang memperoleh 
+predikat tidak lulus dilaksanakan melalui proses uji 
+kemampuan dan kepatutan sesuai peraturan perundang-
+undangan mengenai uji kemampuan dan kepatutan. 
+Ayat (3) 
+ 
+Cukup jelas. 
+ 
+Pasal 32 
+Cukup jelas. 
+ 
+Pasal 33 
+ 
+Cukup jelas. 
+ 
+
+
+=== Halaman 42 ===
+- 19 - 
+ 
+ 
+Pasal 34 
+Cukup jelas. 
+ 
+Pasal 35 
+ 
+Cukup jelas. 
+ 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6265 
+
+

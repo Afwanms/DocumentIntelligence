@@ -1,0 +1,5228 @@
+=== Halaman 1 ===
+ 
+  
+ 
+ 
+ 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 30 TAHUN 2025 
+TENTANG 
+PENERAPAN TATA KELOLA DAN MANAJEMEN RISIKO BAGI 
+PENYELENGGARA INOVASI TEKNOLOGI SEKTOR KEUANGAN  
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+  
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN,  
+ 
+  
+Menimbang  : 
+a. 
+ 
+bahwa untuk meningkatkan kinerja penyelenggara 
+inovasi teknologi sektor keuangan, melindungi 
+kepentingan para pemangku kepentingan, dan 
+meningkatkan kepatuhan bagi penyelenggara inovasi 
+teknologi sektor keuangan, diperlukan pelaksanaan 
+tata 
+kelola 
+yang 
+baik 
+untuk 
+membangun
+kepercayaan dan daya saing dalam ekosistem inovasi 
+teknologi sektor keuangan; 
+b. 
+ 
+bahwa 
+perkembangan 
+inovasi 
+teknologi 
+sektor 
+keuangan yang sangat pesat dengan risiko yang 
+semakin kompleks dan unik yang timbul dari 
+penyelenggaraan inovasi teknologi sektor keuangan, 
+perlu diimbangi dengan penerapan manajemen risiko 
+yang memadai, efektif, dan terukur; 
+ 
+c. 
+  bahwa berdasarkan pertimbangan sebagaimana 
+dimaksud dalam huruf a dan huruf b, serta untuk 
+melaksanakan ketentuan Pasal 269 dan Pasal 270 
+ayat (3) Undang-Undang Nomor 4 Tahun 2023 
+tentang 
+Pengembangan 
+dan 
+Penguatan 
+Sektor 
+Keuangan, perlu menetapkan Peraturan Otoritas 
+Jasa Keuangan tentang Penerapan Tata Kelola dan 
+Manajemen 
+Risiko 
+bagi 
+Penyelenggara 
+Inovasi 
+Teknologi Sektor Keuangan;   
+Mengingat    : 
+1.  
+Undang-Undang Nomor 21 Tahun 2011 tentang 
+Otoritas Jasa Keuangan (Lembaran Negara Republik 
+Indonesia Tahun 2011 Nomor 111, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 5253) 
+sebagaimana telah diubah dengan Undang-Undang
+Nomor 4 Tahun 2023 tentang Pengembangan dan 
+Penguatan Sektor Keuangan (Lembaran Negara 
+Republik Indonesia Tahun 2023 Nomor 4, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 6845); 
+
+
+=== Halaman 2 ===
+- 2 - 
+ 
+ 
+2.   Undang-Undang Nomor 4 Tahun 2023 tentang 
+Pengembangan dan Penguatan Sektor Keuangan 
+(Lembaran Negara Republik Indonesia Tahun 2023 
+Nomor 4, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6845); 
+ 
+MEMUTUSKAN: 
+ 
+Menetapkan 
+: PERATURAN OTORITAS JASA KEUANGAN TENTANG 
+PENERAPAN TATA KELOLA DAN MANAJEMEN RISIKO 
+BAGI PENYELENGGARA INOVASI TEKNOLOGI SEKTOR 
+KEUANGAN. 
+ 
+BAB I  
+KETENTUAN UMUM  
+  
+Pasal 1  
+Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud 
+dengan:  
+1. 
+Inovasi Teknologi Sektor Keuangan yang selanjutnya 
+disingkat ITSK adalah inovasi berbasis teknologi yang 
+berdampak pada produk, aktivitas, layanan, dan model 
+bisnis dalam ekosistem keuangan digital.  
+2. 
+Penyelenggara 
+ITSK 
+adalah 
+setiap 
+pihak 
+yang 
+menyelenggarakan ITSK yang memiliki izin usaha dari 
+Otoritas Jasa Keuangan. 
+3. 
+Konsumen adalah setiap orang yang memiliki dan/atau 
+memanfaatkan 
+produk 
+dan/atau 
+layanan 
+yang 
+disediakan oleh pelaku usaha jasa keuangan. 
+4. 
+Tata Kelola yang Baik bagi Penyelenggara ITSK yang 
+selanjutnya disebut Tata Kelola yang Baik adalah 
+struktur dan proses yang digunakan dan diterapkan 
+oleh 
+Penyelenggara 
+ITSK 
+untuk 
+meningkatkan 
+pencapaian sasaran hasil usaha dan mengoptimalkan 
+nilai perusahaan pada Penyelenggara ITSK bagi seluruh 
+pemangku 
+kepentingan 
+secara 
+akuntabel 
+dan 
+berlandaskan 
+ketentuan 
+peraturan 
+perundang-
+undangan serta nilai-nilai etika. 
+5. 
+Pemangku Kepentingan adalah seluruh pihak yang 
+memiliki kepentingan secara langsung atau tidak 
+langsung terhadap kegiatan usaha Penyelenggara ITSK. 
+6. 
+Pemegang 
+Saham 
+Pengendali 
+yang 
+selanjutnya 
+disingkat 
+PSP 
+adalah 
+badan 
+hukum, 
+orang 
+perseorangan, dan/atau kelompok usaha yang memiliki 
+saham Penyelenggara ITSK sebesar 25% (dua puluh 
+lima persen) atau lebih dari jumlah saham yang 
+dikeluarkan dan mempunyai hak suara, atau memiliki 
+saham Penyelenggara ITSK kurang dari 25% (dua puluh 
+lima persen) dari jumlah saham yang dikeluarkan dan 
+mempunyai hak suara namun yang bersangkutan 
+dapat 
+dibuktikan 
+telah 
+melakukan 
+pengendalian 
+Penyelenggara ITSK, baik secara langsung maupun 
+tidak langsung. 
+7. 
+Rapat Umum Pemegang Saham yang selanjutnya 
+disingkat 
+RUPS 
+adalah 
+organ 
+perseroan 
+yang 
+mempunyai wewenang yang tidak diberikan kepada 
+
+
+=== Halaman 3 ===
+- 3 - 
+ 
+direksi atau dewan komisaris dalam batas yang 
+ditentukan dalam undang-undang mengenai perseroan 
+terbatas dan/atau anggaran dasar bagi Penyelenggara 
+IAKD yang berbadan hukum perseroan terbatas. 
+8. 
+Direksi 
+adalah 
+organ 
+Penyelenggara 
+ITSK 
+yang 
+berwenang 
+dan 
+bertanggung 
+jawab 
+penuh 
+atas 
+pengurusan Penyelenggara ITSK untuk kepentingan 
+Penyelenggara ITSK, sesuai dengan maksud dan tujuan 
+Penyelenggara ITSK serta mewakili Penyelenggara ITSK, 
+baik di dalam maupun di luar pengadilan sesuai dengan 
+ketentuan anggaran dasar. 
+9. 
+Dewan Komisaris adalah organ Penyelenggara ITSK 
+yang bertugas melakukan pengawasan secara umum 
+dan/atau khusus sesuai dengan anggaran dasar serta 
+memberi nasihat kepada Direksi. 
+10. Benturan 
+Kepentingan 
+adalah 
+keadaan 
+dimana 
+terdapat konflik antara kepentingan Penyelenggara 
+ITSK dan kepentingan pribadi, keluarga, dan kelompok 
+pemegang saham dari anggota Direksi, anggota Dewan 
+Komisaris, serta pegawai Penyelenggara ITSK. 
+11. Risiko adalah potensi kerugian yang tidak dapat 
+dikendalikan dan/atau dapat dikendalikan akibat 
+terjadinya suatu peristiwa tertentu.  
+12. Manajemen Risiko adalah serangkaian prosedur dan 
+metodologi yang digunakan untuk mengidentifikasi, 
+mengukur, mengendalikan, dan memantau Risiko yang 
+timbul dari seluruh kegiatan usaha Penyelenggara ITSK.  
+13. Risiko Strategis adalah Risiko akibat ketidaktepatan 
+dalam pengambilan dan/atau pelaksanaan suatu 
+keputusan 
+strategis 
+serta 
+kegagalan 
+dalam 
+mengantisipasi perubahan lingkungan bisnis.  
+14. Risiko 
+Operasional 
+adalah 
+Risiko 
+akibat 
+ketidakcukupan dan/atau tidak berfungsinya proses 
+internal, kesalahan manusia dan/atau adanya kejadian 
+eksternal 
+yang 
+memengaruhi 
+operasional 
+Penyelenggara ITSK. 
+15. Risiko Siber adalah Risiko yang disebabkan oleh 
+serangan, kegagalan, kerentanan, atau celah pada 
+keamanan sistem informasi yang memiliki potensi 
+kerugian dan dampak negatif terhadap sistem teknologi 
+informasi, data, atau operasional. 
+16. Risiko Hukum adalah Risiko yang timbul akibat 
+tuntutan hukum dan/atau kelemahan aspek hukum.  
+17. Risiko Kepatuhan adalah Risiko akibat Penyelenggara 
+ITSK tidak mematuhi dan/atau tidak melaksanakan 
+ketentuan 
+peraturan 
+perundang-undangan 
+bagi 
+Penyelenggara ITSK.  
+18. Risiko Reputasi adalah Risiko akibat menurunnya 
+tingkat kepercayaan Pemangku Kepentingan yang 
+bersumber 
+dari 
+persepsi 
+negatif 
+terhadap 
+Penyelenggara ITSK.  
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 4 ===
+- 4 - 
+ 
+BAB II  
+TATA KELOLA YANG BAIK 
+ 
+Bagian Kesatu 
+Penerapan Tata Kelola yang Baik 
+ 
+Pasal 2 
+(1) 
+Penyelenggara ITSK wajib menerapkan Tata Kelola yang 
+Baik dalam menjalankan kegiatan usahanya pada 
+setiap tingkatan atau jenjang organisasi. 
+(2) 
+Penerapan Tata Kelola yang Baik pada Penyelenggara 
+ITSK sebagaimana dimaksud pada ayat (1) paling 
+sedikit mencakup prinsip: 
+a. 
+keterbukaan; 
+b. 
+akuntabilitas; 
+c. 
+tanggung jawab; 
+d. 
+independensi; dan 
+e. 
+kewajaran. 
+(3) 
+Penerapan Tata Kelola yang Baik pada Penyelenggara 
+ITSK bertujuan untuk: 
+a. 
+mengoptimalkan nilai Penyelenggara ITSK bagi 
+Pemangku Kepentingan khususnya Konsumen 
+agar Penyelenggara ITSK memiliki daya saing yang 
+kuat, baik secara nasional maupun internasional; 
+b. 
+meningkatkan pengelolaan Penyelenggara ITSK 
+secara profesional, efektif, dan efisien; 
+c. 
+meningkatkan kepatuhan organ Penyelenggara 
+ITSK serta jajaran di bawahnya agar dalam 
+membuat keputusan dan menjalankan tindakan 
+dilandasi pada etika dan nilai moral yang tinggi, 
+kepatuhan 
+terhadap 
+ketentuan 
+peraturan 
+perundang-undangan, 
+dan 
+kesadaran 
+atas 
+tanggung 
+jawab 
+sosial 
+Penyelenggara 
+ITSK 
+terhadap 
+Konsumen, 
+masyarakat, 
+maupun 
+kelestarian lingkungan; 
+d. 
+meningkatkan 
+iklim 
+yang 
+kondusif 
+bagi 
+perkembangan Penyelenggara ITSK;  
+e. 
+mewujudkan Penyelenggara ITSK yang lebih sehat, 
+dapat 
+diandalkan, 
+amanah, 
+kompetitif, 
+dan 
+memenuhi prinsip pelindungan Konsumen; dan 
+f. 
+meningkatkan kontribusi Penyelenggara ITSK 
+dalam perekonomian nasional. 
+(4) 
+Penerapan 
+Tata 
+Kelola 
+yang 
+Baik 
+sebagaimana 
+dimaksud pada ayat (1) paling sedikit diwujudkan 
+dalam bentuk: 
+a. 
+pelaksanaan tugas dan wewenang pemegang 
+saham dan RUPS; 
+b. 
+pengawasan 
+aktif 
+oleh 
+Direksi 
+dan 
+Dewan 
+Komisaris; 
+c. 
+penerapan Manajemen Risiko;  
+d. 
+penerapan fungsi audit internal; 
+e. 
+penerapan fungsi audit eksternal; 
+f. 
+penanganan Benturan Kepentingan;  
+g. 
+keterbukaan informasi; 
+h. 
+etika bisnis; 
+i. 
+kelayakan rencana bisnis tahunan; 
+
+
+=== Halaman 5 ===
+- 5 - 
+ 
+j. 
+transparansi kondisi keuangan dan nonkeuangan; 
+dan 
+k. 
+penerapan 
+fungsi 
+pengendalian 
+terhadap 
+pelindungan data pribadi dan keamanan sistem 
+informasi. 
+(5) 
+Selain penerapan Tata Kelola yang Baik sebagaimana 
+dimaksud pada ayat (1), Penyelenggara ITSK harus 
+mengikuti perkembangan dinamika industri untuk 
+mendorong penerapan Tata Kelola yang Baik. 
+(6) 
+Dalam melakukan kegiatan usaha, Penyelenggara ITSK 
+harus menyelenggarakan kegiatan usahanya dengan 
+mematuhi ketentuan peraturan perundang-undangan. 
+ 
+Pasal 3 
+(1) 
+Penyelenggara ITSK wajib memiliki standar prosedur 
+operasional yang memadai mengenai penerapan Tata 
+Kelola yang Baik untuk seluruh kegiatan usaha 
+Penyelenggara ITSK. 
+(2) 
+Standar prosedur operasional sebagaimana dimaksud 
+pada ayat (1) ditetapkan oleh Direksi. 
+(3) 
+Penyelenggara ITSK wajib melakukan aktivitas sesuai 
+dengan standar prosedur operasional sebagaimana 
+dimaksud pada ayat (1). 
+(4) 
+Penyelenggara ITSK wajib melakukan evaluasi dan 
+penginian terhadap standar prosedur operasional 
+sebagaimana dimaksud pada ayat (1). 
+(5) 
+Evaluasi dan penginian terhadap standar prosedur 
+operasional sebagaimana dimaksud pada ayat (4) 
+dilakukan secara berkala. 
+ 
+Pasal 4 
+Penyelenggara ITSK wajib melakukan penilaian sendiri atas 
+penerapan Tata Kelola yang Baik secara berkala.  
+ 
+Pasal 5 
+(1) 
+Otoritas 
+Jasa 
+Keuangan 
+berwenang 
+melakukan 
+penilaian terhadap penerapan Tata Kelola yang Baik. 
+(2) 
+Otoritas 
+Jasa 
+Keuangan 
+berwenang 
+meminta 
+Penyelenggara ITSK melakukan atau tidak melakukan 
+tindakan tertentu untuk meningkatkan penerapan Tata 
+Kelola yang Baik. 
+(3) 
+Penyelenggara ITSK wajib memenuhi permintaan 
+Otoritas Jasa Keuangan untuk melakukan atau tidak 
+melakukan tindakan tertentu sebagaimana dimaksud 
+pada ayat (2). 
+ 
+Bagian Kedua 
+Pemegang Saham dan RUPS 
+ 
+Pasal 6 
+PSP wajib memenuhi ketentuan peraturan perundang-
+undangan serta mendukung terlaksananya kegiatan usaha 
+dan pengelolaan Penyelenggara ITSK yang sehat, berdaya 
+saing, serta sesuai prinsip kehati-hatian dan Manajemen 
+Risiko, dan komitmen terhadap pengembangan operasional. 
+ 
+
+
+=== Halaman 6 ===
+- 6 - 
+ 
+Pasal 7 
+(1) 
+Penyelenggara ITSK wajib memastikan setiap pihak 
+yang menjadi PSP memperoleh persetujuan dari 
+Otoritas Jasa Keuangan melalui pelaksanaan penilaian 
+kemampuan dan kepatutan. 
+(2) 
+Penilaian kemampuan dan kepatutan sebagaimana 
+dimaksud pada ayat (1) dilakukan sesuai dengan 
+Peraturan Otoritas Jasa Keuangan mengenai penilaian 
+kemampuan dan kepatutan serta penilaian kembali 
+bagi pihak utama di sektor ITSK serta aset keuangan 
+digital dan aset kripto. 
+ 
+Pasal 8 
+(1) 
+Pemegang saham turut serta: 
+a. 
+mendukung 
+terlaksananya 
+kegiatan 
+usaha 
+Penyelenggara ITSK yang sehat, berdaya saing, 
+sesuai prinsip kehati-hatian dan Manajemen 
+Risiko; dan 
+b. 
+menjaga kesinambungan usaha Penyelenggara 
+ITSK. 
+(2) 
+Pemegang saham harus memiliki komitmen terhadap 
+pengembangan operasional Penyelenggara ITSK. 
+ 
+Pasal 9 
+(1) 
+Pemegang 
+saham 
+dilarang 
+mencampuri 
+kegiatan 
+operasional Penyelenggara ITSK yang menjadi tanggung 
+jawab Direksi sesuai dengan ketentuan anggaran dasar 
+Penyelenggara 
+ITSK 
+dan 
+ketentuan 
+peraturan 
+perundang-undangan, kecuali dalam melaksanakan 
+hak dan kewajiban selaku RUPS. 
+(2) 
+Pemegang saham Penyelenggara ITSK yang menjabat 
+sebagai anggota Direksi atau anggota Dewan Komisaris 
+pada 
+Penyelenggara 
+ITSK 
+yang 
+sama 
+harus 
+mendahulukan kepentingan Penyelenggara ITSK. 
+ 
+Pasal 10 
+(1) 
+Penyelenggara ITSK menetapkan kebijakan dan tata 
+cara RUPS dalam anggaran dasar Penyelenggara ITSK 
+sesuai 
+dengan 
+ketentuan 
+peraturan 
+perundang-
+undangan.  
+(2) 
+Dalam mengambil keputusan, RUPS harus menjaga 
+kepentingan dari Pemangku Kepentingan. 
+ 
+Bagian Ketiga 
+Pengawasan Aktif Oleh Direksi dan Dewan Komisaris 
+ 
+Paragraf 1 
+Direksi 
+ 
+Pasal 11 
+(1) 
+Penyelenggara ITSK wajib memiliki paling sedikit 2 (dua) 
+anggota Direksi. 
+(2) 
+Paling sedikit 1 (satu) anggota Direksi sebagaimana 
+dimaksud pada ayat (1) wajib memiliki pengetahuan 
+dan/atau pengalaman di: 
+a. 
+bidang ITSK; 
+
+
+=== Halaman 7 ===
+- 7 - 
+ 
+b. 
+industri teknologi informasi; dan/atau 
+c. 
+lembaga jasa keuangan. 
+(3) 
+Pengetahuan 
+dan/atau 
+pengalaman 
+sebagaimana 
+dimaksud pada ayat (2) dibuktikan dengan: 
+a. 
+sertifikasi; dan/atau 
+b. 
+pengalaman 
+kerja 
+di 
+industri 
+sebagaimana 
+dimaksud pada ayat (2) paling singkat 3 (tiga) 
+tahun. 
+(4) 
+Salah seorang anggota Direksi sebagaimana dimaksud 
+pada ayat (1) wajib diangkat sebagai direktur utama. 
+(5) 
+Dalam hal diperlukan, anggota Direksi lain dapat 
+diangkat sebagai wakil direktur utama. 
+(6) 
+Direktur utama sebagaimana dimaksud pada ayat (4) 
+wajib berasal dari pihak yang independen terhadap 
+pemegang saham pengendali. 
+(7) 
+Anggota Direksi dilarang rangkap jabatan pada 
+perusahaan lain kecuali sebagai anggota dewan 
+komisaris atau yang setara pada perusahaan selain 
+Penyelenggara ITSK atau pada Penyelenggara ITSK 
+dengan jenis ITSK yang berbeda. 
+(8) 
+Direktur utama wajib berdomisili di Indonesia. 
+(9) 
+Paling sedikit 50% (lima puluh persen) anggota Direksi 
+wajib berdomisili di Indonesia. 
+(10) Direksi yang berkewarganegaraan asing wajib memiliki: 
+a. 
+kartu izin tinggal terbatas atau kartu izin tinggal 
+tetap dari instansi yang berwenang;  
+b. 
+surat izin bekerja dari instansi yang berwenang; 
+dan/atau  
+c. 
+dokumen lain yang ditetapkan oleh otoritas yang 
+berwenang sesuai dengan ketentuan peraturan 
+perundang-undangan. 
+ 
+Pasal 12 
+(1) 
+Pemberhentian atau penggantian anggota Direksi wajib 
+mengedepankan 
+kepentingan 
+utama 
+dari 
+Penyelenggara ITSK. 
+(2) 
+Pemberhentian atau penggantian anggota Direksi 
+sebagaimana dimaksud pada ayat (1) yang dilakukan 
+sebelum periode masa jabatan anggota Direksi berakhir 
+wajib memperhatikan: 
+a. 
+anggota 
+Direksi 
+dinilai 
+tidak 
+mampu 
+melaksanakan tugas dan tanggung jawab dalam 
+pengelolaan 
+dan 
+pelaksanaan 
+strategi 
+Penyelenggara ITSK yang sehat; 
+b. 
+pemberhentian atau penggantian anggota Direksi 
+tidak didasarkan atas penilaian subjektif dari 
+pemegang 
+saham, 
+namun 
+didasarkan 
+dari 
+penilaian 
+yang 
+objektif 
+terkait 
+pengelolaan 
+Penyelenggara ITSK; 
+c. 
+pemberhentian atau penggantian anggota Direksi 
+telah melalui perencanaan dan mekanisme yang 
+berlaku, yang paling sedikit memperhatikan 
+penilaian dari anggota Dewan Komisaris dan telah 
+diagendakan dalam RUPS; dan/atau 
+
+
+=== Halaman 8 ===
+- 8 - 
+ 
+d. 
+terdapat informasi anggota Direksi termasuk 
+dalam pihak yang dilarang sebagai pihak utama 
+yang ditetapkan oleh otoritas berwenang. 
+(3) 
+Otoritas 
+Jasa 
+Keuangan 
+berwenang 
+melakukan 
+evaluasi dan memerintahkan Penyelenggara ITSK 
+untuk 
+melakukan 
+tindakan 
+korektif 
+terhadap 
+keputusan pemberhentian atau penggantian anggota 
+Direksi yang dilakukan sebelum periode masa jabatan 
+anggota Direksi berakhir. 
+ 
+Pasal 13 
+(1) 
+Anggota 
+Direksi 
+dapat 
+mengundurkan 
+diri 
+dari 
+jabatannya sebelum masa jabatan berakhir melalui 
+pemberitahuan tertulis kepada Penyelenggara ITSK. 
+(2) 
+Otoritas 
+Jasa 
+Keuangan 
+berwenang 
+melakukan 
+evaluasi dan memerintahkan Penyelenggara ITSK 
+untuk 
+melakukan 
+tindakan 
+korektif 
+terhadap 
+pengunduran diri anggota Direksi. 
+(3) 
+Evaluasi 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(2) 
+dilakukan untuk menilai pengunduran diri dilakukan 
+secara sukarela, tidak terdapat unsur paksaan, atau 
+kondisi lain.  
+ 
+Pasal 14 
+Kewenangan Otoritas Jasa Keuangan dalam melakukan 
+tindakan 
+korektif 
+dan 
+evaluasi 
+terhadap 
+tindakan 
+pengangkatan, 
+pemberhentian, 
+penggantian, 
+dan/atau 
+pengunduran diri anggota Direksi dapat disampaikan oleh 
+Otoritas Jasa Keuangan melalui perintah tertulis sesuai 
+dengan Peraturan Otoritas Jasa Keuangan mengenai 
+perintah tertulis. 
+ 
+Pasal 15 
+(1) 
+Dalam hal terjadi: 
+a. 
+pemberhentian anggota Direksi; 
+b. 
+anggota Direksi berhalangan tetap; dan/atau 
+c. 
+anggota Direksi mengundurkan diri, 
+yang mengakibatkan jumlah anggota Direksi menjadi 
+kurang 
+dari 
+jumlah 
+minimal 
+anggota 
+Direksi 
+sebagaimana dimaksud dalam Pasal 11 ayat (1), 
+Penyelenggara ITSK wajib mengangkat pengganti 
+anggota Direksi dimaksud. 
+(2) 
+Penyelenggara 
+ITSK 
+wajib 
+memenuhi 
+ketentuan 
+mengenai pengangkatan pengganti anggota Direksi 
+sebagaimana dimaksud pada ayat (1) paling lambat 6 
+(enam) bulan sejak tanggal pemberhentian anggota 
+Direksi, anggota Direksi berhalangan tetap, atau 
+mengundurkan diri. 
+(3) 
+Dalam hal terdapat kekurangan jumlah Direksi 
+sebagaimana dimaksud pada ayat (1), Dewan Komisaris 
+dapat melakukan tindakan pengurusan Penyelenggara 
+ITSK sesuai anggaran dasar atau keputusan RUPS 
+sebagaimana 
+diatur 
+dalam 
+ketentuan 
+peraturan 
+perundang-undangan untuk jangka waktu paling lama 
+6 (enam) bulan. 
+
+
+=== Halaman 9 ===
+- 9 - 
+ 
+(4) 
+Ketentuan mengenai hak, wewenang, dan kewajiban 
+Direksi terhadap Penyelenggara ITSK berlaku bagi 
+Dewan 
+Komisaris 
+yang 
+melakukan 
+tindakan 
+pengurusan 
+Penyelenggara 
+ITSK 
+sebagaimana 
+dimaksud pada ayat (3). 
+(5) 
+Dalam hal anggaran dasar atau keputusan RUPS tidak 
+mengatur Dewan Komisaris dapat melakukan tindakan 
+pengurusan 
+Penyelenggara 
+ITSK 
+sebagaimana 
+dimaksud pada ayat (3), Otoritas Jasa Keuangan dapat 
+memerintahkan Penyelenggara ITSK untuk menunjuk 
+salah satu pegawai dengan level tertentu untuk 
+melakukan tindakan pengurusan Penyelenggara ITSK. 
+ 
+Pasal 16 
+(1) 
+Penyelenggara ITSK dilarang mengangkat anggota 
+Direksi yang berasal dari: 
+a. 
+pegawai atau pejabat aktif Otoritas Jasa Keuangan; 
+atau 
+b. 
+mantan pegawai atau pejabat Otoritas Jasa 
+Keuangan yang berhenti bekerja dari Otoritas Jasa 
+Keuangan kurang dari 6 (enam) bulan. 
+(2) 
+Dalam hal terdapat Benturan Kepentingan atau potensi 
+Benturan Kepentingan dari mantan pegawai atau 
+pejabat Otoritas Jasa Keuangan calon anggota Direksi 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1) 
+huruf 
+b 
+sehubungan dengan pencalonan yang bersangkutan 
+pada Penyelenggara ITSK, calon yang bersangkutan 
+mengungkapkan Benturan Kepentingan dalam proses 
+penilaian kemampuan dan kepatutan. 
+(3) 
+Dalam hal berdasarkan penilaian Otoritas Jasa 
+Keuangan terdapat Benturan Kepentingan atau potensi 
+Benturan Kepentingan dari mantan pegawai atau 
+pejabat Otoritas Jasa Keuangan calon anggota Direksi 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(1) 
+huruf 
+b 
+sehubungan dengan pencalonan yang bersangkutan 
+pada Penyelenggara ITSK, Otoritas Jasa Keuangan 
+berwenang menetapkan tindakan pengawasan yang 
+diperlukan. 
+(4) 
+Penyelenggara ITSK wajib melaksanakan penetapan 
+yang dikeluarkan oleh Otoritas Jasa Keuangan terkait 
+tindakan 
+pengawasan 
+yang 
+diperlukan 
+untuk 
+mencegah 
+Benturan 
+Kepentingan 
+atau 
+potensi 
+Benturan Kepentingan sebagaimana dimaksud pada 
+ayat (3). 
+ 
+Pasal 17 
+(1) 
+Penyelenggara ITSK wajib memastikan setiap calon 
+anggota Direksi memperoleh persetujuan dari Otoritas 
+Jasa 
+Keuangan 
+melalui 
+pelaksanaan 
+penilaian 
+kemampuan dan kepatutan. 
+(2) 
+Penilaian kemampuan dan kepatutan sebagaimana 
+dimaksud pada ayat (1) dilaksanakan sesuai dengan 
+Peraturan Otoritas Jasa Keuangan mengenai penilaian 
+kemampuan dan kepatutan serta penilaian kembali 
+bagi pihak utama di sektor ITSK serta aset keuangan 
+digital dan aset kripto. 
+
+
+=== Halaman 10 ===
+- 10 - 
+ 
+Pasal 18 
+(1) 
+Direksi wajib: 
+a. 
+mematuhi 
+ketentuan 
+peraturan 
+perundang-
+undangan, anggaran dasar, dan peraturan internal 
+lain dari Penyelenggara ITSK dalam melaksanakan 
+tugasnya; 
+b. 
+mengelola Penyelenggara ITSK sesuai dengan 
+kewenangan dan tanggung jawabnya dengan itikad 
+baik dan dengan prinsip kehati-hatian; 
+c. 
+mempertanggungjawabkan pelaksanaan tugasnya 
+kepada pemegang saham melalui RUPS; 
+d. 
+memastikan 
+agar 
+Penyelenggara 
+ITSK 
+memperhatikan kepentingan Konsumen dengan 
+itikad baik dan dengan prinsip kehati-hatian 
+sesuai dengan ketentuan peraturan perundang-
+undangan, anggaran dasar, dan/atau keputusan 
+RUPS; 
+e. 
+memastikan 
+agar 
+informasi 
+mengenai 
+Penyelenggara ITSK diberikan kepada Dewan 
+Komisaris secara akurat, relevan, dan tepat waktu; 
+f. 
+melaksanakan pengelolaan data dan informasi 
+sesuai dengan Tata Kelola yang Baik pada 
+Penyelenggara ITSK dan ketentuan peraturan 
+perundang-undangan; dan 
+g. 
+membantu dan menyediakan fasilitas dan/atau 
+sumber daya untuk kelancaran pelaksanaan tugas 
+dan wewenang organ Penyelenggara ITSK. 
+(2) 
+Direksi berwenang mewakili Penyelenggara ITSK sesuai 
+dengan ketentuan peraturan perundang-undangan, 
+anggaran dasar, dan keputusan RUPS. 
+(3) 
+Direksi wajib menindaklanjuti temuan audit atau 
+pemeriksaan dan rekomendasi dari fungsi audit 
+internal, auditor eksternal, hasil pengawasan Otoritas 
+Jasa Keuangan, dan/atau hasil pengawasan otoritas 
+dan lembaga lain. 
+ 
+Pasal 19 
+(1) 
+Direksi wajib memiliki pedoman dan tata tertib kerja 
+yang bersifat mengikat bagi setiap anggota Direksi. 
+(2) 
+Pedoman dan tata tertib kerja sebagaimana dimaksud 
+pada ayat (1) paling sedikit wajib mencantumkan: 
+a. 
+pengorganisasian 
+Penyelenggara 
+ITSK 
+dan 
+pembidangan tugas Direksi; 
+b. 
+tugas, tanggung jawab, dan wewenang Direksi; 
+c. 
+pengaturan kewenangan dan prosedur keputusan 
+Direksi; 
+d. 
+pengaturan etika kerja Direksi; 
+e. 
+pengaturan rapat Direksi; 
+f. 
+larangan terhadap Direksi; 
+g. 
+evaluasi kinerja Direksi; dan 
+h. 
+pola hubungan kerja Direksi dan Dewan Komisaris. 
+ 
+Pasal 20 
+(1) 
+Direksi wajib mengambil keputusan sesuai dengan 
+pedoman dan tata tertib kerja. 
+
+
+=== Halaman 11 ===
+- 11 - 
+ 
+(2) 
+Keputusan Direksi yang diambil mengikat dan menjadi 
+tanggung jawab seluruh anggota Direksi. 
+ 
+Pasal 21 
+(1) 
+Direksi wajib menyelenggarakan rapat Direksi secara 
+berkala paling sedikit 1 (satu) kali dalam jangka waktu 
+1 (satu) bulan. 
+(2) 
+Setiap anggota Direksi wajib menghadiri rapat Direksi 
+paling sedikit 50% (lima puluh persen) dari jumlah 
+rapat Direksi dalam periode 1 (satu) tahun. 
+(3) 
+Direksi dapat melaksanakan rapat Direksi sebagaimana 
+dimaksud pada ayat (1) melalui tatap muka dengan 
+memanfaatkan teknologi informasi. 
+(4) 
+Direksi wajib melaksanakan rapat bersama dengan 
+Dewan Komisaris paling sedikit 1 (satu) kali dalam 
+jangka waktu 3 (tiga) bulan dan dapat dilaksanakan 
+melalui tatap muka dengan memanfaatkan teknologi 
+informasi.  
+ 
+Pasal 22  
+(1) 
+Setiap kebijakan dan keputusan strategis wajib 
+diputuskan melalui rapat Direksi sesuai dengan 
+mekanisme yang tercantum dalam anggaran dasar 
+Penyelenggara 
+ITSK 
+dan 
+ketentuan 
+peraturan 
+perundang-undangan. 
+(2) 
+Pengambilan keputusan Direksi melalui rapat Direksi 
+sebagaimana dimaksud pada ayat (1) wajib terlebih 
+dahulu dilakukan berdasarkan musyawarah untuk 
+mufakat. 
+(3) 
+Dalam hal tidak terjadi musyawarah untuk mufakat, 
+pengambilan keputusan dilakukan berdasarkan suara 
+terbanyak. 
+(4) 
+Dalam hal tidak terjadi musyawarah untuk mufakat 
+atau tidak memperoleh suara terbanyak sebagaimana 
+dimaksud pada ayat (3), direktur utama dapat 
+memberikan keputusan final.  
+(5) 
+Dalam hal Penyelenggara ITSK memiliki Direksi 
+berjumlah genap, direktur utama dapat memberikan 
+keputusan final pada rapat sebagaimana dimaksud 
+pada ayat (1). 
+(6) 
+Penyelenggara ITSK wajib memastikan Direksi untuk 
+menuangkan hasil rapat Direksi dalam risalah rapat 
+Direksi dan didokumentasikan dengan baik. 
+(7) 
+Penyelenggara ITSK wajib memastikan Direksi untuk 
+mencantumkan pendapat berbeda yang terjadi dalam 
+keputusan rapat Direksi secara jelas dalam risalah 
+rapat Direksi disertai alasan pendapat berbeda tersebut. 
+(8) 
+Anggota Direksi yang hadir maupun yang tidak hadir 
+dalam rapat Direksi berhak menerima salinan risalah 
+rapat Direksi. 
+(9) 
+Jumlah rapat Direksi yang telah diselenggarakan dan 
+jumlah kehadiran masing-masing anggota Direksi 
+harus dimuat dalam laporan penerapan Tata Kelola 
+yang Baik. 
+ 
+ 
+
+
+=== Halaman 12 ===
+- 12 - 
+ 
+Pasal 23  
+Direksi wajib menjamin pengambilan keputusan yang efektif, 
+tepat, dan cepat serta dapat bertindak secara independen, 
+tidak mempunyai kepentingan yang dapat mengganggu 
+kemampuannya untuk melaksanakan tugas secara mandiri 
+dan objektif. 
+ 
+Pasal 24 
+Anggota Direksi dilarang: 
+a. 
+memanfaatkan jabatannya pada Penyelenggara ITSK 
+tempat anggota Direksi menjabat untuk kepentingan 
+pribadi, keluarga, dan/atau pihak lain yang dapat 
+merugikan 
+atau 
+mengurangi 
+keuntungan 
+Penyelenggara ITSK tempat anggota Direksi menjabat; 
+b. 
+mengambil dan/atau menerima keuntungan pribadi 
+dari Penyelenggara ITSK tempat anggota Direksi 
+menjabat 
+selain 
+remunerasi 
+dan 
+fasilitas 
+yang 
+ditetapkan berdasarkan keputusan RUPS; 
+c. 
+memenuhi permintaan pemegang saham yang terkait 
+dengan kegiatan operasional Penyelenggara ITSK 
+tempat anggota Direksi menjabat selain yang telah 
+ditetapkan berdasarkan keputusan RUPS; dan 
+d. 
+memberikan kuasa umum kepada pihak lain yang 
+mengakibatkan pengalihan tugas dan fungsi Direksi. 
+ 
+Paragraf 2 
+Dewan Komisaris 
+ 
+Pasal 25 
+(1) 
+Penyelenggara ITSK wajib memiliki paling sedikit 1 
+(satu) orang anggota Dewan Komisaris atau paling 
+banyak sama dengan jumlah anggota Direksi. 
+(2) 
+Salah seorang anggota Dewan Komisaris sebagaimana 
+dimaksud pada ayat (1) wajib diangkat sebagai 
+komisaris utama atau yang setara. 
+(3) 
+Dalam hal diperlukan, anggota Dewan Komisaris lain 
+dapat diangkat sebagai wakil komisaris utama atau 
+yang setara. 
+(4) 
+Anggota Dewan Komisaris dilarang merangkap jabatan 
+sebagai anggota direksi, anggota dewan komisaris, 
+bidang tugas fungsional atau pada jabatan lain pada 
+Penyelenggara ITSK dengan jenis ITSK yang sama. 
+(5) 
+Anggota Dewan Komisaris berkewarganegaraan asing 
+yang berdomisili di Indonesia wajib memiliki surat izin 
+bekerja dari instansi yang berwenang. 
+ 
+Pasal 26 
+(1) 
+Pemberhentian atau penggantian anggota Dewan 
+Komisaris wajib mengedepankan kepentingan utama 
+dari Penyelenggara ITSK. 
+(2) 
+Pemberhentian atau penggantian anggota Dewan 
+Komisaris sebagaimana dimaksud pada ayat (1) yang 
+dilakukan sebelum periode masa jabatan anggota 
+Dewan Komisaris berakhir wajib memperhatikan: 
+a. 
+anggota Dewan Komisaris dinilai tidak mampu 
+melaksanakan tugas dan tanggung jawab dalam 
+
+
+=== Halaman 13 ===
+- 13 - 
+ 
+pengawasan 
+dan 
+pelaksanaan 
+strategi 
+Penyelenggara ITSK yang sehat; 
+b. 
+pemberhentian atau penggantian anggota Dewan 
+Komisaris 
+tidak 
+didasarkan 
+atas 
+penilaian 
+subjektif 
+dari 
+pemegang 
+saham, 
+namun 
+didasarkan dari penilaian yang objektif terkait 
+pengawasan Penyelenggara ITSK; 
+c. 
+pemberhentian atau penggantian anggota Dewan 
+Komisaris 
+telah 
+melalui 
+perencanaan 
+dan 
+mekanisme yang berlaku dan telah diagendakan 
+dalam RUPS; dan/atau 
+d. 
+terdapat informasi anggota Dewan Komisaris 
+termasuk dalam pihak yang dilarang sebagai pihak 
+utama yang ditetapkan oleh otoritas berwenang. 
+(3) 
+Otoritas 
+Jasa 
+Keuangan 
+berwenang 
+melakukan 
+evaluasi dan memerintahkan Penyelenggara ITSK 
+untuk 
+melakukan 
+tindakan 
+korektif 
+terhadap 
+keputusan pemberhentian atau penggantian anggota 
+Dewan Komisaris yang dilakukan sebelum periode 
+masa jabatan anggota Dewan Komisaris berakhir. 
+ 
+Pasal 27 
+(1) 
+Anggota Dewan Komisaris dapat mengundurkan diri 
+dari jabatannya sebelum masa jabatan berakhir melalui 
+pemberitahuan tertulis kepada Penyelenggara ITSK. 
+(2) 
+Otoritas 
+Jasa 
+Keuangan 
+berwenang 
+melakukan 
+evaluasi dan memerintahkan Penyelenggara ITSK 
+untuk 
+melakukan 
+tindakan 
+korektif 
+terhadap 
+pengunduran diri anggota Dewan Komisaris. 
+(3) 
+Evaluasi 
+sebagaimana 
+dimaksud 
+pada 
+ayat 
+(2) 
+dilakukan untuk menilai pengunduran diri dilakukan 
+secara sukarela, tidak terdapat unsur paksaan, atau 
+kondisi lain.  
+ 
+Pasal 28 
+Kewenangan Otoritas Jasa Keuangan dalam melakukan 
+tindakan 
+korektif 
+dan 
+evaluasi 
+terhadap 
+tindakan 
+pengangkatan, 
+pemberhentian, 
+penggantian, 
+dan/atau 
+pengunduran 
+diri 
+anggota 
+Dewan 
+Komisaris 
+dapat 
+disampaikan oleh Otoritas Jasa Keuangan melalui perintah 
+tertulis sesuai dengan Peraturan Otoritas Jasa Keuangan 
+mengenai perintah tertulis. 
+ 
+Pasal 29 
+(1) 
+Dalam hal terjadi: 
+a. 
+pemberhentian anggota Dewan Komisaris; 
+b. 
+anggota Dewan Komisaris berhalangan tetap; 
+dan/atau 
+c. 
+anggota Dewan Komisaris mengundurkan diri, 
+yang mengakibatkan jumlah anggota Dewan Komisaris 
+menjadi kurang dari jumlah minimal anggota Dewan 
+Komisaris sebagaimana dimaksud dalam Pasal 25 ayat 
+(1), Penyelenggara ITSK wajib mengangkat pengganti 
+anggota Dewan Komisaris dimaksud. 
+ 
+
+
+=== Halaman 14 ===
+- 14 - 
+ 
+(2) 
+Penyelenggara 
+ITSK 
+wajib 
+memenuhi 
+ketentuan 
+mengenai pengangkatan pengganti anggota Dewan 
+Komisaris sebagaimana dimaksud pada ayat (1) paling 
+lambat 6 (enam) bulan sejak tanggal pemberhentian 
+anggota Dewan Komisaris, anggota Dewan Komisaris 
+berhalangan tetap, atau mengundurkan diri. 
+ 
+Pasal 30 
+(1) 
+Penyelenggara ITSK wajib memastikan setiap calon 
+anggota Dewan Komisaris memperoleh persetujuan dari 
+Otoritas Jasa Keuangan melalui pelaksanaan penilaian 
+kemampuan dan kepatutan. 
+(2) 
+Penilaian kemampuan dan kepatutan sebagaimana 
+dimaksud pada ayat (1) dilakukan sesuai dengan 
+Peraturan Otoritas Jasa Keuangan mengenai penilaian 
+kemampuan dan kepatutan serta penilaian kembali 
+bagi pihak utama di sektor ITSK serta aset keuangan 
+digital dan aset kripto. 
+ 
+Pasal 31 
+Dewan Komisaris wajib: 
+a. 
+melaksanakan tugas pengawasan dan pemberian 
+nasihat kepada Direksi; 
+b. 
+melaksanakan tugas, wewenang, dan tanggung 
+jawab dengan itikad baik dan dengan prinsip 
+kehati-hatian; 
+c. 
+mengawasi kebijakan pengurusan dan jalannya 
+pengurusan pada umumnya yang dilakukan oleh 
+Direksi untuk kepentingan Penyelenggara ITSK 
+serta 
+sesuai 
+dengan 
+maksud 
+dan 
+tujuan 
+Penyelenggara ITSK; 
+d. 
+menyusun laporan kegiatan Dewan Komisaris 
+yang merupakan bagian dari laporan penerapan 
+Tata Kelola yang Baik; 
+e. 
+mengarahkan, 
+memantau, 
+dan 
+mengevaluasi 
+efektivitas penerapan Tata Kelola yang Baik, 
+Manajemen Risiko, kepatuhan, dan audit internal;  
+f. 
+memastikan Direksi telah menindaklanjuti temuan 
+audit atau pemeriksaan dan rekomendasi dari 
+audit 
+internal 
+Penyelenggara 
+ITSK, 
+auditor 
+eksternal, 
+hasil 
+pengawasan 
+Otoritas 
+Jasa 
+Keuangan, dan/atau hasil pengawasan otoritas 
+dan lembaga lain; dan 
+g. 
+menjamin pengambilan keputusan yang efektif, 
+tepat, cepat, dan bertindak secara independen 
+dalam melaksanakan tugas. 
+ 
+Pasal 32 
+Anggota Dewan Komisaris berhak memperoleh informasi 
+dari Direksi mengenai Penyelenggara ITSK secara akurat, 
+relevan, dan tepat waktu. 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 15 ===
+- 15 - 
+ 
+Pasal 33 
+(1) 
+Dewan 
+Komisaris 
+wajib 
+melakukan 
+pengawasan 
+terhadap tindak lanjut Direksi atas temuan audit atau 
+pemeriksaan dan rekomendasi dari audit internal 
+Penyelenggara 
+ITSK, 
+auditor 
+eksternal, 
+hasil 
+pengawasan Otoritas Jasa Keuangan, dan/atau hasil 
+pengawasan otoritas dan lembaga lain. 
+(2) 
+Berdasarkan hasil pengawasan sebagaimana dimaksud 
+pada ayat (1), Dewan Komisaris wajib melaporkan 
+kepada Otoritas Jasa Keuangan paling lama 10 
+(sepuluh) hari kerja sejak ditemukannya: 
+a. 
+keadaan Direksi tidak melakukan tindak lanjut 
+atas temuan audit, atau pemeriksaan dan temuan 
+audit atau pemeriksaan dan rekomendasi dari 
+audit 
+internal 
+Penyelenggara 
+ITSK, 
+auditor 
+eksternal, 
+hasil 
+pengawasan 
+Otoritas 
+Jasa 
+Keuangan, dan/atau hasil pengawasan otoritas 
+dan lembaga lain; 
+b. 
+pelanggaran ketentuan peraturan perundang-
+undangan di bidang keuangan dan Penyelenggara 
+ITSK terkait; dan/atau 
+c. 
+keadaan atau perkiraan keadaan yang dapat 
+membahayakan 
+kelangsungan 
+usaha 
+Penyelenggara ITSK. 
+ 
+Pasal 34 
+(1) 
+Dewan Komisaris wajib memiliki pedoman dan tata 
+tertib kerja yang bersifat mengikat bagi setiap anggota 
+Dewan Komisaris. 
+(2) 
+Pedoman dan tata tertib kerja sebagaimana dimaksud 
+pada ayat (1) wajib paling sedikit mencantumkan: 
+a. 
+tugas, tanggung jawab, dan wewenang Dewan 
+Komisaris; 
+b. 
+pengaturan kewenangan dan prosedur keputusan 
+Dewan Komisaris; 
+c. 
+pengaturan etika kerja Dewan Komisaris; 
+d. 
+pengaturan rapat Dewan Komisaris; 
+e. 
+larangan terhadap Dewan Komisaris; 
+f. 
+evaluasi kinerja Dewan Komisaris; dan 
+g. 
+pola hubungan kerja Dewan Komisaris dan Direksi. 
+ 
+Pasal 35 
+(1) 
+Dewan Komisaris wajib menyelenggarakan rapat Dewan 
+Komisaris paling sedikit 1 (satu) kali dalam jangka 
+waktu 3 (tiga) bulan. 
+(2) 
+Anggota Dewan Komisaris wajib menghadiri rapat 
+Dewan Komisaris paling sedikit 75% (tujuh puluh lima 
+persen) dari jumlah rapat Dewan Komisaris dalam 
+periode 1 (satu) tahun. 
+(3) 
+Dewan Komisaris dapat melaksanakan rapat Dewan 
+Komisaris sebagaimana dimaksud pada ayat (1) melalui 
+tatap muka dengan memanfaatkan teknologi informasi. 
+(4) 
+Dewan Komisaris wajib melaksanakan rapat bersama 
+dengan Direksi paling sedikit 1 (satu) kali dalam jangka 
+waktu 3 (tiga) bulan. 
+
+
+=== Halaman 16 ===
+- 16 - 
+ 
+(5) 
+Dalam hal Dewan Komisaris hanya berjumlah 1 (satu) 
+orang, rapat sebagaimana dimaksud pada ayat (4) dapat 
+diberlakukan 
+sebagai 
+rapat 
+Dewan 
+Komisaris 
+sebagaimana dimaksud pada ayat (1). 
+(6) 
+Pengambilan keputusan Dewan Komisaris melalui 
+rapat Dewan Komisaris wajib terlebih dahulu dilakukan 
+berdasarkan musyawarah untuk mufakat. 
+(7) 
+Dalam hal tidak terjadi musyawarah untuk mufakat, 
+pengambilan keputusan dilakukan berdasarkan suara 
+terbanyak. 
+(8) 
+Dalam hal Penyelenggara ITSK memiliki Dewan 
+Komisaris berjumlah 1 (satu) orang, keputusan Dewan 
+Komisaris pada rapat sebagaimana dimaksud pada ayat 
+(5) dapat menjadi keputusan final. 
+(9) 
+Dalam hal Penyelenggara ITSK memiliki Dewan 
+Komisaris berjumlah genap, komisaris utama dapat 
+memberikan keputusan final pada rapat sebagaimana 
+dimaksud pada ayat (1). 
+(10) Penyelenggara 
+ITSK 
+wajib 
+memastikan 
+Dewan 
+Komisaris untuk menuangkan hasil rapat Dewan 
+Komisaris sebagaimana dimaksud pada ayat (1) dan 
+ayat (4) dalam risalah rapat Dewan Komisaris dan 
+didokumentasikan dengan baik. 
+(11) Penyelenggara 
+ITSK 
+wajib 
+memastikan 
+Dewan 
+Komisaris untuk mencantumkan perbedaan pendapat 
+yang terjadi dalam keputusan rapat Dewan Komisaris 
+secara jelas dalam risalah rapat Dewan Komisaris 
+disertai alasan perbedaan pendapat tersebut. 
+(12) Anggota Dewan Komisaris yang hadir maupun yang 
+tidak hadir dalam rapat Dewan Komisaris berhak 
+menerima salinan risalah rapat Dewan Komisaris. 
+(13) Jumlah 
+rapat 
+Dewan 
+Komisaris 
+yang 
+telah 
+diselenggarakan dan jumlah kehadiran masing-masing 
+anggota Dewan Komisaris harus dimuat dalam laporan 
+penerapan Tata Kelola yang Baik. 
+ 
+Pasal 36 
+Anggota Dewan Komisaris dilarang: 
+a. 
+memanfaatkan jabatannya pada Penyelenggara ITSK 
+tempat anggota Dewan Komisaris menjabat untuk 
+kepentingan pribadi, keluarga, dan/atau pihak lain 
+yang dapat merugikan atau mengurangi keuntungan 
+Penyelenggara ITSK tempat anggota Dewan Komisaris 
+menjabat; 
+b. 
+mengambil dan/atau menerima keuntungan pribadi 
+dari Penyelenggara ITSK tempat anggota Dewan 
+Komisaris menjabat selain remunerasi dan fasilitas 
+yang ditetapkan berdasarkan keputusan RUPS; dan  
+c. 
+mencampuri kegiatan operasional Penyelenggara ITSK 
+yang menjadi tanggung jawab Direksi. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 17 ===
+- 17 - 
+ 
+Bagian Keempat 
+Penerapan Manajemen Risiko  
+ 
+Pasal 37 
+(1) 
+Penyelenggara ITSK harus: 
+a. 
+menerapkan Manajemen Risiko yang tepat dan 
+efektif; 
+b. 
+memiliki sistem peringatan dini atas Risiko; dan 
+c. 
+melakukan evaluasi penerapan Manajemen Risiko 
+secara berkala, 
+yang disesuaikan dengan kompleksitas dan skala 
+usaha Penyelenggara ITSK dengan berpedoman pada 
+persyaratan dan tata cara sesuai dengan Peraturan 
+Otoritas Jasa Keuangan ini. 
+(2) 
+Dalam menerapkan Manajemen Risiko, Penyelenggara 
+ITSK menerapkan program anti pencucian uang, 
+pencegahan pendanaan terorisme, dan pencegahan 
+pendanaan proliferasi senjata pemusnah massal dalam 
+melaksanakan 
+kegiatan 
+usaha, 
+sesuai 
+dengan 
+Peraturan 
+Otoritas 
+Jasa 
+Keuangan 
+mengenai 
+penerapan program anti pencucian uang, pencegahan 
+pendanaan terorisme, dan pencegahan pendanaan 
+proliferasi senjata pemusnah massal di sektor jasa 
+keuangan. 
+ 
+Bagian Kelima 
+Fungsi Audit Internal 
+ 
+Pasal 38 
+(1) 
+Penyelenggara ITSK wajib memiliki fungsi audit internal 
+yang dijalankan oleh paling sedikit 1 (satu) orang 
+sumber 
+daya 
+manusia 
+yang 
+memiliki 
+keahlian 
+dan/atau latar belakang di bidang audit. 
+(2) 
+Fungsi audit internal sebagaimana dimaksud pada ayat 
+(1) bertanggung jawab secara langsung kepada anggota 
+Direksi. 
+(3) 
+Dalam 
+hal 
+terdapat 
+indikasi 
+pelanggaran 
+atas 
+ketentuan 
+peraturan 
+perundang-undangan 
+yang 
+dilakukan oleh Penyelenggara ITSK atau hal lain yang 
+ditemukan oleh fungsi audit internal dapat dilaporkan 
+secara langsung kepada Dewan Komisaris. 
+(4) 
+Fungsi audit internal sebagaimana dimaksud pada ayat 
+(1) wajib memiliki dan melaksanakan tugas dan 
+tanggung jawab paling sedikit: 
+a. 
+menyusun dan merealisasikan rencana program 
+audit tahunan; 
+b. 
+membantu tugas Direksi dan Dewan Komisaris 
+dalam 
+melakukan 
+pengawasan 
+operasional 
+Penyelenggara ITSK, terutama untuk melakukan 
+pemantauan atas hasil audit; 
+c. 
+membuat 
+analisis 
+dan 
+penilaian 
+di 
+bidang 
+keuangan, akuntansi, operasional, dan kegiatan 
+lain;  
+d. 
+memberikan saran perbaikan dan informasi yang 
+objektif tentang kegiatan yang diperiksa pada 
+semua tingkatan manajemen; dan 
+
+
+=== Halaman 18 ===
+- 18 - 
+ 
+e. 
+mendokumentasikan bukti dari tes dan audit yang 
+sudah dilakukan oleh fungsi audit internal 
+termasuk audit sistem informasi dan teknologi. 
+(5) 
+Selain 
+tugas 
+dan 
+tanggung 
+jawab 
+sebagaimana 
+dimaksud pada ayat (4), fungsi audit internal juga dapat 
+melakukan audit keamanan dan kerentanan sistem 
+informasi keseluruhan Penyelenggara ITSK, serta harus 
+independen terhadap fungsi pengembangan sistem 
+informasi dan fungsi bisnis dan operasional sistem 
+informasi. 
+(6) 
+Otoritas Jasa Keuangan dapat meminta Penyelenggara 
+ITSK untuk menyampaikan bukti dari tes dan audit 
+sebagaimana dimaksud pada ayat (4) huruf e.  
+(7) 
+Otoritas Jasa Keuangan dapat meminta Penyelenggara 
+ITSK untuk mempresentasikan rencana dan realisasi 
+program audit tahunan sebagaimana dimaksud pada 
+ayat (4) huruf a. 
+(8) 
+Penyelenggara ITSK wajib memiliki pedoman dan tata 
+tertib kerja fungsi audit internal yang memuat paling 
+sedikit: 
+a. 
+tugas, tanggung jawab, dan wewenang; 
+b. 
+persyaratan dan kode etik auditor internal; dan 
+c. 
+mekanisme koordinasi dan pertanggungjawaban 
+hasil audit internal. 
+ 
+Bagian Keenam 
+Fungsi Audit Eksternal 
+ 
+Pasal 39 
+(1) 
+Dalam 
+menyediakan 
+informasi 
+keuangan 
+yang 
+transparan 
+dan 
+berkualitas, 
+Penyelenggara 
+ITSK 
+menggunakan jasa auditor eksternal yang dilakukan 
+oleh akuntan publik. 
+(2) 
+Akuntan publik sebagaimana dimaksud pada ayat (1) 
+merupakan akuntan publik yang terdaftar di Otoritas 
+Jasa Keuangan. 
+ 
+Bagian Ketujuh 
+Benturan Kepentingan 
+ 
+Pasal 40 
+(1) 
+Anggota Direksi, anggota Dewan Komisaris, dan 
+pegawai Penyelenggara ITSK harus menghindari segala 
+bentuk Benturan Kepentingan dalam pelaksanaan 
+tugas pengelolaan dan pengawasan Penyelenggara ITSK. 
+(2) 
+Dalam hal terjadi Benturan Kepentingan, anggota 
+Direksi, anggota Dewan Komisaris, dan pegawai 
+Penyelenggara ITSK wajib mengungkapkan Benturan 
+Kepentingan dalam setiap keputusan yang memenuhi 
+kondisi adanya Benturan Kepentingan. 
+(3) 
+Selain 
+mengungkapkan 
+Benturan 
+Kepentingan 
+sebagaimana dimaksud pada ayat (2), anggota Direksi, 
+anggota Dewan Komisaris, dan pegawai Penyelenggara 
+ITSK dilarang mengambil tindakan yang berpotensi 
+merugikan Penyelenggara ITSK atau mengurangi 
+keuntungan Penyelenggara ITSK. 
+
+
+=== Halaman 19 ===
+- 19 - 
+ 
+(4) 
+Penyelenggara ITSK wajib memiliki kebijakan Benturan 
+Kepentingan yang bertujuan untuk mengidentifikasi, 
+mengurangi, dan mengelola adanya potensi Benturan 
+Kepentingan 
+yang 
+mungkin 
+timbul 
+dalam 
+Penyelenggara ITSK akibat dari pelaksanaan kegiatan 
+usaha Penyelenggara ITSK, yang dituangkan dalam 
+aturan. 
+ 
+Bagian Kedelapan 
+Keterbukaan Informasi 
+ 
+Pasal 41 
+Dalam pemenuhan pelaksanaan Tata Kelola yang Baik, 
+Penyelenggara ITSK wajib mengungkapkan: 
+a. 
+kepemilikan saham anggota Direksi dan anggota Dewan 
+Komisaris yang mencapai 5% (lima persen) atau lebih 
+pada Penyelenggara ITSK tempat anggota Direksi dan 
+anggota Dewan Komisaris menjabat dan/atau pada 
+perusahaan lain yang berkedudukan di dalam dan di 
+luar negeri; 
+b. 
+hubungan keuangan anggota Direksi dan anggota 
+Dewan Komisaris dengan anggota Direksi lain, anggota 
+Dewan Komisaris lain, pemegang saham Penyelenggara 
+ITSK, dan/atau pegawai Penyelenggara ITSK tempat 
+anggota 
+Direksi 
+dan 
+anggota 
+Dewan 
+Komisaris 
+menjabat;  
+c. 
+hubungan keluarga anggota Direksi dan anggota Dewan 
+Komisaris dengan anggota Direksi lain, anggota Dewan 
+Komisaris lain, pemegang saham Penyelenggara ITSK, 
+dan/atau pegawai Penyelenggara ITSK tempat anggota 
+Direksi dan anggota Dewan Komisaris menjabat sampai 
+dengan derajat kedua baik horizontal maupun vertikal; 
+dan 
+d. 
+remunerasi dan fasilitas yang diterima oleh anggota 
+Direksi dan anggota Dewan Komisaris,  
+dalam laporan penerapan Tata Kelola yang Baik. 
+ 
+Pasal 42 
+(1) 
+Penyelenggara ITSK wajib mengungkapkan kepada 
+Otoritas Jasa Keuangan mengenai hal penting, meliputi: 
+a. 
+pengunduran diri atau pemberhentian auditor 
+eksternal;  
+b. 
+transaksi material dengan pihak yang memiliki 
+hubungan afiliasi; 
+c. 
+Benturan Kepentingan yang sedang berlangsung 
+dan/atau yang mungkin akan terjadi; dan 
+d. 
+informasi material lain mengenai Penyelenggara 
+ITSK, 
+dalam laporan penerapan Tata Kelola yang Baik. 
+(2) 
+Penyelenggara ITSK wajib menyediakan dan/atau 
+membuka 
+akses 
+terhadap 
+seluruh 
+sistem 
+yang 
+dipergunakan kepada Otoritas Jasa Keuangan. 
+ 
+ 
+ 
+ 
+
+
+=== Halaman 20 ===
+- 20 - 
+ 
+Bagian Kesembilan 
+Etika Bisnis 
+ 
+Pasal 43 
+(1) 
+Penyelenggara ITSK wajib menyusun pedoman tentang 
+perilaku etis, yang memuat nilai etika berusaha, 
+sebagai panduan bagi anggota Direksi, anggota Dewan 
+Komisaris, dan pegawai Penyelenggara ITSK. 
+(2) 
+Penyelenggara ITSK dilarang melakukan tindakan yang 
+ditujukan untuk memanfaatkan celah ketentuan atau 
+etika 
+bisnis 
+yang 
+tidak 
+sesuai 
+dengan 
+prinsip 
+pengelolaan Penyelenggara ITSK yang sehat, yang dapat 
+meningkatkan 
+Risiko 
+bagi 
+Penyelenggara 
+ITSK, 
+dan/atau mendatangkan keuntungan yang tidak wajar. 
+(3) 
+Anggota Direksi, anggota Dewan Komisaris, dan 
+pegawai Penyelenggara ITSK dilarang menawarkan atau 
+memberikan sesuatu, baik langsung maupun tidak 
+langsung kepada pihak lain, untuk memengaruhi 
+pengambilan keputusan yang terkait dengan kegiatan 
+usaha 
+Penyelenggara 
+ITSK, 
+dengan 
+melanggar 
+ketentuan peraturan perundang-undangan. 
+(4) 
+Anggota Direksi, anggota Dewan Komisaris, dan 
+pegawai 
+Penyelenggara 
+ITSK 
+dilarang 
+menerima 
+sesuatu untuk kepentingan pribadinya, keluarga, 
+dan/atau pihak lain dengan melanggar ketentuan 
+peraturan 
+perundang-undangan, 
+baik 
+langsung 
+maupun tidak langsung, dari siapapun, yang dapat 
+memengaruhi pengambilan keputusan yang terkait 
+dengan kegiatan usaha Penyelenggara ITSK. 
+ 
+Bagian Kesepuluh 
+Kelayakan Rencana Bisnis Tahunan 
+ 
+Pasal 44 
+(1) 
+Penyelenggara 
+ITSK 
+wajib 
+menyusun 
+dan 
+menyampaikan rencana bisnis tahunan dengan tata 
+cara sesuai dengan Peraturan Otoritas Jasa Keuangan 
+mengenai perizinan dan pengawasan masing-masing 
+jenis ITSK. 
+(2) 
+Penyelenggara 
+ITSK 
+yang 
+melanggar 
+kewajiban 
+sebagaimana dimaksud pada ayat (1) dikenai sanksi 
+administratif sesuai dengan Peraturan Otoritas Jasa 
+Keuangan 
+mengenai 
+perizinan 
+dan 
+pengawasan 
+masing-masing jenis ITSK. 
+ 
+Bagian Kesebelas 
+Transparansi Kondisi Keuangan dan Nonkeuangan  
+ 
+Pasal 45 
+Penyelenggara ITSK wajib melaksanakan transparansi 
+kondisi keuangan dan nonkeuangan paling sedikit: 
+a. 
+mengumumkan laporan tahunan pada situs web; 
+b. 
+menginformasikan produk dan/atau layanan ITSK 
+dengan 
+berpedoman 
+pada 
+ketentuan 
+peraturan 
+perundang-undangan 
+mengenai 
+pelindungan 
+konsumen, dan pelindungan data pribadi;  
+
+
+=== Halaman 21 ===
+- 21 - 
+ 
+c. 
+menginformasikan penerapan Tata Kelola yang Baik, 
+paling sedikit pengungkapan seluruh aspek penerapan 
+prinsip Tata Kelola yang Baik; dan 
+d. 
+pengungkapan 
+dan 
+bentuk 
+pertanggungjawaban 
+Penyelenggara ITSK atas pemanfaatan data Konsumen 
+sesuai 
+dengan 
+peraturan 
+perundang-undangan 
+mengenai pelindungan data pribadi. 
+ 
+Bagian Kedua belas 
+Penerapan Fungsi Pengendalian Terhadap Pelindungan 
+Data Pribadi dan Keamanan Sistem Informasi 
+ 
+Pasal 46 
+Penerapan fungsi pengendalian terhadap pelindungan data 
+pribadi dan keamanan sistem informasi sebagaimana 
+dimaksud dalam Pasal 2 ayat (4) huruf k paling sedikit: 
+a. 
+ketersediaan kebijakan dan prosedur tertulis sistem 
+informasi; 
+b. 
+penggunaan sistem yang aman dan andal paling sedikit: 
+1. 
+pengamanan dan pelindungan kerahasiaan data; 
+2. 
+pengembangan model; 
+3. 
+pemenuhan 
+sertifikasi, 
+standar 
+keamanan, 
+dan/atau keandalan sistem; dan  
+4. 
+pemeliharaan 
+dan 
+peningkatan 
+keamanan 
+teknologi; 
+c. 
+penerapan standar keamanan siber; 
+d. 
+pengamanan data dan informasi;  
+e. 
+pelaksanaan audit sistem informasi secara berkala, 
+komprehensif, dan menerapkan prinsip kehati-hatian; 
+dan 
+f. 
+penerapan prinsip pelindungan data pribadi sesuai 
+dengan ketentuan peraturan perundang-undangan 
+mengenai pelindungan data pribadi. 
+ 
+Bagian Ketiga belas 
+Pelaporan Tata Kelola yang Baik 
+ 
+Pasal 47 
+(1) 
+Penyelenggara ITSK wajib menyampaikan laporan 
+penerapan Tata Kelola yang Baik sebagai bagian dari 
+laporan tahunan. 
+(2) 
+Laporan penerapan Tata Kelola yang Baik sebagaimana 
+dimaksud pada ayat (1), paling sedikit memuat: 
+a. 
+transparansi penerapan Tata Kelola yang Baik 
+dengan 
+mengungkapkan 
+seluruh 
+aspek 
+pelaksanaan prinsip Tata Kelola yang Baik 
+sebagaimana dimaksud dalam Pasal 2 ayat (2);  
+b. 
+hasil penilaian sendiri oleh Penyelenggara ITSK 
+atas penerapan Tata Kelola yang Baik; dan 
+c. 
+rencana tindak yang meliputi tindakan korektif 
+yang diperlukan dan waktu penyelesaian serta 
+kendala/hambatan 
+penyelesaiannya, 
+apabila 
+masih terdapat kekurangan dalam penerapan Tata 
+Kelola yang Baik. 
+
+
+=== Halaman 22 ===
+- 22 - 
+ 
+(3) 
+Laporan penerapan Tata Kelola yang Baik sebagaimana 
+dimaksud pada ayat (1) wajib disampaikan paling 
+lambat tanggal 30 April tahun berikutnya. 
+(4) 
+Apabila tanggal 30 April jatuh pada hari Sabtu, hari 
+Minggu, atau hari libur, laporan penerapan Tata Kelola 
+yang Baik sebagaimana dimaksud pada ayat (1) 
+disampaikan pada hari kerja pertama berikutnya. 
+(5) 
+Dalam kondisi tertentu Otoritas Jasa Keuangan 
+berwenang menetapkan batas waktu penyampaian 
+laporan yang berbeda dari ketentuan sebagaimana 
+dimaksud pada ayat (3). 
+(6) 
+Penyelenggara ITSK yang menyampaikan Laporan 
+penerapan Tata Kelola yang Baik paling lama 20 (dua 
+puluh) hari kerja setelah jangka waktu sebagaimana 
+dimaksud 
+pada 
+ayat 
+(3) 
+dinyatakan 
+terlambat 
+menyampaikan laporan penerapan Tata Kelola yang 
+Baik. 
+(7) 
+Penyelenggara ITSK yang tidak menyampaikan laporan 
+penerapan Tata Kelola yang Baik sampai dengan 
+berakhirnya jangka waktu sebagaimana dimaksud 
+pada ayat (6) dinyatakan tidak menyampaikan laporan 
+penerapan Tata Kelola yang Baik. 
+(8) 
+Ketentuan mengenai bentuk dan susunan laporan 
+penerapan Tata Kelola yang Baik ditetapkan oleh 
+Otoritas Jasa Keuangan. 
+ 
+Bagian Keempat belas 
+Sanksi Administratif 
+ 
+Pasal 48 
+(1) 
+Penyelenggara 
+ITSK 
+yang 
+melanggar 
+ketentuan 
+sebagaimana dimaksud dalam Pasal 2 ayat (1), Pasal 3 
+ayat (1), ayat (3), ayat (4), Pasal 4, Pasal 5 ayat (3), Pasal 
+6, Pasal 7 ayat (1), Pasal 9 ayat (1), Pasal 11 ayat (1), 
+ayat (2), ayat (4), ayat (6), ayat (7), ayat (8), ayat (9), ayat 
+(10), Pasal 12 ayat (1), ayat (2), Pasal 15 ayat (1), ayat 
+(2), Pasal 16 ayat (1), ayat (4), Pasal 17 ayat (1), Pasal 
+18 ayat (1), ayat (3), Pasal 19, Pasal 20 ayat (1), Pasal 
+21 ayat (1), ayat (2), ayat (4), Pasal 22 ayat (1), ayat (2), 
+ayat (6), ayat (7), Pasal 23, Pasal 24, Pasal 25 ayat (1), 
+ayat (2), ayat (4), ayat (5), Pasal 26 ayat (1), ayat (2), 
+Pasal 29, Pasal 30 ayat (1), Pasal 31, Pasal 33, Pasal 34, 
+Pasal 35 ayat (1), ayat (2), ayat (4), ayat (6), ayat (10), 
+ayat (11), Pasal 36, Pasal 38 ayat (1), ayat (4), ayat (8), 
+Pasal 40 ayat (2), ayat (3), ayat (4), Pasal 41, Pasal 42, 
+Pasal 43, Pasal 45, dan/atau Pasal 47 ayat (1), ayat (3) 
+dikenakan sanksi administratif berupa:  
+a. 
+peringatan tertulis; 
+b. 
+penghentian sementara, sebagian, atau seluruh 
+kegiatan termasuk pelaksanaan kerja sama; 
+c. 
+denda administratif; 
+d. 
+pencantuman pihak utama dalam daftar orang 
+tercela di sektor keuangan; dan/atau 
+e. 
+pencabutan izin usaha. 
+ 
+
+
+=== Halaman 23 ===
+- 23 - 
+ 
+(2) 
+Penyelenggara 
+ITSK 
+yang 
+terlambat 
+memenuhi 
+ketentuan sebagaimana dimaksud dalam Pasal 47 ayat 
+(6), dikenai sanksi denda sebesar Rp100.000,00 
+(seratus ribu rupiah) per hari kerja keterlambatan 
+laporan. 
+(3) 
+Penyelenggara 
+ITSK 
+yang 
+tidak 
+menyampaikan 
+sebagaimana dimaksud dalam Pasal 47 ayat (7) dikenai 
+sanksi berupa denda sebesar Rp3.000.000,00 (tiga juta 
+rupiah). 
+(4) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b, huruf c, huruf d, dan huruf e dapat 
+dikenakan dengan atau tanpa didahului pengenaan 
+sanksi 
+administratif 
+berupa 
+peringatan 
+tertulis 
+sebagaimana dimaksud pada ayat (1) huruf a. 
+(5) 
+Pengenaan sanksi administratif sebagaimana dimaksud 
+pada ayat (3) tidak menghilangkan kewajiban pelaporan 
+dimaksud.  
+ 
+BAB III 
+MANAJEMEN RISIKO BAGI PENYELENGGARA ITSK 
+  
+Bagian Kesatu 
+Manajemen Risiko 
+ 
+Pasal 49 
+(1) 
+Penyelenggara ITSK wajib menerapkan Manajemen 
+Risiko secara efektif.  
+(2) 
+Penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) paling sedikit mencakup:  
+a. 
+pengawasan aktif Direksi dan Dewan Komisaris;  
+b. 
+kecukupan kebijakan dan prosedur Manajemen 
+Risiko serta penetapan limit Risiko;  
+c. 
+kecukupan 
+proses 
+identifikasi, 
+pengukuran, 
+pengendalian, dan pemantauan Risiko, serta 
+sistem informasi Manajemen Risiko; dan  
+d. 
+sistem pengendalian internal yang menyeluruh.  
+(3) 
+Dalam menerapkan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1), Penyelenggara ITSK wajib 
+memiliki pedoman penerapan Manajemen Risiko. 
+(4) 
+Ketentuan mengenai penerapan Manajemen Risiko 
+sebagaimana dimaksud pada ayat (1) ditetapkan oleh 
+Otoritas Jasa Keuangan.  
+ 
+Pasal 50 
+Penerapan Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 49 wajib disesuaikan dengan tujuan, kebijakan usaha, 
+ukuran, 
+kompleksitas 
+usaha, 
+dan 
+kemampuan 
+Penyelenggara ITSK. 
+ 
+Pasal 51  
+Penyelenggara ITSK wajib menerapkan Manajemen Risiko 
+sebagaimana dimaksud dalam Pasal 49 ayat (1) untuk:  
+a. 
+Risiko Strategis;  
+b. 
+Risiko Operasional;  
+c. 
+Risiko Siber;   
+d. 
+Risiko Hukum;   
+
+
+=== Halaman 24 ===
+- 24 - 
+ 
+e. 
+Risiko Kepatuhan; dan  
+f. 
+Risiko Reputasi.  
+ 
+Bagian Kedua 
+Pengawasan Aktif Direksi dan Dewan Komisaris 
+ 
+Paragraf 1 
+Umum 
+ 
+Pasal 52 
+Penyelenggara ITSK wajib menetapkan wewenang dan 
+tanggung jawab pada setiap jenjang jabatan yang terkait 
+dengan 
+penerapan 
+Manajemen 
+Risiko 
+sebagaimana 
+dimaksud dalam Pasal 49.  
+ 
+Paragraf 2 
+Wewenang dan Tanggung Jawab Direksi  
+ 
+Pasal 53  
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 52 bagi Direksi paling sedikit:  
+a. 
+menyusun dan menetapkan kebijakan dan strategi 
+Manajemen 
+Risiko 
+secara 
+tertulis 
+dan 
+komprehensif;  
+b. 
+bertanggung jawab atas pelaksanaan kebijakan 
+Manajemen Risiko dan eksposur Risiko yang 
+diambil 
+oleh 
+Penyelenggara 
+ITSK 
+secara 
+keseluruhan;  
+c. 
+mengevaluasi dan memutuskan transaksi dan 
+limit Risiko yang memerlukan persetujuan Direksi;  
+d. 
+mengembangkan budaya Manajemen Risiko pada 
+seluruh jenjang organisasi;  
+e. 
+memastikan peningkatan kompetensi sumber 
+daya manusia yang terkait dengan Manajemen 
+Risiko;  
+f. 
+memastikan bahwa fungsi Manajemen Risiko telah 
+beroperasi secara independen; dan  
+g. 
+melaksanakan kaji ulang secara berkala untuk 
+memastikan:  
+1. 
+keakuratan metodologi penilaian Risiko;  
+2. 
+kecukupan  
+implementasi  
+sistem 
+informasi Manajemen Risiko; dan  
+3. 
+ketepatan 
+kebijakan 
+dan 
+prosedur 
+Manajemen Risiko serta penetapan limit 
+Risiko.  
+(2) 
+Kebijakan dan strategi Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dikaji ulang secara 
+berkala paling sedikit 1 (satu) kali dalam jangka waktu 
+1 (satu) tahun dan sewaktu-waktu apabila terdapat 
+faktor 
+yang 
+memengaruhi 
+kegiatan 
+usaha 
+Penyelenggara ITSK secara signifikan.  
+(3) 
+Setiap perubahan atas hasil kaji ulang sebagaimana 
+dimaksud pada ayat (2) wajib didokumentasikan oleh 
+Penyelenggara ITSK. 
+
+
+=== Halaman 25 ===
+- 25 - 
+ 
+(4) 
+Tanggung jawab Direksi atas pelaksanaan kebijakan 
+Manajemen Risiko sebagaimana dimaksud pada ayat (1) 
+huruf b termasuk:  
+a. 
+mengevaluasi 
+dan 
+memberikan 
+arahan 
+berdasarkan laporan yang disampaikan oleh 
+fungsi Manajemen Risiko; dan  
+b. 
+menyampaikan 
+laporan 
+pertanggungjawaban 
+kepada Dewan Komisaris paling sedikit 1 (satu) 
+kali dalam jangka waktu 1 (satu) tahun.   
+(5) 
+Untuk melaksanakan wewenang dan tanggung jawab 
+sebagaimana dimaksud pada ayat (1) dan ayat (4), 
+Direksi harus memiliki pemahaman mengenai Risiko 
+yang melekat pada seluruh aktivitas fungsional 
+Penyelenggara ITSK dan mampu mengambil tindakan 
+yang 
+diperlukan 
+sesuai 
+dengan 
+profil 
+Risiko 
+Penyelenggara ITSK.  
+ 
+Paragraf 3 
+Wewenang dan Tanggung Jawab Dewan Komisaris  
+  
+Pasal 54 
+(1) 
+Wewenang dan tanggung jawab sebagaimana dimaksud 
+dalam Pasal 52 bagi Dewan Komisaris paling sedikit:  
+a. 
+menyetujui 
+dan 
+mengevaluasi 
+kebijakan 
+Manajemen Risiko;   
+b. 
+mengevaluasi pertanggungjawaban Direksi atas 
+pelaksanaan 
+kebijakan 
+Manajemen 
+Risiko 
+sebagaimana dimaksud dalam huruf a; dan  
+c. 
+mengevaluasi 
+dan 
+memutuskan 
+permohonan 
+Direksi yang berkaitan dengan transaksi dan limit 
+Risiko yang memerlukan persetujuan Dewan 
+Komisaris.  
+(2) 
+Evaluasi kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf a dilakukan paling sedikit 
+1 (satu) kali dalam jangka waktu 1 (satu) tahun dan 
+sewaktu-waktu 
+apabila 
+terdapat 
+faktor 
+yang 
+memengaruhi kegiatan usaha Penyelenggara ITSK 
+secara signifikan.  
+(3) 
+Evaluasi 
+pertanggungjawaban 
+Direksi 
+atas 
+pelaksanaan kebijakan Manajemen Risiko sebagaimana 
+dimaksud pada ayat (1) huruf b dilakukan paling sedikit 
+1 (satu) kali dalam jangka waktu 1 (satu) tahun.  
+   
+Bagian Ketiga 
+Kecukupan Kebijakan, Prosedur, dan  
+Penetapan Limit Risiko 
+ 
+Paragraf 1 
+Kecukupan Kebijakan Manajemen Risiko  
+  
+Pasal 55  
+Kecukupan kebijakan Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 49 ayat (2) huruf b paling sedikit 
+memuat:  
+a. 
+penetapan Risiko yang terkait dengan kegiatan usaha 
+Penyelenggara ITSK;  
+
+
+=== Halaman 26 ===
+- 26 - 
+ 
+b. 
+penetapan penggunaan metode pengukuran dan sistem 
+informasi Manajemen Risiko;  
+c. 
+penetapan tingkat Risiko yang akan diambil, penetapan 
+toleransi Risiko, dan penentuan limit Risiko;  
+d. 
+penetapan penilaian peringkat Risiko;  
+e. 
+penyusunan rencana darurat dalam kondisi terburuk; 
+dan  
+f. 
+penetapan 
+sistem 
+pengendalian 
+internal 
+dalam 
+penerapan Manajemen Risiko.  
+ 
+Paragraf 2 
+Prosedur Manajemen Risiko dan Penetapan Limit Risiko  
+  
+Pasal 56 
+(1) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 49 ayat (2) huruf b 
+wajib disesuaikan dengan tingkat Risiko yang akan 
+diambil terhadap Risiko Penyelenggara ITSK.  
+(2) 
+Prosedur Manajemen Risiko dan penetapan limit Risiko 
+sebagaimana dimaksud pada ayat (1) paling sedikit 
+memuat:  
+a. 
+akuntabilitas dan jenjang delegasi wewenang yang 
+jelas;  
+b. 
+pelaksanaan 
+kaji 
+ulang 
+terhadap 
+prosedur 
+Manajemen Risiko dan penetapan limit Risiko 
+secara berkala; dan  
+c. 
+dokumentasi prosedur Manajemen Risiko dan 
+penetapan limit Risiko secara memadai.  
+(3) 
+Penetapan limit Risiko sebagaimana dimaksud pada 
+ayat (2) wajib mencakup:  
+a. 
+limit secara keseluruhan;  
+b. 
+limit per jenis Risiko; dan  
+c. 
+limit per aktivitas fungsional dan transaksi 
+tertentu yang memiliki eksposur Risiko.  
+  
+Bagian Keempat 
+ Kecukupan Proses Identifikasi, Pengukuran, 
+Pengendalian, dan Pemantauan Risiko, serta 
+Sistem Informasi Manajemen Risiko 
+ 
+Paragraf 1 
+Umum 
+ 
+Pasal 57 
+(1) 
+Penyelenggara 
+ITSK 
+wajib 
+melakukan 
+proses 
+identifikasi, 
+pengukuran, 
+pengendalian, 
+dan 
+pemantauan Risiko sebagaimana dimaksud dalam 
+Pasal 49 ayat (2) huruf c terhadap faktor Risiko yang 
+bersifat material. 
+(2) 
+Pelaksanaan 
+proses 
+identifikasi, 
+pengukuran, 
+pengendalian, dan pemantauan Risiko sebagaimana 
+dimaksud pada ayat (1) wajib didukung oleh:  
+a. 
+sistem informasi manajemen yang tepat waktu;   
+b. 
+laporan yang akurat dan informatif mengenai 
+kondisi keuangan, kinerja aktivitas fungsional, 
+dan eksposur Risiko Penyelenggara ITSK; dan  
+
+
+=== Halaman 27 ===
+- 27 - 
+ 
+c. 
+sumber daya manusia yang memiliki kompetensi 
+di bidang Manajemen Risiko.  
+ 
+Paragraf 2 
+Proses Identifikasi, Pengukuran, Pengendalian,  
+dan Pemantauan Risiko 
+ 
+Pasal 58 
+(1) 
+Untuk 
+melaksanakan 
+proses 
+identifikasi 
+Risiko, 
+Penyelenggara ITSK wajib melakukan analisis paling 
+sedikit terhadap:  
+a. 
+karakteristik 
+Risiko 
+yang 
+melekat 
+pada 
+Penyelenggara ITSK; dan  
+b. 
+Risiko dari kegiatan usaha Penyelenggara ITSK. 
+(2) 
+Untuk 
+melaksanakan 
+pengukuran 
+Risiko, 
+Penyelenggara ITSK wajib melakukan paling sedikit:   
+a. 
+evaluasi secara berkala paling sedikit 1 (satu) kali 
+dalam jangka waktu 1 (satu) tahun terhadap 
+kesesuaian asumsi, sumber data, dan prosedur 
+yang digunakan untuk mengukur Risiko; dan  
+b. 
+penyesuaian terhadap proses pengukuran Risiko 
+dalam hal terdapat perubahan kegiatan usaha 
+Penyelenggara ITSK dan faktor Risiko yang bersifat 
+material.  
+(3) 
+Penyelenggara 
+ITSK 
+wajib 
+melaksanakan 
+proses 
+pengendalian Risiko untuk mengelola Risiko tertentu 
+yang 
+membahayakan 
+kelangsungan 
+usaha 
+Penyelenggara ITSK.  
+(4) 
+Untuk 
+melaksanakan 
+pemantauan 
+Risiko, 
+Penyelenggara ITSK wajib melakukan paling sedikit:  
+a. 
+evaluasi terhadap eksposur Risiko; dan  
+b. 
+penyesuaian terhadap proses pelaporan dalam hal 
+terdapat perubahan:   
+1. 
+kegiatan usaha;   
+2. 
+faktor Risiko;  
+3. 
+teknologi informasi; dan   
+4. 
+sistem 
+informasi 
+Manajemen 
+Risiko 
+Penyelenggara ITSK, yang bersifat material.  
+  
+Paragraf 3 
+Sistem Informasi Manajemen Risiko  
+  
+Pasal 59 
+(1) 
+Sistem informasi Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 49 ayat (2) huruf c wajib 
+didukung oleh sumber daya manusia yang memiliki 
+kompetensi di bidang sistem informasi Manajemen 
+Risiko.  
+(2) 
+Sistem informasi Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 49 ayat (2) huruf c, mencakup 
+laporan atau informasi paling sedikit mengenai: 
+a. 
+eksposur Risiko;  
+b. 
+kepatuhan 
+terhadap 
+kecukupan 
+kebijakan 
+Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 55 dan prosedur Manajemen Risiko serta 
+
+
+=== Halaman 28 ===
+- 28 - 
+ 
+penetapan limit Risiko sebagaimana dimaksud 
+dalam Pasal 56; dan 
+c. 
+realisasi 
+pelaksanaan 
+Manajemen 
+Risiko 
+dibandingkan dengan target yang ditetapkan.  
+(3) 
+Laporan atau informasi sebagaimana dimaksud pada 
+ayat (2) harus disampaikan secara berkala kepada 
+Direksi.   
+ 
+Bagian Kelima 
+Sistem Pengendalian Internal 
+ 
+Paragraf 1 
+Umum 
+ 
+Pasal 60  
+Penyelenggara 
+ITSK 
+wajib 
+melaksanakan 
+sistem 
+pengendalian internal secara efektif terhadap Risiko yang 
+melekat dalam pelaksanaan kegiatan usaha pada seluruh 
+jenjang organisasi Penyelenggara ITSK.  
+ 
+Pasal 61 
+(1) 
+Pelaksanaan 
+sistem 
+pengendalian 
+internal 
+sebagaimana dimaksud dalam Pasal 60 paling sedikit 
+mampu secara tepat waktu mendeteksi kelemahan dan 
+penyimpangan yang menyebabkan atau memengaruhi 
+eksposur Risiko.   
+(2) 
+Sistem pengendalian internal sebagaimana dimaksud 
+pada ayat (1) wajib memastikan:  
+a. 
+kepatuhan level manajemen Penyelenggara ITSK 
+terhadap kebijakan dan prosedur Manajemen 
+Risiko serta peraturan perundang-undangan serta 
+kebijakan atau ketentuan internal Penyelenggara 
+ITSK;  
+b. 
+kepatuhan dan efektivitas fungsi Manajemen 
+Risiko dalam merancang dan menerapkan strategi 
+dan kebijakan Manajemen Risiko;  
+c. 
+tersedianya informasi keuangan dan manajemen 
+yang lengkap, akurat, tepat guna, dan tepat waktu;  
+d. 
+efektivitas dan efisiensi dalam kegiatan bisnis dan 
+operasional; dan  
+e. 
+efektivitas 
+budaya 
+Risiko 
+pada 
+organisasi 
+Penyelenggara ITSK secara menyeluruh.  
+ 
+Paragraf 2 
+Sistem Pengendalian Internal dalam  
+Penerapan Manajemen Risiko  
+ 
+Pasal 62 
+(1) 
+Dalam 
+penerapan 
+Manajemen 
+Risiko, 
+sistem 
+pengendalian internal yang menyeluruh sebagaimana 
+dimaksud dalam Pasal 49 ayat (2) huruf d paling sedikit 
+memuat:  
+a. 
+kesesuaian sistem pengendalian internal dengan 
+jenis dan tingkat Risiko yang melekat pada 
+kegiatan usaha Penyelenggara ITSK;  
+
+
+=== Halaman 29 ===
+- 29 - 
+ 
+b. 
+penetapan wewenang dan tanggung jawab untuk 
+pemantauan 
+kepatuhan 
+terhadap 
+kecukupan 
+kebijakan 
+Manajemen 
+Risiko 
+sebagaimana 
+dimaksud 
+dalam 
+Pasal 
+55 
+dan 
+prosedur 
+Manajemen Risiko serta penetapan limit Risiko 
+sebagaimana dimaksud dalam Pasal 56;  
+c. 
+penetapan jalur pelaporan dan pemisahan fungsi 
+yang jelas dari fungsi operasional kepada fungsi 
+pengendalian Risiko;  
+d. 
+struktur organisasi yang menggambarkan secara 
+jelas kegiatan usaha Penyelenggara ITSK;  
+e. 
+pelaporan keuangan dan kegiatan operasional 
+yang akurat dan tepat waktu;  
+f. 
+kecukupan 
+prosedur 
+untuk 
+memastikan 
+kepatuhan 
+Penyelenggara 
+ITSK 
+terhadap 
+ketentuan 
+perundang-undangan 
+bagi 
+Penyelenggara ITSK;  
+g. 
+kaji ulang yang efektif, independen, dan obyektif 
+terhadap prosedur penilaian kegiatan operasional 
+Penyelenggara ITSK;  
+h. 
+pengujian dan kaji ulang yang memadai terhadap 
+sistem informasi Manajemen Risiko;  
+i. 
+dokumentasi 
+secara 
+lengkap 
+dan 
+memadai 
+terhadap prosedur operasional, cakupan, dan 
+temuan audit, serta tanggapan Direksi dan Dewan 
+Komisaris Penyelenggara ITSK berdasarkan hasil 
+audit; dan  
+j. 
+verifikasi dan kaji ulang secara berkala dan 
+berkesinambungan 
+terhadap 
+penanganan 
+kelemahan Penyelenggara ITSK yang bersifat 
+material 
+dan 
+tindakan 
+Direksi 
+dan 
+Dewan 
+Komisaris Penyelenggara ITSK untuk memperbaiki 
+penyimpangan yang terjadi.    
+(2) 
+Penilaian terhadap sistem pengendalian internal dalam 
+penerapan Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) wajib dilakukan oleh fungsi audit internal. 
+ 
+Bagian Keenam  
+Organisasi dan Fungsi Manajemen Risiko 
+ 
+Paragraf 1 
+Umum 
+ 
+Pasal 63 
+Untuk pelaksanaan proses dan sistem Manajemen Risiko 
+yang efektif sebagaimana dimaksud dalam Pasal 49, 
+Penyelenggara ITSK wajib membentuk fungsi Manajemen 
+Risiko. 
+ 
+Paragraf 2 
+Fungsi Manajemen Risiko  
+  
+Pasal 64 
+(1) 
+Struktur 
+organisasi 
+fungsi 
+Manajemen 
+Risiko 
+sebagaimana dimaksud dalam Pasal 63 disesuaikan 
+dengan 
+ukuran 
+dan 
+kompleksitas 
+usaha 
+
+
+=== Halaman 30 ===
+- 30 - 
+ 
+Penyelenggara ITSK serta Risiko yang melekat pada 
+Penyelenggara ITSK.  
+(2) 
+Fungsi Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) harus independen terhadap fungsi bisnis 
+dan operasional dan terhadap fungsi pengendalian 
+internal.  
+(3) 
+Fungsi Manajemen Risiko sebagaimana dimaksud 
+pada ayat (1) bertanggung jawab langsung kepada 
+direktur utama atau yang setara, atau anggota Direksi 
+yang membawahkan fungsi Manajemen Risiko.  
+(4) 
+Fungsi Manajemen Risiko memiliki wewenang dan 
+tanggung jawab meliputi:   
+a. 
+mengidentifikasi Risiko termasuk Risiko yang 
+melekat pada kegiatan usaha Penyelenggara ITSK;  
+b. 
+menyusun metode pengukuran Risiko;  
+c. 
+memantau 
+pelaksanaan 
+strategi 
+Manajemen 
+Risiko yang telah disusun oleh Direksi;   
+d. 
+memantau posisi Risiko secara keseluruhan, per 
+jenis Risiko, dan per jenis aktivitas fungsional;  
+e. 
+mengkaji ulang secara berkala terhadap proses 
+Manajemen Risiko;  
+f. 
+mengkaji usulan pengembangan atau perluasan 
+kegiatan usaha;  
+g. 
+mengevaluasi 
+terhadap 
+akurasi 
+model 
+dan 
+validitas data yang digunakan untuk mengukur 
+Risiko, 
+bagi 
+Penyelenggara 
+ITSK 
+yang 
+menggunakan model untuk keperluan internal; 
+h. 
+memberikan rekomendasi kepada fungsi bisnis 
+dan operasional, sesuai kewenangan yang dimiliki; 
+dan 
+i. 
+menyusun dan menyampaikan laporan profil 
+Risiko kepada direktur utama atau yang setara, 
+atau anggota Direksi yang membawahkan fungsi 
+Manajemen Risiko secara berkala. 
+(5) 
+Ketentuan 
+mengenai 
+struktur 
+organisasi 
+fungsi 
+Manajemen Risiko sebagaimana dimaksud pada ayat (1) 
+ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Paragraf 3 
+Hubungan Fungsi Bisnis dan Operasional dengan Fungsi 
+Manajemen Risiko 
+  
+Pasal 65 
+(1) 
+Fungsi bisnis dan operasional sebagaimana dimaksud 
+dalam Pasal 64 ayat (2) wajib menginformasikan 
+eksposur 
+Risiko 
+yang 
+melekat 
+kepada 
+fungsi 
+Manajemen Risiko secara berkala.  
+(2) 
+Ketentuan mengenai hubungan fungsi bisnis dan 
+operasional 
+dengan 
+fungsi 
+Manajemen 
+Risiko 
+sebagaimana dimaksud pada ayat (1) ditetapkan oleh 
+Otoritas Jasa Keuangan. 
+  
+ 
+ 
+ 
+ 
+
+
+=== Halaman 31 ===
+- 31 - 
+ 
+Bagian Ketujuh 
+Pengelolaan Risiko yang Melekat pada Pengembangan atau 
+Perluasan Kegiatan Usaha  
+  
+Pasal 66 
+(1) 
+Penyelenggara ITSK wajib memiliki kebijakan dan 
+prosedur secara tertulis untuk mengelola Risiko yang 
+melekat pada pengembangan atau perluasan kegiatan 
+usaha Penyelenggara ITSK.  
+(2) 
+Kebijakan dan prosedur sebagaimana dimaksud pada 
+ayat (1) paling sedikit mencakup:  
+a. 
+sistem dan prosedur serta kewenangan dalam 
+pengelolaan 
+pengembangan 
+atau 
+perluasan 
+kegiatan usaha;  
+b. 
+identifikasi seluruh Risiko yang melekat pada 
+pengembangan atau perluasan kegiatan usaha, 
+baik yang terkait dengan Penyelenggara ITSK 
+maupun Konsumen;  
+c. 
+masa 
+uji 
+coba 
+metode 
+pengukuran 
+dan 
+pemantauan Risiko terhadap pengembangan atau 
+perluasan kegiatan usaha;  
+d. 
+sistem informasi akuntansi untuk pengembangan 
+atau perluasan kegiatan usaha;  
+e. 
+analisis aspek hukum untuk pengembangan atau 
+perluasan kegiatan usaha; dan  
+f. 
+transparansi informasi kepada Konsumen.  
+(3) 
+Kegiatan usaha Penyelenggara ITSK merupakan suatu 
+bentuk pengembangan atau perluasan kegiatan usaha 
+jika memenuhi kriteria:  
+a. 
+tidak 
+pernah 
+dilakukan 
+sebelumnya 
+oleh 
+Penyelenggara ITSK; atau  
+b. 
+telah 
+dilaksanakan 
+sebelumnya 
+oleh 
+Penyelenggara 
+ITSK, 
+tetapi 
+dilakukan 
+pengembangan 
+yang 
+mengubah 
+atau 
+meningkatkan eksposur Risiko tertentu pada 
+Penyelenggara ITSK.  
+(4) 
+Ketentuan mengenai pengelolaan Risiko pengembangan 
+atau perluasan kegiatan usaha sebagaimana dimaksud 
+pada ayat (1) ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Pasal 67 
+Penyelenggara ITSK dilarang menugaskan atau menyetujui 
+Direksi, Dewan Komisaris, dan/atau pegawai Penyelenggara 
+ITSK untuk melaksanakan kegiatan yang bukan kegiatan 
+usaha Penyelenggara ITSK dengan menggunakan sarana 
+atau fasilitas Penyelenggara ITSK.   
+ 
+Bagian Kedelapan   
+Penilaian Sendiri dan Pelaporan Profil Risiko 
+ 
+Pasal 68 
+(1) 
+Penyelenggara ITSK wajib melakukan penilaian sendiri 
+profil Risiko secara semesteran untuk posisi bulan Juni 
+dan Desember. 
+
+
+=== Halaman 32 ===
+- 32 - 
+ 
+(2) 
+Dalam hal diperlukan, Otoritas Jasa Keuangan dapat 
+meminta 
+Penyelenggara 
+ITSK 
+untuk 
+melakukan 
+penilaian sendiri profil Risiko sewaktu-waktu. 
+(3) 
+Penyelenggara ITSK wajib melaksanakan penilaian 
+sendiri profil Risiko sewaktu-waktu sesuai permintaan 
+Otoritas Jasa Keuangan sebagaimana dimaksud pada 
+ayat (2). 
+(4) 
+Hasil penilaian sendiri profil Risiko sebagaimana 
+dimaksud pada ayat (1) dan ayat (3) wajib mendapat 
+persetujuan Direksi dan disampaikan kepada Dewan 
+Komisaris. 
+(5) 
+Ketentuan mengenai penilaian sendiri profil Risiko 
+sebagaimana dimaksud pada ayat (1) sampai dengan 
+ayat (3) ditetapkan oleh Otoritas Jasa Keuangan. 
+ 
+Pasal 69 
+(1) 
+Penyelenggara 
+ITSK 
+wajib 
+menyampaikan 
+hasil 
+penilaian sendiri profil Risiko sebagaimana dimaksud 
+dalam Pasal 68 ayat (1) dalam laporan profil Risiko 
+kepada Otoritas Jasa Keuangan. 
+(2) 
+Laporan profil Risiko sebagaimana dimaksud pada ayat 
+(1) merupakan bagian dari laporan semesteran. 
+(3) 
+Laporan profil Risiko atas hasil penilaian sendiri profil 
+Risiko secara semesteran sebagaimana dimaksud pada 
+ayat (1) disampaikan paling lambat 1 (satu) bulan sejak 
+periode laporan berakhir.  
+(4) 
+Apabila batas akhir penyampaian laporan profil Risiko 
+atas hasil penilaian sendiri profil Risiko sebagaimana 
+dimaksud pada ayat (3) jatuh pada hari Sabtu, hari 
+Minggu, atau hari libur, laporan profil Risiko atas hasil 
+penilaian sendiri profil Risiko disampaikan pada hari 
+kerja pertama berikutnya. 
+(5) 
+Dalam kondisi tertentu Otoritas Jasa Keuangan 
+berwenang menetapkan batas waktu penyampaian 
+laporan yang berbeda dari ketentuan sebagaimana 
+dimaksud pada ayat (4). 
+(6) 
+Penyelenggara ITSK wajib menyampaikan laporan profil 
+Risiko atas hasil penilaian sendiri profil Risiko sewaktu-
+waktu sebagaimana dimaksud dalam Pasal 68 ayat (3) 
+sesuai dengan batas waktu yang ditetapkan oleh 
+Otoritas Jasa Keuangan. 
+(7) 
+Penyelenggara ITSK yang menyampaikan laporan profil 
+Risiko sebagaimana dimaksud pada ayat (1) paling lama 
+20 (dua puluh) hari kerja setelah jangka waktu 
+sebagaimana dimaksud pada ayat (3) dinyatakan 
+terlambat menyampaikan laporan profil Risiko. 
+(8) 
+Penyelenggara ITSK yang tidak menyampaikan laporan 
+profil Risiko sebagaimana dimaksud pada ayat (1) 
+sampai dengan berakhirnya jangka waktu sebagaimana 
+dimaksud 
+pada 
+ayat 
+(7) 
+dinyatakan 
+tidak 
+menyampaikan laporan profil Risiko. 
+ 
+Pasal 70 
+(1) 
+Dalam 
+hal 
+terdapat 
+kondisi 
+yang 
+berpotensi 
+menimbulkan kerugian yang signifikan terhadap 
+kondisi 
+keuangan, 
+Penyelenggara 
+ITSK 
+wajib 
+
+
+=== Halaman 33 ===
+- 33 - 
+ 
+menyampaikan laporan profil Risiko lain kepada 
+Otoritas Jasa Keuangan. 
+(2) 
+Laporan profil Risiko lain sebagaimana dimaksud pada 
+ayat (1) mencakup informasi dan data selain laporan 
+profil Risiko yang diwajibkan sebagaimana dimaksud 
+dalam Pasal 69. 
+(3) 
+Laporan profil Risiko lain sebagaimana dimaksud pada 
+ayat (1) wajib disampaikan paling lambat 1 (satu) bulan 
+setelah diketahuinya kondisi berpotensi menimbulkan 
+kerugian yang signifikan terhadap kondisi keuangan 
+Penyelenggara ITSK. 
+(4) 
+Kewajiban penyampaian laporan profil Risiko lain 
+sebagaimana dimaksud pada ayat (1) dapat didasarkan 
+atas permintaan Otoritas Jasa Keuangan. 
+(5) 
+Apabila batas akhir penyampaian laporan jatuh pada 
+hari Sabtu, hari Minggu, atau hari libur, laporan profil 
+Risiko lain sebagaimana dimaksud pada ayat (3) atau 
+ayat (4) disampaikan pada hari kerja pertama 
+berikutnya. 
+(6) 
+Dalam kondisi tertentu Otoritas Jasa Keuangan 
+berwenang menetapkan batas waktu penyampaian 
+laporan yang berbeda dari ketentuan sebagaimana 
+dimaksud pada ayat (5). 
+ 
+Pasal 71 
+(1) 
+Penyelenggara ITSK wajib menyampaikan: 
+a. 
+laporan profil Risiko sebagaimana dimaksud 
+dalam Pasal 69 ayat (1); dan 
+b. 
+laporan profil Risiko lain sebagaimana dimaksud 
+dalam Pasal 70 ayat (1), 
+secara daring melalui sistem jaringan komunikasi data 
+Otoritas Jasa Keuangan. 
+(2) 
+Dalam hal sistem jaringan komunikasi data Otoritas 
+Jasa Keuangan sebagaimana dimaksud pada ayat (1) 
+belum 
+tersedia 
+atau 
+mengalami 
+gangguan, 
+penyampaian dilakukan secara daring melalui alamat 
+surat elektronik Otoritas Jasa Keuangan. 
+(3) 
+Dalam hal terdapat gangguan terhadap surat elektronik 
+Otoritas 
+Jasa 
+Keuangan, 
+penyampaian 
+laporan 
+dilakukan secara luring melalui kantor Otoritas Jasa 
+Keuangan. 
+(4) 
+Ketentuan mengenai tata cara penyampaian laporan 
+profil Risiko dan profil Risiko lain ditetapkan oleh 
+Otoritas Jasa Keuangan. 
+ 
+Pasal 72 
+(1) 
+Otoritas Jasa Keuangan dapat melakukan penilaian 
+terhadap 
+penerapan 
+Manajemen 
+Risiko 
+pada 
+Penyelenggara ITSK. 
+(2) 
+Penyelenggara ITSK wajib menyampaikan data dan 
+informasi terkait dengan penerapan Manajemen Risiko 
+kepada Otoritas Jasa Keuangan. 
+   
+ 
+ 
+ 
+
+
+=== Halaman 34 ===
+- 34 - 
+ 
+Bagian Kesembilan   
+Sanksi Administratif  
+  
+Pasal 73 
+(1) 
+Penyelenggara ITSK yang melakukan pelanggaran 
+terhadap ketentuan sebagaimana diatur dalam Pasal 49 
+ayat (1), ayat (3), Pasal 50, Pasal 51, Pasal 52, Pasal 53 
+ayat (3), Pasal 56 ayat (1), ayat (3), Pasal 57, Pasal 58, 
+Pasal 59 ayat (1), Pasal 60, Pasal 61 ayat (2), Pasal 62 
+ayat (2), Pasal 63, Pasal 65 ayat (1), Pasal 66 ayat (1), 
+Pasal 67, Pasal 68 ayat (1), ayat (3), ayat (4), Pasal 69 
+ayat (1), ayat (6), Pasal 70 ayat (1), ayat (3), Pasal 71 
+ayat (1), dan/atau Pasal 72 ayat (2), dikenakan sanksi 
+administratif berupa:  
+a. 
+peringatan tertulis; 
+b. 
+penghentian sementara, sebagian, atau seluruh 
+kegiatan termasuk pelaksanaan kerja sama; 
+c. 
+denda administratif; 
+d. 
+pencantuman pihak utama dalam daftar orang 
+tercela di sektor keuangan; dan 
+e. 
+pencabutan izin usaha. 
+(2) 
+Penyelenggara 
+ITSK 
+yang 
+dinyatakan 
+terlambat 
+menyampaikan laporan sebagaimana dimaksud dalam 
+Pasal 69 ayat (7) dikenai sanksi berupa denda sebesar 
+Rp100.000,00 (seratus ribu rupiah) per hari kerja 
+keterlambatan laporan. 
+(3) 
+Penyelenggara ITSK yang tidak menyampaikan laporan 
+sebagaimana dimaksud dalam Pasal 69 ayat (8) dikenai 
+sanksi berupa denda sebesar Rp3.000.000,00 (tiga juta 
+rupiah). 
+(4) 
+Sanksi administratif sebagaimana dimaksud pada ayat 
+(1) huruf b, huruf c, huruf d, dan huruf e dapat 
+dikenakan dengan atau tanpa didahului pengenaan 
+sanksi 
+administratif 
+berupa 
+peringatan 
+tertulis 
+sebagaimana dimaksud pada ayat (1) huruf a. 
+(5) 
+Pengenaan sanksi administratif sebagaimana dimaksud 
+pada ayat (3) tidak menghilangkan kewajiban pelaporan 
+dimaksud.  
+ 
+BAB IV 
+KETENTUAN LAIN-LAIN  
+  
+Pasal 74 
+Otoritas Jasa Keuangan berwenang memberikan perintah 
+tertulis kepada Penyelenggara ITSK dengan tata cara sesuai 
+dengan peraturan Otoritas Jasa Keuangan mengenai 
+perintah tertulis. 
+ 
+Pasal 75 
+(1) 
+Kewajiban penyampaian laporan penerapan Tata Kelola 
+yang Baik secara tahunan sebagaimana dimaksud 
+dalam Pasal 47 ayat (1) disampaikan pertama kali 
+untuk laporan periode tahun 2026 yang disampaikan 
+paling lambat tanggal 30 April 2027. 
+ 
+
+
+=== Halaman 35 ===
+- 35 - 
+ 
+(2) 
+Kewajiban penyampaian laporan profil Risiko secara 
+semesteran sebagaimana dimaksud dalam Pasal 69 
+ayat (1) disampaikan pertama kali untuk laporan 
+periode semester II tahun 2026 yang disampaikan 
+paling lambat 1 (satu) bulan sejak periode laporan 
+berakhir. 
+ 
+Pasal 76 
+Otoritas Jasa Keuangan dapat memberikan persetujuan 
+atau kebijakan yang berbeda dengan Peraturan Otoritas 
+Jasa Keuangan ini berdasarkan pertimbangan tertentu.  
+ 
+BAB V 
+KETENTUAN PERALIHAN  
+  
+Pasal 77 
+Pada saat Peraturan Otoritas Jasa Keuangan ini berlaku: 
+a. 
+Penyelenggara ITSK wajib menyesuaikan jumlah Dewan 
+Komisaris sebagaimana dimaksud dalam Pasal 25 ayat 
+(1) paling lambat pada RUPS pertama setelah Peraturan 
+Otoritas Jasa Keuangan ini berlaku; dan 
+b. 
+anggota Dewan Komisaris yang tidak sesuai ketentuan 
+rangkap jabatan sebagaimana dimaksud dalam Pasal 
+25 ayat (4) tetap dapat menjabat hingga RUPS pertama 
+setelah Peraturan Otoritas Jasa Keuangan ini berlaku. 
+ 
+BAB VI 
+KETENTUAN PENUTUP 
+ 
+Pasal 78 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku, ketentuan mengenai evaluasi secara mandiri, tata 
+kelola, dan Manajemen Risiko dalam Peraturan Otoritas 
+Jasa 
+Keuangan 
+Nomor 
+3 
+Tahun 
+2024 
+tentang 
+Penyelenggaraan 
+Inovasi 
+Teknologi 
+Sektor 
+Keuangan 
+(Lembaran Negara Republik Indonesia Tahun 2024 Nomor 
+5/OJK), bagi Penyelenggara ITSK yang telah memperoleh 
+izin usaha dari Otoritas Jasa Keuangan, dicabut dan 
+dinyatakan tidak berlaku. 
+ 
+ Pasal 79 
+ 
+Pada saat Peraturan Otoritas Jasa Keuangan ini mulai 
+berlaku: 
+a. 
+Pasal 6 ayat (4) dan Pasal 23, Pasal 40 ayat (3) huruf b, 
+dan ayat (4) huruf b Peraturan Otoritas Jasa Keuangan 
+Nomor 29 Tahun 2024 tentang Pemeringkat Kredit 
+Alternatif (Lembaran Negara Republik Indonesia Tahun 
+2024 Nomor 41/OJK, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 109/OJK); dan 
+b. 
+Pasal 6 ayat (4) dan Pasal 23, Pasal 39 ayat (2) huruf c 
+dan ayat (3) huruf b Peraturan Otoritas Jasa Keuangan 
+Nomor 4 Tahun 2025 tentang Penyelenggara Agregasi 
+Jasa Keuangan (Lembaran Negara Republik Indonesia 
+Tahun 2025 Nomor 8/OJK, Tambahan Lembaran 
+Negara Republik Indonesia Nomor 138/OJK), 
+dicabut dan dinyatakan tidak berlaku. 
+
+
+=== Halaman 36 ===
+- 36 - 
+ 
+Pasal 80 
+Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada 
+tanggal 1 Juli 2026.  
+ 
+Agar 
+setiap 
+orang 
+mengetahuinya, 
+memerintahkan 
+pengundangan Peraturan Otoritas Jasa Keuangan ini 
+dengan penempatannya dalam Lembaran Negara Republik 
+Indonesia.  
+  
+  
+Ditetapkan di Jakarta 
+pada tanggal 21 November 2025 
+ 
+KETUA DEWAN KOMISIONER 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA, 
+ 
+Œ 
+ 
+ 
+MAHENDRA SIREGAR 
+ 
+Diundangkan di Jakarta 
+pada tanggal                  Д 
+ 
+MENTERI HUKUM REPUBLIK INDONESIA, 
+ 
+Ѽ 
+ 
+ 
+SUPRATMAN ANDI AGTAS 
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR       Ж 
+ 
+ 
+
+
+=== Halaman 37 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PENJELASAN 
+ATAS 
+PERATURAN OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+NOMOR 30 TAHUN 2025 
+TENTANG 
+PENERAPAN TATA KELOLA DAN MANAJEMEN RISIKO BAGI 
+PENYELENGGARA INOVASI TEKNOLOGI SEKTOR KEUANGAN  
+ 
+I. 
+UMUM  
+Perkembangan ITSK yang pesat memerlukan dukungan dan 
+penguatan yang optimal. Salah satu bentuk penguatan tersebut dapat 
+diwujudkan melalui penerapan prinsip Tata Kelola yang Baik dalam 
+ekosistem ITSK. Tata kelola yang Baik memiliki peran strategis dalam 
+membangun kepercayaan serta meningkatkan daya saing sektor ITSK. 
+Selain itu, Tata Kelola yang Baik berkontribusi terhadap peningkatan 
+inklusi keuangan dengan menciptakan persepsi positif terhadap 
+adaptasi teknologi di sektor keuangan. 
+Dalam praktiknya, tata kelola berperan dalam memastikan bahwa 
+penyedia layanan ITSK mampu menjaga integritas data, melindungi 
+kerahasiaan data pengguna, serta mematuhi ketentuan peraturan 
+perundang-undangan. Struktur tata kelola, seperti karakteristik dan 
+kompetensi jajaran Direksi dan Dewan Komisaris memiliki dampak 
+signifikan dalam pengelolaan Manajemen Risiko penyelenggara ITSK. 
+Untuk membangun kepercayaan dan daya saing dalam ekosistem 
+ITSK, diperlukan pelaksanaan kegiatan yang berlandaskan pada 
+penerapan tata kelola dan Manajemen Risiko yang andal dan terintegrasi. 
+Dengan demikian, Penyelenggara ITSK memenuhi ketentuan peraturan 
+perundang-undangan, standar, nilai-nilai etika, serta prinsip dan 
+praktik yang berlaku umum.  
+Selain itu, penerapan tata kelola dan Manajemen Risiko yang efektif 
+memungkinkan Penyelenggara ITSK untuk menjaga dan membangun 
+fondasi penciptaan nilai, mengoptimalkan kinerja secara berkelanjutan, 
+mengelola hak dan tanggung jawab, serta menjaga keseimbangan 
+kepentingan pemegang saham dan seluruh Pemangku Kepentingan lain 
+(stakeholders) dalam upaya untuk berkontribusi lebih luas dalam 
+menggerakkan perekonomian nasional. 
+Manajemen Risiko merupakan elemen krusial dalam ekosistem 
+ITSK yang berperan penting dalam mencegah potensi Risiko signifikan di 
+sektor ITSK yang timbul sebagai akibat pesatnya perkembangan 
+teknologi. Dalam praktiknya, Penyelenggara ITSK dihadapkan pada 
+berbagai jenis Risiko yang berpotensi memengaruhi stabilitas dan 
+keamanan operasional antara lain Risiko keamanan siber, Risiko 
+teknologi, dan dinamika pasar. Pesatnya pertumbuhan ITSK menuntut 
+penerapan Manajemen Risiko yang efektif guna memitigasi tantangan 
+
+
+=== Halaman 38 ===
+- 38 –  
+yang muncul terkait inovasi teknologi. Dengan penerapan strategi 
+Manajemen Risiko yang tepat, Penyelenggara ITSK dapat memastikan 
+kelangsungan operasional yang aman, stabil, dan berkelanjutan. 
+Dalam rangka menciptakan ekosistem ITSK yang berkelanjutan dan 
+mampu mendukung inklusi keuangan di Indonesia, diperlukan 
+pengaturan mengenai tata kelola dan Manajemen Risiko penyelenggara 
+ITSK. Berdasarkan pertimbangan tersebut, perlu menyusun peraturan 
+mengenai 
+penerapan 
+tata 
+kelola 
+dan 
+Manajemen 
+Risiko 
+bagi 
+Penyelenggara ITSK. 
+Secara umum Peraturan Otoritas Jasa Keuangan ini memuat materi 
+pokok yang disusun secara sistematis diantaranya mengenai Tata Kelola 
+yang Baik antara lain mencakup penerapan Tata Kelola yang Baik, 
+pemegang saham dan RUPS, pengawasan aktif oleh Direksi dan Dewan 
+Komisaris, dan pelaporan Tata Kelola yang Baik serta mengenai 
+penerapan Manajemen Risiko bagi Penyelenggara ITSK antara lain 
+mencakup pengawasan aktif Direksi dan Dewan Komisaris, kecukupan 
+kebijakan, prosedur dan penetapan limit Risiko, kecukupan proses 
+identifikasi, pengukuran, pengendalian, dan pemantauan Risiko, serta 
+sistem informasi Manajemen Risiko, dan sistem pengendalian internal. 
+Selanjutnya, ketentuan mengenai evaluasi secara mandiri, tata 
+kelola, Manajemen Risiko, laporan tata kelola dan laporan penerapan 
+Manajemen Risiko dan kehati-hatian bagi Penyelenggara ITSK yang 
+memiliki izin usaha di Otoritas Jasa Keuangan tunduk pada ketentuan 
+dalam Peraturan Otoritas Jasa Keuangan ini. 
+ 
+II. 
+PASAL DEMI PASAL 
+ 
+Pasal 1 
+Cukup jelas. 
+ 
+Pasal 2 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Keterbukaan mencakup keterbukaan dalam proses 
+pengambilan 
+keputusan 
+dan 
+keterbukaan 
+dalam 
+pengungkapan dan penyediaan informasi yang relevan 
+dan mudah diakses oleh Pemangku Kepentingan. 
+Huruf b 
+Akuntabilitas 
+mencakup 
+kejelasan 
+fungsi 
+dan 
+pelaksanaan pertanggungjawaban organ Penyelenggara 
+ITSK. 
+Huruf c 
+Tanggung 
+jawab 
+kesesuaian 
+pengelolaan 
+dengan 
+ketentuan peraturan perundang-undangan dan nilai etika 
+serta standar, prinsip, dan praktik pada Penyelenggara 
+ITSK. 
+Huruf d 
+Independensi mencakup keadaan yang dikelola secara 
+mandiri dan profesional serta bebas dari Benturan 
+Kepentingan dan pengaruh atau tekanan dari pihak 
+manapun yang tidak sesuai dengan ketentuan peraturan 
+perundang-undangan dan nilai etika serta standar, 
+prinsip, dan praktik pada Penyelenggara ITSK. 
+ 
+
+
+=== Halaman 39 ===
+- 39 –  
+Huruf e 
+Kewajaran mencakup kesetaraan, keseimbangan, dan 
+keadilan di dalam memenuhi hak Pemangku Kepentingan 
+yang timbul berdasarkan perjanjian, ketentuan peraturan 
+perundang-undangan, dan nilai etika serta standar, 
+prinsip, dan praktik. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+ 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Penanganan 
+Benturan 
+Kepentingan, 
+antara 
+lain 
+memastikan pengambilan keputusan Direksi dan/atau 
+Dewan 
+Komisaris 
+didasarkan 
+semata-mata 
+atas 
+kepentingan 
+kegiatan 
+usaha 
+Penyelenggara 
+ITSK 
+dimaksud. 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Cukup jelas. 
+Huruf i 
+Cukup jelas. 
+Huruf j 
+Cukup jelas. 
+Huruf k 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Ketentuan 
+peraturan 
+perundang-undangan 
+antara 
+lain 
+undang-undang mengenai pelindungan data pribadi. 
+ 
+Pasal 3 
+Cukup jelas. 
+ 
+Pasal 4 
+Cukup jelas. 
+ 
+Pasal 5 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Contoh melakukan atau tidak melakukan tindakan tertentu 
+untuk meningkatkan penerapan Tata Kelola yang Baik antara 
+lain: 
+a. 
+menambah atau mengurangi jumlah anggota Direksi 
+dan/atau anggota Dewan Komisaris dalam hal jumlah 
+
+
+=== Halaman 40 ===
+- 40 –  
+anggota Direksi dan/atau anggota Dewan Komisaris yang 
+ada dinilai tidak efektif dan efisien; dan 
+b. 
+menambahkan 
+informasi 
+mengenai 
+transparansi 
+kepemilikan saham kurang dari 5% (lima persen) oleh 
+anggota Direksi pada: 
+1. 
+Penyelenggara 
+ITSK 
+tempat 
+anggota 
+Direksi 
+dimaksud menjabat; dan/atau 
+2. 
+perusahaan lain yang berkedudukan di dalam dan di 
+luar negeri, 
+terhadap anggota Direksi yang terbukti melakukan 
+pengendalian. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 6 
+PSP mendukung terlaksananya kegiatan usaha dan pengelolaan 
+Penyelenggara ITSK yang sehat, berdaya saing serta sesuai prinsip 
+kehati-hatian dan Manajemen Risiko, termasuk: 
+a. 
+tidak ikut serta dalam pengambilan keputusan operasional 
+Penyelenggara ITSK bagi pemegang saham yang selain menjadi 
+pengurus atau pegawai Penyelenggara ITSK; dan 
+b. 
+tidak memengaruhi pengambilan keputusan operasional 
+Penyelenggara ITSK, sesuai dengan Peraturan Otoritas Jasa 
+Keuangan mengenai ITSK. 
+Ketentuan peraturan perundang-undangan antara lain undang-
+undang mengenai perseroan terbatas dan peraturan Otoritas Jasa 
+Keuangan. 
+ 
+Pasal 7 
+Cukup jelas. 
+ 
+Pasal 8 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Komitmen antara lain pada saat dibutuhkan khususnya 
+pemegang saham bersedia meningkatkan dana operasional 
+Penyelenggara ITSK dengan cara antara lain menambah modal 
+disetor, 
+pinjaman 
+subordinasi 
+dan/atau 
+perubahan 
+komposisi/jumlah pemegang saham. 
+ 
+Pasal 9 
+Cukup jelas. 
+ 
+Pasal 10 
+Cukup jelas. 
+ 
+Pasal 11 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Huruf a 
+Sertifikasi dikeluarkan oleh badan/lembaga/asosiasi 
+yang kredibel atau dapat dipertanggungjawabkan. 
+
+
+=== Halaman 41 ===
+- 41 –  
+Sertifikasi yang dipersyaratkan, antara lain Certified 
+Information 
+Systems 
+Security 
+Professional 
+(CISSP), 
+Certified Information Security Manager (CISM), Certified 
+Information Systems Auditor (CISA), atau Certified Data 
+Privacy Solutions Engineer (CDPSE). 
+Huruf b 
+Cukup jelas. 
+Ayat (4) 
+Penyelenggara ITSK dapat menggunakan penamaan jabatan 
+lain dari direktur utama misalnya presiden direktur. 
+Ayat (5) 
+Penyelenggara ITSK dapat menggunakan penamaan jabatan 
+lain dari wakil direktur utama misalnya wakil presiden 
+direktur. 
+Ayat (6) 
+Yang dimaksud dengan “pemegang saham pengendali” adalah 
+PSP dan pemegang saham pengendali terakhir sesuai dengan 
+Peraturan Otoritas Jasa Keuangan mengenai penilaian 
+kemampuan dan kepatutan serta penilaian kembali bagi pihak 
+utama di sektor ITSK serta aset keuangan digital dan aset 
+kripto. 
+Penilaian independensi didasarkan pada keterkaitan yang 
+bersangkutan pada kepengurusan, kepemilikan, dan/atau 
+hubungan keuangan, serta hubungan keluarga dengan 
+pemegang saham pengendali. 
+Ayat (7) 
+Contoh ketentuan larangan rangkap jabatan anggota Direksi 
+kecuali sebagai anggota dewan komisaris atau yang setara 
+pada perusahaan selain Penyelenggara ITSK atau pada 
+Penyelenggara ITSK dengan jenis ITSK yang berbeda, yaitu: 
+a. 
+Direksi pemeringkat kredit alternatif menjadi dewan 
+komisaris pada perusahaan telekomunikasi; atau 
+b. 
+Direksi pemeringkat kredit alternatif menjadi Dewan 
+Komisaris pada penyelenggara agregasi jasa keuangan. 
+Ayat (8) 
+Cukup jelas. 
+Ayat (9) 
+Cukup jelas. 
+Ayat (10) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Dokumen lain yang ditetapkan oleh otoritas yang 
+berwenang antara lain izin menggunakan tenaga kerja 
+asing.  
+ 
+Pasal 12 
+Ayat (1) 
+Pemberhentian anggota Direksi termasuk pemberhentian 
+sementara anggota Direksi. Pembatasan kewenangan anggota 
+Direksi yang diberhentikan sementara dilaksanakan sesuai 
+dengan ketentuan peraturan perundang-undangan. 
+Ketentuan ini dimaksudkan agar dalam pemberhentian atau 
+penggantian anggota Direksi Penyelenggara ITSK tidak atas 
+
+
+=== Halaman 42 ===
+- 42 –  
+dasar kepentingan pribadi namun lebih menitikberatkan 
+kepada kepentingan Penyelenggara ITSK sebagai prioritas 
+utama. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Penilaian yang objektif terkait pengelolaan Penyelenggara 
+ITSK antara lain terkait aspek kinerja, integritas, reputasi 
+keuangan, dan/atau kompetensi. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Ayat (3) 
+Kewenangan Otoritas Jasa Keuangan dalam melakukan 
+evaluasi dan memerintahkan Penyelenggara ITSK melakukan 
+tindakan korektif, antara lain pada kondisi anggota Direksi 
+diberhentikan sebelum periode jabatan berakhir, dimana 
+proses pemberhentian tersebut diindikasikan bertujuan untuk 
+mengaburkan kondisi pelanggaran yang dilakukan oleh 
+anggota Direksi yang bersangkutan, termasuk dengan dugaan 
+tindak pidana. 
+ 
+Pasal 13 
+Ayat (1) 
+Tata cara pengunduran diri anggota Direksi sesuai dengan 
+ketentuan peraturan perundang-undangan dan dicantumkan 
+dalam anggaran dasar Penyelenggara ITSK. 
+Ayat (2) 
+Kewenangan Otoritas Jasa Keuangan dalam melakukan 
+evaluasi dan memerintahkan Penyelenggara ITSK melakukan 
+tindakan korektif, antara lain pada kondisi anggota Direksi 
+diberhentikan sebelum periode jabatan berakhir secara tidak 
+objektif. 
+Yang dimaksud dengan “tindakan korektif” adalah tindakan 
+yang 
+dilakukan 
+oleh 
+Otoritas 
+Jasa 
+Keuangan 
+untuk 
+memerintahkan 
+Penyelenggara 
+ITSK 
+membatalkan 
+atau 
+menganulir pengunduran diri yang dilakukan oleh anggota 
+Direksi. 
+Ayat (3) 
+Yang dimaksud dengan “kondisi lain” adalah pengunduran diri 
+anggota Direksi yang dimaksudkan untuk melepaskan 
+tanggung jawab sebagai anggota Direksi dalam penanganan 
+permasalahan Penyelenggara ITSK. 
+ 
+Pasal 14 
+Cukup jelas. 
+ 
+Pasal 15 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Berhalangan tetap antara lain: 
+a. 
+meninggal dunia; atau 
+
+
+=== Halaman 43 ===
+- 43 –  
+b. 
+disabilitas mental atau kondisi lain, yang tidak 
+memungkinkan 
+yang 
+bersangkutan 
+untuk 
+melaksanakan tugas dengan baik. 
+Huruf c 
+Cukup jelas. 
+Ayat (2) 
+Jangka waktu 6 (enam) bulan yang diberikan termasuk 
+pelaksanaan penilaian kemampuan dan kepatutan anggota 
+Direksi hingga pengangkatan RUPS. 
+Ayat (3) 
+Yang dimaksud dengan ketentuan peraturan perundang-
+undangan yaitu undang-undang mengenai perseroan terbatas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 16 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Tindakan 
+pengawasan 
+yang 
+ditetapkan 
+Otoritas 
+Jasa 
+Keuangan, antara lain: 
+a. 
+menetapkan masa tunggu lebih dari 6 (enam) bulan; 
+dan/atau 
+b. 
+tidak menyetujui atau membatalkan pengangkatan 
+sebagai anggota Direksi yang tidak mengungkapkan 
+Benturan 
+Kepentingan 
+atau 
+potensi 
+Benturan 
+Kepentingan dalam proses penilaian kemampuan dan 
+kepatutan. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 17 
+Cukup jelas. 
+ 
+Pasal 18 
+Cukup jelas. 
+ 
+Pasal 19 
+Ayat (1) 
+Pedoman dan tata tertib kerja Direksi dikenal juga dengan 
+piagam Direksi. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Pengaturan rapat antara lain mengatur tentang agenda 
+
+
+=== Halaman 44 ===
+- 44 –  
+rapat, persyaratan kuorum, pengambilan keputusan, hak 
+anggota ketika terdapat perbedaan pendapat dalam 
+pengambilan keputusan, dan risalah rapat. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Pola hubungan kerja Direksi dan Dewan Komisaris antara 
+lain melalui rapat antara Direksi dan Dewan Komisaris. 
+ 
+Pasal 20 
+Cukup jelas. 
+ 
+Pasal 21 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Bentuk rapat disesuaikan dengan kebutuhan Penyelenggara 
+ITSK, 
+antara 
+lain 
+dengan 
+cara 
+penggunaan 
+teknologi 
+telekonferensi. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 22 
+Ayat (1) 
+Yang dimaksud dengan “kebijakan dan keputusan strategis” 
+adalah keputusan Direksi yang dapat memengaruhi keuangan 
+Penyelenggara ITSK secara signifikan dan/atau memiliki 
+dampak yang berkesinambungan terhadap anggaran, sumber 
+daya manusia, struktur organisasi, dan/atau pihak ketiga. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Pendapat berbeda biasa dikenal dengan dissenting opinion. 
+Ayat (8) 
+Cukup jelas. 
+Ayat (9) 
+Cukup jelas. 
+ 
+Pasal 23 
+Cukup jelas. 
+ 
+Pasal 24 
+Huruf a 
+Cukup jelas. 
+
+
+=== Halaman 45 ===
+- 45 –  
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Yang 
+dimaksud 
+dengan 
+“pihak 
+lain” 
+adalah 
+pegawai 
+Penyelenggara ITSK dan/atau orang lain. 
+ 
+Pasal 25 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Penyelenggara ITSK dapat menggunakan penamaan jabatan 
+lain dari komisaris utama, misalnya presiden komisaris. 
+Ayat (3) 
+Penyelenggara dapat menggunakan penamaan jabatan lain 
+dari wakil komisaris utama, misalnya wakil presiden 
+komisaris. 
+Ayat (4) 
+Contoh jenis ITSK yang sama:  
+pemeringkat kredit alternatif dengan pemeringkat kredit 
+alternatif, penyelenggara agregasi jasa keuangan dengan 
+penyelenggara agregasi jasa keuangan. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 26 
+Ayat (1) 
+Pemberhentian 
+anggota 
+Dewan 
+Komisaris 
+termasuk 
+pemberhentian 
+sementara 
+anggota 
+Dewan 
+Komisaris. 
+Pembatasan kewenangan anggota Dewan Komisaris yang 
+diberhentikan 
+sementara 
+dilaksanakan 
+sesuai 
+dengan 
+ketentuan peraturan perundang-undangan. 
+Ketentuan ini dimaksudkan agar dalam pemberhentian atau 
+penggantian anggota Dewan Komisaris Penyelenggara ITSK 
+tidak 
+atas 
+dasar 
+kepentingan 
+pribadi 
+namun 
+lebih 
+menitikberatkan kepada kepentingan Penyelenggara ITSK 
+sebagai prioritas utama. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Penilaian yang objektif terkait pengelolaan Penyelenggara 
+ITSK antara lain terkait aspek kinerja, integritas, reputasi 
+keuangan, dan/atau kompetensi. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Ayat (3) 
+Kewenangan Otoritas Jasa Keuangan dalam melakukan 
+evaluasi dan memerintahkan Penyelenggara ITSK melakukan 
+tindakan korektif, antara lain pada kondisi anggota Dewan 
+Komisaris diberhentikan sebelum periode jabatan berakhir, 
+dimana 
+proses 
+pemberhentian 
+tersebut 
+diindikasikan 
+bertujuan untuk mengaburkan kondisi pelanggaran yang 
+
+
+=== Halaman 46 ===
+- 46 –  
+dilakukan oleh anggota Dewan Komisaris yang bersangkutan, 
+termasuk dengan dugaan tindak pidana. 
+ 
+Pasal 27 
+Ayat (1) 
+Tata cara pengunduran diri anggota Dewan Komisaris sesuai 
+dengan 
+ketentuan 
+peraturan 
+perundang-undangan 
+dan 
+dicantumkan dalam anggaran dasar Penyelenggara ITSK. 
+Ayat (2) 
+Kewenangan Otoritas Jasa Keuangan dalam melakukan 
+evaluasi dan memerintahkan Penyelenggara ITSK melakukan 
+tindakan korektif, antara lain pada kondisi anggota Dewan 
+Komisaris diberhentikan sebelum periode jabatan berakhir 
+secara tidak objektif. 
+Yang dimaksud dengan “tindakan korektif” adalah tindakan 
+yang 
+dilakukan 
+oleh 
+Otoritas 
+Jasa 
+Keuangan 
+untuk 
+memerintahkan 
+Penyelenggara 
+ITSK 
+membatalkan 
+atau 
+menganulir pengunduran diri yang dilakukan oleh anggota 
+Direksi. 
+Ayat (3) 
+Yang dimaksud dengan “kondisi lain” adalah pengunduran diri 
+anggota 
+Dewan 
+Komisaris 
+yang 
+dimaksudkan 
+untuk 
+melepaskan tanggung jawab sebagai anggota Direksi dalam 
+penanganan permasalahan Penyelenggara ITSK. 
+ 
+Pasal 28 
+Cukup jelas. 
+ 
+Pasal 29 
+Ayat (1) 
+Lihat Penjelasan Pasal 15 ayat (1). 
+Ayat (2) 
+Jangka waktu 6 (enam) bulan yang diberikan termasuk 
+pelaksanaan penilaian kemampuan dan kepatutan anggota 
+Dewan Komisaris hingga pengangkatan RUPS. 
+ 
+Pasal 30 
+Cukup jelas. 
+ 
+Pasal 31 
+Cukup jelas. 
+ 
+Pasal 32 
+Cukup jelas. 
+ 
+Pasal 33 
+Cukup jelas. 
+ 
+Pasal 34 
+Ayat (1) 
+Pedoman dan tata tertib kerja Dewan Komisaris dikenal juga 
+dengan piagam Dewan Komisaris. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+
+
+=== Halaman 47 ===
+- 47 –  
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Lihat penjelasan Pasal 19 ayat (2) huruf e. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Pola hubungan kerja Dewan Komisaris dan Direksi antara 
+lain melalui rapat antara Dewan Komisaris dan Direksi. 
+ 
+Pasal 35 
+Cukup jelas. 
+ 
+Pasal 36 
+Cukup jelas. 
+ 
+Pasal 37 
+Ayat (1) 
+Huruf a 
+Penerapan Manajemen Risiko secara efektif merupakan 
+bagian dari penerapan model tata kelola Risiko 3 (tiga) lini 
+(three lines model). Fungsi dan peran masing-masing lini 
+dalam model tata kelola Risiko 3 (tiga) lini (three lines 
+model) adalah sebagai berikut: 
+a. 
+lini pertama sebagai unit pemilik Risiko merupakan 
+unit yang langsung mengidentifikasi dan mengelola 
+Risiko dalam proses bisnis; 
+b. 
+lini kedua sebagai fungsi Manajemen Risiko dan 
+kepatuhan 
+merupakan 
+unit 
+yang 
+mengukur, 
+memantau, dan memperlakukan Risiko secara 
+agregat, serta mengembangkan metodologi dan 
+kebijakan 
+Manajemen 
+Risiko 
+dan 
+kepatuhan 
+Penyelenggara ITSK; dan 
+c. 
+lini ketiga sebagai fungsi audit internal merupakan 
+unit yang memastikan tata kelola dan pengendalian 
+Risiko diterapkan secara efektif oleh Penyelenggara 
+ITSK. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 38 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Contoh hal lain yang ditemukan oleh fungsi audit internal yang 
+dapat dilaporkan secara langsung kepada Dewan Komisaris 
+yaitu fungsi audit internal menemukan indikasi serangan siber 
+
+
+=== Halaman 48 ===
+- 48 –  
+dan kebocoran data karena tidak dilakukan penetration test 
+secara berkala terhadap sistem. Fungsi audit internal 
+kemudian melaporkan temuan tersebut kepada anggota 
+Direksi. 
+Namun, 
+anggota 
+Direksi 
+tersebut 
+tidak 
+menindaklanjuti temuan fungsi audit internal karena terdapat 
+benturan kepentingan (conflict of interest). Fungsi audit 
+internal dimaksud dapat melaporkan temuan tersebut secara 
+langsung kepada Dewan Komisaris. 
+Ayat (4) 
+Huruf a 
+Audit dikenal juga sebagai pemeriksaan. 
+Yang 
+dimaksud 
+dengan 
+“pemeriksaan” 
+adalah 
+pemeriksaan umum dan/atau pemeriksaan khusus, 
+termasuk yang berasal dari inisiatif Penyelenggara ITSK 
+maupun permintaan Otoritas Jasa Keuangan. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Dalam membuat analisis dan penilaian, satuan kerja 
+audit internal atau fungsi yang bertanggung jawab 
+terhadap 
+pelaksanaan 
+audit 
+internal 
+antara 
+lain 
+mengidentifikasi segala kemungkinan untuk memperbaiki 
+dan meningkatkan efisiensi penggunaan sumber daya dan 
+dana. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+Ayat (8) 
+Pedoman dan tata tertib kerja fungsi audit internal dikenal juga 
+sebagai piagam audit internal. 
+ 
+Pasal 39 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Yang dimaksud dengan “akuntan publik yang terdaftar di 
+Otoritas Jasa Keuangan” antara lain termasuk akuntan publik 
+di sektor selain ITSK, aset keuangan digital termasuk aset 
+kripto yang terdaftar berdasarkan Peraturan Otoritas Jasa 
+Keuangan mengenai penggunaan jasa akuntan publik dan 
+kantor akuntan publik dalam kegiatan jasa keuangan. 
+ 
+Pasal 40 
+Ayat (1) 
+Ketentuan 
+Benturan 
+Kepentingan 
+dimaksudkan 
+agar 
+pemegang saham, anggota Direksi, anggota Dewan Komisaris, 
+dan pegawai Penyelenggara ITSK tidak ikut serta dalam 
+pengambilan suatu keputusan pada situasi dan kondisi yang 
+terdapat Benturan Kepentingan, namun ketika keputusan 
+
+
+=== Halaman 49 ===
+- 49 –  
+tetap 
+harus 
+diambil 
+maka 
+pihak 
+dimaksud 
+harus 
+mengutamakan kepentingan ekonomis Penyelenggara ITSK 
+serta menghindarkan Penyelenggara ITSK dari kerugian yang 
+mungkin timbul atau kemungkinan berkurangnya keuntungan 
+Penyelenggara ITSK, dan mengungkapkan kondisi Benturan 
+Kepentingan dalam setiap keputusan. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Benturan 
+Kepentingan 
+yang 
+berpotensi 
+merugikan 
+Penyelenggara 
+ITSK 
+atau 
+mengurangi 
+keuntungan 
+Penyelenggara ITSK, antara lain pemberian perlakuan istimewa 
+kepada pihak tertentu di luar prosedur dan ketentuan serta 
+pemberian suku bunga yang tidak sesuai dengan prosedur dan 
+ketentuan. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 41 
+Huruf a 
+Yang dimaksud dengan “perusahaan lain” adalah lembaga jasa 
+keuangan atau non lembaga jasa keuangan di dalam maupun 
+di luar negeri. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “hubungan keluarga sampai dengan 
+derajat kedua baik horizontal maupun vertikal” adalah pihak 
+sebagai berikut: 
+1. 
+orang tua kandung/tiri/angkat; 
+2. 
+saudara kandung/tiri/angkat; 
+3. 
+anak kandung/tiri/angkat; 
+4. 
+kakek atau nenek kandung/tiri/angkat; 
+5. 
+cucu kandung/tiri/angkat; 
+6. 
+saudara kandung/tiri/angkat dari orang tua; 
+7. 
+suami atau istri; 
+8. 
+mertua atau besan; 
+9. 
+suami atau istri dari anak kandung/tiri/angkat; 
+10. kakek atau nenek dari suami atau istri; 
+11. suami atau istri dari cucu kandung/tiri/angkat; dan 
+12. saudara kandung/tiri/angkat dari suami atau istri 
+beserta 
+suami 
+atau 
+istrinya 
+dari 
+saudara 
+yang 
+bersangkutan. 
+Huruf d 
+Cukup jelas. 
+ 
+Pasal 42 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “afiliasi” adalah: 
+a. 
+hubungan 
+keluarga 
+karena 
+perkawinan 
+atau 
+keturunan sampai derajat kedua, baik secara 
+horizontal maupun vertikal dengan pegawai, anggota 
+Direksi, 
+anggota 
+Dewan 
+Komisaris, 
+dan/atau 
+
+
+=== Halaman 50 ===
+- 50 –  
+pemegang saham Penyelenggara ITSK; 
+b. 
+hubungan 
+dengan 
+Penyelenggara 
+ITSK 
+karena 
+adanya kesamaan satu dan/atau lebih anggota 
+Direksi atau Dewan Komisaris; 
+c. 
+hubungan pengendalian dengan Penyelenggara ITSK 
+baik langsung maupun tidak langsung; 
+d. 
+hubungan kepemilikan saham dalam Penyelenggara 
+ITSK sebesar 20% (dua puluh persen) atau lebih; 
+dan/atau 
+e. 
+hubungan 
+antara 
+2 
+(dua) 
+perusahaan 
+yang 
+dikendalikan, baik langsung maupun tidak langsung, 
+oleh pihak yang sama.  
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Yang dimaksud “Informasi material lain mengenai 
+Penyelenggara ITSK” adalah intervensi pemegang saham, 
+perselisihan internal, dan/atau permasalahan yang 
+timbul sebagai dampak kebijakan remunerasi pada 
+Penyelenggara ITSK. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 43 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Tindakan yang dilarang antara lain: 
+1. 
+pemanfaatan celah ketentuan yang ada maupun yang 
+belum diatur yang dapat berimplikasi meningkatkan 
+Risiko secara keseluruhan; dan 
+2. 
+rekrutmen karyawan yang dilakukan oleh Penyelenggara 
+ITSK yang berasal dari Penyelenggara ITSK lain secara 
+masif 
+sehingga 
+menyebabkan 
+terganggunya 
+keberlangsungan kegiatan operasional Penyelenggara 
+ITSK dimaksud. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 44 
+Cukup jelas. 
+ 
+Pasal 45 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Penerapan Tata Kelola yang Baik diinformasikan antara lain 
+kepada pemegang saham. 
+Huruf d 
+Pengungkapan 
+dan 
+bentuk 
+pertanggungjawaban 
+Penyelenggara ITSK atas pemanfaatan data Konsumen antara 
+lain pengungkapan atas cara kerja pemrosesan data dalam 
+
+
+=== Halaman 51 ===
+- 51 –  
+pemberian layanan kepada pihak pengguna atau Konsumen, 
+mulai dari input sampai dengan output dari aktivitas ITSK, 
+tingkat akurasi metode, model, dan/atau inovasi yang 
+dipergunakan untuk melakukan pengolahan data alternatif, 
+yang bertujuan untuk meningkatkan transparansi dan 
+menentukan pertanggungjawaban para pihak. 
+ 
+Pasal 46 
+Cukup jelas. 
+ 
+Pasal 47 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Ayat (4) 
+Yang dimaksud dengan “hari libur” adalah hari libur nasional, 
+cuti bersama yang ditetapkan oleh pemerintah pusat, 
+dan/atau hari libur lokal yang ditetapkan oleh pemerintah 
+daerah setempat. 
+Yang dimaksud dengan “hari” adalah hari kalender. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+Ayat (8) 
+Cukup jelas. 
+ 
+Pasal 48 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Yang dimaksud “daftar orang tercela” adalah daftar tidak 
+lulus berdasarkan mekanisme dan tata cara penilaian 
+kembali Pihak Utama. 
+Huruf e 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+
+
+=== Halaman 52 ===
+- 52 –  
+Pasal 49 
+Ayat (1) 
+Penerapan Manajemen Risiko termasuk penerapan program 
+anti pencucian uang dan pencegahan pendanaan terorisme, 
+dan pencegahan pendanaan proliferasi senjata pemusnah 
+massal sebagaimana dimaksud dalam peraturan perundang-
+undangan mengenai penerapan program anti pencucian uang, 
+pencegahan pendanaan terorisme, dan pencegahan pendanaan 
+proliferasi senjata pemusnah massal di sektor jasa keuangan. 
+Untuk memastikan penerapan Manajemen Risiko berjalan 
+secara efektif, Direksi, dan Dewan Komisaris mengacu pada 
+tugas dan tanggung jawab Direksi dan Dewan Komisaris. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “sistem informasi Manajemen 
+Risiko” adalah sistem yang menggunakan teknologi 
+informasi dan pengolahan data untuk mendukung 
+pengambilan keputusan dalam Manajemen Risiko. 
+Huruf d 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 50 
+Yang dimaksud dengan “kompleksitas usaha”, antara lain tercermin 
+dari keragaman dalam kegiatan usaha, produk dan/atau jasa, 
+dan/atau teknologi pendukung yang digunakan. 
+Yang dimaksud dengan “kemampuan Penyelenggara ITSK”, antara 
+lain 
+kemampuan 
+keuangan, 
+infrastruktur 
+pendukung, 
+dan 
+kemampuan sumber daya manusia. 
+ 
+Pasal 51 
+Huruf a 
+Risiko Strategis timbul antara lain karena: 
+a. 
+Penyelenggara ITSK menetapkan strategi yang kurang 
+sejalan dengan visi dan misi Penyelenggara ITSK; 
+b. 
+Penyelenggara ITSK melakukan analisis lingkungan yang 
+tidak komprehensif; 
+c. 
+Terdapat ketidaksesuaian rencana strategis (strategic plan) 
+antara level strategis; dan 
+d. 
+Kegagalan dalam mengantisipasi perubahan lingkungan 
+bisnis seperti perubahan teknologi, perubahan kondisi 
+ekonomi makro, kompetisi di pasar, dan perubahan 
+kebijakan otoritas terkait. 
+Huruf b 
+Contoh Risiko Operasional:  
+sistem yang tidak mampu untuk mengelola kegiatan bisnis, 
+pegawai yang kurang dilatih, tidak terdapat rencana dalam 
+menghadapi bencana operasional, keamanan operasional yang 
+kurang memadai, Risiko terkait penggunaan jasa pihak ketiga, 
+
+
+=== Halaman 53 ===
+- 53 –  
+pencucian uang, pencegahan pendanaan terorisme dan 
+pencegahan pendanaan proliferasi senjata pemusnah massal, 
+Risiko pelindungan data Konsumen.  
+Huruf c 
+Contoh Risiko Siber:  
+serangan Distributed Denial of Service (DDoS), malware, phising, 
+dan pembajakan perangkat lunak. 
+Huruf d 
+Risiko Hukum timbul antara lain karena ketiadaan peraturan 
+perundang-undangan yang mendukung atau kelemahan 
+perikatan seperti tidak dipenuhinya syarat sahnya kontrak. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Risiko Reputasi timbul antara lain karena adanya pemberitaan 
+media dan/atau rumor mengenai Penyelenggara ITSK yang 
+bersifat 
+negatif, 
+serta 
+adanya 
+strategi 
+komunikasi 
+Penyelenggara ITSK yang kurang efektif. 
+ 
+Pasal 52 
+Yang dimaksud dengan “setiap jenjang jabatan” adalah Direksi, 
+Dewan Komisaris, dan semua jabatan lain yang terkait dengan 
+penerapan Manajemen Risiko. 
+ 
+Pasal 53 
+Ayat (1) 
+ Huruf a 
+Termasuk dalam kebijakan dan strategi Manajemen 
+Risiko adalah penetapan dan persetujuan limit Risiko baik 
+Risiko secara keseluruhan (composite), per jenis Risiko, 
+per aktivitas fungsional, maupun per transaksi yang 
+material/signifikan. 
+Huruf b 
+Cukup jelas. 
+ Huruf c 
+Transaksi yang memerlukan persetujuan Direksi antara 
+lain transaksi yang telah melampaui kewenangan pejabat 
+Penyelenggara ITSK satu tingkat di bawah Direksi, sesuai 
+dengan kebijakan dan prosedur internal Penyelenggara 
+ITSK yang berlaku. 
+ Huruf d 
+Pengembangan budaya Manajemen Risiko antara lain 
+meliputi komunikasi yang memadai kepada seluruh 
+jenjang organisasi tentang pentingnya pengendalian 
+internal yang efektif. 
+ Huruf e 
+Peningkatan kompetensi sumber daya manusia antara 
+lain melalui program pendidikan dan pelatihan secara 
+berkesinambungan mengenai penerapan Manajemen 
+Risiko. 
+Huruf f 
+Yang dimaksud dengan independen antara lain adanya 
+pemisahan fungsi antara fungsi Manajemen Risiko yang 
+melakukan identifikasi, pengukuran, pemantauan, dan 
+pengendalian Risiko dengan fungsi yang melakukan dan 
+menyelesaikan kegiatan bisnis dan operasional. 
+
+
+=== Halaman 54 ===
+- 54 –  
+Huruf g 
+Kaji ulang secara berkala antara lain dimaksudkan untuk 
+mengantisipasi jika terjadi perubahan faktor eksternal 
+dan faktor internal. 
+Ayat (2) 
+Frekuensi evaluasi secara berkala disesuaikan dengan 
+kebutuhan 
+Penyelenggara 
+ITSK 
+dengan 
+memperhatikan 
+ukuran dan kompleksitas Penyelenggara ITSK. Dalam hal 
+terdapat faktor internal dan/atau eksternal yang memengaruhi 
+kegiatan 
+usaha 
+Penyelenggara 
+ITSK 
+secara 
+signifikan, 
+Penyelenggara ITSK dapat melakukan evaluasi kebijakan dan 
+strategi Manajemen Risiko di luar evaluasi secara berkala. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 54 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “transaksi dan limit Risiko yang 
+memerlukan persetujuan Dewan Komisaris” antara lain 
+kegiatan bisnis atau operasional yang telah melampaui 
+kewenangan Direksi untuk memutuskan hal dimaksud, 
+sesuai 
+dengan 
+kebijakan 
+dan 
+prosedur 
+internal 
+Penyelenggara ITSK yang berlaku. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 55 
+Kebijakan Manajemen Risiko ditetapkan antara lain dengan cara 
+menyusun strategi Manajemen Risiko untuk memastikan bahwa: 
+a. 
+Penyelenggara ITSK tetap mempertahankan eksposur Risiko 
+sesuai kebijakan dan prosedur internal Penyelenggara ITSK 
+dan peraturan perundang-undangan serta ketentuan lain; dan 
+b. 
+Penyelenggara ITSK dikelola oleh sumber daya manusia yang 
+memiliki pengetahuan, pengalaman, dan keahlian di bidang 
+Manajemen Risiko sesuai kompleksitas usaha Penyelenggara 
+ITSK. 
+Penyusunan 
+strategi 
+Manajemen 
+Risiko 
+dilakukan 
+dengan 
+mempertimbangkan 
+kondisi 
+keuangan 
+Penyelenggara 
+ITSK, 
+organisasi Penyelenggara ITSK, dan Risiko yang timbul sebagai 
+akibat perubahan faktor eksternal dan faktor internal. 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+ 
+
+
+=== Halaman 55 ===
+- 55 –  
+Huruf c 
+Tingkat 
+Risiko 
+yang 
+akan 
+diambil 
+(risk 
+appetite) 
+memperhatikan pengalaman yang dimiliki Penyelenggara ITSK 
+dalam mengelola Risiko serta kemampuan permodalan 
+Penyelenggara ITSK dalam menyerap Risiko. 
+Toleransi Risiko (risk tolerance) merupakan potensi kerugian 
+yang dapat diserap oleh permodalan Penyelenggara ITSK. 
+Huruf d 
+Penetapan penilaian peringkat Risiko merupakan dasar bagi 
+ITSK untuk mengategorikan peringkat Risiko. 
+Peringkat Risiko bagi Penyelenggara ITSK dikategorikan 
+menjadi 5 (lima) peringkat, yaitu: 
+1. 
+peringkat 1 (rendah); 
+2. 
+peringkat 2 (sedang rendah); 
+3. 
+peringkat 3 (sedang); 
+4. 
+peringkat 4 (sedang tinggi); dan 
+5. 
+peringkat 5 (tinggi). 
+Huruf e 
+Yang dimaksud dengan “rencana darurat” adalah rencana 
+pengembangan skenario untuk mengantisipasi terjadinya 
+gangguan internal termasuk kegagalan sistem serta gangguan 
+eksternal yang menyebabkan terjadinya kondisi darurat yang 
+dapat 
+menyebabkan 
+terjadinya 
+gangguan 
+operasional 
+Penyelenggara ITSK. 
+Penyusunan 
+rencana 
+darurat 
+dikenal 
+dengan 
+istilah 
+contingency plan.  
+Kondisi terburuk dikenal dengan istilah worst-case scenario. 
+Huruf f 
+Cukup jelas. 
+ 
+Pasal 56 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Dokumentasi 
+secara 
+memadai 
+dilakukan 
+dengan 
+dokumentasi yang tertulis, lengkap, akurat, kini, dan 
+utuh sehingga dapat memudahkan untuk dilakukan jejak 
+audit (audit trail) untuk keperluan pengendalian internal 
+Penyelenggara ITSK.  
+Ayat (3) 
+Huruf a 
+Yang dimaksud dengan “limit secara keseluruhan” adalah 
+batas Risiko yang dapat ditoleransi oleh Penyelenggara 
+ITSK atas seluruh Risiko yang diterapkan. 
+Huruf b 
+Yang dimaksud dengan “limit per jenis Risiko” adalah 
+batas Risiko yang dapat ditoleransi oleh Penyelenggara 
+ITSK untuk setiap jenis Risiko. 
+Huruf c 
+Yang dimaksud dengan “limit per aktivitas fungsional 
+tertentu” adalah batas Risiko yang dapat ditoleransi oleh 
+
+
+=== Halaman 56 ===
+- 56 –  
+Penyelenggara ITSK untuk setiap aktivitas fungsional. 
+ 
+Pasal 57 
+Ayat (1) 
+Faktor Risiko (risk factors) yaitu berbagai parameter yang 
+memengaruhi eksposur Risiko. 
+Faktor Risiko (risk factors) yang bersifat material yaitu faktor 
+Risiko baik kuantitatif maupun kualitatif yang berpengaruh 
+secara signifikan terhadap kondisi keuangan Penyelenggara 
+ITSK. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “informatif” antara lain mudah 
+dipahami. 
+Huruf c 
+Yang dimaksud dengan “memiliki kompetensi di bidang 
+Manajemen Risiko” antara lain memiliki: 
+a. 
+sertifikat keahlian di bidang Manajemen Risiko; 
+b. 
+pengalaman di bidang Manajemen Risiko; dan/atau 
+c. 
+pengalaman yang memadai di bidang lembaga jasa 
+keuangan terkait. 
+ 
+Pasal 58 
+Ayat (1) 
+Proses identifikasi Risiko antara lain dapat didasarkan pada 
+pengalaman kerugian Penyelenggara ITSK yang pernah terjadi. 
+Ayat (2) 
+Untuk melaksanakan pengukuran Risiko, Penyelenggara ITSK 
+dapat menggunakan berbagai pendekatan, baik kualitatif 
+maupun kuantitatif, disesuaikan dengan tujuan usaha, dan 
+kompleksitas usaha Penyelenggara ITSK. 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Yang dimaksud dengan “perubahan kegiatan usaha 
+Penyelenggara ITSK dan faktor Risiko yang bersifat 
+material” 
+adalah 
+perubahan 
+kegiatan 
+usaha 
+Penyelenggara ITSK dan faktor Risiko yang bersifat 
+kuantitatif atau kualitatif, yang dapat memengaruhi 
+kondisi keuangan Penyelenggara ITSK. 
+Ayat (3) 
+Yang dimaksud dengan “membahayakan kelangsungan usaha 
+Penyelenggara ITSK” termasuk Risiko yang memiliki potensi 
+membahayakan kelangsungan usaha Penyelenggara ITSK. 
+Pengendalian Risiko dilakukan antara lain dengan cara 
+lindung nilai, metode mitigasi Risiko, dan penambahan modal 
+untuk menyerap potensi kerugian. 
+Ayat (4) 
+Huruf a 
+Evaluasi terhadap eksposur Risiko dilakukan dengan cara 
+pemantauan dan pelaporan Risiko yang bersifat material 
+atau 
+yang 
+berdampak 
+kepada 
+kondisi 
+permodalan/pendanaan Penyelenggara ITSK, yang antara 
+lain didasarkan atas penilaian potensi Risiko dengan 
+
+
+=== Halaman 57 ===
+- 57 –  
+menggunakan historical trend. 
+Huruf b 
+Cukup jelas. 
+ 
+Pasal 59 
+Ayat (1) 
+Yang dimaksud dengan “memiliki kompetensi di bidang sistem 
+informasi Manajemen Risiko” adalah memiliki kompetensi di 
+bidang sistem informasi Manajemen Risiko antara lain 
+memiliki sertifikat keahlian dan/atau bukti telah mengikuti 
+pelatihan di bidang sistem informasi Manajemen Risiko. 
+Ayat (2) 
+Huruf a 
+Laporan atau informasi eksposur Risiko mencakup 
+eksposur kuantitatif dan kualitatif, secara keseluruhan 
+(composite) maupun rincian per jenis Risiko dan per jenis 
+aktivitas fungsional. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Ayat (3) 
+Yang dimaksud dengan “secara berkala” adalah frekuensi 
+laporan atau informasi yang disampaikan kepada Direksi 
+disesuaikan dengan kebutuhan Penyelenggara ITSK. 
+ 
+Pasal 60 
+Sistem pengendalian internal yang efektif menjadi tanggung jawab 
+semua pihak yang terlibat dalam organisasi Penyelenggara ITSK, 
+antara lain Dewan Komisaris, Direksi, fungsi Manajemen Risiko, 
+fungsi audit internal, dan pegawai. 
+ 
+Pasal 61 
+Ayat (1) 
+Yang dimaksud dengan ”tepat waktu” adalah kondisi sebelum 
+terjadinya kelemahan dan penyimpangan yang menyebabkan 
+atau memengaruhi eksposur Risiko. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Informasi keuangan dan manajemen yang lengkap, 
+akurat, tepat guna, dan tepat waktu diperlukan dalam 
+rangka pengambilan keputusan yang tepat dan dapat 
+dipertanggungjawabkan, serta dikomunikasikan kepada 
+pihak yang berkepentingan. 
+Huruf d 
+Efektivitas dan efisiensi dalam kegiatan bisnis dan 
+operasional antara lain diperlukan untuk melindungi aset 
+dan sumber daya Penyelenggara ITSK lainnya dari Risiko 
+terkait. 
+Huruf e 
+Efektivitas budaya Risiko (risk culture) dimaksudkan 
+untuk mengidentifikasi kelemahan dan penyimpangan 
+
+
+=== Halaman 58 ===
+- 58 –  
+secara lebih dini dan menilai kembali kewajaran kebijakan 
+dan prosedur yang ada pada Penyelenggara ITSK secara 
+berkesinambungan. 
+ 
+Pasal 62 
+Cukup jelas. 
+ 
+Pasal 63 
+Cukup jelas. 
+ 
+Pasal 64 
+Ayat (1) 
+Penyelenggara ITSK menentukan struktur organisasi yang 
+tepat dan sesuai dengan kondisi Penyelenggara ITSK, termasuk 
+kemampuan keuangan dan sumber daya manusia. 
+Pembentukan fungsi Manajemen Risiko disesuaikan dengan 
+ukuran dan kompleksitas kegiatan usaha Penyelenggara ITSK 
+serta harus disertai dengan wewenang dan tanggung jawab 
+yang jelas. 
+Ayat (2) 
+Pengertian independen antara lain tercermin dari: 
+a. 
+pemisahan fungsi dan tugas antara fungsi Manajemen 
+Risiko dengan fungsi bisnis dan operasional (risk-taking 
+function) dan fungsi pengendalian internal; dan 
+b. 
+proses pengambilan keputusan yang tidak memihak atau 
+menguntungkan fungsi bisnis dan operasional tertentu 
+atau mengabaikan fungsi operasional lainnya. 
+Pengendalian internal dapat dilaksanakan oleh fungsi kerja 
+audit internal. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Wewenang dan tanggung jawab satuan kerja Manajemen 
+Risiko atau fungsi Manajemen Risiko disesuaikan dengan 
+tujuan usaha dan kompleksitas usaha Penyelenggara ITSK. 
+Huruf a 
+Identifikasi 
+Risiko 
+termasuk 
+berkoordinasi 
+dengan 
+seluruh satuan kerja yang terdapat dalam Penyelenggara 
+ITSK. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Risiko secara keseluruhan (composite risk) yaitu Risiko 
+yang 
+dihadapi 
+oleh 
+Penyelenggara 
+ITSK 
+dengan 
+memperhitungkan semua jenis Risiko pada Penyelenggara 
+ITSK tersebut. 
+Huruf e 
+Kaji ulang antara lain dilakukan berdasarkan temuan 
+audit internal dan/atau perkembangan praktik-praktik 
+Manajemen Risiko yang berlaku secara internasional. 
+Huruf f 
+Termasuk dalam kajian tersebut antara lain penilaian 
+kemampuan Penyelenggara ITSK untuk melakukan 
+pengembangan atau perluasan kegiatan usaha dan kajian 
+
+
+=== Halaman 59 ===
+- 59 –  
+usulan perubahan sistem dan prosedur. 
+Huruf g 
+Model untuk keperluan internal dikenal dengan istilah 
+internal model. 
+Huruf h  
+Rekomendasi antara lain memuat rekomendasi yang 
+terkait dengan besaran atau maksimum eksposur Risiko 
+yang wajib dipelihara oleh Penyelenggara ITSK. 
+Huruf i 
+Profil Risiko merupakan gambaran secara menyeluruh 
+atas besarnya potensi Risiko yang melekat pada seluruh 
+portofolio atau eksposur Penyelenggara ITSK. 
+Frekuensi penyampaian laporan dapat ditingkatkan 
+dalam hal kondisi pasar berubah dengan cepat. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 65 
+Ayat (1) 
+Penyampaian informasi eksposur Risiko secara berkala 
+disesuaikan dengan karakteristik jenis Risiko. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 66 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Masa uji coba dimaksudkan untuk memastikan metode 
+pengukuran dan pemantauan Risiko telah teruji. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+Ayat (3) 
+Huruf a 
+Kriteria tidak pernah dilakukan sebelumnya antara lain 
+kegiatan usaha yang telah dilakukan oleh Penyelenggara 
+ITSK 
+lain 
+namun 
+belum 
+pernah 
+dilakukan 
+oleh 
+Penyelenggara ITSK yang bersangkutan, dengan mengacu 
+kepada 
+ketentuan 
+peraturan 
+perundang-undangan 
+masing-masing Penyelenggara ITSK. 
+Huruf b 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 67 
+Kategori tindakan menyetujui antara lain mengetahui namun tidak 
+
+
+=== Halaman 60 ===
+- 60 –  
+melarang atau membiarkan terjadinya kegiatan yang bukan 
+merupakan 
+kegiatan 
+usaha 
+Penyelenggara 
+ITSK 
+dengan 
+menggunakan sarana atau fasilitas Penyelenggara ITSK oleh 
+Direksi, Dewan Komisaris, dan/atau pegawai. 
+ 
+Pasal 68 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Penilaian sendiri profil Risiko sewaktu-waktu antara lain 
+dalam hal Penyelenggara ITSK yang melakukan kegiatan usaha 
+baru dan mempengaruhi profil Risiko yang telah disampaikan 
+pada periode sebelumnya. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 69 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Laporan profil Risiko menggantikan penerapan Manajemen 
+Risiko dan kehati-hatian yang merupakan bagian dari laporan 
+semesteran sebagaimana dimaksud dalam Pasal 40 ayat (3) 
+huruf b peraturan Otoritas Jasa Keuangan mengenai 
+pemeringkat kredit alternatif dan Pasal 39 ayat (2) huruf c 
+peraturan Otoritas Jasa Keuangan mengenai penyelenggara 
+agregasi jasa keuangan. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Lihat Penjelasan Pasal 47 ayat (4). 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+Ayat (8) 
+Cukup jelas. 
+ 
+Pasal 70 
+Ayat (1) 
+Yang dimaksud dengan “kondisi berpotensi menimbulkan 
+kerugian yang signifikan terhadap kondisi keuangan” adalah 
+kondisi yang berpotensi menurunkan keuntungan sehingga 
+menimbulkan kerugian pada Penyelenggara ITSK.  
+Ayat (2) 
+Contoh: 
+Penyelenggara ITSK memiliki peningkatan potensi Risiko 
+Reputasi akibat penyimpangan (fraud) yang dilakukan oleh 
+Direksi dan berita terkait penyimpangan (fraud) tersebut 
+dimuat di media massa setempat serta terdapat pengaduan 
+
+
+=== Halaman 61 ===
+- 61 –  
+Konsumen yang diperkirakan dapat memengaruhi reputasi 
+Penyelenggara ITSK.  
+Informasi dan data dapat berupa dan/atau bersumber dari 
+peristiwa, tindakan, dan/atau hal lainnya. 
+Ayat (3) 
+Contoh: 
+Penyelenggara ITSK mengetahui adanya peningkatan potensi 
+Risiko Reputasi tanggal 1 Maret 2026. Dengan kondisi 
+dimaksud, Penyelenggara ITSK diharuskan menyampaikan 
+laporan profil Risiko lain paling lambat tanggal 1 April 2026.  
+Ayat (4) 
+Dasar permintaan Otoritas Jasa Keuangan antara lain Otoritas 
+Jasa Keuangan mengidentifikasi adanya eksposur Risiko lain 
+yang berpotensi menimbulkan kerugian yang signifikan 
+terhadap kondisi keuangan Penyelenggara ITSK. 
+Ayat (5) 
+Lihat Penjelasan Pasal 47 ayat (4). 
+Ayat (6) 
+Cukup jelas. 
+ 
+Pasal 71 
+Cukup jelas. 
+ 
+Pasal 72 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Contoh data dan informasi terkait penerapan Manajemen 
+Risiko: pedoman penerapan Manajemen Risiko. 
+ 
+Pasal 73 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Lihat penjelasan Pasal 48 ayat (1) huruf d. 
+Huruf e 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 74 
+Cukup jelas. 
+ 
+Pasal 75 
+Cukup jelas. 
+
+
+=== Halaman 62 ===
+- 62 –  
+ 
+ 
+Pasal 76 
+Pertimbangan tertentu didasarkan, antara lain, perkembangan 
+industri, perubahan Risiko atas produk, layanan, dan aktivitas, 
+kondisi ITSK, dan kondisi signifikan lainnya yang berpengaruh 
+terhadap penyelenggaraan ITSK. 
+ 
+Pasal 77 
+Cukup jelas. 
+ 
+Pasal 78 
+Cukup jelas. 
+ 
+Pasal 79 
+Cukup jelas. 
+ 
+Pasal 80 
+Cukup jelas. 
+ 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR       ⸙ 
+
+

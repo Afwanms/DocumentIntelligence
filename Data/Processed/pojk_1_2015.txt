@@ -1,0 +1,608 @@
+=== Halaman 1 ===
+ 
+ 
+ 
+OTORITAS JASA KEUANGAN 
+REPUBLIK INDONESIA 
+ 
+SALINAN 
+PERATURAN OTORITAS JASA KEUANGAN 
+NOMOR 1/POJK.05/2015 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO  
+BAGI LEMBAGA JASA KEUANGAN NON-BANK 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+DEWAN KOMISIONER OTORITAS JASA KEUANGAN, 
+ 
+Menimbang : a. bahwa kondisi eksternal dan internal lembaga jasa keuangan 
+non-bank 
+dapat 
+mempengaruhi 
+perkembangan 
+kegiatan 
+usaha lembaga jasa keuangan non-bank dan meningkatkan 
+kompleksitas tingkat risiko yang dihadapi oleh lembaga jasa 
+keuangan non-bank tersebut; 
+b. bahwa semakin kompleksnya risiko perlu diimbangi dengan 
+penerapan manajemen risiko yang meliputi identifikasi, 
+pengukuran, pemantauan, dan pengendalian risiko;  
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud 
+dalam huruf a dan huruf b, perlu menetapkan Peraturan 
+Otoritas Jasa Keuangan tentang Penerapan Manajemen Risiko 
+bagi Lembaga Jasa Keuangan Non-Bank; 
+Mengingat   : 1. Undang-Undang Nomor 11 Tahun 1992 tentang Dana Pensiun 
+(Lembaran Negara Republik Indonesia Tahun 1992 Nomor 37, 
+Tambahan Lembaran Negara Republik Indonesia Nomor 
+3477); 
+2. Undang-Undang ... 
+
+
+=== Halaman 2 ===
+- 2 - 
+ 
+ 
+2. Undang-Undang Nomor 21 Tahun 2011 tentang Otoritas Jasa 
+Keuangan (Lembaran Negara Republik Indonesia Tahun 2011 
+Nomor 111, Tambahan Lembaran Negara Nomor 5253); 
+ 
+3. Undang-Undang Nomor 40 Tahun 2014 tentang Perasuransian 
+(Lembaran Negara Republik Indonesia Tahun 2014 Nomor 
+337, Tambahan Lembaran Negara Republik Indonesia Nomor 
+5618); 
+ 
+4. Peraturan Pemerintah Nomor 73 Tahun 1992 Tentang 
+Penyelenggaraan Usaha Perasuransian (Lembaran Negara 
+Republik Indonesia Tahun 1992 Nomor 120, Tambahan 
+Lembaran Negara Nomor 3506) sebagaimana telah beberapa 
+kali diubah dengan Peraturan Pemerintah Nomor 81 Tahun 
+2008 (Lembaran Negara Republik Indonesia Tahun 2008 
+Nomor 79, Tambahan Lembaran Negara Nomor 4856); 
+ 
+5. Peraturan Pemerintah Republik Indonesia Nomor 76 Tahun 
+1992 tentang Dana Pensiun Pemberi Kerja (Lembaran Negara 
+Republik Indonesia Tahun 1992 Nomor 126, Tambahan 
+Lembaran Negara Republik Indonesia Nomor 3507); 
+ 
+6. Peraturan Pemerintah Republik Indonesia Nomor 77 Tahun 
+1992 tentang Dana Pensiun Lembaga Keuangan (Lembaran 
+Negara 
+Republik 
+Indonesia 
+Tahun 
+1992 
+Nomor 
+127, 
+Tambahan Lembaran Negara Republik Indonesia Nomor 
+3508); 
+ 
+ 
+MEMUTUSKAN: 
+ 
+Menetapkan : PERATURAN 
+OTORITAS 
+JASA 
+KEUANGAN 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO BAGI LEMBAGA JASA 
+KEUANGAN NON-BANK. 
+ 
+BAB I 
+KETENTUAN UMUM 
+Pasal 1 
+Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud 
+dengan: 
+1. Lembaga ... 
+
+
+=== Halaman 3 ===
+- 3 - 
+ 
+1. Lembaga 
+Jasa 
+Keuangan 
+Non-Bank, 
+yang 
+selanjutnya 
+disingkat 
+LJKNB, 
+adalah 
+lembaga 
+yang 
+melaksanakan 
+kegiatan di sektor perasuransian, dana pensiun, dan lembaga 
+pembiayaan, yang meliputi: 
+a. perusahaan asuransi umum, perusahaan asuransi jiwa, 
+dan 
+perusahaan 
+reasuransi, 
+termasuk 
+yang 
+menyelenggarakan 
+seluruh 
+atau 
+sebagian 
+usahanya 
+dengan prinsip syariah sebagaimana dimaksud dalam 
+peraturan perundang-undangan mengenai perasuransian; 
+b. perusahaan 
+pialang 
+asuransi, 
+perusahaan 
+pialang 
+reasuransi, dan perusahaan penilai kerugian asuransi 
+sebagaimana dimaksud 
+dalam 
+peraturan perundang-
+undangan mengenai perasuransian; 
+c. dana pensiun, termasuk yang menyelenggarakan seluruh 
+atau 
+sebagian 
+usahanya 
+dengan 
+prinsip 
+syariah 
+sebagaimana dimaksud dalam peraturan perundang-
+undangan mengenai dana pensiun; 
+d. perusahaan 
+pembiayaan, 
+termasuk 
+yang 
+menyelenggarakan 
+seluruh 
+atau 
+sebagian 
+usahanya 
+berdasarkan prinsip syariah sebagaimana dimaksud dalam 
+peraturan 
+perundang-undangan 
+mengenai 
+lembaga 
+pembiayaan. 
+2. Risiko adalah potensi terjadinya suatu peristiwa yang dapat 
+menimbulkan kerugian bagi LJKNB. 
+3. Risiko Strategi adalah Risiko yang muncul akibat kegagalan 
+penetapan strategi yang tepat dalam rangka pencapaian 
+sasaran dan target utama LJKNB. 
+4. Risiko Operasional adalah Risiko yang muncul sebagai akibat 
+ketidaklayakan atau kegagalan proses internal, manusia, 
+sistem teknologi informasi dan/atau adanya kejadian yang 
+berasal dari luar lingkungan LJKNB. 
+5. Risiko Aset dan Liabilitas adalah Risiko yang muncul sebagai 
+akibat kegagalan pengelolaan aset dan liabilitas LJKNB. 
+6. Risiko Kepengurusan adalah Risiko yang muncul sebagai 
+akibat kegagalan LJKNB dalam memelihara komposisi terbaik 
+pengurusnya ... 
+
+
+=== Halaman 4 ===
+- 4 - 
+ 
+pengurusnya, yaitu direksi dan dewan komisaris, atau yang 
+setara, yang memiliki kompetensi dan integritas yang tinggi. 
+7. Risiko Tata Kelola adalah Risiko yang muncul karena adanya 
+potensi kegagalan dalam pelaksanaan tata kelola yang baik 
+(good governance) LJKNB, ketidaktepatan gaya manajemen, 
+lingkungan pengendalian, dan perilaku dari setiap pihak yang 
+terlibat langsung atau tidak langsung dengan LJKNB. 
+8. Risiko Dukungan Dana adalah Risiko yang muncul akibat 
+ketidakcukupan dana/modal yang ada pada LJKNB, termasuk 
+kurangnya akses tambahan dana/modal dalam menghadapi 
+kerugian atau kebutuhan dana/modal yang tidak terduga. 
+9. Risiko Asuransi adalah Risiko kegagalan perusahaan asuransi 
+dan perusahaan reasuransi untuk memenuhi kewajiban 
+kepada tertanggung dan pemegang polis sebagai akibat dari 
+ketidakcukupan 
+proses 
+seleksi 
+Risiko 
+(underwriting), 
+penetapan premi (pricing), penggunaan reasuransi, dan/atau 
+penanganan klaim. 
+10. Risiko Pembiayaan adalah Risiko yang muncul akibat 
+kegagalan debitur dan/atau pihak lain dalam memenuhi 
+kewajiban kepada perusahaan pembiayaan. 
+11. Manajemen 
+Risiko 
+adalah 
+serangkaian 
+prosedur 
+dan 
+metodologi 
+yang 
+digunakan 
+untuk 
+mengidentifikasi, 
+mengukur, memantau, dan mengendalikan Risiko yang timbul 
+dari kegiatan usaha LJKNB. 
+12. Otoritas Jasa Keuangan, yang selanjutnya disingkat OJK, 
+adalah lembaga yang independen dan bebas dari campur 
+tangan pihak lain, yang mempunyai fungsi, tugas, dan 
+wewenang 
+pengaturan, 
+pengawasan, 
+pemeriksaan, 
+dan 
+penyidikan sebagaimana dimaksud dalam undang-undang 
+mengenai otoritas jasa keuangan. 
+ 
+BAB II 
+PENERAPAN MANAJEMEN RISIKO 
+Pasal 2 
+(1) LJKNB wajib menerapkan Manajemen Risiko secara efektif.  
+(2) Penerapan ... 
+
+
+=== Halaman 5 ===
+- 5 - 
+ 
+(2) Penerapan Manajemen Risiko sebagaimana dimaksud pada  
+ayat (1) paling sedikit mencakup: 
+a. pengawasan aktif direksi, dewan komisaris, atau yang 
+setara dari LJKNB; 
+b. kecukupan kebijakan, prosedur, dan penetapan limit 
+Risiko; 
+c. kecukupan proses identifikasi, pengukuran, pemantauan 
+dan pengendalian Risiko;  
+d. sistem informasi Manajemen Risiko; dan  
+e. sistem pengendalian intern yang menyeluruh. 
+Pasal 3 
+Penerapan Manajemen Risiko sebagaimana dimaksud dalam 
+Pasal 2 harus disesuaikan dengan tujuan, kebijakan usaha, 
+ukuran dan kompleksitas LJKNB. 
+Pasal 4 
+(1) Manajemen Risiko sebagaimana dimaksud dalam Pasal 2 bagi 
+LJKNB berupa perusahaan asuransi umum, perusahaan 
+asuransi jiwa, dan perusahaan reasuransi, termasuk yang 
+menyelenggarakan seluruh atau sebagian usahanya dengan 
+prinsip syariah wajib diterapkan untuk:  
+a. Risiko Strategi; 
+b. Risiko Operasional;  
+c. Risiko Aset dan Liabilitas;  
+d. Risiko Kepengurusan; 
+e. Risiko Tata Kelola; 
+f. Risiko Dukungan Dana; dan 
+g. Risiko Asuransi. 
+(2) Manajemen Risiko sebagaimana dimaksud dalam Pasal 2 bagi 
+LJKNB berupa perusahaan pialang asuransi, perusahaan 
+pialang reasuransi, dan perusahaan penilai kerugian asuransi 
+wajib diterapkan untuk: 
+a. Risiko Strategi; 
+b. Risiko Operasional;  
+c. Risiko Kepengurusan; dan 
+d. Risiko Tata Kelola. 
+(3) Manajemen ... 
+
+
+=== Halaman 6 ===
+- 6 - 
+ 
+(3) Manajemen Risiko sebagaimana dimaksud dalam Pasal 2 bagi 
+LJKNB 
+berupa 
+dana 
+pensiun, 
+termasuk 
+yang 
+menyelenggarakan seluruh atau sebagian usahanya dengan 
+prinsip syariah wajib diterapkan untuk: 
+a. Risiko Strategi; 
+b. Risiko Operasional;  
+c. Risiko Aset dan Liabilitas;  
+d. Risiko Kepengurusan; 
+e. Risiko Tata Kelola; dan 
+f. Risiko Dukungan Dana. 
+(4) Manajemen Risiko sebagaimana dimaksud dalam Pasal 2 bagi 
+LJKNB berupa perusahaan pembiayaan, termasuk yang 
+menyelenggarakan seluruh atau sebagian usahanya dengan 
+prinsip syariah wajib diterapkan untuk: 
+a. Risiko Strategi; 
+b. Risiko Operasional;  
+c. Risiko Aset dan Liabilitas;  
+d. Risiko Kepengurusan; 
+e. Risiko Tata Kelola; 
+f. Risiko Dukungan Dana; dan 
+g. Risiko Pembiayaan. 
+Pasal 5 
+(1) Dalam rangka menerapkan Manajemen Risiko sebagaimana 
+dimaksud dalam Pasal 2, LJKNB wajib memiliki pedoman 
+penerapan Manajemen Risiko. 
+(2) LJKNB wajib melakukan evaluasi atas pedoman penerapan 
+Manajemen Risiko sebagaimana dimaksud pada ayat (1) 
+paling sedikit sekali dalam 2 (dua) tahun atau apabila terjadi 
+perubahan Risiko yang signifikan. 
+(3) Ketentuan lebih lanjut mengenai tata cara penyusunan 
+pedoman 
+penerapan 
+Manajemen 
+Risiko 
+bagi 
+LJKNB 
+sebagaimana dimaksud pada ayat (1) diatur dalam Surat 
+Edaran OJK. 
+ 
+  
+ 
+BAB III ... 
+
+
+=== Halaman 7 ===
+- 7 - 
+ 
+BAB III  
+PENILAIAN PENERAPAN MANAJEMEN RISIKO 
+Pasal 6 
+(1) LJKNB wajib menyusun penilaian sendiri (self assesment) 
+penerapan Manajemen Risiko paling sedikit sekali dalam 
+setahun untuk posisi per tanggal 31 Desember. 
+(2) LJKNB wajib menyampaikan laporan hasil penilaian sendiri 
+sebagaimana dimaksud pada ayat (1) kepada OJK paling 
+lambat tanggal 28 Februari tahun berikutnya. 
+(3) Apabila batas akhir penyampaian laporan hasil penilaian 
+sendiri sebagaimana dimaksud pada ayat (2) jatuh pada hari 
+libur, batas akhir penyampaian laporan adalah hari kerja 
+pertama berikutnya. 
+(4) Hasil penilaian sendiri sebagaimana dimaksud pada ayat (1) 
+digunakan sebagai dasar dalam penyusunan penilaian tingkat 
+Risiko LJKNB sebagaimana dimaksud dalam Peraturan OJK 
+mengenai penilaian tingkat risiko LJKNB. 
+(5) Ketentuan lebih lanjut mengenai bentuk, susunan dan tata 
+cara 
+penyampaian 
+laporan 
+ 
+hasil 
+penilaian 
+sendiri 
+sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur 
+dalam Surat Edaran OJK. 
+Pasal 7 
+(1) OJK melakukan penilaian terhadap penerapan Manajemen 
+Risiko pada LJKNB. 
+(2) LJKNB wajib menyediakan data dan informasi yang berkaitan 
+dengan penerapan Manajemen Risiko kepada OJK. 
+ 
+BAB IV 
+SANKSI 
+Pasal 8 
+(1) OJK mengenakan sanksi administratif berupa teguran tertulis 
+kepada 
+LJKNB 
+yang 
+melakukan 
+pelanggaran 
+terhadap 
+ketentuan Pasal 2 ayat (1), Pasal 4, Pasal 5 ayat (1) dan ayat (2), 
+Pasal ... 
+
+
+=== Halaman 8 ===
+- 8 - 
+ 
+Pasal 6 ayat (1) dan ayat (2), serta Pasal 7 ayat (2) Peraturan 
+OJK ini. 
+(2) Sanksi administratif berupa teguran tertulis dikenakan paling 
+banyak 3 (tiga) kali berturut-turut, yaitu:  
+a. teguran tertulis pertama;  
+b. teguran tertulis kedua; dan  
+c. teguran tertulis ketiga.  
+(3) Sanksi 
+administratif 
+berupa 
+teguran 
+tertulis 
+pertama 
+sebagaimana dimaksud pada ayat (2) huruf a ditetapkan jika 
+LJKNB 
+melakukan 
+pelanggaran 
+terhadap 
+ketentuan 
+sebagaimana dimaksud pada ayat (1) dengan jangka waktu 
+pemenuhan 
+paling 
+lama 
+30 
+(tiga 
+puluh) 
+hari 
+sejak 
+ditetapkannya sanksi administratif berupa teguran tertulis 
+pertama dimaksud. 
+(4) Sanksi administratif berupa teguran tertulis kedua dan ketiga 
+sebagaimana dimaksud pada ayat (2) huruf b dan huruf c 
+ditetapkan jika dalam jangka waktu paling lama 30 (tiga 
+puluh) hari sejak ditetapkannya sanksi administratif berupa 
+teguran tertulis pertama atau kedua dimaksud, LJKNB belum 
+dapat mengatasi penyebab dikenakannya sanksi  administratif 
+berupa teguran tertulis pertama atau kedua dimaksud. 
+(5) Dalam hal LJKNB telah dikenakan sanksi administratif 
+berupa teguran tertulis ketiga sebagaimana dimaksud pada 
+ayat (2) huruf c dan belum memenuhi ketentuan sebagaimana 
+dimaksud pada ayat (4), OJK dapat mewajibkan direksi, 
+dewan komisaris, atau yang setara pada LJKNB dimaksud 
+untuk menjalani penilaian kemampuan dan kepatutan ulang.  
+ 
+BAB V 
+KETENTUAN PENUTUP 
+Pasal 9 
+(1) Pada saat Peraturan OJK ini berlaku, ketentuan mengenai 
+Manajemen Risiko bagi LJKNB tunduk pada Peraturan OJK 
+ini. 
+(2) Dengan ... 
+
+
+=== Halaman 9 ===
+- 9 - 
+ 
+(2) Dengan 
+berlakunya 
+Peraturan 
+OJK 
+ini, 
+LJKNB 
+wajib 
+menyesuaikan penerapan Manajemen Risiko LJKNB dengan 
+Peraturan OJK ini. 
+Pasal 10 
+Peraturan OJK ini mulai berlaku pada tanggal 1 Januari 2016.  
+Agar setiap orang mengetahuinya, memerintahkan pengumuman 
+Peraturan OJK ini dengan penempatannya dalam Lembaran 
+Negara Republik Indonesia. 
+ 
+Ditetapkan di Jakarta  
+pada tanggal 23 Maret 2015 
+KETUA DEWAN KOMISIONER 
+OTORITAS JASA KEUANGAN, 
+ 
+Ttd. 
+ 
+MULIAMAN D. HADAD 
+ 
+Diundangkan di Jakarta  
+pada tanggal 26 Maret 2015      
+MENTERI HUKUM DAN HAK ASASI MANUSIA 
+REPUBLIK INDONESIA, 
+ 
+Ttd.  
+ 
+YASONNA H. LAOLY  
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 69 
+ 
+ 
+ 
+Salinan sesuai dengan aslinya 
+Direktur Hukum I 
+Departemen Hukum, 
+ 
+    Ttd. 
+ 
+ 
+Sudarmaji  
+ 
+
+
+=== Halaman 10 ===
+ 
+ 
+PENJELASAN 
+ATAS 
+PERATURAN OTORITAS JASA KEUANGAN 
+NOMOR 1 /POJK.05/2015 
+TENTANG 
+PENERAPAN MANAJEMEN RISIKO 
+BAGI LEMBAGA JASA KEUANGAN NON-BANK 
+ 
+I. 
+UMUM 
+Industri keuangan di Indonesia mengalami perkembangan pesat, baik dari 
+lingkungan internal dan eksternal, terutama bagi LJKNB. Hal ini tentu 
+mengakibatkan semakin kompleksnya Risiko bagi kegiatan usaha LJKNB 
+tersebut. 
+Semakin kompleksnya Risiko usaha perlu diimbangi dengan penerapan 
+fungsi identifikasi, pengukuran, pemantauan dan pengendalian Risiko 
+yang 
+memadai. 
+Hal 
+tersebut 
+dimaksudkan 
+agar 
+LJKNB 
+dapat 
+meningkatkan kemungkinan yang lebih besar untuk mencapai tujuan 
+usaha dan memberikan dasar yang lebih baik dalam penyusunan arah 
+strategis. Dengan demikian, LJKNB dapat menjalankan kegiatan usaha 
+sesuai dengan peraturan perundang-undangan serta standar, prinsip dan 
+praktik penyelenggaraan usaha yang sehat. Untuk itu, diperlukan 
+pengaturan bagi LJKNB untuk menerapkan Manajemen Risiko.  
+ 
+II. 
+PASAL DEMI PASAL 
+Pasal 1 
+Cukup jelas. 
+Pasal 2 
+Ayat (1) 
+Cukup jelas. 
+ 
+Ayat (2) 
+ Huruf a 
+ Cukup jelas. 
+ 
+ 
+Huruf b ... 
+
+
+=== Halaman 11 ===
+- 2 - 
+ 
+Huruf b 
+Prosedur dan penetapan limit Risiko disesuaikan dengan 
+tingkat Risiko yang akan diambil (risk appetite) terhadap 
+Risiko LJKNB.  
+Huruf c 
+ Cukup jelas. 
+Huruf d 
+ Cukup jelas. 
+Huruf e 
+ Cukup jelas. 
+Pasal 3 
+Cukup jelas. 
+Pasal 4 
+Cukup jelas.  
+Pasal 5 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Evaluasi atas pedoman penerapan Manajemen Risiko dilakukan 
+paling sedikit sekali dalam 2 (dua) tahun apabila tidak terdapat 
+perubahan Risiko yang signifikan pada LJKNB. Apabila terdapat 
+perubahan Risiko yang signifikan pada LJKNB, evaluasi atas 
+pedoman tersebut harus dilakukan segera setelah terjadinya 
+perubahan Risiko yang signifikan.  
+Yang dimaksud dengan perubahan Risiko yang signifikan antara 
+lain ditunjukkan dengan peningkatan Risiko LJKNB ke tingkat 
+yang lebih tinggi berdasarkan hasil penilaian tingkat Risiko. 
+Ayat (3) 
+Cukup jelas. 
+Pasal 6 
+Cukup jelas. 
+ 
+ 
+Pasal 7 ... 
+
+
+=== Halaman 12 ===
+- 3 - 
+ 
+Pasal 7 
+Ayat (1) 
+Penilaian terhadap penerapan Manajemen Risiko yang dilakukan 
+oleh OJK merupakan bagian dari kegiatan pengawasan terhadap 
+LJKNB, antara lain dalam rangka melakukan penilaian tingkat 
+Risiko LJKNB. Hal tersebut diatur dalam Peraturan OJK mengenai 
+penilaian tingkat risiko LJKNB. 
+Ayat (2)  
+Cukup jelas. 
+Pasal 8 
+Cukup jelas. 
+Pasal 9 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Penyesuaian penerapan Manajemen Risiko LJKNB yang dimaksud 
+pada 
+ketentuan 
+ini 
+termasuk 
+pula 
+penyesuaian 
+pedoman 
+penerapan Manajemen Risiko LJKNB. 
+Pasal 10 
+Cukup jelas. 
+ 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5682 
+ 
+
+
