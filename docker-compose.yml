@@ -1,0 +1,18 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: ojk_postgres
+
+    environment:
+      POSTGRES_USER: ojk_user
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ojk_db
+
+    ports:
+      - "127.0.0.1:5433:5432"
+
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+
+volumes:
+  postgres-db-volume:
