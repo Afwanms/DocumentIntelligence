@@ -1,5 +1,4 @@
 from pathlib import Path
-
 import pandas as pd
 import pymupdf
 
@@ -14,30 +13,28 @@ def parse_pdf(path):
     with pymupdf.open(path) as doc:
         for page_number, page in enumerate(doc, start=1):
             text = page.get_text()
-            pages.append((page_number, text))
             category = classify_page(page, text)
-            if category != "Ok":
+            pages.append((page_number, text, category))
+            if category != "digital":
                 problem_pages.append((page_number, category))
     return pages, problem_pages
-
 
 def save_text(pages, out_path):
     out_path.parent.mkdir(parents=True, exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
-        for page_number, text in pages:
+        for page_number, text, _ in pages:
             f.write(f"=== Halaman {page_number} ===\n")
             f.write(text)
             f.write("\n\n")
-
 
 def classify_page(page, text):
     char_count = len(text.strip())
     if char_count < MIN_CHARS:
         if page.get_images():
-            return "Scan"
+            return "scan"
         else:
-            return "Kosong"
-    return "Ok"
+            return "kosong"
+    return "digital"
     
 def main():
     rows = []
@@ -53,8 +50,8 @@ def main():
             "nama_file": pdf_path.stem,
             "status": "ok",
             "jumlah_halaman": len(pages),
-            "halaman_kosong": [n for n, kategori in problem_pages if kategori == "Kosong"],
-            "halaman_scan": [n for n, kategori in problem_pages if kategori == "Scan"],
+            "halaman_kosong": [n for n, kategori in problem_pages if kategori == "kosong"],
+            "halaman_scan": [n for n, kategori in problem_pages if kategori == "scan"],
         })
 
     summary = pd.DataFrame(rows)
