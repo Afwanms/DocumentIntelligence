@@ -77,11 +77,10 @@ def hash_file(path):
             sha256_hash.update(chunk)
         return sha256_hash.hexdigest()
 
-def build_document_row(row, pdf_path):
+def build_document_row(row, pdf_path, pages):
     if pd.isna(row["total_page"]):
         raise ValueError(f"total_page tidak boleh kosong untuk file {row['file_name']}")
     excel_pages = int(row["total_page"])
-    pages, _ = parse_pdf(pdf_path)
     if len(pages) != excel_pages:
         raise ValueError(f"Excel mencatat {excel_pages} halaman, PDF punya {len(pages)}")
     document = {
@@ -101,18 +100,38 @@ def build_document_row(row, pdf_path):
             raise ValueError(f"Kolom {column} tidak boleh kosong untuk file {row['file_name']}")
     return document
 
+def build_page_rows(pages):
+    return [
+        {
+            "page_number": nomor,
+            "page_text": teks if kategori == "digital" else None,
+            "type_page": kategori,
+        }
+        for nomor, teks, kategori in pages
+    ]
+
+def load_documents(conn, row, pdf_path):
+    pages, _ = parse_pdf(pdf_path)
+    document_row = build_document_row(row, pdf_path, pages)
+    page_rows = build_page_rows(pages)
+
+    with conn.cursor() as cur:
+        document_id = insert_document(cur, document_row)
+        for page_row in page_rows:
+            page_row["document_id"] = document_id
+            insert_page(cur, page_row)
+
 def build_all_documents():
     df = read_metadata()
     documents = []
     for _, row in df.iterrows():
         file_name = str(row["file_name"]).strip()
         pdf_path = RAW_DIR / f"{file_name}.pdf"
-        try:
-            documents.append(build_document_row(row, pdf_path))
-        except Exception as e:
-            raise ValueError(f"{file_name}: {e}") from e
+        if not pdf_path.exists():
+            raise FileNotFoundError(f"File PDF tidak ditemukan: {pdf_path}")
+        documents.append((file_name, row, pdf_path))
     return documents
-
+           
 def insert_document(cur, row):
     cur.execute(
         """
@@ -130,13 +149,33 @@ def insert_document(cur, row):
     )
     return cur.fetchone()[0]
 
+def insert_page(cur, row):
+    cur.execute(
+        """
+        INSERT INTO pages (
+            document_id, page_number, page_text, type_page
+        ) VALUES (
+            %(document_id)s, %(page_number)s, %(page_text)s, %(type_page)s
+        )
+        ON CONFLICT (document_id, page_number) DO NOTHING
+        """,
+        row,
+    )
+
 if __name__ == "__main__":
     documents = build_all_documents()
-    print(f"Jumlah dokumen siap dimuat: {len(documents)}")
-
     with get_connection() as conn:
+        for file_name, row, pdf_path in documents:
+            try:
+                load_documents(conn, row, pdf_path)
+                conn.commit()
+                print(f"OK: {file_name}")
+            except Exception as e:
+                conn.rollback()
+                raise ValueError(f"{file_name}: {e}") from e
+
         with conn.cursor() as cur:
-            for document in documents:
-                insert_document(cur, document)
             cur.execute("SELECT count(*) FROM documents;")
-            print(cur.fetchone())
+            print("documents:", cur.fetchone()[0])
+            cur.execute("SELECT count(*) FROM pages;")
+            print("pages:", cur.fetchone()[0])
