@@ -1,8 +1,8 @@
 import pymupdf
 import pytesseract
 from loader import get_connection, hash_file
-from pdf_parser import RAW_DIR
 from PIL import Image
+from config import RAW_DIR
 
 OCR_LANG = "ind"
 OCR_DPI = 300
@@ -11,17 +11,7 @@ OCR_MIN_CHARS = 10
 def ocr_image(image):
     return pytesseract.image_to_string(image, lang=OCR_LANG)
 
-def update_page(cur, page_id, text):
-    cur.execute(
-        """
-        UPDATE pages
-        SET page_text = %(page_text)s, type_page = 'ocr'
-        WHERE page_id = %(page_id)s AND type_page = 'scan'
-        """,
-        {"page_id": page_id, "page_text": text},
-    )
-
-def get_scan_page(cur):
+def get_scan_pages(cur):
     cur.execute(
         """
         SELECT p.page_id, d.file_hash, d.file_name, p.page_number
@@ -34,6 +24,17 @@ def get_scan_page(cur):
     )
     return cur.fetchall()
 
+def update_page(cur, page_id, text):
+    cur.execute(
+        """
+        UPDATE pages
+        SET page_text = %(page_text)s, type_page = 'ocr'
+        WHERE page_id = %(page_id)s AND type_page = 'scan'
+        """,
+        {"page_id": page_id, "page_text": text},
+    )
+    return cur.rowcount
+
 def render_page(pdf_path, page_number):
     with pymupdf.open(pdf_path) as pdf:
         if page_number < 1 or page_number > len(pdf):
@@ -43,16 +44,17 @@ def render_page(pdf_path, page_number):
         image = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
     return image
 
-def ocr_pending_page():
-    skipped = 0
+def ocr_pending_pages():
     done = 0
+    skipped = 0
+    failed = []
     checked_files = set()
     with get_connection() as conn:
         with conn.cursor() as cur:
-            scan_pages = get_scan_page(cur)
+            scan_pages = get_scan_pages(cur)
             if not scan_pages:
-                print("Tidak ada halaman scan yang perlu di-ocr.")
-                return
+                print("Tidak ada halaman scan yang perlu di-OCR.")
+                return {"done": 0, "skipped": 0, "failed": 0}
             for page_id, file_hash, file_name, page_number in scan_pages:
                 try:
                     pdf_path = RAW_DIR / f"{file_name}.pdf"
@@ -60,24 +62,29 @@ def ocr_pending_page():
                         raise FileNotFoundError(f"File PDF tidak ditemukan: {pdf_path}")
                     if file_name not in checked_files:
                         if hash_file(pdf_path) != file_hash:
-                            raise ValueError(f"File PDF telah berubah: {pdf_path}")
-                    checked_files.add(file_name)
+                            raise ValueError("hash PDF di Raw berbeda dari yang tersimpan di database")
+                        checked_files.add(file_name)
                     text = ocr_image(render_page(pdf_path, page_number)).strip()
                     if len(text) < OCR_MIN_CHARS:
-                        print(f"Halaman {page_number} dari {file_name} tidak memiliki cukup teks setelah OCR.")
+                        print(f"Teks OCR terlalu pendek, tetap scan: {file_name} halaman {page_number}")
                         skipped += 1
                         continue
                     if update_page(cur, page_id, text) == 0:
-                        print(f"Berhasil melakukan OCR pada halaman {page_number} dari {file_name}.")
+                        print(f"Peringatan, halaman bukan scan lagi: {file_name} halaman {page_number}")
                         skipped += 1
                         continue
                     conn.commit()
                     done += 1
-                    print(f"Berhasil melakukan OCR pada halaman {page_number} dari {file_name}.")
+                    print(f"OCR selesai: {file_name} halaman {page_number}")
                 except Exception as e:
                     conn.rollback()
-                    print(f"Gagal melakukan OCR pada halaman {page_number} dari {file_name}: {e}")
-    print(f"OCR selesai. Berhasil: {done}, Dilewati: {skipped}")
+                    failed.append(f"{file_name} halaman {page_number}: {e}")
+                    print(f"GAGAL: {file_name} halaman {page_number}: {e}")
+    summary = {"done": done, "skipped": skipped, "failed": len(failed)}
+    print(f"OCR selesai: {summary}")
+    if failed:
+        raise RuntimeError(f"{len(failed)} halaman gagal di-OCR. Contoh: {failed[0]}")
+    return summary
 
 if __name__ == "__main__":
-    ocr_pending_page()
+    print(ocr_pending_pages())

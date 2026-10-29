@@ -1,11 +1,17 @@
-from pathlib import Path
 import pandas as pd
 import pymupdf
+from config import RAW_DIR
 
-RAW_DIR = Path("Data/Raw")
-PROCESSED_DIR = Path("Data/Processed")
 MIN_CHARS = 10
 
+def classify_page(page, text):
+    char_count = len(text.strip())
+    if char_count < MIN_CHARS:
+        if page.get_images():
+            return "scan"
+        else:
+            return "kosong"
+    return "digital"
 
 def parse_pdf(path):
     pages = []
@@ -18,23 +24,6 @@ def parse_pdf(path):
             if category != "digital":
                 problem_pages.append((page_number, category))
     return pages, problem_pages
-
-def save_text(pages, out_path):
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as f:
-        for page_number, text, _ in pages:
-            f.write(f"=== Halaman {page_number} ===\n")
-            f.write(text)
-            f.write("\n\n")
-
-def classify_page(page, text):
-    char_count = len(text.strip())
-    if char_count < MIN_CHARS:
-        if page.get_images():
-            return "scan"
-        else:
-            return "kosong"
-    return "digital"
     
 def main():
     rows = []
@@ -45,7 +34,6 @@ def main():
             print(f"GAGAL: {pdf_path.name} -> {e}")
             rows.append({"nama_file": pdf_path.stem, "status": "gagal"})
             continue
-        save_text(pages, PROCESSED_DIR / f"{pdf_path.stem}.txt")
         rows.append({
             "nama_file": pdf_path.stem,
             "status": "ok",
@@ -56,8 +44,6 @@ def main():
 
     summary = pd.DataFrame(rows)
     print(summary.to_string(index=False))
-    summary.to_csv(PROCESSED_DIR / "parse_summary.csv", index=False)
-
 
 if __name__ == "__main__":
     main()

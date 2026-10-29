@@ -1,18 +1,9 @@
-import os
 import psycopg
 import pandas as pd
 import hashlib
-from pathlib import Path
-from dotenv import load_dotenv
-from pdf_parser import parse_pdf, RAW_DIR
+from config import DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD, EXCEL_PATH, RAW_DIR
+from pdf_parser import parse_pdf
 
-load_dotenv()
-
-DB_HOST = "localhost"
-DB_PORT = 5433
-DB_NAME = "ojk_db"
-DB_USER = "ojk_user"
-EXCEL_PATH = Path("Data/Metadata/dokumen_ojk.xlsx")
 EXPECTED_COLUMNS = [
     "file_name", 
     "title", 
@@ -27,7 +18,7 @@ EXPECTED_COLUMNS = [
 REQUIRED_COLUMNS = [col for col in EXPECTED_COLUMNS if col not in ["revoked_by"]]
 
 def get_connection():
-    password = os.getenv("POSTGRES_PASSWORD")
+    password = DB_PASSWORD
     if password is None:
         raise RuntimeError("POSTGRES_PASSWORD belum diatur di .env")
     return psycopg.connect(
@@ -110,18 +101,19 @@ def build_page_rows(pages):
         for nomor, teks, kategori in pages
     ]
 
-def load_documents(conn, row, pdf_path):
+def load_document(conn, row, pdf_path):
     pages, _ = parse_pdf(pdf_path)
     document_row = build_document_row(row, pdf_path, pages)
     page_rows = build_page_rows(pages)
-
+    new_pages = 0
     with conn.cursor() as cur:
         document_id = insert_document(cur, document_row)
         for page_row in page_rows:
             page_row["document_id"] = document_id
-            insert_page(cur, page_row)
+            new_pages += insert_page(cur, page_row)
+    return len(pages), new_pages
 
-def build_all_documents():
+def collect_documents():
     df = read_metadata()
     documents = []
     for _, row in df.iterrows():
@@ -161,21 +153,24 @@ def insert_page(cur, row):
         """,
         row,
     )
+    return cur.rowcount
 
-if __name__ == "__main__":
-    documents = build_all_documents()
+def load_all_documents():
+    documents = collect_documents()
+    summary = {"documents": 0, "pages_total": 0, "pages_new": 0}
     with get_connection() as conn:
         for file_name, row, pdf_path in documents:
             try:
-                load_documents(conn, row, pdf_path)
+                pages_total, pages_new = load_document(conn, row, pdf_path)
                 conn.commit()
-                print(f"OK: {file_name}")
             except Exception as e:
                 conn.rollback()
                 raise ValueError(f"{file_name}: {e}") from e
+            summary["documents"] += 1
+            summary["pages_total"] += pages_total
+            summary["pages_new"] += pages_new
+            print(f"OK: {file_name}")
+    return summary
 
-        with conn.cursor() as cur:
-            cur.execute("SELECT count(*) FROM documents;")
-            print("documents:", cur.fetchone()[0])
-            cur.execute("SELECT count(*) FROM pages;")
-            print("pages:", cur.fetchone()[0])
+if __name__ == "__main__":
+    print(load_all_documents())
